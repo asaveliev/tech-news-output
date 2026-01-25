@@ -1,0 +1,463 @@
+[
+  {
+    "title": "Poland’s energy grid was targeted by never-before-seen wiper malware | Destructive payload unleashed on 10-year anniversary of Russia’s attack on Ukraine’s grid.",
+    "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+    "reddit_id": "1qmanls",
+    "score": 806,
+    "num_comments": 15,
+    "date": "2026-01-25T05:43:48",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46749198",
+    "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+    "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+    "score": 541,
+    "descendants": 524,
+    "time": 1769300080,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46752151",
+    "title": "A flawed paper in Management Science has been cited more than 6,000 times",
+    "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+    "score": 536,
+    "descendants": 284,
+    "time": 1769331870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751899",
+    "title": "Deutsche Telekom is throttling the internet",
+    "url": "https://netzbremse.de/en/",
+    "score": 503,
+    "descendants": 244,
+    "time": 1769329337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46756117",
+    "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "score": 365,
+    "descendants": 188,
+    "time": 1769362579,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754944",
+    "title": "A macOS app that blurs your screen when you slouch",
+    "url": "https://github.com/tldev/posturr",
+    "score": 304,
+    "descendants": 114,
+    "time": 1769355291,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754132",
+    "title": "Iran Protest Death Toll Could Top 30k, According to Local Health Officials",
+    "url": "https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/",
+    "score": 261,
+    "descendants": 148,
+    "time": 1769349582,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750852",
+    "title": "Palantir has no place in UK public services",
+    "url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+    "score": 260,
+    "descendants": 83,
+    "time": 1769316809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751826",
+    "title": "Introduction to PostgreSQL Indexes",
+    "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
+    "score": 232,
+    "descendants": 12,
+    "time": 1769328423,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753484",
+    "title": "Doom has been ported to an earbud",
+    "url": "https://doombuds.com",
+    "score": 229,
+    "descendants": 74,
+    "time": 1769343732,
+    "source": "hackernews"
+  },
+  {
+    "title": "NASA will fly Artemis II with the same Orion heat shield that cracked on its last mission",
+    "url": "https://www.techspot.com/news/111052-nasa-fly-artemis-ii-same-orion-heat-shield.html",
+    "reddit_id": "1qmkxfp",
+    "score": 229,
+    "num_comments": 20,
+    "date": "2026-01-25T14:44:58",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46750358",
+    "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+    "score": 208,
+    "descendants": 159,
+    "time": 1769311063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46755734",
+    "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
+    "url": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
+    "score": 201,
+    "descendants": 83,
+    "time": 1769360299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750425",
+    "title": "Nvidia-smi hangs indefinitely after ~66 days",
+    "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+    "score": 195,
+    "descendants": 49,
+    "time": 1769312000,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749671",
+    "title": "Two Weeks Until Tapeout",
+    "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+    "score": 179,
+    "descendants": 38,
+    "time": 1769304337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753301",
+    "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
+    "url": "https://bonsplit.alasdairmonk.com",
+    "score": 144,
+    "descendants": 20,
+    "time": 1769342202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750470",
+    "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
+    "url": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
+    "score": 139,
+    "descendants": 117,
+    "time": 1769312506,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46752112",
+    "title": "German economists push for gold repatriation from U.S. vaults",
+    "url": "https://seekingalpha.com/news/4542254-german-economists-push-for-gold-repatriation-from-us-vaults",
+    "score": 133,
+    "descendants": 135,
+    "time": 1769331460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46755999",
+    "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
+    "url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
+    "score": 133,
+    "descendants": 82,
+    "time": 1769361882,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46752261",
+    "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
+    "url": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
+    "score": 123,
+    "descendants": 46,
+    "time": 1769332937,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753611",
+    "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
+    "url": "https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/",
+    "score": 117,
+    "descendants": 75,
+    "time": 1769344800,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754600",
+    "title": "UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'",
+    "url": "https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/",
+    "score": 116,
+    "descendants": 107,
+    "time": 1769353328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753708",
+    "title": "Web-based image editor modeled after Deluxe Paint",
+    "url": "https://github.com/steffest/DPaint-js",
+    "score": 109,
+    "descendants": 7,
+    "time": 1769345693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750214",
+    "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
+    "url": "https://arxiv.org/abs/2601.05047",
+    "score": 105,
+    "descendants": 19,
+    "time": 1769309316,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46755115",
+    "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+    "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+    "score": 99,
+    "descendants": 25,
+    "time": 1769356263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754427",
+    "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
+    "url": "https://www.phoronix.com/news/Wine-Staging-11.1",
+    "score": 88,
+    "descendants": 29,
+    "time": 1769352159,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753078",
+    "title": "Show HN: TUI for managing XDG default applications",
+    "url": "https://github.com/mitjafelicijan/xdgctl",
+    "score": 88,
+    "descendants": 25,
+    "time": 1769339944,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749873",
+    "title": "National Guard activated in Minneapolis after Border Patrol agent kills man",
+    "url": "https://apnews.com/live/minneapolis-ice-shooting-updates-1-24-2026",
+    "score": 85,
+    "descendants": 42,
+    "time": 1769306009,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751835",
+    "title": "Like digging 'your own grave': The translators grappling with losing work to AI",
+    "url": "https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl",
+    "score": 82,
+    "descendants": 68,
+    "time": 1769328523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751906",
+    "title": "Sony Data Discman",
+    "url": "https://huguesjohnson.com/random/sony-ebook/",
+    "score": 76,
+    "descendants": 15,
+    "time": 1769329431,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749319",
+    "title": "Tesla unsupervised Robotaxis are nowhere to be found",
+    "url": "https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m",
+    "score": 63,
+    "descendants": 38,
+    "time": 1769301226,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751675",
+    "title": "Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators",
+    "url": "https://github.com/divyaprakash0426/autoshorts",
+    "score": 62,
+    "descendants": 30,
+    "time": 1769326580,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750053",
+    "title": "mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",
+    "url": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
+    "score": 54,
+    "descendants": 5,
+    "time": 1769307779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749636",
+    "title": "Stochastic Terrorism",
+    "url": "https://en.wikipedia.org/wiki/Stochastic_terrorism",
+    "score": 53,
+    "descendants": 17,
+    "time": 1769303998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749213",
+    "title": "Show HN: C From Scratch – Learn safety-critical C with prove-first methodology",
+    "url": "https://github.com/SpeyTech/c-from-scratch",
+    "score": 53,
+    "descendants": 6,
+    "time": 1769300227,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46752907",
+    "title": "150k lines of vibe coded Elixir: The Good, the Bad and the Ugly",
+    "url": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly",
+    "score": 52,
+    "descendants": 41,
+    "time": 1769338469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751825",
+    "title": "Hands-On with Two Apple Network Server Prototype ROMs",
+    "url": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html",
+    "score": 52,
+    "descendants": 1,
+    "time": 1769328413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750485",
+    "title": "The Responsibility of Intellectuals (1967)",
+    "url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+    "score": 49,
+    "descendants": 51,
+    "time": 1769312668,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46752076",
+    "title": "The coming war on Car Ownership",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/01/25/war-on-car-ownership.html",
+    "score": 47,
+    "descendants": 41,
+    "time": 1769331063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750118",
+    "title": "OpenAI's GPT-5.2 model cites Grokipedia",
+    "url": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html",
+    "score": 47,
+    "descendants": 20,
+    "time": 1769308385,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750767",
+    "title": "TikTok is officially US-owned for American users, here's what's changing",
+    "url": "https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/",
+    "score": 44,
+    "descendants": 70,
+    "time": 1769315878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753142",
+    "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
+    "url": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
+    "score": 43,
+    "descendants": 15,
+    "time": 1769340513,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750437",
+    "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+    "url": "https://github.com/mroboff/vm-curator",
+    "score": 36,
+    "descendants": 7,
+    "time": 1769312198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750794",
+    "title": "Trump Family's $6.8B Fortune Is Increasingly Tied to Crypto",
+    "url": "https://www.bloomberg.com/news/features/2026-01-20/donald-trump-family-net-worth-increasingly-comes-from-crypto",
+    "score": 35,
+    "descendants": 9,
+    "time": 1769316187,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46750024",
+    "title": "Vortex Support in DuckDB",
+    "url": "https://duckdb.org/2026/01/23/duckdb-vortex-extension",
+    "score": 35,
+    "descendants": 0,
+    "time": 1769307527,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46753364",
+    "title": "'Amelia': the AI-generated British schoolgirl, a far-right social media star",
+    "url": "https://www.theguardian.com/politics/2026/jan/25/ai-generated-british-schoolgirl-becomes-far-right-social-media-meme",
+    "score": 33,
+    "descendants": 37,
+    "time": 1769342687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46751231",
+    "title": "World’s most powerful literary critic is on TikTok",
+    "url": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
+    "score": 31,
+    "descendants": 29,
+    "time": 1769321193,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754724",
+    "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
+    "url": "https://github.com/danthegoodman1/netfence",
+    "score": 31,
+    "descendants": 6,
+    "time": 1769354026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749261",
+    "title": "CIO: Work-from-office mandate? Expect top talent turnover, culture rot",
+    "url": "https://www.cio.com/article/4119562/work-from-office-mandate-expect-top-talent-turnover-culture-rot.html",
+    "score": 28,
+    "descendants": 12,
+    "time": 1769300805,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46754744",
+    "title": "Genetic Data from over 20k U.S. Children Misused for 'Race Science'",
+    "url": "https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html",
+    "score": 26,
+    "descendants": 42,
+    "time": 1769354151,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46749118",
+    "title": "We are building a new browser from scratch, backed by a non-profit",
+    "url": "https://ladybird.org/",
+    "score": 26,
+    "descendants": 3,
+    "time": 1769299496,
+    "source": "hackernews"
+  }
+]
