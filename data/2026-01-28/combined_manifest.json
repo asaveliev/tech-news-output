@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "46789961",
+    "title": "Super Monkey Ball ported to a website",
+    "url": "https://monkeyball-online.pages.dev/",
+    "score": 232,
+    "descendants": 66,
+    "time": 1769564665,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789913",
+    "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
+    "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+    "score": 147,
+    "descendants": 97,
+    "time": 1769564295,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790250",
+    "title": "Apple MacBook Pro order deliveries delayed until mid March",
+    "url": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
+    "score": 50,
+    "descendants": 11,
+    "time": 1769567135,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789617",
+    "title": "US population growth slows as immigration declines",
+    "url": "https://www.reuters.com/world/us/us-population-growth-slows-immigration-declines-census-data-shows-2026-01-27/",
+    "score": 38,
+    "descendants": 9,
+    "time": 1769562187,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789400",
+    "title": "Neocities Is Blocked by Bing",
+    "url": "https://blog.neocities.org/blog/2026/01/27/bing-block",
+    "score": 38,
+    "descendants": 2,
+    "time": 1769560778,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790365",
+    "title": "Apple Workers Are Livid That Cook Saw \"Melania\" Hours After CBP Killed Pretti",
+    "url": "https://theintercept.com/2026/01/27/apple-tim-cook-trump-alex-pretti/",
+    "score": 36,
+    "descendants": 15,
+    "time": 1769568012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789656",
+    "title": "Transmission 4.1.0",
+    "url": "https://github.com/transmission/transmission/releases/tag/4.1.0",
+    "score": 33,
+    "descendants": 8,
+    "time": 1769562422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790041",
+    "title": "Amazon inadvertently announces cloud unit layoffs in email to employees",
+    "url": "https://www.cnbc.com/2026/01/27/amazon-inadvertently-sends-email-to-employees-confirming-wednesday-layoffs.html",
+    "score": 27,
+    "descendants": 2,
+    "time": 1769565308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790360",
+    "title": "Germany issued formal travel advisory for US",
+    "url": "https://www.newsweek.com/germany-issues-formal-travel-advisory-for-us-11421830",
+    "score": 27,
+    "descendants": 1,
+    "time": 1769567973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789796",
+    "title": "OpenStreetMap overwhelmed by bots scraping data",
+    "url": "https://twitter.com/openstreetmap/status/2016320492420878531",
+    "score": 26,
+    "descendants": 13,
+    "time": 1769563406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790139",
+    "title": "Amazon bungles Wednesday layoff plan with misfired internal email",
+    "url": "https://www.reuters.com/business/world-at-work/amazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-2026-01-28/",
+    "score": 23,
+    "descendants": 1,
+    "time": 1769566139,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790765",
+    "title": "Google to pay $68M over allegations its voice assistant eavesdropped on users",
+    "url": "https://www.cbsnews.com/news/google-voice-assistant-lawsuit-settlement-68-million/",
+    "score": 22,
+    "descendants": 1,
+    "time": 1769571473,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791561",
+    "title": "The Dildo Distribution Delegation",
+    "url": "https://www.closertotheedge.net/p/the-dildo-distribution-delegation",
+    "score": 18,
+    "descendants": 11,
+    "time": 1769579539,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789841",
+    "title": "Washington State Bill Seeks to Add Firearms Detection to 3D Printers",
+    "url": "https://hackaday.com/2026/01/19/washington-state-bill-seeks-to-add-firearms-detection-to-3d-printers/",
+    "score": 18,
+    "descendants": 7,
+    "time": 1769563736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789265",
+    "title": "Gen Z is the first generation less cognitively capable than their parents",
+    "url": "https://www.upworthy.com/gen-z-technology-schools",
+    "score": 18,
+    "descendants": 4,
+    "time": 1769559877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789424",
+    "title": "Private Prisons Sued the State of Arizona for Not Having Enough Prisoners",
+    "url": "https://hrnews1.substack.com/p/how-private-prisons-sued-the-state",
+    "score": 17,
+    "descendants": 1,
+    "time": 1769560911,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789567",
+    "title": "TikTok blocks Epstein mentions and anti-Trump videos, users claim",
+    "url": "https://www.the-independent.com/tech/tiktok-epstein-trump-censorship-ice-b2908309.html",
+    "score": 16,
+    "descendants": 1,
+    "time": 1769561887,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790686",
+    "title": "Ups retires its fleet of MD-11 cargo aircraft",
+    "url": "https://www.pbs.org/newshour/nation/ups-retires-its-fleet-of-md-11-cargo-aircraft-involved-in-deadly-kentucky-crash",
+    "score": 14,
+    "descendants": 6,
+    "time": 1769570676,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790068",
+    "title": "Is coding dead because AI has taken over it?",
+    "url": "https://www.jehuamanna.com/blog/2026/is-coding-dead/",
+    "score": 13,
+    "descendants": 11,
+    "time": 1769565583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791496",
+    "title": "Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities",
+    "url": "https://veerhost.com/moltbot-security-guide/",
+    "score": 13,
+    "descendants": 1,
+    "time": 1769578838,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789373",
+    "title": "Speak in code, delete the chats: The tactics Venezuelans are using out of fear",
+    "url": "https://www.cnn.com/2026/01/27/americas/venezuela-phone-search-crackdown-free-speech-latam-intl",
+    "score": 12,
+    "descendants": 1,
+    "time": 1769560549,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789387",
+    "title": "Let the Chinese Cars In",
+    "url": "https://www.noahpinion.blog/p/let-the-chinese-cars-in",
+    "score": 10,
+    "descendants": 2,
+    "time": 1769560666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789232",
+    "title": "Meta blocks posts sharing database of ICE agents",
+    "url": "https://www.politico.com/news/2026/01/27/meta-blocks-sharing-database-ice-00750449",
+    "score": 8,
+    "descendants": 5,
+    "time": 1769559668,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789663",
+    "title": "European States Claim Control over Russia's Shadow Fleet in the Baltic Sea",
+    "url": "https://militarnyi.com/en/news/european-states-claim-control-over-russia-s-shadow-fleet-in-the-baltic-sea/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1769562463,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790841",
+    "title": "Health Insurers in Shock After Medicare Holds Line on 2027 Payments",
+    "url": "https://www.wsj.com/health/healthcare/shock-and-dismay-among-health-insurers-after-medicare-holds-line-on-2027-payments-3c5bb085",
+    "score": 7,
+    "descendants": 1,
+    "time": 1769572238,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791650",
+    "title": "Trump's Embrace of Weaker Dollar Fuels Bets on New Downtrend",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-28/trump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend",
+    "score": 7,
+    "descendants": 0,
+    "time": 1769580215,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790495",
+    "title": "Minnesota State Patrol uses long range acoustic device to disperse protesters",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-patrol-long-range-acoustic-device/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1769569050,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789571",
+    "title": "Write Games for Playdate in Golang",
+    "url": "https://github.com/playdate-go/pdgo",
+    "score": 6,
+    "descendants": 3,
+    "time": 1769561912,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789193",
+    "title": "Tech companies and those who work for them have a decision to make",
+    "url": "https://www.bloodinthemachine.com/p/the-lines-have-been-drawn",
+    "score": 6,
+    "descendants": 3,
+    "time": 1769559467,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791380",
+    "title": "The Rise, Fall, and Rebirth of Clawdbot in 72 Hours",
+    "url": "https://www.everydev.ai/p/the-rise-fall-and-rebirth-of-clawdbot-in-72-hours",
+    "score": 6,
+    "descendants": 2,
+    "time": 1769577731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790138",
+    "title": "NBA Grizzlies Owner Robert Pera Linked to Russia's \"Crimes Against Humanity\"",
+    "url": "https://www.youtube.com/watch?v=s6i4uffZvhc",
+    "score": 6,
+    "descendants": 2,
+    "time": 1769566130,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791309",
+    "title": "Amazon accidentally sends email confirming layoffs",
+    "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo",
+    "score": 6,
+    "descendants": 1,
+    "time": 1769576950,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791250",
+    "title": "The Indian Work Culture – Masochistic, Poor, Intense and Fragile",
+    "url": "https://grajmanu.wordpress.com/2020/11/01/indian-work-culture/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1769576393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789388",
+    "title": "US carrier strike group is now in the Middle East region, sources say",
+    "url": "https://www.cnn.com/2026/01/26/middleeast/iran-carrier-strike-group-indian-ocean-intl",
+    "score": 6,
+    "descendants": 1,
+    "time": 1769560673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789727",
+    "title": "Tesla lands major Semi charging deal with nation's largest truck stop operator",
+    "url": "https://electrek.co/2026/01/27/tesla-lands-major-semi-charging-deal-largest-truck-stop-operator/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1769562976,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789410",
+    "title": "'Garden of Eden': the Spanish farm growing citrus you've never heard of",
+    "url": "https://www.theguardian.com/environment/2026/jan/16/garden-of-eden-the-spanish-farm-growing-citrus-youve-never-heard-of",
+    "score": 6,
+    "descendants": 0,
+    "time": 1769560840,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790264",
+    "title": "Show HN: How would you decide famous SCOTUS cases?",
+    "url": "https://scotus-quiz.vercel.app/",
+    "score": 5,
+    "descendants": 4,
+    "time": 1769567202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791236",
+    "title": "Google pays $68M to settle claims its voice assistant spied on users",
+    "url": "https://www.msn.com/en-us/news/technology/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/ar-AA1V2yyR",
+    "score": 5,
+    "descendants": 3,
+    "time": 1769576274,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791093",
+    "title": "Software Interruptions Became Normalized",
+    "url": "https://blog.mikeswanson.com/backseat-software/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1769574776,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789685",
+    "title": "Ouroboros – AI agent framework that asks \"why?\" before writing code",
+    "url": "https://github.com/Q00/ouroboros",
+    "score": 5,
+    "descendants": 1,
+    "time": 1769562638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790312",
+    "title": "Linux is still a developer OS, and that's why it won't go mainstream",
+    "url": "https://www.howtogeek.com/linux-is-still-a-developer-os-and-thats-why-it-wont-go-mainstream/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1769567633,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789197",
+    "title": "There's a rash of scam spam coming from a real Microsoft address",
+    "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1769559508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791588",
+    "title": "Amazon One palm authentication services ending June 3, 2026",
+    "url": "https://amazonone.aws.com/help",
+    "score": 4,
+    "descendants": 2,
+    "time": 1769579731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789619",
+    "title": "Life on Peptides Feels Amazing",
+    "url": "https://nymag.com/intelligencer/article/peptides-from-instagram-china-wellness-cure.html",
+    "score": 4,
+    "descendants": 2,
+    "time": 1769562206,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791358",
+    "title": "How the new era of CEO supervillains are trapped in their own ideology",
+    "url": "https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769577484,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46791684",
+    "title": "AI Is Not Inevitable",
+    "url": "https://dustin.boston/ai-is-not-inevitable/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769580657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46790302",
+    "title": "Raspberry Pi Radio Module 2",
+    "url": "https://www.raspberrypi.com/products/radio-module-2/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769567556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46789584",
+    "title": "Australian plumber is a YouTube sensation",
+    "url": "https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769562000,
+    "source": "hackernews"
+  }
+]
