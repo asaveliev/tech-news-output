@@ -1,434 +1,462 @@
 [
   {
-    "hn_id": "46789961",
-    "title": "Super Monkey Ball ported to a website",
-    "url": "https://monkeyball-online.pages.dev/",
-    "score": 232,
-    "descendants": 66,
-    "time": 1769564665,
+    "hn_id": "46805665",
+    "title": "We can't send mail farther than 500 miles (2002)",
+    "url": "https://web.mit.edu/jemorris/humor/500-miles",
+    "score": 239,
+    "descendants": 25,
+    "time": 1769659113,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789913",
-    "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
-    "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-    "score": 147,
-    "descendants": 97,
-    "time": 1769564295,
+    "hn_id": "46804828",
+    "title": "Render Mermaid diagrams as SVGs or ASCII art",
+    "url": "https://github.com/lukilabs/beautiful-mermaid",
+    "score": 168,
+    "descendants": 22,
+    "time": 1769652520,
     "source": "hackernews"
   },
   {
-    "hn_id": "46790250",
-    "title": "Apple MacBook Pro order deliveries delayed until mid March",
-    "url": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
-    "score": 50,
-    "descendants": 11,
-    "time": 1769567135,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789617",
-    "title": "US population growth slows as immigration declines",
-    "url": "https://www.reuters.com/world/us/us-population-growth-slows-immigration-declines-census-data-shows-2026-01-27/",
-    "score": 38,
-    "descendants": 9,
-    "time": 1769562187,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789400",
-    "title": "Neocities Is Blocked by Bing",
-    "url": "https://blog.neocities.org/blog/2026/01/27/bing-block",
-    "score": 38,
-    "descendants": 2,
-    "time": 1769560778,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790365",
-    "title": "Apple Workers Are Livid That Cook Saw \"Melania\" Hours After CBP Killed Pretti",
-    "url": "https://theintercept.com/2026/01/27/apple-tim-cook-trump-alex-pretti/",
-    "score": 36,
-    "descendants": 15,
-    "time": 1769568012,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789656",
-    "title": "Transmission 4.1.0",
-    "url": "https://github.com/transmission/transmission/releases/tag/4.1.0",
-    "score": 33,
-    "descendants": 8,
-    "time": 1769562422,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790041",
-    "title": "Amazon inadvertently announces cloud unit layoffs in email to employees",
-    "url": "https://www.cnbc.com/2026/01/27/amazon-inadvertently-sends-email-to-employees-confirming-wednesday-layoffs.html",
-    "score": 27,
-    "descendants": 2,
-    "time": 1769565308,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790360",
-    "title": "Germany issued formal travel advisory for US",
-    "url": "https://www.newsweek.com/germany-issues-formal-travel-advisory-for-us-11421830",
-    "score": 27,
-    "descendants": 1,
-    "time": 1769567973,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789796",
-    "title": "OpenStreetMap overwhelmed by bots scraping data",
-    "url": "https://twitter.com/openstreetmap/status/2016320492420878531",
-    "score": 26,
-    "descendants": 13,
-    "time": 1769563406,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790139",
-    "title": "Amazon bungles Wednesday layoff plan with misfired internal email",
-    "url": "https://www.reuters.com/business/world-at-work/amazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-2026-01-28/",
-    "score": 23,
-    "descendants": 1,
-    "time": 1769566139,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790765",
-    "title": "Google to pay $68M over allegations its voice assistant eavesdropped on users",
-    "url": "https://www.cbsnews.com/news/google-voice-assistant-lawsuit-settlement-68-million/",
-    "score": 22,
-    "descendants": 1,
-    "time": 1769571473,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791561",
-    "title": "The Dildo Distribution Delegation",
-    "url": "https://www.closertotheedge.net/p/the-dildo-distribution-delegation",
-    "score": 18,
-    "descendants": 11,
-    "time": 1769579539,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789841",
-    "title": "Washington State Bill Seeks to Add Firearms Detection to 3D Printers",
-    "url": "https://hackaday.com/2026/01/19/washington-state-bill-seeks-to-add-firearms-detection-to-3d-printers/",
-    "score": 18,
-    "descendants": 7,
-    "time": 1769563736,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789265",
-    "title": "Gen Z is the first generation less cognitively capable than their parents",
-    "url": "https://www.upworthy.com/gen-z-technology-schools",
-    "score": 18,
-    "descendants": 4,
-    "time": 1769559877,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789424",
-    "title": "Private Prisons Sued the State of Arizona for Not Having Enough Prisoners",
-    "url": "https://hrnews1.substack.com/p/how-private-prisons-sued-the-state",
-    "score": 17,
-    "descendants": 1,
-    "time": 1769560911,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789567",
-    "title": "TikTok blocks Epstein mentions and anti-Trump videos, users claim",
-    "url": "https://www.the-independent.com/tech/tiktok-epstein-trump-censorship-ice-b2908309.html",
-    "score": 16,
-    "descendants": 1,
-    "time": 1769561887,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790686",
-    "title": "Ups retires its fleet of MD-11 cargo aircraft",
-    "url": "https://www.pbs.org/newshour/nation/ups-retires-its-fleet-of-md-11-cargo-aircraft-involved-in-deadly-kentucky-crash",
-    "score": 14,
+    "hn_id": "46804854",
+    "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+    "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+    "score": 109,
     "descendants": 6,
-    "time": 1769570676,
+    "time": 1769652702,
     "source": "hackernews"
   },
   {
-    "hn_id": "46790068",
-    "title": "Is coding dead because AI has taken over it?",
-    "url": "https://www.jehuamanna.com/blog/2026/is-coding-dead/",
-    "score": 13,
-    "descendants": 11,
-    "time": 1769565583,
+    "hn_id": "46805841",
+    "title": "Microsoft's Azure Linux",
+    "url": "https://github.com/microsoft/azurelinux",
+    "score": 51,
+    "descendants": 71,
+    "time": 1769661190,
     "source": "hackernews"
   },
   {
-    "hn_id": "46791496",
-    "title": "Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities",
-    "url": "https://veerhost.com/moltbot-security-guide/",
-    "score": 13,
-    "descendants": 1,
-    "time": 1769578838,
+    "hn_id": "46804396",
+    "title": "Show HN: Shelvy Books",
+    "url": "https://shelvybooks.com",
+    "score": 28,
+    "descendants": 10,
+    "time": 1769649401,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789373",
-    "title": "Speak in code, delete the chats: The tactics Venezuelans are using out of fear",
-    "url": "https://www.cnn.com/2026/01/27/americas/venezuela-phone-search-crackdown-free-speech-latam-intl",
-    "score": 12,
-    "descendants": 1,
-    "time": 1769560549,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789387",
-    "title": "Let the Chinese Cars In",
-    "url": "https://www.noahpinion.blog/p/let-the-chinese-cars-in",
-    "score": 10,
-    "descendants": 2,
-    "time": 1769560666,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789232",
-    "title": "Meta blocks posts sharing database of ICE agents",
-    "url": "https://www.politico.com/news/2026/01/27/meta-blocks-sharing-database-ice-00750449",
-    "score": 8,
+    "hn_id": "46804823",
+    "title": "Home Office Is Sabotaging You",
+    "url": "https://oedmethod.substack.com/p/your-home-office-is-sabotaging-you",
+    "score": 25,
     "descendants": 5,
-    "time": 1769559668,
+    "time": 1769652463,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789663",
-    "title": "European States Claim Control over Russia's Shadow Fleet in the Baltic Sea",
-    "url": "https://militarnyi.com/en/news/european-states-claim-control-over-russia-s-shadow-fleet-in-the-baltic-sea/",
+    "hn_id": "46805243",
+    "title": "DECwindows Motif",
+    "url": "https://products.vmssoftware.com/decwindowsmotif",
+    "score": 23,
+    "descendants": 15,
+    "time": 1769655880,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805111",
+    "title": "Meta's crawler made 11M requests to my site in 30 days",
+    "url": "https://old.reddit.com/r/webdev/comments/1qpqapj/metas_crawler_made_11_million_requests_to_my_site/",
+    "score": 22,
+    "descendants": 4,
+    "time": 1769654893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805557",
+    "title": "Putting Gemini to Work in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
+    "score": 18,
+    "descendants": 19,
+    "time": 1769658232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805939",
+    "title": "The US is on the verge of losing its measles elimination status",
+    "url": "https://apnews.com/article/us-measles-elimination-mexico-6f0bc8f7ef31d5ef82492e42ccb38e47",
+    "score": 18,
+    "descendants": 1,
+    "time": 1769662447,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804088",
+    "title": "Web inventor Tim Berners-Lee says he is in a battle for the soul of the internet",
+    "url": "https://www.theguardian.com/technology/2026/jan/29/internet-inventor-tim-berners-lee-interview-battle-soul-web",
+    "score": 16,
+    "descendants": 3,
+    "time": 1769647501,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805308",
+    "title": "Palestinian journalist Bisan Owda with 1.4M followers reports TikTok ban",
+    "url": "https://www.aljazeera.com/news/2026/1/29/palestinian-journalist-bisan-owda-with-1-4m-followers-reports-tiktok-ban",
+    "score": 13,
+    "descendants": 0,
+    "time": 1769656318,
+    "source": "hackernews"
+  },
+  {
+    "title": "ChatGPT's free ride is ending: Here's what OpenAI plans for advertising on the chatbot",
+    "url": "https://apnews.com/article/chatgpt-ads-openai-advertising-83812a066375a805fa2e29b28fc77da1",
+    "reddit_id": "1qptvc1",
+    "score": 13,
+    "num_comments": 9,
+    "date": "2026-01-29T00:57:27",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46803850",
+    "title": "Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics",
+    "url": "https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk",
+    "score": 11,
+    "descendants": 6,
+    "time": 1769646127,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804226",
+    "title": "US Company Ubiquiti Aids Russian Military [video]",
+    "url": "https://www.youtube.com/watch?v=8KyMY9i__Ks",
+    "score": 11,
+    "descendants": 4,
+    "time": 1769648369,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806505",
+    "title": "Generative Music with the Muse",
+    "url": "https://computerhistory.org/blog/generative-music-with-the-muse/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1769667858,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806389",
+    "title": "Show HN: Shorlabs – open-source Vercel for Python/Node back ends",
+    "url": "https://github.com/aryankashyap0/shorlabs",
+    "score": 10,
+    "descendants": 1,
+    "time": 1769666797,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804247",
+    "title": "Poll: Trump voters support military intervention in more countries",
+    "url": "https://www.politico.com/news/2026/01/28/trump-is-threatening-strike-iran-his-supporters-wouldnt-mind-00752821",
+    "score": 8,
+    "descendants": 7,
+    "time": 1769648468,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804230",
+    "title": "Death of an Indian Tech Worker",
+    "url": "https://restofworld.org/2026/india-tech-workers-crisis-suicide/",
     "score": 8,
     "descendants": 1,
-    "time": 1769562463,
+    "time": 1769648379,
     "source": "hackernews"
   },
   {
-    "hn_id": "46790841",
-    "title": "Health Insurers in Shock After Medicare Holds Line on 2027 Payments",
-    "url": "https://www.wsj.com/health/healthcare/shock-and-dismay-among-health-insurers-after-medicare-holds-line-on-2027-payments-3c5bb085",
+    "hn_id": "46805292",
+    "title": "Overshoot: The World Is Hitting Point of No Return on Climate",
+    "url": "https://e360.yale.edu/features/1.5-degrees-tipping-points",
+    "score": 8,
+    "descendants": 0,
+    "time": 1769656210,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805792",
+    "title": "iMessage API that can obtain user's real-time location",
+    "url": "https://twitter.com/photon_hq/status/2009336362827395493",
     "score": 7,
-    "descendants": 1,
-    "time": 1769572238,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791650",
-    "title": "Trump's Embrace of Weaker Dollar Fuels Bets on New Downtrend",
-    "url": "https://www.bloomberg.com/news/articles/2026-01-28/trump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend",
-    "score": 7,
-    "descendants": 0,
-    "time": 1769580215,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790495",
-    "title": "Minnesota State Patrol uses long range acoustic device to disperse protesters",
-    "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-patrol-long-range-acoustic-device/",
-    "score": 6,
-    "descendants": 3,
-    "time": 1769569050,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789571",
-    "title": "Write Games for Playdate in Golang",
-    "url": "https://github.com/playdate-go/pdgo",
-    "score": 6,
-    "descendants": 3,
-    "time": 1769561912,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789193",
-    "title": "Tech companies and those who work for them have a decision to make",
-    "url": "https://www.bloodinthemachine.com/p/the-lines-have-been-drawn",
-    "score": 6,
-    "descendants": 3,
-    "time": 1769559467,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791380",
-    "title": "The Rise, Fall, and Rebirth of Clawdbot in 72 Hours",
-    "url": "https://www.everydev.ai/p/the-rise-fall-and-rebirth-of-clawdbot-in-72-hours",
-    "score": 6,
-    "descendants": 2,
-    "time": 1769577731,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790138",
-    "title": "NBA Grizzlies Owner Robert Pera Linked to Russia's \"Crimes Against Humanity\"",
-    "url": "https://www.youtube.com/watch?v=s6i4uffZvhc",
-    "score": 6,
-    "descendants": 2,
-    "time": 1769566130,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791309",
-    "title": "Amazon accidentally sends email confirming layoffs",
-    "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo",
-    "score": 6,
-    "descendants": 1,
-    "time": 1769576950,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791250",
-    "title": "The Indian Work Culture – Masochistic, Poor, Intense and Fragile",
-    "url": "https://grajmanu.wordpress.com/2020/11/01/indian-work-culture/",
-    "score": 6,
-    "descendants": 1,
-    "time": 1769576393,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789388",
-    "title": "US carrier strike group is now in the Middle East region, sources say",
-    "url": "https://www.cnn.com/2026/01/26/middleeast/iran-carrier-strike-group-indian-ocean-intl",
-    "score": 6,
-    "descendants": 1,
-    "time": 1769560673,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789727",
-    "title": "Tesla lands major Semi charging deal with nation's largest truck stop operator",
-    "url": "https://electrek.co/2026/01/27/tesla-lands-major-semi-charging-deal-largest-truck-stop-operator/",
-    "score": 6,
-    "descendants": 0,
-    "time": 1769562976,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789410",
-    "title": "'Garden of Eden': the Spanish farm growing citrus you've never heard of",
-    "url": "https://www.theguardian.com/environment/2026/jan/16/garden-of-eden-the-spanish-farm-growing-citrus-youve-never-heard-of",
-    "score": 6,
-    "descendants": 0,
-    "time": 1769560840,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790264",
-    "title": "Show HN: How would you decide famous SCOTUS cases?",
-    "url": "https://scotus-quiz.vercel.app/",
-    "score": 5,
     "descendants": 4,
-    "time": 1769567202,
+    "time": 1769660626,
     "source": "hackernews"
   },
   {
-    "hn_id": "46791236",
-    "title": "Google pays $68M to settle claims its voice assistant spied on users",
-    "url": "https://www.msn.com/en-us/news/technology/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/ar-AA1V2yyR",
-    "score": 5,
+    "hn_id": "46805733",
+    "title": "Can AI companies become profitable?",
+    "url": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
+    "score": 7,
     "descendants": 3,
-    "time": 1769576274,
+    "time": 1769659966,
     "source": "hackernews"
   },
   {
-    "hn_id": "46791093",
-    "title": "Software Interruptions Became Normalized",
-    "url": "https://blog.mikeswanson.com/backseat-software/",
+    "hn_id": "46804615",
+    "title": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+    "url": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1769651145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46803851",
+    "title": "Google Aims Knockout Blow at Chinese Company Linked to Cyber Weapon",
+    "url": "https://www.wsj.com/tech/google-aims-knockout-blow-at-chinese-company-linked-to-massive-cyber-weapon-3c3fdc40",
+    "score": 7,
+    "descendants": 1,
+    "time": 1769646129,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806323",
+    "title": "TikTok Settles Social Media Addiction Lawsuit Ahead of a Landmark Trial",
+    "url": "https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html",
+    "score": 7,
+    "descendants": 0,
+    "time": 1769666142,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805250",
+    "title": "After 34 years, Linux community has a contingency plan to replace Linus Torvalds",
+    "url": "https://www.tomshardware.com/software/linux/linux-kernel-community-draws-up-contingency-plan-to-replace-linus-torvalds-should-the-need-arise-only-34-years-in-the-making",
+    "score": 7,
+    "descendants": 0,
+    "time": 1769655931,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806186",
+    "title": "Ask HN: Are .xyz domains still seen as sketchy in 2026?",
+    "url": "https://speechtotext.xyz",
+    "score": 6,
+    "descendants": 3,
+    "time": 1769664726,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804558",
+    "title": "Tesla Profit Slumps, but Investors May Not Care",
+    "url": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+    "score": 6,
+    "descendants": 0,
+    "time": 1769650679,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46803747",
+    "title": "SFC vs. VIZIO: who can enforce the GPL?",
+    "url": "https://lwn.net/Articles/1052734/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1769645562,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805814",
+    "title": "Brandon Sanderson just sold his Cosmere universe to Apple TV",
+    "url": "https://www.polygon.com/brandon-sanderson-tv-adaptations-cosmere-apple/",
+    "score": 5,
+    "descendants": 11,
+    "time": 1769660904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806282",
+    "title": "Tesla's Robotaxi Bait and Switch",
+    "url": "https://www.thefp.com/p/teslas-robotaxi-bait-and-switch",
     "score": 5,
     "descendants": 1,
-    "time": 1769574776,
+    "time": 1769665673,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789685",
-    "title": "Ouroboros – AI agent framework that asks \"why?\" before writing code",
-    "url": "https://github.com/Q00/ouroboros",
+    "hn_id": "46806245",
+    "title": "Why do RSS readers look like email clients?",
+    "url": "https://www.terrygodier.com/phantom-obligation",
     "score": 5,
     "descendants": 1,
-    "time": 1769562638,
+    "time": 1769665245,
     "source": "hackernews"
   },
   {
-    "hn_id": "46790312",
-    "title": "Linux is still a developer OS, and that's why it won't go mainstream",
-    "url": "https://www.howtogeek.com/linux-is-still-a-developer-os-and-thats-why-it-wont-go-mainstream/",
+    "hn_id": "46804957",
+    "title": "MSX is a standardized home computer architecture",
+    "url": "https://en.wikipedia.org/wiki/MSX",
     "score": 5,
     "descendants": 0,
-    "time": 1769567633,
+    "time": 1769653630,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789197",
-    "title": "There's a rash of scam spam coming from a real Microsoft address",
-    "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+    "hn_id": "46804082",
+    "title": "Open Gaming Collective – Unified gaming-focused components for Linux ecosystem",
+    "url": "https://opengamingcollective.org/",
     "score": 5,
     "descendants": 0,
-    "time": 1769559508,
+    "time": 1769647455,
     "source": "hackernews"
   },
   {
-    "hn_id": "46791588",
-    "title": "Amazon One palm authentication services ending June 3, 2026",
-    "url": "https://amazonone.aws.com/help",
+    "hn_id": "46803626",
+    "title": "You're Probably Drinking Too Much Water",
+    "url": "https://samswellnessbrief.substack.com/p/youre-probably-drinking-too-much",
+    "score": 5,
+    "descendants": 0,
+    "time": 1769644946,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804520",
+    "title": "I still don't understand this SYN attack, but now I can block it easily",
+    "url": "https://boston.conman.org/2026/01/28.2",
     "score": 4,
+    "descendants": 8,
+    "time": 1769650389,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806364",
+    "title": "Spanish scientists achieve complete eradication of pancreatic cancer",
+    "url": "https://www.gamereactor.eu/spanish-scientists-achieve-complete-eradication-of-pancreatic-cancer-thanks-to-a-combination-of-three-drugs-1667053/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769666559,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806171",
+    "title": "New Ransomware Groups of 2025 – and What to Expect Next in 2026",
+    "url": "https://cyble.com/knowledge-hub/10-new-ransomware-groups-of-2025-threat-trend-2026/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769664558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806084",
+    "title": "AI-Generated Narratives Acquire Authority Without Records",
+    "url": "https://www.aivojournal.org/the-reconstructability-gap/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769663784,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805817",
+    "title": "Microblogging from Your Terminal",
+    "url": "https://tinyblog.page/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769660914,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805732",
+    "title": "Glymphatic system clears amyloid beta and tau from brain to plasma in humans",
+    "url": "https://www.nature.com/articles/s41467-026-68374-8",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769659950,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46803724",
+    "title": "Bank of America's Struggles with Nvidia AI",
+    "url": "https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1",
+    "score": 4,
+    "descendants": 1,
+    "time": 1769645455,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46806240",
+    "title": "271 years before Pantone, artist mixed color in an 800 page book (2014)",
+    "url": "https://www.thisiscolossal.com/2014/05/color-book/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769665213,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805979",
+    "title": "Babies Are Getting Sick from Formula That Mimics Mother's Milk",
+    "url": "https://www.bloomberg.com/news/features/2026-01-28/baby-formula-contamination-more-common-with-push-to-mimic-mother-s-milk",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769662755,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46805301",
+    "title": "The Hummingbird Clock (used by UK gov as forensic tool)",
+    "url": "https://imgur.com/a/RLm2ILW",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769656271,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804743",
+    "title": "Flippy Planes",
+    "url": "https://flippyplanes.com/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769651958,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804622",
+    "title": "AI Ships Code While You Sleep. Who Maintains It When You Wake?",
+    "url": "https://twitter.com/acolombiadev/status/2015855181020234008",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769651174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804605",
+    "title": "Capgemini in turmoil over its work with ICE",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/01/28/capgemini-in-turmoil-over-its-work-with-ice_6749879_19.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769651052,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46803664",
+    "title": "Apple Signs Deal for Brandon Sanderson's 'Cosmere' Universe Movies and TV Shows",
+    "url": "https://www.macrumors.com/2026/01/28/apple-tv-brandon-sanderson-deal/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1769645144,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46804831",
+    "title": "She almost let the stranger walk out of her life. Then, a Beefeater intervened",
+    "url": "https://www.cnn.com/travel/beefeater-tower-of-london-chance-encounters",
+    "score": 3,
     "descendants": 2,
-    "time": 1769579731,
+    "time": 1769652529,
     "source": "hackernews"
   },
   {
-    "hn_id": "46789619",
-    "title": "Life on Peptides Feels Amazing",
-    "url": "https://nymag.com/intelligencer/article/peptides-from-instagram-china-wellness-cure.html",
-    "score": 4,
+    "hn_id": "46804375",
+    "title": "Declassifying JUMPSEAT: an American pioneer in space",
+    "url": "https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/",
+    "score": 3,
     "descendants": 2,
-    "time": 1769562206,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791358",
-    "title": "How the new era of CEO supervillains are trapped in their own ideology",
-    "url": "https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/",
-    "score": 4,
-    "descendants": 1,
-    "time": 1769577484,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46791684",
-    "title": "AI Is Not Inevitable",
-    "url": "https://dustin.boston/ai-is-not-inevitable/",
-    "score": 4,
-    "descendants": 0,
-    "time": 1769580657,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46790302",
-    "title": "Raspberry Pi Radio Module 2",
-    "url": "https://www.raspberrypi.com/products/radio-module-2/",
-    "score": 4,
-    "descendants": 0,
-    "time": 1769567556,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "46789584",
-    "title": "Australian plumber is a YouTube sensation",
-    "url": "https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/",
-    "score": 4,
-    "descendants": 0,
-    "time": 1769562000,
+    "time": 1769649302,
     "source": "hackernews"
   }
 ]

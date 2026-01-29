@@ -150,195 +150,207 @@ Following are the stories to parse:
 
 Slides:
 
-1. [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-   Metadata: Source: Hacker News | 232 points | 66 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789961
+1. [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+   Metadata: Source: Hacker News | 239 points | 25 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805665
 
-2. [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
-   Metadata: Source: Hacker News | 147 points | 97 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789913
+2. [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
+   Metadata: Source: Hacker News | 168 points | 22 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804828
 
-3. [Apple MacBook Pro order deliveries delayed until mid March](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb)
-   Metadata: Source: Hacker News | 50 points | 11 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790250
+3. [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
+   Metadata: Source: Hacker News | 109 points | 6 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804854
 
-4. [US population growth slows as immigration declines](https://www.reuters.com/world/us/us-population-growth-slows-immigration-declines-census-data-shows-2026-01-27/)
-   Metadata: Source: Hacker News | 38 points | 9 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789617
+4. [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux)
+   Metadata: Source: Hacker News | 51 points | 71 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805841
 
-5. [Neocities Is Blocked by Bing](https://blog.neocities.org/blog/2026/01/27/bing-block)
-   Metadata: Source: Hacker News | 38 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789400
+5. [Show HN: Shelvy Books](https://shelvybooks.com)
+   Metadata: Source: Hacker News | 28 points | 10 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804396
 
-6. [Apple Workers Are Livid That Cook Saw "Melania" Hours After CBP Killed Pretti](https://theintercept.com/2026/01/27/apple-tim-cook-trump-alex-pretti/)
-   Metadata: Source: Hacker News | 36 points | 15 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790365
+6. [Home Office Is Sabotaging You](https://oedmethod.substack.com/p/your-home-office-is-sabotaging-you)
+   Metadata: Source: Hacker News | 25 points | 5 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804823
 
-7. [Transmission 4.1.0](https://github.com/transmission/transmission/releases/tag/4.1.0)
-   Metadata: Source: Hacker News | 33 points | 8 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789656
+7. [DECwindows Motif](https://products.vmssoftware.com/decwindowsmotif)
+   Metadata: Source: Hacker News | 23 points | 15 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805243
 
-8. [Amazon inadvertently announces cloud unit layoffs in email to employees](https://www.cnbc.com/2026/01/27/amazon-inadvertently-sends-email-to-employees-confirming-wednesday-layoffs.html)
-   Metadata: Source: Hacker News | 27 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790041
+8. [Meta's crawler made 11M requests to my site in 30 days](https://old.reddit.com/r/webdev/comments/1qpqapj/metas_crawler_made_11_million_requests_to_my_site/)
+   Metadata: Source: Hacker News | 22 points | 4 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805111
 
-9. [Germany issued formal travel advisory for US](https://www.newsweek.com/germany-issues-formal-travel-advisory-for-us-11421830)
-   Metadata: Source: Hacker News | 27 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790360
+9. [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
+   Metadata: Source: Hacker News | 18 points | 19 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805557
 
-10. [OpenStreetMap overwhelmed by bots scraping data](https://twitter.com/openstreetmap/status/2016320492420878531)
-   Metadata: Source: Hacker News | 26 points | 13 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789796
+10. [The US is on the verge of losing its measles elimination status](https://apnews.com/article/us-measles-elimination-mexico-6f0bc8f7ef31d5ef82492e42ccb38e47)
+   Metadata: Source: Hacker News | 18 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805939
 
-11. [Amazon bungles Wednesday layoff plan with misfired internal email](https://www.reuters.com/business/world-at-work/amazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-2026-01-28/)
-   Metadata: Source: Hacker News | 23 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790139
+11. [Web inventor Tim Berners-Lee says he is in a battle for the soul of the internet](https://www.theguardian.com/technology/2026/jan/29/internet-inventor-tim-berners-lee-interview-battle-soul-web)
+   Metadata: Source: Hacker News | 16 points | 3 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804088
 
-12. [Google to pay $68M over allegations its voice assistant eavesdropped on users](https://www.cbsnews.com/news/google-voice-assistant-lawsuit-settlement-68-million/)
-   Metadata: Source: Hacker News | 22 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790765
+12. [Palestinian journalist Bisan Owda with 1.4M followers reports TikTok ban](https://www.aljazeera.com/news/2026/1/29/palestinian-journalist-bisan-owda-with-1-4m-followers-reports-tiktok-ban)
+   Metadata: Source: Hacker News | 13 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805308
 
-13. [The Dildo Distribution Delegation](https://www.closertotheedge.net/p/the-dildo-distribution-delegation)
-   Metadata: Source: Hacker News | 18 points | 11 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791561
+13. [ChatGPT's free ride is ending: Here's what OpenAI plans for advertising on the chatbot](https://apnews.com/article/chatgpt-ads-openai-advertising-83812a066375a805fa2e29b28fc77da1)
+   Metadata: Source: r/technews | 13 upvotes | 9 comments | Posted: 2026-01-29
+   Discussion: https://reddit.com/r/technews/comments/1qptvc1
 
-14. [Washington State Bill Seeks to Add Firearms Detection to 3D Printers](https://hackaday.com/2026/01/19/washington-state-bill-seeks-to-add-firearms-detection-to-3d-printers/)
-   Metadata: Source: Hacker News | 18 points | 7 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789841
+14. [Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)
+   Metadata: Source: Hacker News | 11 points | 6 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803850
 
-15. [Gen Z is the first generation less cognitively capable than their parents](https://www.upworthy.com/gen-z-technology-schools)
-   Metadata: Source: Hacker News | 18 points | 4 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789265
+15. [US Company Ubiquiti Aids Russian Military [video]](https://www.youtube.com/watch?v=8KyMY9i__Ks)
+   Metadata: Source: Hacker News | 11 points | 4 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804226
 
-16. [Private Prisons Sued the State of Arizona for Not Having Enough Prisoners](https://hrnews1.substack.com/p/how-private-prisons-sued-the-state)
-   Metadata: Source: Hacker News | 17 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789424
+16. [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/)
+   Metadata: Source: Hacker News | 11 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806505
 
-17. [TikTok blocks Epstein mentions and anti-Trump videos, users claim](https://www.the-independent.com/tech/tiktok-epstein-trump-censorship-ice-b2908309.html)
-   Metadata: Source: Hacker News | 16 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789567
+17. [Show HN: Shorlabs – open-source Vercel for Python/Node back ends](https://github.com/aryankashyap0/shorlabs)
+   Metadata: Source: Hacker News | 10 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806389
 
-18. [Ups retires its fleet of MD-11 cargo aircraft](https://www.pbs.org/newshour/nation/ups-retires-its-fleet-of-md-11-cargo-aircraft-involved-in-deadly-kentucky-crash)
-   Metadata: Source: Hacker News | 14 points | 6 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790686
+18. [Poll: Trump voters support military intervention in more countries](https://www.politico.com/news/2026/01/28/trump-is-threatening-strike-iran-his-supporters-wouldnt-mind-00752821)
+   Metadata: Source: Hacker News | 8 points | 7 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804247
 
-19. [Is coding dead because AI has taken over it?](https://www.jehuamanna.com/blog/2026/is-coding-dead/)
-   Metadata: Source: Hacker News | 13 points | 11 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790068
+19. [Death of an Indian Tech Worker](https://restofworld.org/2026/india-tech-workers-crisis-suicide/)
+   Metadata: Source: Hacker News | 8 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804230
 
-20. [Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities](https://veerhost.com/moltbot-security-guide/)
-   Metadata: Source: Hacker News | 13 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791496
+20. [Overshoot: The World Is Hitting Point of No Return on Climate](https://e360.yale.edu/features/1.5-degrees-tipping-points)
+   Metadata: Source: Hacker News | 8 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805292
 
-21. [Speak in code, delete the chats: The tactics Venezuelans are using out of fear](https://www.cnn.com/2026/01/27/americas/venezuela-phone-search-crackdown-free-speech-latam-intl)
-   Metadata: Source: Hacker News | 12 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789373
+21. [iMessage API that can obtain user's real-time location](https://twitter.com/photon_hq/status/2009336362827395493)
+   Metadata: Source: Hacker News | 7 points | 4 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805792
 
-22. [Let the Chinese Cars In](https://www.noahpinion.blog/p/let-the-chinese-cars-in)
-   Metadata: Source: Hacker News | 10 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789387
+22. [Can AI companies become profitable?](https://epoch.ai/gradient-updates/can-ai-companies-become-profitable)
+   Metadata: Source: Hacker News | 7 points | 3 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805733
 
-23. [Meta blocks posts sharing database of ICE agents](https://www.politico.com/news/2026/01/27/meta-blocks-sharing-database-ice-00750449)
-   Metadata: Source: Hacker News | 8 points | 5 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789232
+23. [Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)
+   Metadata: Source: Hacker News | 7 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804615
 
-24. [European States Claim Control over Russia's Shadow Fleet in the Baltic Sea](https://militarnyi.com/en/news/european-states-claim-control-over-russia-s-shadow-fleet-in-the-baltic-sea/)
-   Metadata: Source: Hacker News | 8 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789663
+24. [Google Aims Knockout Blow at Chinese Company Linked to Cyber Weapon](https://www.wsj.com/tech/google-aims-knockout-blow-at-chinese-company-linked-to-massive-cyber-weapon-3c3fdc40)
+   Metadata: Source: Hacker News | 7 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803851
 
-25. [Health Insurers in Shock After Medicare Holds Line on 2027 Payments](https://www.wsj.com/health/healthcare/shock-and-dismay-among-health-insurers-after-medicare-holds-line-on-2027-payments-3c5bb085)
-   Metadata: Source: Hacker News | 7 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790841
+25. [TikTok Settles Social Media Addiction Lawsuit Ahead of a Landmark Trial](https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html)
+   Metadata: Source: Hacker News | 7 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806323
 
-26. [Trump's Embrace of Weaker Dollar Fuels Bets on New Downtrend](https://www.bloomberg.com/news/articles/2026-01-28/trump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend)
-   Metadata: Source: Hacker News | 7 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791650
+26. [After 34 years, Linux community has a contingency plan to replace Linus Torvalds](https://www.tomshardware.com/software/linux/linux-kernel-community-draws-up-contingency-plan-to-replace-linus-torvalds-should-the-need-arise-only-34-years-in-the-making)
+   Metadata: Source: Hacker News | 7 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805250
 
-27. [Minnesota State Patrol uses long range acoustic device to disperse protesters](https://www.cbsnews.com/minnesota/news/minnesota-state-patrol-long-range-acoustic-device/)
-   Metadata: Source: Hacker News | 6 points | 3 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790495
+27. [Ask HN: Are .xyz domains still seen as sketchy in 2026?](https://speechtotext.xyz)
+   Metadata: Source: Hacker News | 6 points | 3 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806186
 
-28. [Write Games for Playdate in Golang](https://github.com/playdate-go/pdgo)
-   Metadata: Source: Hacker News | 6 points | 3 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789571
+28. [Tesla Profit Slumps, but Investors May Not Care](https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html)
+   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804558
 
-29. [Tech companies and those who work for them have a decision to make](https://www.bloodinthemachine.com/p/the-lines-have-been-drawn)
-   Metadata: Source: Hacker News | 6 points | 3 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789193
+29. [SFC vs. VIZIO: who can enforce the GPL?](https://lwn.net/Articles/1052734/)
+   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803747
 
-30. [The Rise, Fall, and Rebirth of Clawdbot in 72 Hours](https://www.everydev.ai/p/the-rise-fall-and-rebirth-of-clawdbot-in-72-hours)
-   Metadata: Source: Hacker News | 6 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791380
+30. [Brandon Sanderson just sold his Cosmere universe to Apple TV](https://www.polygon.com/brandon-sanderson-tv-adaptations-cosmere-apple/)
+   Metadata: Source: Hacker News | 5 points | 11 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805814
 
-31. [NBA Grizzlies Owner Robert Pera Linked to Russia's "Crimes Against Humanity"](https://www.youtube.com/watch?v=s6i4uffZvhc)
-   Metadata: Source: Hacker News | 6 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790138
+31. [Tesla's Robotaxi Bait and Switch](https://www.thefp.com/p/teslas-robotaxi-bait-and-switch)
+   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806282
 
-32. [Amazon accidentally sends email confirming layoffs](https://www.bbc.com/news/articles/cx2ywzxlxnlo)
-   Metadata: Source: Hacker News | 6 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791309
+32. [Why do RSS readers look like email clients?](https://www.terrygodier.com/phantom-obligation)
+   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806245
 
-33. [The Indian Work Culture – Masochistic, Poor, Intense and Fragile](https://grajmanu.wordpress.com/2020/11/01/indian-work-culture/)
-   Metadata: Source: Hacker News | 6 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791250
+33. [MSX is a standardized home computer architecture](https://en.wikipedia.org/wiki/MSX)
+   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804957
 
-34. [US carrier strike group is now in the Middle East region, sources say](https://www.cnn.com/2026/01/26/middleeast/iran-carrier-strike-group-indian-ocean-intl)
-   Metadata: Source: Hacker News | 6 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789388
+34. [Open Gaming Collective – Unified gaming-focused components for Linux ecosystem](https://opengamingcollective.org/)
+   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804082
 
-35. [Tesla lands major Semi charging deal with nation's largest truck stop operator](https://electrek.co/2026/01/27/tesla-lands-major-semi-charging-deal-largest-truck-stop-operator/)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789727
+35. [You're Probably Drinking Too Much Water](https://samswellnessbrief.substack.com/p/youre-probably-drinking-too-much)
+   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803626
 
-36. ['Garden of Eden': the Spanish farm growing citrus you've never heard of](https://www.theguardian.com/environment/2026/jan/16/garden-of-eden-the-spanish-farm-growing-citrus-youve-never-heard-of)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789410
+36. [I still don't understand this SYN attack, but now I can block it easily](https://boston.conman.org/2026/01/28.2)
+   Metadata: Source: Hacker News | 4 points | 8 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804520
 
-37. [Show HN: How would you decide famous SCOTUS cases?](https://scotus-quiz.vercel.app/)
-   Metadata: Source: Hacker News | 5 points | 4 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790264
+37. [Spanish scientists achieve complete eradication of pancreatic cancer](https://www.gamereactor.eu/spanish-scientists-achieve-complete-eradication-of-pancreatic-cancer-thanks-to-a-combination-of-three-drugs-1667053/)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806364
 
-38. [Google pays $68M to settle claims its voice assistant spied on users](https://www.msn.com/en-us/news/technology/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/ar-AA1V2yyR)
-   Metadata: Source: Hacker News | 5 points | 3 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791236
+38. [New Ransomware Groups of 2025 – and What to Expect Next in 2026](https://cyble.com/knowledge-hub/10-new-ransomware-groups-of-2025-threat-trend-2026/)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806171
 
-39. [Software Interruptions Became Normalized](https://blog.mikeswanson.com/backseat-software/)
-   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791093
+39. [AI-Generated Narratives Acquire Authority Without Records](https://www.aivojournal.org/the-reconstructability-gap/)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806084
 
-40. [Ouroboros – AI agent framework that asks "why?" before writing code](https://github.com/Q00/ouroboros)
-   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789685
+40. [Microblogging from Your Terminal](https://tinyblog.page/)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805817
 
-41. [Linux is still a developer OS, and that's why it won't go mainstream](https://www.howtogeek.com/linux-is-still-a-developer-os-and-thats-why-it-wont-go-mainstream/)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790312
+41. [Glymphatic system clears amyloid beta and tau from brain to plasma in humans](https://www.nature.com/articles/s41467-026-68374-8)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805732
 
-42. [There's a rash of scam spam coming from a real Microsoft address](https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789197
+42. [Bank of America's Struggles with Nvidia AI](https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1)
+   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803724
 
-43. [Amazon One palm authentication services ending June 3, 2026](https://amazonone.aws.com/help)
-   Metadata: Source: Hacker News | 4 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791588
+43. [271 years before Pantone, artist mixed color in an 800 page book (2014)](https://www.thisiscolossal.com/2014/05/color-book/)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46806240
 
-44. [Life on Peptides Feels Amazing](https://nymag.com/intelligencer/article/peptides-from-instagram-china-wellness-cure.html)
-   Metadata: Source: Hacker News | 4 points | 2 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789619
+44. [Babies Are Getting Sick from Formula That Mimics Mother's Milk](https://www.bloomberg.com/news/features/2026-01-28/baby-formula-contamination-more-common-with-push-to-mimic-mother-s-milk)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805979
 
-45. [How the new era of CEO supervillains are trapped in their own ideology](https://statmodeling.stat.columbia.edu/2026/01/27/facebook-and-the-inherent-incoherence-of-the-ideology-of-market-leading-tech-companies/)
-   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791358
+45. [The Hummingbird Clock (used by UK gov as forensic tool)](https://imgur.com/a/RLm2ILW)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46805301
 
-46. [AI Is Not Inevitable](https://dustin.boston/ai-is-not-inevitable/)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46791684
+46. [Flippy Planes](https://flippyplanes.com/)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804743
 
-47. [Raspberry Pi Radio Module 2](https://www.raspberrypi.com/products/radio-module-2/)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46790302
+47. [AI Ships Code While You Sleep. Who Maintains It When You Wake?](https://twitter.com/acolombiadev/status/2015855181020234008)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804622
 
-48. [Australian plumber is a YouTube sensation](https://arstechnica.com/culture/2026/01/australian-plumber-is-a-youtube-sensation/)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-28
-   Discussion: https://news.ycombinator.com/item?id=46789584
+48. [Capgemini in turmoil over its work with ICE](https://www.lemonde.fr/en/economy/article/2026/01/28/capgemini-in-turmoil-over-its-work-with-ice_6749879_19.html)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804605
+
+49. [Apple Signs Deal for Brandon Sanderson's 'Cosmere' Universe Movies and TV Shows](https://www.macrumors.com/2026/01/28/apple-tv-brandon-sanderson-deal/)
+   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46803664
+
+50. [She almost let the stranger walk out of her life. Then, a Beefeater intervened](https://www.cnn.com/travel/beefeater-tower-of-london-chance-encounters)
+   Metadata: Source: Hacker News | 3 points | 2 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804831
+
+51. [Declassifying JUMPSEAT: an American pioneer in space](https://www.nro.gov/news-media-featured-stories/news-media-archive/News-Article/Article/4392223/declassifying-jumpseat-an-american-pioneer-in-space/)
+   Metadata: Source: Hacker News | 3 points | 2 comments | Posted: 2026-01-29
+   Discussion: https://news.ycombinator.com/item?id=46804375
 
