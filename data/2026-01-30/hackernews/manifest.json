@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "46820360",
+    "title": "Moltbook",
+    "url": "https://www.moltbook.com/",
+    "score": 1413,
+    "descendants": 668,
+    "time": 1769745334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46829147",
+    "title": "Antirender: remove the glossy shine on architectural renderings",
+    "url": "https://antirender.com/",
+    "score": 1029,
+    "descendants": 245,
+    "time": 1769803524,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46821774",
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "score": 680,
+    "descendants": 358,
+    "time": 1769760581,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46820783",
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "score": 621,
+    "descendants": 312,
+    "time": 1769750088,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46821134",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "score": 491,
+    "descendants": 96,
+    "time": 1769753976,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46822632",
+    "title": "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",
+    "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+    "score": 462,
+    "descendants": 253,
+    "time": 1769768071,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46820924",
+    "title": "How AI assistance impacts the formation of coding skills",
+    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "score": 429,
+    "descendants": 321,
+    "time": 1769751683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46827003",
+    "title": "Microsoft 365 now tracks you in real time?",
+    "url": "https://ztechtalk.com/microsoft-teams",
+    "score": 368,
+    "descendants": 279,
+    "time": 1769793159,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824098",
+    "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+    "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+    "score": 323,
+    "descendants": 344,
+    "time": 1769779433,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46819809",
+    "title": "Two days of oatmeal reduce cholesterol level",
+    "url": "https://www.uni-bonn.de/en/news/017-2026",
+    "score": 317,
+    "descendants": 253,
+    "time": 1769739381,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824422",
+    "title": "HTTP Cats",
+    "url": "https://http.cat/",
+    "score": 314,
+    "descendants": 53,
+    "time": 1769781411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46826597",
+    "title": "Kimi K2.5 Technical Report [pdf]",
+    "url": "https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf",
+    "score": 279,
+    "descendants": 109,
+    "time": 1769791430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46822630",
+    "title": "Surely the crash of the US economy has to be soon",
+    "url": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
+    "score": 261,
+    "descendants": 382,
+    "time": 1769768063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46829582",
+    "title": "Peerweb: Decentralized website hosting via WebTorrent",
+    "url": "https://peerweb.lol/",
+    "score": 236,
+    "descendants": 83,
+    "time": 1769805600,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46821360",
+    "title": "How AI impacts skill formation",
+    "url": "https://arxiv.org/abs/2601.20245",
+    "score": 229,
+    "descendants": 5,
+    "time": 1769756807,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46825415",
+    "title": "Buttered Crumpet, a custom typeface for Wallace and Gromit",
+    "url": "https://jamieclarketype.com/case-study/wallace-and-gromit-font/",
+    "score": 226,
+    "descendants": 47,
+    "time": 1769786368,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46827826",
+    "title": "Amazon's Spending on 'Melania' Is a Barely Concealed Bribe",
+    "url": "https://daringfireball.net/linked/2026/01/29/amazon-melania-spending",
+    "score": 223,
+    "descendants": 61,
+    "time": 1769796884,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46829548",
+    "title": "Silver plunges 30% in worst day since 1980, gold tumbles",
+    "url": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
+    "score": 221,
+    "descendants": 221,
+    "time": 1769805468,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46823485",
+    "title": "Code is cheap. Show me the talk",
+    "url": "https://nadh.in/blog/code-is-cheap/",
+    "score": 205,
+    "descendants": 183,
+    "time": 1769774750,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46820113",
+    "title": "Stargaze: SpaceX's Space Situational Awareness System",
+    "url": "https://starlink.com/updates/stargaze",
+    "score": 184,
+    "descendants": 103,
+    "time": 1769742703,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824867",
+    "title": "Richard Feynman Side Hustles",
+    "url": "https://twitter.com/carl_feynman/status/2016979540099420428",
+    "score": 176,
+    "descendants": 59,
+    "time": 1769783609,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46827731",
+    "title": "Malicious skills targeting Claude Code and Moltbot users",
+    "url": "https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto",
+    "score": 167,
+    "descendants": 86,
+    "time": 1769796422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46827665",
+    "title": "Mamdani to kill the NYC AI chatbot caught telling businesses to break the law",
+    "url": "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law",
+    "score": 161,
+    "descendants": 56,
+    "time": 1769796143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46826963",
+    "title": "Moltbook is the most interesting place on the internet right now",
+    "url": "https://simonwillison.net/2026/Jan/30/moltbook/",
+    "score": 151,
+    "descendants": 129,
+    "time": 1769792975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824400",
+    "title": "Ode to the AA Battery",
+    "url": "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/",
+    "score": 149,
+    "descendants": 167,
+    "time": 1769781329,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824877",
+    "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+    "url": "https://github.com/amlalabs/amla-sandbox",
+    "score": 132,
+    "descendants": 71,
+    "time": 1769783672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830593",
+    "title": "Iran rounds up thousands in mass arrest campaign after crushing unrest",
+    "url": "https://www.reuters.com/world/middle-east/iran-rounds-up-thousands-mass-arrest-campaign-after-crushing-unrest-sources-say-2026-01-29/",
+    "score": 126,
+    "descendants": 24,
+    "time": 1769810687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46825828",
+    "title": "Self Driving Car Insurance",
+    "url": "https://www.lemonade.com/car/explained/self-driving-car-insurance/",
+    "score": 125,
+    "descendants": 271,
+    "time": 1769788215,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46828881",
+    "title": "A judge gave the FBI permission to attempt to bypass biometrics",
+    "url": "https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/",
+    "score": 119,
+    "descendants": 93,
+    "time": 1769801924,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46823261",
+    "title": "How ICE knows who Minneapolis protesters are",
+    "url": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+    "score": 111,
+    "descendants": 135,
+    "time": 1769773263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46820468",
+    "title": "The dank case for scrolling window managers",
+    "url": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+    "score": 101,
+    "descendants": 54,
+    "time": 1769746658,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830667",
+    "title": "Vitamin D supplements cut heart attack risk by 52%. Why?",
+    "url": "https://www.empirical.health/blog/vitamin-d-heart/",
+    "score": 90,
+    "descendants": 44,
+    "time": 1769811185,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824017",
+    "title": "Norway EV Push Nears 100 Percent: What's Next?",
+    "url": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+    "score": 86,
+    "descendants": 156,
+    "time": 1769778791,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830523",
+    "title": "I trapped an AI model inside an art installation (2025) [video]",
+    "url": "https://www.youtube.com/watch?v=7fNYj0EXxMs",
+    "score": 80,
+    "descendants": 25,
+    "time": 1769810326,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46823358",
+    "title": "Track Your Routine – Open-source app for task management",
+    "url": "https://github.com/MSF01/TYR",
+    "score": 75,
+    "descendants": 39,
+    "time": 1769773966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46826192",
+    "title": "Former CNN journalist Don Lemon arrested after church protest in Minnesota",
+    "url": "https://www.reuters.com/world/us/former-cnn-anchor-don-lemon-arrested-cbs-reports-2026-01-30/",
+    "score": 71,
+    "descendants": 58,
+    "time": 1769789762,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46819336",
+    "title": "Why I Always End Up Going Back to C",
+    "url": "https://deplet.ing/why-i-always-end-up-using-c/",
+    "score": 69,
+    "descendants": 55,
+    "time": 1769735294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46831218",
+    "title": "US judge rules Luigi Mangione won't face death penalty in CEO killing case",
+    "url": "https://www.aljazeera.com/news/2026/1/30/us-judge-rules-mangione-will-not-face-death-penalty-for-ceo-murder",
+    "score": 67,
+    "descendants": 47,
+    "time": 1769814473,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830027",
+    "title": "P vs. NP and the Difficulty of Computation: A ruliological approach",
+    "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+    "score": 64,
+    "descendants": 28,
+    "time": 1769807841,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830698",
+    "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+    "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+    "score": 60,
+    "descendants": 45,
+    "time": 1769811379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46824558",
+    "title": "Former CNN journalist Don Lemon arrested in connection with Minnesota protest",
+    "url": "https://abcnews.go.com/US/don-lemon-arrested-connection-minnesota-protest-sources/story?id=129699476",
+    "score": 60,
+    "descendants": 18,
+    "time": 1769782138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46819876",
+    "title": "U.S. threat of 100% tariff on Korean memory chips at odds with reality",
+    "url": "https://koreajoongangdaily.joins.com/news/2026-01-28/business/industry/US-threat-of-100-memory-chip-tariff-at-odds-with-reality/2508662",
+    "score": 60,
+    "descendants": 16,
+    "time": 1769740150,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46823445",
+    "title": "Email experiments: filtering out external images",
+    "url": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
+    "score": 58,
+    "descendants": 29,
+    "time": 1769774496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46829887",
+    "title": "DHS ramps up surveillance in immigration raids, sweeping in citizens",
+    "url": "https://apnews.com/article/digital-crackdown-immigration-minneapolis-trump-52662450a15a7be8d9df69036f9b5f12",
+    "score": 58,
+    "descendants": 8,
+    "time": 1769807188,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46819000",
+    "title": "9front OS",
+    "url": "https://9front.org/",
+    "score": 57,
+    "descendants": 27,
+    "time": 1769732919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46831592",
+    "title": "Stonebraker on CAP theorem and Databases (2010)",
+    "url": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
+    "score": 57,
+    "descendants": 19,
+    "time": 1769816848,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46823498",
+    "title": "Show HN: Cicada – A scripting language that integrates with C",
+    "url": "https://github.com/heltilda/cicada",
+    "score": 54,
+    "descendants": 30,
+    "time": 1769774846,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46826017",
+    "title": "Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld",
+    "url": "https://www.mdpi.com/2076-3425/16/1/94",
+    "score": 49,
+    "descendants": 29,
+    "time": 1769789014,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46830845",
+    "title": "Elon Musk had more extensive ties to Epstein than previously known, emails show",
+    "url": "https://www.theguardian.com/technology/2026/jan/30/elon-musk-epstein-files-island-visits",
+    "score": 47,
+    "descendants": 3,
+    "time": 1769812204,
+    "source": "hackernews"
+  }
+]
