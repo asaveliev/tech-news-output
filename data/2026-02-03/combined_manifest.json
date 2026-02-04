@@ -1,0 +1,486 @@
+[
+  {
+    "hn_id": "46873294",
+    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+    "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+    "score": 905,
+    "descendants": 474,
+    "time": 1770136758,
+    "source": "hackernews"
+  },
+  {
+    "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes | Grok AI",
+    "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
+    "reddit_id": "1quw8ll",
+    "score": 770,
+    "num_comments": 24,
+    "date": "2026-02-03T16:17:07",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46872706",
+    "title": "Qwen3-Coder-Next",
+    "url": "https://qwen.ai/blog?id=qwen3-coder-next",
+    "score": 631,
+    "descendants": 383,
+    "time": 1770134510,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868759",
+    "title": "What's up with all those equals signs anyway?",
+    "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+    "score": 623,
+    "descendants": 183,
+    "time": 1770111460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46876105",
+    "title": "Data centers in space makes no sense",
+    "url": "https://civai.org/blog/space-data-centers",
+    "score": 483,
+    "descendants": 580,
+    "time": 1770147450,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46871173",
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "score": 438,
+    "descendants": 221,
+    "time": 1770127794,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46874097",
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
+    "score": 396,
+    "descendants": 129,
+    "time": 1770140000,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872540",
+    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+    "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+    "score": 365,
+    "descendants": 416,
+    "time": 1770133902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46865275",
+    "title": "Banning lead in gas worked. The proof is in our hair",
+    "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+    "score": 330,
+    "descendants": 268,
+    "time": 1770083541,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868998",
+    "title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "score": 311,
+    "descendants": 509,
+    "time": 1770113332,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46874619",
+    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+    "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+    "score": 290,
+    "descendants": 238,
+    "time": 1770141848,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872894",
+    "title": "X offices raided in France",
+    "url": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
+    "score": 286,
+    "descendants": 15,
+    "time": 1770135257,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46870015",
+    "title": "Bunny Database",
+    "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+    "score": 278,
+    "descendants": 112,
+    "time": 1770120824,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46878338",
+    "title": "Notepad++ supply chain attack breakdown",
+    "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
+    "score": 262,
+    "descendants": 119,
+    "time": 1770158127,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46864498",
+    "title": "How does misalignment scale with model intelligence and task complexity?",
+    "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+    "score": 237,
+    "descendants": 78,
+    "time": 1770078486,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46866544",
+    "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+    "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+    "score": 236,
+    "descendants": 169,
+    "time": 1770093205,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46873138",
+    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+    "url": "https://github.com/j178/prek",
+    "score": 230,
+    "descendants": 101,
+    "time": 1770136174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46873574",
+    "title": "221 Cannon is Not For Sale",
+    "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+    "score": 225,
+    "descendants": 173,
+    "time": 1770137766,
+    "source": "hackernews"
+  },
+  {
+    "title": "Adobe Animate is shutting down as company focuses on AI",
+    "url": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+    "reddit_id": "1quz8j9",
+    "score": 192,
+    "num_comments": 50,
+    "date": "2026-02-03T18:03:45",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46875228",
+    "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+    "url": "https://github.com/alibaba/AliSQL",
+    "score": 187,
+    "descendants": 23,
+    "time": 1770144018,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868479",
+    "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
+    "url": "https://safe-now.live",
+    "score": 178,
+    "descendants": 83,
+    "time": 1770109564,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46866481",
+    "title": "Coding assistants are solving the wrong problem",
+    "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+    "score": 171,
+    "descendants": 134,
+    "time": 1770092735,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872481",
+    "title": "Anthropic is Down",
+    "url": "https://updog.ai/status/anthropic",
+    "score": 143,
+    "descendants": 136,
+    "time": 1770133683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46874345",
+    "title": "I made 20 GDPR deletion requests. 12 were ignored",
+    "url": "https://nikolak.com/gdpr-failure/",
+    "score": 133,
+    "descendants": 119,
+    "time": 1770140902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46864517",
+    "title": "GitHub discusses giving maintainers control to disable PRs",
+    "url": "https://github.com/orgs/community/discussions/185387",
+    "score": 131,
+    "descendants": 67,
+    "time": 1770078602,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46876047",
+    "title": "China Moon Mission: Aiming for 2030 lunar landing",
+    "url": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
+    "score": 129,
+    "descendants": 145,
+    "time": 1770147131,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46875033",
+    "title": "Y Combinator will let founders receive funds in stablecoins",
+    "url": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
+    "score": 117,
+    "descendants": 170,
+    "time": 1770143328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868675",
+    "title": "Rentahuman – The Meatspace Layer for AI",
+    "url": "https://rentahuman.ai",
+    "score": 113,
+    "descendants": 92,
+    "time": 1770111007,
+    "source": "hackernews"
+  },
+  {
+    "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren't Allowed",
+    "url": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+    "reddit_id": "1qv2x3y",
+    "score": 105,
+    "num_comments": 51,
+    "date": "2026-02-03T20:16:40",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46868287",
+    "title": "From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066",
+    "score": 102,
+    "descendants": 166,
+    "time": 1770108171,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46874139",
+    "title": "Sandboxing AI Agents in Linux",
+    "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
+    "score": 100,
+    "descendants": 63,
+    "time": 1770140137,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46875952",
+    "title": "OpenClaw is basically a cascade of LLMs in prime position to mess stuff up",
+    "url": "https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/",
+    "score": 95,
+    "descendants": 64,
+    "time": 1770146765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46873539",
+    "title": "1 kilobyte is precisely 1000 bytes?",
+    "url": "https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes",
+    "score": 94,
+    "descendants": 291,
+    "time": 1770137630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46877403",
+    "title": "FlashAttention-T: Towards Tensorized Attention",
+    "url": "https://dl.acm.org/doi/10.1145/3774934.3786425",
+    "score": 91,
+    "descendants": 50,
+    "time": 1770153348,
+    "source": "hackernews"
+  },
+  {
+    "title": "The data breach notification service 'Have I Been Pwned' says U.S food chain Panera Bread breach impacts 5.1 million accounts, not 14 million customers as previously reported.",
+    "url": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+    "reddit_id": "1qul2im",
+    "score": 91,
+    "num_comments": 2,
+    "date": "2026-02-03T06:58:08",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46877075",
+    "title": "AI and Trust (2023)",
+    "url": "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html",
+    "score": 90,
+    "descendants": 17,
+    "time": 1770151770,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872190",
+    "title": "Data Brokers Can Fuel Violence Against Public Servants",
+    "url": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
+    "score": 88,
+    "descendants": 60,
+    "time": 1770132539,
+    "source": "hackernews"
+  },
+  {
+    "title": "Hackers exploit critical React Native Metro server bug vulnerability to breach dev systems for Windows and Linux.",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+    "reddit_id": "1qv7ddv",
+    "score": 88,
+    "num_comments": 1,
+    "date": "2026-02-03T23:04:45",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Microsoft begins testing Windows 11 26H2 with major fixes and Copilot changes",
+    "url": "https://www.techspot.com/news/111172-microsoft-begins-testing-windows-11-26h2-major-fixes.html",
+    "reddit_id": "1quuhhh",
+    "score": 81,
+    "num_comments": 25,
+    "date": "2026-02-03T15:11:51",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46872238",
+    "title": "The next steps for Airbus' big bet on open rotor engines",
+    "url": "https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/",
+    "score": 75,
+    "descendants": 68,
+    "time": 1770132700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46876720",
+    "title": "Anthropic AI tool sparks selloff from software to broader market",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
+    "score": 75,
+    "descendants": 58,
+    "time": 1770150081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46876455",
+    "title": "How vibe coding is killing open source",
+    "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
+    "score": 75,
+    "descendants": 56,
+    "time": 1770148973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46871387",
+    "title": "Show HN: Sandboxing untrusted code using WebAssembly",
+    "url": "https://github.com/mavdol/capsule",
+    "score": 72,
+    "descendants": 21,
+    "time": 1770128881,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868318",
+    "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+    "url": "https://github.com/KrystianJonca/lnai",
+    "score": 70,
+    "descendants": 30,
+    "time": 1770108357,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46867947",
+    "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+    "url": "https://github.com/whispem/minikv",
+    "score": 65,
+    "descendants": 35,
+    "time": 1770105619,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872562",
+    "title": "AI didn't break copyright law, it just exposed how broken it was",
+    "url": "https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/",
+    "score": 60,
+    "descendants": 88,
+    "time": 1770133962,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46871473",
+    "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+    "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+    "score": 59,
+    "descendants": 31,
+    "time": 1770129325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46869401",
+    "title": "Spain to ban social media access for under-16s, PM Sanchez says",
+    "url": "https://www.reuters.com/world/spain-hold-social-media-executives-accountable-illegal-hateful-content-2026-02-03/",
+    "score": 58,
+    "descendants": 100,
+    "time": 1770116732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46872818",
+    "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
+    "url": "https://github.com/ambonvik/cimba",
+    "score": 56,
+    "descendants": 16,
+    "time": 1770134947,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46868878",
+    "title": "U.S. Federal Data Is Disappearing",
+    "url": "https://www.notus.org/trump-white-house/federal-data-is-disappearing",
+    "score": 56,
+    "descendants": 4,
+    "time": 1770112364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46873782",
+    "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
+    "url": "https://octosphere.social/",
+    "score": 54,
+    "descendants": 23,
+    "time": 1770138702,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46875415",
+    "title": "DHS is trying to force tech companies to hand over data about Trump critics",
+    "url": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+    "score": 54,
+    "descendants": 3,
+    "time": 1770144647,
+    "source": "hackernews"
+  },
+  {
+    "title": "Material's Printed Batteries Put Power in Every Nook and Cranny",
+    "url": "https://spectrum.ieee.org/3d-printed-batteries",
+    "reddit_id": "1qutp2i",
+    "score": 26,
+    "num_comments": 4,
+    "date": "2026-02-03T14:41:35",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
