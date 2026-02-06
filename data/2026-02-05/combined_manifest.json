@@ -1,0 +1,532 @@
+[
+  {
+    "hn_id": "46902223",
+    "title": "Claude Opus 4.6",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6",
+    "score": 1845,
+    "descendants": 769,
+    "time": 1770313133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902638",
+    "title": "GPT-5.3-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+    "score": 1234,
+    "descendants": 469,
+    "time": 1770314888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46896146",
+    "title": "Don't rent the cloud, own instead",
+    "url": "https://blog.comma.ai/datacenter/",
+    "score": 1128,
+    "descendants": 465,
+    "time": 1770270601,
+    "source": "hackernews"
+  },
+  {
+    "title": "Subaru is now building EVs in-house, starting with a new electric SUV",
+    "url": "https://electrek.co/2026/02/05/subaru-builds-first-in-house-ev-new-electric-suv/",
+    "reddit_id": "1qwynmb",
+    "score": 826,
+    "num_comments": 69,
+    "date": "2026-02-05T21:44:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Rent-a-Human Site Lets AI Agents Hire an IRL Set of Opposable Thumbs | Welcome to the future, where you can do TaskRabbit for robots.",
+    "url": "https://gizmodo.com/rent-a-human-site-lets-ai-agents-hire-an-irl-set-of-opposable-thumbs-2000717958",
+    "reddit_id": "1qwngrn",
+    "score": 777,
+    "num_comments": 79,
+    "date": "2026-02-05T14:58:04",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone | Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
+    "url": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
+    "reddit_id": "1qwfjsc",
+    "score": 726,
+    "num_comments": 69,
+    "date": "2026-02-05T08:10:00",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46903556",
+    "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
+    "url": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
+    "score": 594,
+    "descendants": 411,
+    "time": 1770318277,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46903558",
+    "title": "My AI Adoption Journey",
+    "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "score": 525,
+    "descendants": 161,
+    "time": 1770318280,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46893970",
+    "title": "OpenClaw is what Apple intelligence should have been",
+    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "score": 499,
+    "descendants": 405,
+    "time": 1770251286,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46903616",
+    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+    "url": "https://www.anthropic.com/engineering/building-c-compiler",
+    "score": 496,
+    "descendants": 460,
+    "time": 1770318471,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46905555",
+    "title": "It's 2026, Just Use Postgres",
+    "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
+    "score": 475,
+    "descendants": 288,
+    "time": 1770326643,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46895972",
+    "title": "When internal hostnames are leaked to the clown",
+    "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+    "score": 432,
+    "descendants": 240,
+    "time": 1770268956,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46904361",
+    "title": "LinkedIn checks for 2953 browser extensions",
+    "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+    "score": 370,
+    "descendants": 181,
+    "time": 1770321639,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46899100",
+    "title": "CIA to Sunset the World Factbook",
+    "url": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724",
+    "score": 361,
+    "descendants": 243,
+    "time": 1770295992,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46899808",
+    "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
+    "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
+    "score": 361,
+    "descendants": 152,
+    "time": 1770300673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902368",
+    "title": "Orchestrate teams of Claude Code sessions",
+    "url": "https://code.claude.com/docs/en/agent-teams",
+    "score": 340,
+    "descendants": 192,
+    "time": 1770313794,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46901452",
+    "title": "European Commission Trials Matrix to Replace Teams",
+    "url": "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/",
+    "score": 333,
+    "descendants": 167,
+    "time": 1770309236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46898615",
+    "title": "Top downloaded skill in ClawHub contains malware",
+    "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+    "score": 315,
+    "descendants": 142,
+    "time": 1770291903,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46895860",
+    "title": "ICE seeks industry input on ad tech location data for investigative use",
+    "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+    "score": 277,
+    "descendants": 335,
+    "time": 1770267721,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902512",
+    "title": "Unsealed court documents show teen addiction was big tech's \"top priority\"",
+    "url": "https://techoversight.org/2026/01/25/top-report-mdl-jan-25/",
+    "score": 270,
+    "descendants": 153,
+    "time": 1770314407,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46903001",
+    "title": "Ardour 9.0",
+    "url": "https://ardour.org/whatsnew.html",
+    "score": 260,
+    "descendants": 61,
+    "time": 1770316216,
+    "source": "hackernews"
+  },
+  {
+    "title": "New Amaranth Dragon cyberespionage group, linked to APT41 state-sponsored Chinese operations, exploits vulnerability in WinRAR flaw on government and law enforcement agencies.",
+    "url": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
+    "reddit_id": "1qw7oe5",
+    "score": 241,
+    "num_comments": 16,
+    "date": "2026-02-05T01:35:33",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46899132",
+    "title": "Company as Code",
+    "url": "https://blog.42futures.com/p/company-as-code",
+    "score": 236,
+    "descendants": 118,
+    "time": 1770296188,
+    "source": "hackernews"
+  },
+  {
+    "title": "NASA's Artemis II will test laser communications system in lunar orbit",
+    "url": "https://www.techspot.com/news/111192-nasa-artemis-ii-test-laser-communications-system-lunar.html",
+    "reddit_id": "1qwmc21",
+    "score": 231,
+    "num_comments": 18,
+    "date": "2026-02-05T14:12:22",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46897737",
+    "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
+    "url": "https://github.com/HKUDS/nanobot",
+    "score": 229,
+    "descendants": 115,
+    "time": 1770284351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902909",
+    "title": "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
+    "url": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting",
+    "score": 201,
+    "descendants": 129,
+    "time": 1770315905,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46895381",
+    "title": "Wirth's Revenge",
+    "url": "https://jmoiron.net/blog/wirths-revenge/",
+    "score": 190,
+    "descendants": 89,
+    "time": 1770262706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46897332",
+    "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
+    "url": "https://github.com/vkazanov/elcity",
+    "score": 165,
+    "descendants": 43,
+    "time": 1770281173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46899591",
+    "title": "The New Collabora Office for Desktop",
+    "url": "https://www.collaboraonline.com/collabora-office/",
+    "score": 163,
+    "descendants": 101,
+    "time": 1770299279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46906947",
+    "title": "The RCE that AMD won't fix",
+    "url": "https://mrbruh.com/amd/",
+    "score": 150,
+    "descendants": 64,
+    "time": 1770334158,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46904569",
+    "title": "Claude Opus 4.6 extra usage promo",
+    "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
+    "score": 150,
+    "descendants": 46,
+    "time": 1770322548,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46896427",
+    "title": "BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair",
+    "url": "https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair",
+    "score": 149,
+    "descendants": 71,
+    "time": 1770273227,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902273",
+    "title": "Advancing finance with Claude Opus 4.6",
+    "url": "https://claude.com/blog/opus-4-6-finance",
+    "score": 144,
+    "descendants": 44,
+    "time": 1770313367,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46894815",
+    "title": "Child prodigies rarely become elite performers",
+    "url": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
+    "score": 138,
+    "descendants": 146,
+    "time": 1770257828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46903929",
+    "title": "The time I didn't meet Jeffrey Epstein",
+    "url": "https://scottaaronson.blog/?p=9534",
+    "score": 135,
+    "descendants": 121,
+    "time": 1770319781,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46905761",
+    "title": "Review of 1984 by Isaac Asimov (1980)",
+    "url": "https://www.newworker.org/ncptrory/1984.htm",
+    "score": 135,
+    "descendants": 66,
+    "time": 1770327597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46899066",
+    "title": "GB Renewables Map",
+    "url": "https://renewables-map.robinhawkes.com/",
+    "score": 135,
+    "descendants": 48,
+    "time": 1770295681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46899770",
+    "title": "OpenAI Frontier",
+    "url": "https://openai.com/index/introducing-openai-frontier/",
+    "score": 123,
+    "descendants": 102,
+    "time": 1770300423,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46897732",
+    "title": "Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf",
+    "score": 119,
+    "descendants": 30,
+    "time": 1770284323,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46895388",
+    "title": "A few CPU hardware bugs",
+    "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+    "score": 118,
+    "descendants": 40,
+    "time": 1770262783,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902745",
+    "title": "The Wyden Siren: Senator's Cryptic CIA Letter Pattern Has Never Been Wrong",
+    "url": "https://www.techdirt.com/2026/02/05/the-wyden-siren-senators-cryptic-cia-letter-follows-a-pattern-thats-never-been-wrong/",
+    "score": 106,
+    "descendants": 9,
+    "time": 1770315299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46897620",
+    "title": "If you've got Nothing to Hide (2015)",
+    "url": "https://jacquesmattheij.com/if-you-have-nothing-to-hide/",
+    "score": 97,
+    "descendants": 69,
+    "time": 1770283491,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46893910",
+    "title": "Steam Hardware: Launch timing and other FAQs",
+    "url": "https://store.steampowered.com/news/group/45479024/view/625565405086220583",
+    "score": 97,
+    "descendants": 51,
+    "time": 1770250866,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46894151",
+    "title": "Sam Altman responds to Anthropic's \"Ads are coming to AI. But not to Claude\" ads",
+    "url": "https://twitter.com/sama/status/2019139174339928189",
+    "score": 86,
+    "descendants": 106,
+    "time": 1770252611,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46896586",
+    "title": "Modernizing Linux swapping: introducing the swap table",
+    "url": "https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
+    "score": 78,
+    "descendants": 115,
+    "time": 1770274723,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46906655",
+    "title": "Cubans rendered powerless as outages persist and tensions with US escalate",
+    "url": "https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f",
+    "score": 69,
+    "descendants": 59,
+    "time": 1770332517,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46897210",
+    "title": "Valve's Steam Machine has been delayed, and the RAM crisis will impact pricing",
+    "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+    "score": 69,
+    "descendants": 59,
+    "time": 1770280487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46896823",
+    "title": "ICE Begins Buying 'Mega' Warehouse Detention Centers Across US",
+    "url": "https://www.bloomberg.com/news/features/2026-01-29/us-spends-hundreds-of-millions-on-warehouses-for-ice-detention-centers",
+    "score": 66,
+    "descendants": 51,
+    "time": 1770276951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46895602",
+    "title": "Sam Altman Responds to Anthropic Ad Campaign",
+    "url": "https://twitter.com/i/status/2019139174339928189",
+    "score": 63,
+    "descendants": 36,
+    "time": 1770264873,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46896785",
+    "title": "Russia 'intercepts Europe's key satellites'",
+    "url": "https://news.satnews.com/2026/02/04/russia-intercepts-europes-key-satellites-placing-nato-satellite-at-risk/",
+    "score": 63,
+    "descendants": 24,
+    "time": 1770276627,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46900497",
+    "title": "Bitcoin tumbles below $70k, wiping out gains since Trump 2024 win",
+    "url": "https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/",
+    "score": 61,
+    "descendants": 48,
+    "time": 1770304302,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46901716",
+    "title": "Hypernetworks: Neural Networks for Hierarchical Data",
+    "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
+    "score": 60,
+    "descendants": 4,
+    "time": 1770310538,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46906590",
+    "title": "India's female workers watching hours of abusive content to train AI",
+    "url": "https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai",
+    "score": 57,
+    "descendants": 77,
+    "time": 1770332111,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46902855",
+    "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+    "url": "https://arxiv.org/abs/2512.04124",
+    "score": 57,
+    "descendants": 47,
+    "time": 1770315713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46905896",
+    "title": "What if writing tests was a joyful experience? (2023)",
+    "url": "https://blog.janestreet.com/the-joy-of-expect-tests/",
+    "score": 57,
+    "descendants": 22,
+    "time": 1770328311,
+    "source": "hackernews"
+  },
+  {
+    "title": "Spain's Ministry of Science announced a partial shutdown of its IT systems after breach claims, affecting several citizen- and company-facing services.",
+    "url": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
+    "reddit_id": "1qx0vz1",
+    "score": 50,
+    "num_comments": 1,
+    "date": "2026-02-05T23:11:41",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "“Quantum Twins” Simulate What Supercomputers Can’t",
+    "url": "https://spectrum.ieee.org/quantum-twins",
+    "reddit_id": "1qwsuyc",
+    "score": 47,
+    "num_comments": 0,
+    "date": "2026-02-05T18:14:04",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Vivaldi 7.8 adds pinned tabs and private search for mobile",
+    "url": "https://www.neowin.net/news/vivaldi-78-adds-pinned-tabs-and-private-search-for-mobile/",
+    "reddit_id": "1qwi5oz",
+    "score": 38,
+    "num_comments": 6,
+    "date": "2026-02-05T10:50:56",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
