@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "46911901",
+    "title": "I now assume that all ads on Apple news are scams",
+    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+    "score": 1029,
+    "descendants": 428,
+    "time": 1770380203,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46914785",
+    "title": "The Waymo World Model",
+    "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+    "score": 861,
+    "descendants": 520,
+    "time": 1770394842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46911869",
+    "title": "TikTok's 'addictive design' found to be illegal in Europe",
+    "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+    "score": 621,
+    "descendants": 449,
+    "time": 1770379908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46910963",
+    "title": "A new bill in New York would require disclaimers on AI-generated news content",
+    "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+    "score": 533,
+    "descendants": 221,
+    "time": 1770371815,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918612",
+    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+    "url": "https://openciv3.org/",
+    "score": 532,
+    "descendants": 148,
+    "time": 1770414683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46912800",
+    "title": "Hackers (1995) Animated Experience",
+    "url": "https://hackers-1995.vercel.app/",
+    "score": 434,
+    "descendants": 226,
+    "time": 1770385795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46913903",
+    "title": "An Update on Heroku",
+    "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+    "score": 375,
+    "descendants": 252,
+    "time": 1770391223,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908491",
+    "title": "GitHub Actions is slowly killing engineering teams",
+    "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+    "score": 366,
+    "descendants": 196,
+    "time": 1770346711,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46913793",
+    "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+    "url": "https://github.com/microsoft/litebox",
+    "score": 343,
+    "descendants": 168,
+    "time": 1770390784,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46914159",
+    "title": "Sheldon Brown's Bicycle Technical Info",
+    "url": "https://www.sheldonbrown.com/",
+    "score": 340,
+    "descendants": 90,
+    "time": 1770392442,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46917033",
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "url": "https://vecti.com",
+    "score": 295,
+    "descendants": 130,
+    "time": 1770406057,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46909439",
+    "title": "Systems Thinking",
+    "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+    "score": 264,
+    "descendants": 115,
+    "time": 1770355476,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46909468",
+    "title": "Things Unix can do atomically (2010)",
+    "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+    "score": 246,
+    "descendants": 90,
+    "time": 1770355795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46916609",
+    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+    "url": "https://eljojo.github.io/rememory/",
+    "score": 238,
+    "descendants": 147,
+    "time": 1770403918,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46916586",
+    "title": "How to effectively write quality code with AI",
+    "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "score": 220,
+    "descendants": 162,
+    "time": 1770403799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918254",
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "url": "https://github.com/pydantic/monty",
+    "score": 182,
+    "descendants": 81,
+    "time": 1770412596,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918429",
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "url": "https://github.com/valdanylchuk/breezydemo",
+    "score": 180,
+    "descendants": 21,
+    "time": 1770413591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46914094",
+    "title": "NIMBYs aren't just shutting down housing",
+    "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing",
+    "score": 158,
+    "descendants": 368,
+    "time": 1770392085,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918727",
+    "title": "Early Christian Writings",
+    "url": "https://earlychristianwritings.com/",
+    "score": 154,
+    "descendants": 100,
+    "time": 1770415246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46909037",
+    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+    "url": "https://github.com/artifact-keeper",
+    "score": 148,
+    "descendants": 62,
+    "time": 1770351179,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46915587",
+    "title": "Fraud investigation is believing your lying eyes",
+    "url": "https://www.bitsaboutmoney.com/archive/fraud-investigation/",
+    "score": 143,
+    "descendants": 183,
+    "time": 1770398672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46911170",
+    "title": "Invention of DNA \"page numbers\" opens up possibilities for the bioeconomy",
+    "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
+    "score": 141,
+    "descendants": 89,
+    "time": 1770373576,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46915102",
+    "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+    "url": "https://infisical.com/blog/devops-to-solutions-engineering",
+    "score": 127,
+    "descendants": 54,
+    "time": 1770396347,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46912781",
+    "title": "LLMs could be, but shouldn't be compilers",
+    "url": "https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/",
+    "score": 112,
+    "descendants": 124,
+    "time": 1770385681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46907350",
+    "title": "C isn't a programming language anymore (2022)",
+    "url": "https://faultlore.com/blah/c-isnt-a-language/",
+    "score": 107,
+    "descendants": 173,
+    "time": 1770336955,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908671",
+    "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+    "url": "https://vespalec.com/blog/tower-of-flaws/",
+    "score": 105,
+    "descendants": 48,
+    "time": 1770348149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46911417",
+    "title": "US Immigration on the Easiest Setting",
+    "url": "https://pluralistic.net/2026/02/06/doge-ball/#n-600",
+    "score": 100,
+    "descendants": 120,
+    "time": 1770375813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46909029",
+    "title": "Volkswagen overtook Tesla as Europe's top EV seller in 2025",
+    "url": "https://www.reuters.com/business/autos-transportation/volkswagen-overtook-tesla-europes-top-ev-seller-2025-2026-02-05/",
+    "score": 95,
+    "descendants": 32,
+    "time": 1770351126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46913302",
+    "title": "Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off",
+    "url": "https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html",
+    "score": 87,
+    "descendants": 84,
+    "time": 1770388402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908700",
+    "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+    "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+    "score": 78,
+    "descendants": 8,
+    "time": 1770348351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918043",
+    "title": "Waymo exec admits remote operators in Philippines help guide US robotaxis",
+    "url": "https://eletric-vehicles.com/waymo/waymo-exec-admits-remote-operators-in-philippines-help-guide-us-robotaxis/",
+    "score": 67,
+    "descendants": 17,
+    "time": 1770411464,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908068",
+    "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
+    "url": "https://www.bbc.com/news/articles/c62rexy9y3no",
+    "score": 64,
+    "descendants": 22,
+    "time": 1770343274,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918824",
+    "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+    "url": "https://github.com/phreda4/r3",
+    "score": 62,
+    "descendants": 11,
+    "time": 1770415813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46913201",
+    "title": "Wall Street just lost $285B because of 13 Markdown files",
+    "url": "https://martinalderson.com/posts/wall-street-lost-285-billion-because-of-13-markdown-files/",
+    "score": 60,
+    "descendants": 51,
+    "time": 1770387897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46912538",
+    "title": "U.S. asks American citizens to 'leave Iran now'",
+    "url": "https://www.cnbc.com/2026/02/06/us-asks-american-citizens-to-leave-iran-now-ahead-of-high-stakes-talks-with-tehran-.html",
+    "score": 60,
+    "descendants": 20,
+    "time": 1770384333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46918300",
+    "title": "Oregon raised spending by 80%, math scores dropped",
+    "url": "https://www.educationnext.org/hard-lessons-from-new-naep-results/",
+    "score": 59,
+    "descendants": 102,
+    "time": 1770412824,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46912843",
+    "title": "FORTH? Really!?",
+    "url": "https://rescrv.net/w/2026/02/06/associative",
+    "score": 55,
+    "descendants": 18,
+    "time": 1770386049,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46915646",
+    "title": "Uber Found Liable in Rape by Driver, Setting Stage for Cases",
+    "url": "https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html",
+    "score": 54,
+    "descendants": 70,
+    "time": 1770398979,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46907794",
+    "title": "Bitcoin gets a zero price target in wake of Burry warning",
+    "url": "https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero",
+    "score": 52,
+    "descendants": 65,
+    "time": 1770340771,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46916961",
+    "title": "Man who videotaped himself BASE jumping in Yosemite arrested, says it was AI",
+    "url": "https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai",
+    "score": 50,
+    "descendants": 84,
+    "time": 1770405653,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46915305",
+    "title": "Trump shares video with racist clip depicting Obamas as apes",
+    "url": "https://www.bbc.co.uk/news/articles/ce8r8y78g10o",
+    "score": 46,
+    "descendants": 28,
+    "time": 1770397325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46911970",
+    "title": "Anna's Archive Loses .PM Domain, Adds Greenland (.GL) Backup",
+    "url": "https://torrentfreak.com/annas-archive-loses-pm-domain-adds-greenland-gl-backup/",
+    "score": 46,
+    "descendants": 7,
+    "time": 1770380819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46911873",
+    "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
+    "url": "https://wiz.jock.pl/experiments/agent-arena/",
+    "score": 45,
+    "descendants": 48,
+    "time": 1770379938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46914337",
+    "title": "macOS No Longer Ships with Emacs",
+    "url": "https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/",
+    "score": 40,
+    "descendants": 8,
+    "time": 1770393183,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46913285",
+    "title": "How virtual textures work",
+    "url": "https://www.shlom.dev/articles/how-virtual-textures-really-work/",
+    "score": 39,
+    "descendants": 29,
+    "time": 1770388325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908662",
+    "title": "What's at the Other End of 8.8.8.8?",
+    "url": "https://blog.nono.io/post/8.8.8.8/",
+    "score": 39,
+    "descendants": 6,
+    "time": 1770348079,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46919824",
+    "title": "Introducing the Developer Knowledge API and MCP Server",
+    "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+    "score": 38,
+    "descendants": 11,
+    "time": 1770422333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46908650",
+    "title": "Solving Shrinkwrap: New Experimental Technique",
+    "url": "https://kizu.dev/shrinkwrap-solution/",
+    "score": 38,
+    "descendants": 3,
+    "time": 1770347968,
+    "source": "hackernews"
+  }
+]
