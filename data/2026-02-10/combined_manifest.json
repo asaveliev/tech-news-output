@@ -1,0 +1,572 @@
+[
+  {
+    "hn_id": "46962996",
+    "title": "The Singularity will occur on a Tuesday",
+    "url": "https://campedersen.com/singularity",
+    "score": 989,
+    "descendants": 565,
+    "time": 1770743071,
+    "source": "hackernews"
+  },
+  {
+    "title": "Anthropic AI Safety Researcher Warns Of World ‘In Peril’ In Resignation",
+    "url": "https://www.forbes.com/sites/conormurray/2026/02/09/anthropic-ai-safety-researcher-warns-of-world-in-peril-in-resignation",
+    "reddit_id": "1r13ozh",
+    "score": 827,
+    "num_comments": 97,
+    "date": "2026-02-10T15:25:09",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46958399",
+    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+    "score": 826,
+    "descendants": 678,
+    "time": 1770723734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963804",
+    "title": "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
+    "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+    "score": 737,
+    "descendants": 299,
+    "time": 1770745685,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46960675",
+    "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+    "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+    "score": 717,
+    "descendants": 565,
+    "time": 1770736116,
+    "source": "hackernews"
+  },
+  {
+    "title": "EV batteries age twice as fast with ultra-fast charging",
+    "url": "https://www.techspot.com/news/111251-ev-batteries-age-twice-fast-ultra-fast-charging.html",
+    "reddit_id": "1r12h8y",
+    "score": 602,
+    "num_comments": 65,
+    "date": "2026-02-10T14:39:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46960036",
+    "title": "Oxide raises $200M Series C",
+    "url": "https://oxide.computer/blog/our-200m-series-c",
+    "score": 565,
+    "descendants": 298,
+    "time": 1770733249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46954920",
+    "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+    "url": "https://arxiv.org/abs/2512.20798",
+    "score": 524,
+    "descendants": 347,
+    "time": 1770693437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46959832",
+    "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+    "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+    "score": 468,
+    "descendants": 357,
+    "time": 1770732130,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46961345",
+    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+    "url": "https://entire.io/blog/hello-entire-world/",
+    "score": 452,
+    "descendants": 409,
+    "time": 1770738287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46957198",
+    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+    "score": 394,
+    "descendants": 171,
+    "time": 1770715140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46954136",
+    "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "score": 386,
+    "descendants": 56,
+    "time": 1770686802,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46958231",
+    "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+    "url": "https://code.idtech.space/fn/hl2",
+    "score": 372,
+    "descendants": 78,
+    "time": 1770722516,
+    "source": "hackernews"
+  },
+  {
+    "title": "Torvalds confirms Linux Kernel 7.0 is almost ready for release, bringing many performance improvements with it — desktop use and gaming may see boost, Ubuntu 26.04 LTS hopes to use as default Kernel",
+    "url": "https://www.tomshardware.com/software/linux/torvalds-confirms-linux-kernel-7-0-is-almost-ready-for-release-bringing-many-performance-improvements-with-it-desktop-use-and-gaming-may-see-boost-ubuntu-26-04-lts-hopes-to-use-as-default-kernel",
+    "reddit_id": "1r0mlxc",
+    "score": 346,
+    "num_comments": 16,
+    "date": "2026-02-10T01:05:41",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46967772",
+    "title": "The Day the Telnet Died",
+    "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+    "score": 307,
+    "descendants": 210,
+    "time": 1770762040,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46954049",
+    "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+    "url": "https://github.com/antirez/voxtral.c",
+    "score": 296,
+    "descendants": 29,
+    "time": 1770686255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46960624",
+    "title": "The US is flirting with its first-ever population decline",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time",
+    "score": 283,
+    "descendants": 879,
+    "time": 1770735924,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46953815",
+    "title": "Zulip.com Values",
+    "url": "https://zulip.com/values/",
+    "score": 283,
+    "descendants": 63,
+    "time": 1770684374,
+    "source": "hackernews"
+  },
+  {
+    "title": "Google tool now helps remove government IDs from search results",
+    "url": "https://www.bgr.com/2097677/google-search-remove-personal-data-id-explicit-images/",
+    "reddit_id": "1r18u7h",
+    "score": 276,
+    "num_comments": 4,
+    "date": "2026-02-10T18:30:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46960517",
+    "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
+    "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
+    "score": 274,
+    "descendants": 184,
+    "time": 1770735515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46958345",
+    "title": "The Feynman Lectures on Physics (1961-1964)",
+    "url": "https://www.feynmanlectures.caltech.edu/",
+    "score": 268,
+    "descendants": 72,
+    "time": 1770723374,
+    "source": "hackernews"
+  },
+  {
+    "title": "Kia EV2 crushes cold weather test with impressive driving range and charging speeds",
+    "url": "https://electrek.co/2026/02/10/kia-ev2-crushes-cold-weather-driving-range-charging-test/",
+    "reddit_id": "1r1day4",
+    "score": 260,
+    "num_comments": 34,
+    "date": "2026-02-10T21:10:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46955703",
+    "title": "AI doesn’t reduce work, it intensifies it",
+    "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+    "score": 247,
+    "descendants": 285,
+    "time": 1770700740,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46959418",
+    "title": "Simplifying Vulkan one subsystem at a time",
+    "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+    "score": 240,
+    "descendants": 153,
+    "time": 1770729974,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46960392",
+    "title": "Parse, Don't Validate (2019)",
+    "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+    "score": 229,
+    "descendants": 156,
+    "time": 1770734969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46955712",
+    "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+    "url": "https://www.netviews.app",
+    "score": 204,
+    "descendants": 55,
+    "time": 1770700832,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46962402",
+    "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+    "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+    "score": 196,
+    "descendants": 243,
+    "time": 1770741390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46953491",
+    "title": "What functional programmers get wrong about systems",
+    "url": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+    "score": 188,
+    "descendants": 142,
+    "time": 1770682064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46962801",
+    "title": "Semaglutide improves knee osteoarthritis independant of weight loss",
+    "url": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
+    "score": 179,
+    "descendants": 138,
+    "time": 1770742503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46965440",
+    "title": "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
+    "score": 163,
+    "descendants": 121,
+    "time": 1770751555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46962924",
+    "title": "\"Hate brings views\": Confessions of a London fake news TikToker",
+    "url": "https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants",
+    "score": 161,
+    "descendants": 100,
+    "time": 1770742840,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46962641",
+    "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "score": 153,
+    "descendants": 34,
+    "time": 1770742049,
+    "source": "hackernews"
+  },
+  {
+    "title": "Microsoft releases Windows 10 KB5075912 extended security update to fix February 2026 Patch Tuesday vulnerabilities, including six zero-days, and continue rolling out replacements for expiring Secure Boot certificates.",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
+    "reddit_id": "1r1ck77",
+    "score": 137,
+    "num_comments": 18,
+    "date": "2026-02-10T20:42:54",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Can medical AI lie? Large study maps how LLMs handle health misinformation",
+    "url": "https://medicalxpress.com/news/2026-02-medical-ai-large-llms-health.html",
+    "reddit_id": "1r1b4v9",
+    "score": 130,
+    "num_comments": 31,
+    "date": "2026-02-10T19:51:51",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46961261",
+    "title": "Bazzite Post-Mortem",
+    "url": "https://ba.antheas.dev/bazzite-postmortem.html",
+    "score": 114,
+    "descendants": 122,
+    "time": 1770738042,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46964159",
+    "title": "The switch to Linux and the beginning of my self-hosting journey",
+    "url": "https://hazemkrimi.tech/blog/linux-self-hosting-journey/",
+    "score": 111,
+    "descendants": 132,
+    "time": 1770746950,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46968424",
+    "title": "FDA declines to review Moderna's mRNA flu shot",
+    "url": "https://www.nbcnews.com/health/health-news/fda-declines-review-modernas-mrna-flu-shot-rcna258436",
+    "score": 109,
+    "descendants": 44,
+    "time": 1770765411,
+    "source": "hackernews"
+  },
+  {
+    "title": "How and When the Memory Chip Shortage Will End",
+    "url": "https://spectrum.ieee.org/dram-shortage",
+    "reddit_id": "1r19y52",
+    "score": 98,
+    "num_comments": 20,
+    "date": "2026-02-10T19:09:13",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46961726",
+    "title": "Competition is not market validation",
+    "url": "https://www.ablg.io/blog/competition-is-not-validation",
+    "score": 94,
+    "descendants": 29,
+    "time": 1770739461,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46965776",
+    "title": "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\" (2023)",
+    "url": "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/",
+    "score": 93,
+    "descendants": 111,
+    "time": 1770752942,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46959067",
+    "title": "Australian author's erotic novel is child sex abuse material, judge finds",
+    "url": "https://www.bbc.com/news/articles/ckgzv529v5no",
+    "score": 89,
+    "descendants": 102,
+    "time": 1770727947,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963887",
+    "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+    "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+    "score": 87,
+    "descendants": 51,
+    "time": 1770745966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46960118",
+    "title": "Redefining Go Functions",
+    "url": "https://pboyd.io/posts/redefining-go-functions/",
+    "score": 87,
+    "descendants": 26,
+    "time": 1770733636,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963671",
+    "title": "London's most controversial cyclist",
+    "url": "https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/",
+    "score": 86,
+    "descendants": 103,
+    "time": 1770745164,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46966182",
+    "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+    "url": "https://github.com/tambo-ai/tambo",
+    "score": 85,
+    "descendants": 19,
+    "time": 1770754572,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46958742",
+    "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+    "url": "https://github.com/distr-sh/distr",
+    "score": 83,
+    "descendants": 19,
+    "time": 1770725963,
+    "source": "hackernews"
+  },
+  {
+    "title": "The latest Linux kernel release closes out the 6.x era - and it's a gift to cloud admins",
+    "url": "https://www.zdnet.com/article/latest-linux-kernel-ends-6x-era-cloud-admins/",
+    "reddit_id": "1r18aqz",
+    "score": 83,
+    "num_comments": 0,
+    "date": "2026-02-10T18:11:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Flickr emails users about data breach, pins it on 3rd party",
+    "url": "https://www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/?utm_medium=share&amp;utm_content=article&amp;utm_source=twitter",
+    "reddit_id": "1r145xr",
+    "score": 83,
+    "num_comments": 8,
+    "date": "2026-02-10T15:42:31",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46960743",
+    "title": "Disruption with Some GitHub Services",
+    "url": "https://www.githubstatus.com/incidents/wkgqj4546z1c",
+    "score": 72,
+    "descendants": 23,
+    "time": 1770736331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963865",
+    "title": "Markdown CLI viewer with VI keybindings",
+    "url": "https://github.com/taf2/mdvi",
+    "score": 69,
+    "descendants": 32,
+    "time": 1770745870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46958378",
+    "title": "RLHF from Scratch",
+    "url": "https://github.com/ashworks1706/rlhf-from-scratch",
+    "score": 67,
+    "descendants": 3,
+    "time": 1770723566,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46962871",
+    "title": "Show HN: I made paperboat.website, a platform for friends and creativity",
+    "url": "https://paperboat.website/home/",
+    "score": 64,
+    "descendants": 26,
+    "time": 1770742672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46966605",
+    "title": "The Falkirk Wheel",
+    "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+    "score": 62,
+    "descendants": 23,
+    "time": 1770756140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46966209",
+    "title": "Show HN: Clawe – open-source Trello for agent teams",
+    "url": "https://github.com/getclawe/clawe",
+    "score": 61,
+    "descendants": 38,
+    "time": 1770754665,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46954332",
+    "title": "How TikTok 2.0 Became a Weapon for ICE",
+    "url": "https://newrepublic.com/article/205956/americanized-tiktok-backdoor-ice-surveillance",
+    "score": 59,
+    "descendants": 15,
+    "time": 1770688332,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46954899",
+    "title": "Why \"just prompt better\" doesn't work",
+    "url": "https://www.bicameral-ai.com/blog/tech-debt-meeting",
+    "score": 58,
+    "descendants": 24,
+    "time": 1770693228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963177",
+    "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
+    "url": "https://github.com/pretzelai/stripe-no-webhooks",
+    "score": 56,
+    "descendants": 23,
+    "time": 1770743688,
+    "source": "hackernews"
+  },
+  {
+    "title": "Discord to start requiring face scan or ID to access adult content",
+    "url": "https://www.bbc.com/news/articles/c1d67vdlk1ko",
+    "reddit_id": "1r0qm7a",
+    "score": 56,
+    "num_comments": 20,
+    "date": "2026-02-10T04:04:48",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "46959679",
+    "title": "America's $1T AI Gamble",
+    "url": "https://www.apricitas.io/p/americas-1t-ai-gamble",
+    "score": 55,
+    "descendants": 77,
+    "time": 1770731304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46963691",
+    "title": "ClawHub",
+    "url": "https://clawhub.ai/",
+    "score": 48,
+    "descendants": 39,
+    "time": 1770745255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46965012",
+    "title": "Show HN: Multimodal perception system for real-time conversation",
+    "url": "https://raven.tavuslabs.org",
+    "score": 46,
+    "descendants": 12,
+    "time": 1770749915,
+    "source": "hackernews"
+  },
+  {
+    "title": "Waymo is testing driverless robotaxis in Nashville",
+    "url": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+    "reddit_id": "1r0mn52",
+    "score": 46,
+    "num_comments": 38,
+    "date": "2026-02-10T01:07:13",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
