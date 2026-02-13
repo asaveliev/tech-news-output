@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "46990729",
+    "title": "An AI agent published a hit piece on me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "score": 1689,
+    "descendants": 699,
+    "time": 1770913404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46985151",
+    "title": "Warcraft III Peon Voice Notifications for Claude Code",
+    "url": "https://github.com/tonyyont/peon-ping",
+    "score": 949,
+    "descendants": 289,
+    "time": 1770873529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46987559",
+    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+    "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+    "score": 880,
+    "descendants": 689,
+    "time": 1770896761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46991240",
+    "title": "Gemini 3 Deep Think",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "score": 810,
+    "descendants": 507,
+    "time": 1770915350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46992553",
+    "title": "GPT‑5.3‑Codex‑Spark",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "score": 681,
+    "descendants": 282,
+    "time": 1770919569,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46988596",
+    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+    "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "score": 638,
+    "descendants": 243,
+    "time": 1770903020,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46991394",
+    "title": "ai;dr",
+    "url": "https://www.0xsid.com/blog/aidr",
+    "score": 628,
+    "descendants": 252,
+    "time": 1770915810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989217",
+    "title": "Major European payment processor can't send email to Google Workspace users",
+    "url": "https://atha.io/blog/2026-02-12-viva",
+    "score": 492,
+    "descendants": 327,
+    "time": 1770906255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46997008",
+    "title": "Resizing windows on macOS Tahoe – the saga continues",
+    "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+    "score": 422,
+    "descendants": 184,
+    "time": 1770940344,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46996999",
+    "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+    "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+    "score": 351,
+    "descendants": 181,
+    "time": 1770940276,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46990056",
+    "title": "US businesses and consumers pay 90% of tariff costs, New York Fed says",
+    "url": "https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d",
+    "score": 348,
+    "descendants": 304,
+    "time": 1770910338,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46993345",
+    "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "score": 329,
+    "descendants": 345,
+    "time": 1770922736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46995046",
+    "title": "Welcoming Discord users amidst the challenge of Age Verification",
+    "url": "https://matrix.org/blog/2026/02/welcome-discord/",
+    "score": 273,
+    "descendants": 139,
+    "time": 1770929853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989107",
+    "title": "Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware",
+    "url": "https://www.theregister.com/2026/02/12/apple_ios_263/",
+    "score": 252,
+    "descendants": 208,
+    "time": 1770905770,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46984735",
+    "title": "How to make a living as an artist",
+    "url": "https://essays.fnnch.com/make-a-living",
+    "score": 251,
+    "descendants": 122,
+    "time": 1770868586,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46992815",
+    "title": "Polis: Open-source platform for large-scale civic deliberation",
+    "url": "https://pol.is/home2",
+    "score": 231,
+    "descendants": 84,
+    "time": 1770920600,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46988438",
+    "title": "Apache Arrow is 10 years old",
+    "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+    "score": 209,
+    "descendants": 58,
+    "time": 1770902010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46985609",
+    "title": "Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)",
+    "url": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html",
+    "score": 201,
+    "descendants": 105,
+    "time": 1770879279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46990578",
+    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+    "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+    "score": 194,
+    "descendants": 196,
+    "time": 1770912629,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46995001",
+    "title": "ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could",
+    "url": "https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/",
+    "score": 193,
+    "descendants": 53,
+    "time": 1770929610,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46985147",
+    "title": "D Programming Language",
+    "url": "https://dlang.org/",
+    "score": 184,
+    "descendants": 213,
+    "time": 1770873489,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46991154",
+    "title": "MiniMax M2.5 released: 80.2% in SWE-bench Verified",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "score": 175,
+    "descendants": 51,
+    "time": 1770915097,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46990855",
+    "title": "So many trees planted in Taklamakan Desert that it's turned into a carbon sink",
+    "url": "https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink",
+    "score": 170,
+    "descendants": 72,
+    "time": 1770913975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46987963",
+    "title": "America's Cyber Defense Agency Is Burning Down and Nobody's Coming to Put It Out",
+    "url": "https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/",
+    "score": 164,
+    "descendants": 173,
+    "time": 1770899243,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989151",
+    "title": "TikTok is tracking you, even if you don't use the app",
+    "url": "https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it",
+    "score": 152,
+    "descendants": 108,
+    "time": 1770905972,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46993417",
+    "title": "A party balloon shut down El Paso International Airport; estimated cost –$573k",
+    "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
+    "score": 152,
+    "descendants": 99,
+    "time": 1770923007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989605",
+    "title": "A brief history of barbed wire fence telephone networks (2024)",
+    "url": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
+    "score": 141,
+    "descendants": 40,
+    "time": 1770908178,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46988462",
+    "title": "Run Pebble OS in Browser via WASM",
+    "url": "https://ericmigi.github.io/pebble-qemu-wasm/",
+    "score": 137,
+    "descendants": 23,
+    "time": 1770902171,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989124",
+    "title": "Culture Is the Mass-Synchronization of Framings",
+    "url": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
+    "score": 136,
+    "descendants": 81,
+    "time": 1770905857,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46996067",
+    "title": "Discord just killed anonymity",
+    "url": "https://michael-dev-tech.github.io/Website/matrix.html",
+    "score": 132,
+    "descendants": 113,
+    "time": 1770934681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46987919",
+    "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
+    "url": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
+    "score": 131,
+    "descendants": 31,
+    "time": 1770898985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46987425",
+    "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
+    "url": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
+    "score": 131,
+    "descendants": 21,
+    "time": 1770895575,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989117",
+    "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+    "url": "https://lwn.net/Articles/1055590/",
+    "score": 124,
+    "descendants": 41,
+    "time": 1770905826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46993596",
+    "title": "Rari – Rust-powered React framework",
+    "url": "https://rari.build/",
+    "score": 121,
+    "descendants": 74,
+    "time": 1770923747,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46987038",
+    "title": "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
+    "url": "https://geo-racers.com/",
+    "score": 112,
+    "descendants": 75,
+    "time": 1770892070,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46990103",
+    "title": "Lines of Code Are Back (and It's Worse Than Before)",
+    "url": "https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse",
+    "score": 111,
+    "descendants": 54,
+    "time": 1770910545,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46986248",
+    "title": "The missing digit of Stela C",
+    "url": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
+    "score": 99,
+    "descendants": 19,
+    "time": 1770885334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46991435",
+    "title": "Shut Up: Comment Blocker",
+    "url": "https://rickyromero.com/shutup/",
+    "score": 95,
+    "descendants": 37,
+    "time": 1770915936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46994006",
+    "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+    "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo",
+    "score": 91,
+    "descendants": 53,
+    "time": 1770925399,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46994869",
+    "title": "Fixing retail with land value capture",
+    "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+    "score": 81,
+    "descendants": 122,
+    "time": 1770929057,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46986001",
+    "title": "65 Lines of Markdown, a Claude Code Sensation",
+    "url": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
+    "score": 76,
+    "descendants": 61,
+    "time": 1770882769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46994907",
+    "title": "Realfood.gov includes a Grok search box",
+    "url": "https://realfood.gov/#answers",
+    "score": 74,
+    "descendants": 81,
+    "time": 1770929230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46993397",
+    "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+    "url": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+    "score": 74,
+    "descendants": 21,
+    "time": 1770922914,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989630",
+    "title": "Administration working to strip citizenship from foreign-born Americans",
+    "url": "https://www.nbcnews.com/politics/immigration/trump-administration-working-expand-effort-strip-citizenship-foreign-b-rcna255427",
+    "score": 66,
+    "descendants": 71,
+    "time": 1770908261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46983196",
+    "title": "Heroku is not dead",
+    "url": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+    "score": 55,
+    "descendants": 48,
+    "time": 1770855630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46984021",
+    "title": "The Problem with LLMs",
+    "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+    "score": 54,
+    "descendants": 82,
+    "time": 1770861813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46996569",
+    "title": "Recoverable and Irrecoverable Decisions",
+    "url": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+    "score": 54,
+    "descendants": 18,
+    "time": 1770937681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "46989379",
+    "title": "Kim Jong Un chooses teen daughter as heir",
+    "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo",
+    "score": 50,
+    "descendants": 31,
+    "time": 1770907085,
+    "source": "hackernews"
+  }
+]
