@@ -1,0 +1,492 @@
+[
+  {
+    "hn_id": "47031580",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "score": 1423,
+    "descendants": 892,
+    "time": 1771223508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038546",
+    "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+    "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+    "score": 595,
+    "descendants": 115,
+    "time": 1771267310,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47034713",
+    "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+    "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+    "score": 494,
+    "descendants": 338,
+    "time": 1771248607,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47032876",
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "url": "https://qwen.ai/blog?id=qwen3.5",
+    "score": 408,
+    "descendants": 191,
+    "time": 1771234341,
+    "source": "hackernews"
+  },
+  {
+    "title": "Holographic 3D printing breakthrough produces objects in less than a second",
+    "url": "https://www.techspot.com/news/111337-holographic-3d-printing-breakthrough-produces-objects-less-than.html",
+    "reddit_id": "1r6aicd",
+    "score": 407,
+    "num_comments": 27,
+    "date": "2026-02-16T14:06:11",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47035560",
+    "title": "What your Bluetooth devices reveal",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "score": 388,
+    "descendants": 147,
+    "time": 1771252772,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47033622",
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+    "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "score": 372,
+    "descendants": 227,
+    "time": 1771239988,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47034192",
+    "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+    "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+    "score": 351,
+    "descendants": 289,
+    "time": 1771244911,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47035679",
+    "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+    "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+    "score": 345,
+    "descendants": 110,
+    "time": 1771253305,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47031334",
+    "title": "Show HN: Jemini – Gemini for the Epstein Files",
+    "url": "https://jmail.world/jemini",
+    "score": 333,
+    "descendants": 64,
+    "time": 1771221183,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47040430",
+    "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+    "url": "https://arxiv.org/abs/2602.12670",
+    "score": 327,
+    "descendants": 138,
+    "time": 1771276556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038588",
+    "title": "Use protocols, not services",
+    "url": "https://notnotp.com/notes/use-protocols-not-services/",
+    "score": 283,
+    "descendants": 104,
+    "time": 1771267498,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038125",
+    "title": "Privilege is bad grammar",
+    "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+    "score": 274,
+    "descendants": 251,
+    "time": 1771265132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47033976",
+    "title": "The Israeli spyware firm that accidentally just exposed itself",
+    "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
+    "score": 253,
+    "descendants": 261,
+    "time": 1771243242,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple starts testing end-to-end RCS encryption on iPhone, but without Android support",
+    "url": "https://9to5google.com/2026/02/16/apple-iphone-rcs-encryption-test-no-android/",
+    "reddit_id": "1r6pdi7",
+    "score": 232,
+    "num_comments": 24,
+    "date": "2026-02-16T23:17:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47040524",
+    "title": "Rise of the Triforce",
+    "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "score": 224,
+    "descendants": 27,
+    "time": 1771277044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47034801",
+    "title": "Running My Own XMPP Server",
+    "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+    "score": 218,
+    "descendants": 132,
+    "time": 1771249185,
+    "source": "hackernews"
+  },
+  {
+    "title": "ChatGPT’s AI caricature social media trend could be a gift to fraudsters, experts warn",
+    "url": "https://www.euronews.com/next/2026/02/14/chatgpts-ai-caricature-social-media-trend-could-be-a-gift-to-fraudsters-experts-warn",
+    "reddit_id": "1r6c5su",
+    "score": 192,
+    "num_comments": 22,
+    "date": "2026-02-16T15:12:08",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47040375",
+    "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+    "url": "https://github.com/zachlatta/freeflow",
+    "score": 168,
+    "descendants": 77,
+    "time": 1771276244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47029339",
+    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+    "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+    "score": 164,
+    "descendants": 218,
+    "time": 1771201583,
+    "source": "hackernews"
+  },
+  {
+    "title": "Canada Goose investigating as ShinyHunters hackers, a well-known data extortion group, claims to have leak more than 600K Canada Goose customer records containing personal and payment-related data.",
+    "url": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
+    "reddit_id": "1r6mmh0",
+    "score": 162,
+    "num_comments": 18,
+    "date": "2026-02-16T21:31:50",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47035371",
+    "title": "The Sideprocalypse",
+    "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+    "score": 152,
+    "descendants": 124,
+    "time": 1771251999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47033328",
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "score": 152,
+    "descendants": 60,
+    "time": 1771237582,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47037628",
+    "title": "I guess I kinda get why people hate AI",
+    "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+    "score": 149,
+    "descendants": 239,
+    "time": 1771262522,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47030271",
+    "title": "Arm wants a bigger slice of the chip business",
+    "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+    "score": 145,
+    "descendants": 95,
+    "time": 1771209374,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038706",
+    "title": "Robert Duvall has died",
+    "url": "https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share",
+    "score": 138,
+    "descendants": 69,
+    "time": 1771267970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47037501",
+    "title": "WebMCP Proposal",
+    "url": "https://webmachinelearning.github.io/webmcp/",
+    "score": 135,
+    "descendants": 73,
+    "time": 1771261700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038965",
+    "title": "Wero – Digital payment wallet, made in Europe",
+    "url": "https://wero-wallet.eu",
+    "score": 123,
+    "descendants": 105,
+    "time": 1771268998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47032235",
+    "title": "Picol: A Tcl interpreter in 500 lines of code",
+    "url": "https://github.com/antirez/picol",
+    "score": 123,
+    "descendants": 67,
+    "time": 1771229051,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038134",
+    "title": "AI optimism is a class privilege",
+    "url": "https://joshcollinsworth.com/blog/sloptimism",
+    "score": 118,
+    "descendants": 115,
+    "time": 1771265149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47037313",
+    "title": "How to take a photo with scotch tape (lensless imaging) [video]",
+    "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+    "score": 116,
+    "descendants": 6,
+    "time": 1771260902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47035718",
+    "title": "iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life",
+    "url": "https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/",
+    "score": 110,
+    "descendants": 113,
+    "time": 1771253448,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47029397",
+    "title": "Pink noise reduces REM sleep and may harm sleep quality",
+    "url": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+    "score": 108,
+    "descendants": 72,
+    "time": 1771202112,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47031268",
+    "title": "Building SQLite with a small swarm",
+    "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+    "score": 104,
+    "descendants": 115,
+    "time": 1771220331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47039966",
+    "title": "Suicide Linux (2009)",
+    "url": "https://qntm.org/suicide",
+    "score": 102,
+    "descendants": 59,
+    "time": 1771274067,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038318",
+    "title": "\"Token anxiety\", a slot machine by any other name",
+    "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+    "score": 99,
+    "descendants": 78,
+    "time": 1771266216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47041456",
+    "title": "Running NanoClaw in a Docker Shell Sandbox",
+    "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+    "score": 95,
+    "descendants": 47,
+    "time": 1771282382,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038729",
+    "title": "How not to answer the salary question",
+    "url": "https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/",
+    "score": 94,
+    "descendants": 78,
+    "time": 1771268067,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47039478",
+    "title": "State of Show HN: 2025",
+    "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+    "score": 89,
+    "descendants": 15,
+    "time": 1771271723,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47041836",
+    "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+    "url": "https://forestrydiary.com/",
+    "score": 84,
+    "descendants": 16,
+    "time": 1771285233,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038731",
+    "title": "Neurons outside the brain",
+    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+    "score": 83,
+    "descendants": 34,
+    "time": 1771268077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47039834",
+    "title": "Testing Postgres race conditions with synchronization barriers",
+    "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+    "score": 82,
+    "descendants": 46,
+    "time": 1771273416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47036921",
+    "title": "History of AT&T Long Lines",
+    "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
+    "score": 76,
+    "descendants": 42,
+    "time": 1771258944,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47040390",
+    "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+    "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+    "score": 73,
+    "descendants": 48,
+    "time": 1771276327,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47036063",
+    "title": "Show HN: Maths, CS and AI Compendium",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "score": 73,
+    "descendants": 17,
+    "time": 1771254950,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47035607",
+    "title": "Pentagon Threatens Anthropic Punishment",
+    "url": "https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth",
+    "score": 68,
+    "descendants": 15,
+    "time": 1771253005,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47034087",
+    "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+    "url": "https://arxiv.org/abs/2602.11988",
+    "score": 66,
+    "descendants": 30,
+    "time": 1771244139,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47037666",
+    "title": "Palantir CEO wants to spray \"fentanyl-laced urine\" on analysts",
+    "url": "https://twitter.com/jawwwn_/status/2023207418922959234",
+    "score": 66,
+    "descendants": 27,
+    "time": 1771262719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038270",
+    "title": "The long tail of LLM-assisted decompilation",
+    "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "score": 66,
+    "descendants": 23,
+    "time": 1771265956,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47029446",
+    "title": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
+    "url": "https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html",
+    "score": 66,
+    "descendants": 12,
+    "time": 1771202503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47033875",
+    "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+    "url": "https://github.com/nineties/planckforth",
+    "score": 63,
+    "descendants": 11,
+    "time": 1771242247,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038665",
+    "title": "\"I Was a Director at Amex When They Started Replacing Us with $30K Workers\" [video]",
+    "url": "https://www.youtube.com/watch?v=t5fXrPMGM5E",
+    "score": 62,
+    "descendants": 60,
+    "time": 1771267813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47036891",
+    "title": "Show HN: Simple org-mode web adapter",
+    "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
+    "score": 59,
+    "descendants": 6,
+    "time": 1771258756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47038411",
+    "title": "LCM: Lossless Context Management [pdf]",
+    "url": "http://papers.voltropy.com/LCM",
+    "score": 57,
+    "descendants": 20,
+    "time": 1771266679,
+    "source": "hackernews"
+  }
+]
