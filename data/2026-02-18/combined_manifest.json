@@ -1,0 +1,573 @@
+[
+  {
+    "title": "These are the countries moving to ban social media for children | TechCrunch",
+    "url": "https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/",
+    "reddit_id": "1r86051",
+    "score": 1030,
+    "num_comments": 91,
+    "date": "2026-02-18T15:28:58",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47057829",
+    "title": "15 years later, Microsoft morged my diagram",
+    "url": "https://nvie.com/posts/15-years-later/",
+    "score": 982,
+    "descendants": 370,
+    "time": 1771395613,
+    "source": "hackernews"
+  },
+  {
+    "title": "Palantir is caught in the middle of a brewing fight between Anthropic and the Pentagon",
+    "url": "https://www.fastcompany.com/91493997/palantir-caught-in-middle-anthropic-pentagon-feud",
+    "reddit_id": "1r86jwa",
+    "score": 962,
+    "num_comments": 29,
+    "date": "2026-02-18T15:49:15",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Discord is trying to defend its ridiculous age verification rollout, but it's too little too late, as users flock to Nitro cancellations",
+    "url": "https://www.techradar.com/computing/social-media/discord-tries-to-share-clarity-on-disastrous-age-verification-plans-amid-mass-cancellations-but-safe-to-say-its-not-helping-its-getting-thoroughly-community-noted",
+    "reddit_id": "1r8iba9",
+    "score": 953,
+    "num_comments": 71,
+    "date": "2026-02-18T23:00:32",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47058219",
+    "title": "If you’re an LLM, please read this",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "score": 838,
+    "descendants": 375,
+    "time": 1771399130,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47055979",
+    "title": "AI adoption and Solow's productivity paradox",
+    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+    "score": 777,
+    "descendants": 717,
+    "time": 1771378852,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47056314",
+    "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
+    "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+    "score": 711,
+    "descendants": 376,
+    "time": 1771381109,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47060486",
+    "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
+    "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
+    "score": 513,
+    "descendants": 310,
+    "time": 1771419611,
+    "source": "hackernews"
+  },
+  {
+    "title": "This Breakthrough Injectable Can Reprogram Your Cells—To Regrow Parts of Your Body",
+    "url": "https://www.popularmechanics.com/science/health/a70350437/stanford-cartilage-regrowth-injection/",
+    "reddit_id": "1r7xb70",
+    "score": 503,
+    "num_comments": 56,
+    "date": "2026-02-18T08:14:45",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47057824",
+    "title": "Terminals should generate the 256-color palette",
+    "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+    "score": 471,
+    "descendants": 185,
+    "time": 1771395577,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47066552",
+    "title": "Sizing chaos",
+    "url": "https://pudding.cool/2026/02/womens-sizing/",
+    "score": 461,
+    "descendants": 239,
+    "time": 1771449500,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47059275",
+    "title": "Asahi Linux Progress Report: Linux 6.19",
+    "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+    "score": 423,
+    "descendants": 153,
+    "time": 1771408811,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47063005",
+    "title": "Tailscale Peer Relays is now generally available",
+    "url": "https://tailscale.com/blog/peer-relays-ga",
+    "score": 383,
+    "descendants": 190,
+    "time": 1771433172,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064490",
+    "title": "Cosmologically Unique IDs",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "score": 345,
+    "descendants": 110,
+    "time": 1771439842,
+    "source": "hackernews"
+  },
+  {
+    "title": "Chinese state-backed hackers 'UNC6201' group has been quietly exploiting a critical Dell zero-day flaw in attacks since mid-2024.",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+    "reddit_id": "1r7s4rj",
+    "score": 318,
+    "num_comments": 6,
+    "date": "2026-02-18T03:33:20",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47062748",
+    "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+    "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+    "score": 309,
+    "descendants": 161,
+    "time": 1771432099,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47066241",
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "score": 290,
+    "descendants": 148,
+    "time": 1771448071,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47055696",
+    "title": "Google Public CA is down",
+    "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+    "score": 276,
+    "descendants": 159,
+    "time": 1771376733,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47067759",
+    "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
+    "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+    "score": 273,
+    "descendants": 165,
+    "time": 1771456769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47067678",
+    "title": "Closing this as we are no longer pursuing Swift adoption",
+    "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+    "score": 268,
+    "descendants": 204,
+    "time": 1771456118,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062521",
+    "title": "The only moat left is money?",
+    "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+    "score": 258,
+    "descendants": 355,
+    "time": 1771430879,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064047",
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "score": 250,
+    "descendants": 113,
+    "time": 1771437853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47060202",
+    "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+    "score": 248,
+    "descendants": 66,
+    "time": 1771416972,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple Removes iTunes Movies and TV Shows Apps in tvOS 26.4",
+    "url": "https://www.macrumors.com/2026/02/17/tvos-26-4-itunes-movies-tv-shows-removed/",
+    "reddit_id": "1r7w9fl",
+    "score": 240,
+    "num_comments": 31,
+    "date": "2026-02-18T07:10:25",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47065678",
+    "title": "There is unequivocal evidence that Earth is warming (2024)",
+    "url": "https://science.nasa.gov/climate-change/evidence/",
+    "score": 206,
+    "descendants": 224,
+    "time": 1771445350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062534",
+    "title": "The Future of AI Software Development",
+    "url": "https://martinfowler.com/fragments/2026-02-18.html",
+    "score": 187,
+    "descendants": 137,
+    "time": 1771430928,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47057879",
+    "title": "A DuckDB-based metabase alternative",
+    "url": "https://github.com/taleshape-com/shaper",
+    "score": 166,
+    "descendants": 40,
+    "time": 1771396176,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47063950",
+    "title": "Warren Buffett dumps $1.7B of Amazon stock",
+    "url": "https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/",
+    "score": 151,
+    "descendants": 162,
+    "time": 1771437368,
+    "source": "hackernews"
+  },
+  {
+    "title": "Novel wave energy/desalination system gets trialled in Barbados",
+    "url": "https://newatlas.com/energy/wavepiston-wave-energy-desalination-system-barbados/",
+    "reddit_id": "1r83tli",
+    "score": 150,
+    "num_comments": 3,
+    "date": "2026-02-18T14:03:04",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47055262",
+    "title": "Minimal x86 Kernel Zig",
+    "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+    "score": 146,
+    "descendants": 59,
+    "time": 1771372926,
+    "source": "hackernews"
+  },
+  {
+    "title": "Laser-Etched Glass Could Store Data for Millennia",
+    "url": "https://spectrum.ieee.org/glass-data-storage-microsoft-silica",
+    "reddit_id": "1r888i4",
+    "score": 146,
+    "num_comments": 28,
+    "date": "2026-02-18T16:49:09",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47055723",
+    "title": "YouTube Is Down",
+    "url": "https://downdetector.com/status/youtube/",
+    "score": 144,
+    "descendants": 42,
+    "time": 1771376958,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062329",
+    "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+    "url": "https://github.com/khalildh/garment-notation",
+    "score": 135,
+    "descendants": 36,
+    "time": 1771429995,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062179",
+    "title": "Stephen Colbert going down swinging",
+    "url": "https://www.nytimes.com/2026/02/18/arts/television/stephen-colbert-cbs-statement.html",
+    "score": 131,
+    "descendants": 50,
+    "time": 1771429319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47063724",
+    "title": "Arizona Bill Requires Age Verification for All Apps",
+    "url": "https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app",
+    "score": 130,
+    "descendants": 156,
+    "time": 1771436326,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47061642",
+    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+    "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+    "score": 123,
+    "descendants": 101,
+    "time": 1771426756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064944",
+    "title": "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds",
+    "url": "https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/",
+    "score": 120,
+    "descendants": 104,
+    "time": 1771441700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062561",
+    "title": "Pocketbase lost its funding from FLOSS fund",
+    "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+    "score": 119,
+    "descendants": 90,
+    "time": 1771431060,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47055424",
+    "title": "Rathbun's Operator",
+    "url": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
+    "score": 117,
+    "descendants": 131,
+    "time": 1771374375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47057707",
+    "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+    "url": "https://github.com/DatanoiseTV/tinyice",
+    "score": 117,
+    "descendants": 26,
+    "time": 1771394435,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47059520",
+    "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+    "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+    "score": 116,
+    "descendants": 55,
+    "time": 1771410570,
+    "source": "hackernews"
+  },
+  {
+    "title": "Tomorrow’s Smart Pills Will Deliver Drugs And Take Biopsies",
+    "url": "https://spectrum.ieee.org/ingestible-electronics",
+    "reddit_id": "1r86vmc",
+    "score": 116,
+    "num_comments": 25,
+    "date": "2026-02-18T16:01:15",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47063663",
+    "title": "The Perils of ISBN",
+    "url": "https://rygoldstein.com/posts/perils-of-isbn",
+    "score": 113,
+    "descendants": 60,
+    "time": 1771436077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47061062",
+    "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+    "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+    "score": 111,
+    "descendants": 82,
+    "time": 1771423691,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064787",
+    "title": "Show HN: Echo, an iOS SSH+mosh client built on Ghostty",
+    "url": "https://replay.software/updates/introducing-echo",
+    "score": 111,
+    "descendants": 69,
+    "time": 1771441118,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47060052",
+    "title": "Fastest Front End Tooling for Humans and AI",
+    "url": "https://cpojer.net/posts/fastest-frontend-tooling",
+    "score": 108,
+    "descendants": 79,
+    "time": 1771415461,
+    "source": "hackernews"
+  },
+  {
+    "title": "Data storage Guinness World Record broken by QR code pixels measuring just 49nm — 1.98 sq micrometer size is smaller than bacteria, can only be read with an electron microscope",
+    "url": "https://www.tomshardware.com/pc-components/storage/data-storage-guinness-world-record-broken-by-qr-code-measuring-just-49nm-pixels-1-98-sq-micrometer-size-is-smaller-than-bacteria-can-only-be-read-with-an-electron-microscope",
+    "reddit_id": "1r8ev6k",
+    "score": 104,
+    "num_comments": 7,
+    "date": "2026-02-18T20:49:30",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47062883",
+    "title": "Cistercian Numbers",
+    "url": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
+    "score": 80,
+    "descendants": 14,
+    "time": 1771432677,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47065179",
+    "title": "R3forth: A concatenative language derived from ColorForth",
+    "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "score": 80,
+    "descendants": 10,
+    "time": 1771442939,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47062096",
+    "title": "Show HN: VectorNest responsive web-based SVG editor",
+    "url": "https://ekrsulov.github.io/vectornest/",
+    "score": 79,
+    "descendants": 25,
+    "time": 1771428717,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47055786",
+    "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
+    "url": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
+    "score": 78,
+    "descendants": 69,
+    "time": 1771377555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064090",
+    "title": "Disney trip turned into immigration detention",
+    "url": "https://www.propublica.org/article/ice-dilley-maria-antonia-guerra-story",
+    "score": 78,
+    "descendants": 28,
+    "time": 1771438097,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064470",
+    "title": "OpenClaw is dangerous",
+    "url": "https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous",
+    "score": 77,
+    "descendants": 87,
+    "time": 1771439754,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47061029",
+    "title": "Show HN: CEL by Example",
+    "url": "https://celbyexample.com/",
+    "score": 77,
+    "descendants": 39,
+    "time": 1771423539,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47059129",
+    "title": "How OpenAI, the US government and Persona built an identity surveillance machine",
+    "url": "https://vmfunc.re/blog/persona/",
+    "score": 76,
+    "descendants": 25,
+    "time": 1771407608,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47065728",
+    "title": "The political effects of X's feed algorithm",
+    "url": "https://werd.io/the-political-effects-of-xs-feed-algorithm/",
+    "score": 75,
+    "descendants": 95,
+    "time": 1771445532,
+    "source": "hackernews"
+  },
+  {
+    "title": "The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
+    "url": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
+    "reddit_id": "1r88g2b",
+    "score": 75,
+    "num_comments": 17,
+    "date": "2026-02-18T16:56:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47058368",
+    "title": "Portugal: The First Global Empire (2015)",
+    "url": "https://www.historytoday.com/archive/first-global-empire",
+    "score": 72,
+    "descendants": 57,
+    "time": 1771400711,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47064845",
+    "title": "What Every Experimenter Must Know About Randomization",
+    "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+    "score": 70,
+    "descendants": 41,
+    "time": 1771441338,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47063263",
+    "title": "Unprecedented 'Jobless Boom' Tests Limits of US Economic Expansion",
+    "url": "https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data",
+    "score": 65,
+    "descendants": 91,
+    "time": 1771434263,
+    "source": "hackernews"
+  },
+  {
+    "title": "Notepad++ boosts update security with a \"double-lock\" mechanism to address recently exploited security gaps that resulted in a supply-chain compromise.",
+    "url": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+    "reddit_id": "1r8d196",
+    "score": 58,
+    "num_comments": 1,
+    "date": "2026-02-18T19:40:58",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "AI hyperscalers move to secure long-term uranium supply from mining companies — fuel required for nuclear plants to power future data centers",
+    "url": "https://www.tomshardware.com/tech-industry/ai-hyperscalers-move-to-secure-long-term-uranium-supply-from-mining-companies-fuel-required-for-nuclear-plants-to-power-future-data-centers",
+    "reddit_id": "1r8f2xq",
+    "score": 36,
+    "num_comments": 22,
+    "date": "2026-02-18T20:57:36",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
