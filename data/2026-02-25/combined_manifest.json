@@ -1,0 +1,504 @@
+[
+  {
+    "title": "Schrödinger’s color theory finally completed after 100 years",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260222092302.htm",
+    "reddit_id": "1rdzn53",
+    "score": 996,
+    "num_comments": 82,
+    "date": "2026-02-25T01:38:12",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47149701",
+    "title": "Danish government agency to ditch Microsoft software (2025)",
+    "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "score": 768,
+    "descendants": 377,
+    "time": 1772014582,
+    "source": "hackernews"
+  },
+  {
+    "title": "Firefox 148 rolls out with the promised AI kill switch: here's how to enable it",
+    "url": "https://www.techspot.com/news/111453-firefox-148-rolls-out-promised-ai-kill-switch.html",
+    "reddit_id": "1reeynb",
+    "score": 726,
+    "num_comments": 36,
+    "date": "2026-02-25T14:39:11",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47151233",
+    "title": "Never buy a .online domain",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "score": 712,
+    "descendants": 436,
+    "time": 1772026277,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47145907",
+    "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+    "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+    "score": 667,
+    "descendants": 267,
+    "time": 1771981245,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47152085",
+    "title": "New accounts on HN more likely to use em-dashes",
+    "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+    "score": 646,
+    "descendants": 534,
+    "time": 1772030241,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47145963",
+    "title": "Anthropic Drops Flagship Safety Pledge",
+    "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+    "score": 620,
+    "descendants": 298,
+    "time": 1771981726,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47148454",
+    "title": "Claude Code Remote Control",
+    "url": "https://code.claude.com/docs/en/remote-control",
+    "score": 520,
+    "descendants": 302,
+    "time": 1772004176,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47152252",
+    "title": "US orders diplomats to fight data sovereignty initiatives",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+    "score": 482,
+    "descendants": 407,
+    "time": 1772030897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154009",
+    "title": "Following 35% growth, solar has passed hydro on US grid",
+    "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+    "score": 451,
+    "descendants": 397,
+    "time": 1772037894,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47157224",
+    "title": "Jimi Hendrix was a systems engineer",
+    "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+    "score": 432,
+    "descendants": 138,
+    "time": 1772050607,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47156925",
+    "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+    "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+    "score": 393,
+    "descendants": 81,
+    "time": 1772049254,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47153798",
+    "title": "Bus stop balancing is fast, cheap, and effective",
+    "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+    "score": 345,
+    "descendants": 497,
+    "time": 1772037086,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154971",
+    "title": "The Om Programming Language",
+    "url": "https://www.om-language.com/",
+    "score": 255,
+    "descendants": 62,
+    "time": 1772041701,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154399",
+    "title": "Windows 11 Notepad to support Markdown",
+    "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+    "score": 253,
+    "descendants": 398,
+    "time": 1772039659,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47149151",
+    "title": "LLM=True",
+    "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+    "score": 232,
+    "descendants": 140,
+    "time": 1772010340,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151000",
+    "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+    "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+    "score": 229,
+    "descendants": 243,
+    "time": 1772024856,
+    "source": "hackernews"
+  },
+  {
+    "title": "Anthropic Dials Back AI Safety Commitments | Company says competitive pressure prompts it to pivot away from a more-cautious stance",
+    "url": "https://www.wsj.com/tech/ai/anthropic-dials-back-ai-safety-commitments-38257540?mod=mhp",
+    "reddit_id": "1ref2iu",
+    "score": 208,
+    "num_comments": 35,
+    "date": "2026-02-25T14:43:18",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47155597",
+    "title": "Show HN: I ported Tree-sitter to Go",
+    "url": "https://github.com/odvcencio/gotreesitter",
+    "score": 206,
+    "descendants": 86,
+    "time": 1772044117,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47149586",
+    "title": "Show HN: A real-time strategy game that AI agents can play",
+    "url": "https://llmskirmish.com/",
+    "score": 204,
+    "descendants": 72,
+    "time": 1772013765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47145551",
+    "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+    "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+    "score": 195,
+    "descendants": 97,
+    "time": 1771978850,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47157398",
+    "title": "Making MCP cheaper via CLI",
+    "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+    "score": 191,
+    "descendants": 84,
+    "time": 1772051377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47159302",
+    "title": "First Website (1992)",
+    "url": "https://info.cern.ch",
+    "score": 185,
+    "descendants": 39,
+    "time": 1772060578,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47158975",
+    "title": "How will OpenAI compete?",
+    "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "score": 179,
+    "descendants": 197,
+    "time": 1772058565,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47149752",
+    "title": "100M-Row Challenge with PHP",
+    "url": "https://github.com/tempestphp/100-million-row-challenge",
+    "score": 171,
+    "descendants": 95,
+    "time": 1772015063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154983",
+    "title": "The Pentagon threatens Anthropic",
+    "url": "https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic",
+    "score": 169,
+    "descendants": 113,
+    "time": 1772041767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47159430",
+    "title": "Banned in California",
+    "url": "https://www.bannedincalifornia.org/",
+    "score": 155,
+    "descendants": 174,
+    "time": 1772061400,
+    "source": "hackernews"
+  },
+  {
+    "title": "The accidental hacker: how one man gained control of 7,000 robots | When Sammy Azdoufal found he had access to data from robot vacuum cleaners around the world, he told a tech publication. But the implications could be mind-boggling",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/accidental-hacker-how-one-man-gained-control-robots-",
+    "reddit_id": "1reeu3z",
+    "score": 155,
+    "num_comments": 9,
+    "date": "2026-02-25T14:34:32",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47152982",
+    "title": "GNU Texmacs",
+    "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+    "score": 154,
+    "descendants": 44,
+    "time": 1772033849,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151842",
+    "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+    "url": "https://respectify.org/",
+    "score": 144,
+    "descendants": 139,
+    "time": 1772029279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47153924",
+    "title": "The Misuses of the University",
+    "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
+    "score": 144,
+    "descendants": 110,
+    "time": 1772037520,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154042",
+    "title": "Racket v9.1",
+    "url": "https://blog.racket-lang.org/2026/02/racket-v9-1.html",
+    "score": 144,
+    "descendants": 15,
+    "time": 1772038053,
+    "source": "hackernews"
+  },
+  {
+    "title": "ShinyHunters extortion group has published a 6.1GB archive that exposes personal information in more than 12.4 million accounts allegedly stolen from CarGurus, a U.S.-based digital auto platform.",
+    "url": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
+    "reddit_id": "1re8ado",
+    "score": 137,
+    "num_comments": 9,
+    "date": "2026-02-25T09:04:30",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47147609",
+    "title": "Turing Completeness of GNU find",
+    "url": "https://arxiv.org/abs/2602.20762",
+    "score": 127,
+    "descendants": 26,
+    "time": 1771996599,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151163",
+    "title": "Red Hat takes on Docker Desktop with its enterprise Podman Desktop build",
+    "url": "https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/",
+    "score": 124,
+    "descendants": 72,
+    "time": 1772025953,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151995",
+    "title": "Show HN: Django Control Room – All Your Tools Inside the Django Admin",
+    "url": "https://github.com/yassi/dj-control-room",
+    "score": 120,
+    "descendants": 53,
+    "time": 1772029895,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154076",
+    "title": "Why isn't LA repaving streets?",
+    "url": "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/",
+    "score": 115,
+    "descendants": 252,
+    "time": 1772038176,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151784",
+    "title": "Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock",
+    "url": "https://www.clocksimulator.com/",
+    "score": 107,
+    "descendants": 76,
+    "time": 1772029034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154803",
+    "title": "Sandboxes won't save you from OpenClaw",
+    "url": "https://tachyon.so/blog/sandboxes-wont-save-you",
+    "score": 104,
+    "descendants": 98,
+    "time": 1772041024,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws | TechCrunch",
+    "url": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+    "reddit_id": "1re5v19",
+    "score": 95,
+    "num_comments": 24,
+    "date": "2026-02-25T06:38:36",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47155548",
+    "title": "The Slow Death of the Power User",
+    "url": "https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/",
+    "score": 90,
+    "descendants": 85,
+    "time": 1772043957,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154523",
+    "title": "Bcachefs creator insists his custom LLM is female and 'fully conscious'",
+    "url": "https://www.theregister.com/2026/02/25/bcachefs_creator_ai/",
+    "score": 84,
+    "descendants": 71,
+    "time": 1772040089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47147185",
+    "title": "Tuna: A new, modern, modal launcher for macOS",
+    "url": "https://tunaformac.com",
+    "score": 82,
+    "descendants": 32,
+    "time": 1771992218,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47147122",
+    "title": "What Happened to Fry's Electronics",
+    "url": "https://dfarq.homeip.net/what-happened-to-frys-electronics/",
+    "score": 76,
+    "descendants": 89,
+    "time": 1771991730,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47148025",
+    "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+    "url": "https://github.com/mksglu/claude-context-mode",
+    "score": 76,
+    "descendants": 23,
+    "time": 1772000610,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47148740",
+    "title": "Amazon would rather blame its own engineers than its AI",
+    "url": "https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
+    "score": 74,
+    "descendants": 10,
+    "time": 1772006892,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47153675",
+    "title": "I asked Claude for 37,500 random names, and it can't stop saying Marcus",
+    "url": "https://github.com/benjismith/ai-randomness",
+    "score": 71,
+    "descendants": 62,
+    "time": 1772036632,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47154011",
+    "title": "Large-scale online deanonymization with LLMs",
+    "url": "https://arxiv.org/abs/2602.16800",
+    "score": 68,
+    "descendants": 2,
+    "time": 1772037898,
+    "source": "hackernews"
+  },
+  {
+    "title": "Uber employees have an AI clone of CEO Dara Khosrowshahi — and use 'Dara AI' before talking to the big boss himself",
+    "url": "https://www.businessinsider.com/uber-employees-use-ai-clone-ceo-prepare-meetings-presentations-2026-2",
+    "reddit_id": "1reeuzw",
+    "score": 65,
+    "num_comments": 20,
+    "date": "2026-02-25T14:35:28",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47158105",
+    "title": "Leaked Documents Show Meta Cracking Down on Access to Abortion Information",
+    "url": "https://www.motherjones.com/politics/2026/02/meta-abortion-ai-chatbot-leak-teen-info-ban/",
+    "score": 64,
+    "descendants": 9,
+    "time": 1772054764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47157841",
+    "title": "An autopsy of AI-generated 3D slop",
+    "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+    "score": 62,
+    "descendants": 38,
+    "time": 1772053515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47153637",
+    "title": "LibreOffice resumes work on its self-hosted Google Docs alternative",
+    "url": "https://www.xda-developers.com/libreoffice-resumes-work-on-its-self-hosted-google-docs-alternative/",
+    "score": 61,
+    "descendants": 1,
+    "time": 1772036504,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47148159",
+    "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
+    "url": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
+    "score": 54,
+    "descendants": 108,
+    "time": 1772001924,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47159364",
+    "title": "Origin of the rule that swap size should be 2x of the physical memory",
+    "url": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
+    "score": 52,
+    "descendants": 62,
+    "time": 1772060973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47151598",
+    "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+    "url": "https://app.teamout.com/ai",
+    "score": 50,
+    "descendants": 56,
+    "time": 1772028122,
+    "source": "hackernews"
+  }
+]
