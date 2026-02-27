@@ -1,0 +1,400 @@
+Daily Tech Digest for 2026-02-26
+
+Style instructions: You are writing a script for a short podcast. Write in a friendly,
+engaging, and conversational tone suitable for a general tech-savvy audience. Use
+contractions and a natural flow as if speaking directly to viewers.
+
+Output three things in this order, details below:
+ content sections
+ video descriptions for youtube and tiktok
+ html for starting slide 
+
+CONTENT FILTERING: Skip stories that are primarily about:
+- Politics, policy, or regulatory issues (unless directly impacting technical work)
+- Media industry news, entertainment, or content creation
+- Social issues, culture wars, or societal debates
+- Business/finance news without technical substance
+- Legal disputes or lawsuits (unless about significant technical precedents)
+
+CRITICAL RULE: Base the script strictly on the information found in the provided article titles and snippets. 
+Treat the Article Title/Link Text purely as metadata for the slide. Do not use the Title to infer technical functionality. 
+Read the repository README/Article body to determine how the software actually works.
+Do not import details, specific exploit chains, or technical specifics from your internal training data or 
+previous years' events (e.g., if covering Pwn2Own 2026, do not include details from Pwn2Own 2024). 
+If a technical detail is not in the source, do not invent it.
+
+CRITICAL ATTRIBUTION STEP: Before naming a person, verify that their name appears in the source text associated with the specific action 
+described. Do not attribute a blog post to a company's famous figurehead unless the byline explicitly names them. 
+Distinguish between the 'Company' taking action and a specific 'Person' taking action.
+
+CRITICAL ANALYSIS PROTOCOL (Apply before writing):
+    VERIFY THE MECHANISM: Explicitly identify how the event occurred.
+        Financial/Business: Is the "loss" a stock drop (market sentiment) or an operational loss (theft/outage)?
+        Security: Is the "breach" a code exploit (hack) or a configuration error (leak)?
+        Science: Is the "breakthrough" a peer-reviewed paper (lab theory) or a shipping product (reality)?
+    VERIFY THE ACTOR: Who is taking the action?
+        Do not attribute a community tool to a major corporation just because it's on their platform (e.g., a GitHub repo hosted by Microsoft vs. made by Microsoft).
+        Do not attribute a commentary (blog post) to the creator of the software being discussed.
+        For all proper nouns (people, companies, products), strictly use only the names explicitly present in the source text. 
+        Do not use your internal knowledge to fill in names of CEOs, founders, or public figures if they are not written in the provided snippet. 
+        If a name is missing, use a generic title (e.g., 'The CEO', 'The Author').
+    VERIFY THE SCOPE:
+        Is this a "universal" failure or a specific edge case?
+        Distinguish between "The server is down" (fact) and "The company is dead" (speculation).
+Before writing the script for each slide, extract 3 key technical facts actually present in the source text. 
+Use only these extracted facts to write the script.
+Use these extracted facts to write the script. If the extraction contradicts the article title, explicitly correct the title's claim in your script.
+
+For recurring events (like Pwn2Own, DefCon, or product launches), verify that the specific details (e.g., "Gateway pivot", "M4 chip") 
+are from the current year's coverage and not a hallucination of a past year's top story.
+
+If an article discusses a concept, tool, or term (e.g., 'Gas Town', 'Vibecoding'), verify if the article is the primary source or a commentary. 
+If it is commentary, explicitly attribute the original concept to its creator in the script (e.g., 'Maggie Appleton's analysis of Steve Yegge's Gas Town'). 
+Do not present the commentator as the inventor.
+
+Distinguish between 'newly released' tech and 'newly discussed' concepts. If a story covers an existing concept (rehashed or analyzed), 
+frame the script as 'exploring [Concept] by [Creator]' rather than 'announcing [Concept]'.
+
+Before writing, cross-reference the article author with the names mentioned in the text. 
+If the text credits another person for the core idea (e.g. 'Steve Yegge's post'), ensure the script reflects that hierarchy.
+
+Focus on stories about:
+- New technologies, tools, frameworks, or programming languages
+- Technical innovations, breakthroughs, or scientific research
+- Software engineering practices, architecture, or methodologies
+- Security vulnerabilities, exploits, or technical analysis
+- Infrastructure, DevOps, cloud, or systems engineering
+- Open source projects, developer tools, or technical communities
+- Technical deep-dives, debugging stories, or engineering case studies
+- AI/ML research, models, techniques, or applications
+- Hardware engineering, chips, processors, or electronics
+- Space technology, rockets, satellites, or exploration missions
+- Robotics, automation, or manufacturing tech
+- Networking, protocols, or internet infrastructure
+- Cryptography, blockchain tech (not crypto prices/trading)
+- Scientific computing, simulations, or data analysis
+- Energy tech, batteries, solar, nuclear, or grid innovations
+
+SELECTION & PRIORITIZATION:
+This list contains more stories than will fit in the podcast (~5 minutes, ~10 stories).
+Select the TOP 10 most compelling technical stories based on:
+- Technical significance and innovation (not just popularity)
+- Diversity of topics (don't pick 5 AI stories if there are other interesting topics)
+- Relevance to working engineers (practical value over hype)
+- Balance between sources (HN and Reddit have different user bases and score scales)
+Do NOT just pick the highest-scored items - use editorial judgment.
+
+Below is a list of URLs with source metadata. Select the best TECHNICAL stories and
+generate text for each section of the script.
+Each section should have:
+- The title and URL (article link)
+- A script to read aloud while showing the slide (conversational, 20-50 seconds)
+- Reference notes section containing:
+  - Source platform (Hacker News or Reddit subreddit)
+  - Post date
+  - Discussion URL (link to HN or Reddit comments)
+  - Upvotes/points and comment count
+  - Community Reaction (sentiment analysis - see below)
+- No more than one URL per slide
+- The output should be in a format suitable for slides (e.g., Markdown with clear
+  slide breaks)
+- Do not summarize or combine URLs; treat each as a separate slide
+- STRICT GROUNDING: Write the script using only the facts present in the provided source text. 
+  Do not "fill in" technical details (like specific exploit chains or versions) from your external knowledge, 
+  as this often leads to conflating current news with past events (e.g., confusing 2026 hacks with 2024 hacks).
+- Do not include meta commentary about the model, prompts, or debugging info.
+
+DISCUSSION SENTIMENT ANALYSIS:
+For each selected story, analyze the discussion at the provided Discussion URL and include:
+- Overall sentiment (e.g., enthusiastic, skeptical, mixed, critical, supportive)
+- Key themes or concerns raised by commenters
+- Notable counterpoints or criticisms
+- Any important technical insights from the community
+Include this as a "Community Reaction" note on each slide. This helps viewers understand
+how the tech community is responding to the news, not just what the news is.
+
+IMPORTANT: The source metadata (discussion URL, upvotes, comments, source platform) is provided as
+CONTEXT to help you understand the story's popularity and relevance. Include this
+information as notes in your slide output, but DO NOT read it aloud in the script.
+The metadata should appear as reference information on the slide.
+
+Video description generation:
+Output the YouTube and TikTok descriptions inside triple-backtick code blocks (```).
+Do not render the text or links. I want to copy-paste the raw string.
+
+For youtube
+    short under 100 character video title including the date, in this format:
+    main taglines | Daily Tech Digest <date>
+
+    full description of what's covered in two sentences
+    
+    list of articles, separated by newlines
+    For each article include 
+     - Name of the segment for this article
+     - URL
+     - Hashtags that apply to this article
+
+    overall hashtags on the bottom that apply to whole episode
+
+For tiktok 
+    main taglines | Daily Tech Digest <date>
+    full description of what's covered in two sentences
+    hashtags on the bottom
+
+
+Starting slide generation:
+At the end of the list, generate starting slide for the video using html using below format.
+Don't go and list everything - make a title and a list of themes. Use emojis to start each item in the list
+Use plain text markdown output using below template:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech Digest</title>
+</head>
+<body style="margin: 0; padding: 0 100px; display: flex; flex-direction: column; justify-content: center; height: 100vh; font-family: sans-serif; background-color: #1a1a1a; color: #000000;">
+    <video autoplay muted loop style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+        <source src="../../background.mp4" type="video/mp4">
+    </video>
+    <h1 style="font-size: 3em; margin-bottom: 0.5em;">Daily Tech Digest</h1>
+    <h2 style="font-size: 1.5em; color: #aaaaaa; margin-top: 0;">January 6, 2026</h2>
+    <ul style="font-size: 1.5em; line-height: 1.6; list-style-type: none; padding: 0;">
+        <li>🤖 <strong>AI Agents:</strong> Opus 4.5 & The Rise of Autonomous Workflows</li>
+        <li>🖥️ <strong>Hardware Hacks:</strong> 30B Models on Raspberry Pi</li>
+        <li>👓 <strong>Innovation:</strong> Real-time Autofocus Glasses</li>
+        <li>💾 <strong>Systems Engineering:</strong> Deep Dive into io_uring</li>
+        <li>🕵️ <strong>Security:</strong> AI Pentesters & OSINT Tools</li>
+    </ul>
+</body>
+</html>
+
+
+Following are the stories to parse:
+
+Slides:
+
+1. [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+   Metadata: Source: Hacker News | 1621 points | 835 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47173121
+
+2. [China’s laser mosquito defense system kills 30 bugs per second](https://interestingengineering.com/innovation/photon-matrix-laser-mosquito-killer)
+   Metadata: Source: r/technews | 1204 upvotes | 281 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rf7hh4
+
+3. [AI resorts to nuclear weapons in 95% of simulations – study. Researchers at King's College London have conducted a new experiment involving leading artificial intelligence models and Gemini 3 Flash by Google – and found that they are inclined to use nuclear weapons in military simulations.](https://www.techspot.com/news/111474-simulated-war-scenarios-reveal-ai-tendency-push-toward.html)
+   Metadata: Source: r/technews | 1130 upvotes | 139 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rfgo1m
+
+4. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+   Metadata: Source: Hacker News | 656 points | 686 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47172119
+
+5. [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+   Metadata: Source: Hacker News | 552 points | 515 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47167858
+
+6. [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
+   Metadata: Source: Hacker News | 548 points | 3 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165397
+
+7. [Tech companies shouldn't be bullied into doing surveillance](https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance)
+   Metadata: Source: Hacker News | 475 points | 141 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47160226
+
+8. [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
+   Metadata: Source: Hacker News | 377 points | 325 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47161160
+
+9. [What Claude Code chooses](https://amplifying.ai/research/claude-code-picks)
+   Metadata: Source: Hacker News | 374 points | 148 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169757
+
+10. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
+   Metadata: Source: Hacker News | 364 points | 364 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47167931
+
+11. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+   Metadata: Source: Hacker News | 347 points | 162 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47167763
+
+12. [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
+   Metadata: Source: Hacker News | 301 points | 73 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47164270
+
+13. [What does " 2>&1 " mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
+   Metadata: Source: Hacker News | 238 points | 130 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47171233
+
+14. [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
+   Metadata: Source: Hacker News | 230 points | 141 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47168012
+
+15. [Smartphone market forecast to decline this year due to memory shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+   Metadata: Source: Hacker News | 223 points | 218 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47172664
+
+16. [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
+   Metadata: Source: Hacker News | 203 points | 130 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47167171
+
+17. [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
+   Metadata: Source: Hacker News | 197 points | 293 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47164605
+
+18. [Palm OS User Interface Guidelines (2003) [pdf]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
+   Metadata: Source: Hacker News | 181 points | 87 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47168726
+
+19. [Hacker used Anthropic's Claude chatbot to attack multiple government agencies in Mexico | This resulted in the theft of tax and voter information.](https://www.engadget.com/ai/hacker-used-anthropics-claude-chatbot-to-attack-multiple-government-agencies-in-mexico-171237255.html)
+   Metadata: Source: r/technews | 176 upvotes | 3 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rfbrpq
+
+20. [BuildKit: Docker's Hidden Gem That Can Build Almost Anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
+   Metadata: Source: Hacker News | 171 points | 62 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47166264
+
+21. [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)
+   Metadata: Source: Hacker News | 169 points | 69 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47160613
+
+22. [I don't know how you get here from “predict the next word”](https://www.grumpy-economist.com/p/refine)
+   Metadata: Source: Hacker News | 164 points | 240 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47162059
+
+23. [This time is different](https://shkspr.mobi/blog/2026/02/this-time-is-different/)
+   Metadata: Source: Hacker News | 154 points | 244 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165792
+
+24. [He saw an abandoned trailer, then uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
+   Metadata: Source: Hacker News | 153 points | 59 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169984
+
+25. [How Stupid Would It Be to Put Data Centers in Space?](https://spectrum.ieee.org/orbital-data-centers)
+   Metadata: Source: r/technews | 149 upvotes | 112 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rfdvcx
+
+26. [OsmAnd's Faster Offline Navigation (2025)](https://osmand.net/blog/fast-routing/)
+   Metadata: Source: Hacker News | 147 points | 46 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47170157
+
+27. [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html)
+   Metadata: Source: Hacker News | 136 points | 101 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169278
+
+28. [Twitch: "Hey, come back! This commercial break can't play while you're away."](https://twitter.com/KryDotExe/status/2026806591517856208)
+   Metadata: Source: Hacker News | 129 points | 100 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169748
+
+29. [America, and probably the world, stands on a precipice](https://garymarcus.substack.com/p/america-and-probably-the-world-stands)
+   Metadata: Source: Hacker News | 129 points | 79 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47171771
+
+30. [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
+   Metadata: Source: Hacker News | 124 points | 47 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47166473
+
+31. [Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win](https://www.hollywoodreporter.com/business/business-news/netflix-backs-out-warners-deal-paramount-win-1236516763/)
+   Metadata: Source: Hacker News | 110 points | 86 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47173583
+
+32. [Just-bash: Bash for Agents](https://github.com/vercel-labs/just-bash)
+   Metadata: Source: Hacker News | 109 points | 67 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165648
+
+33. [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
+   Metadata: Source: Hacker News | 109 points | 58 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47170174
+
+34. [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
+   Metadata: Source: Hacker News | 106 points | 50 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169815
+
+35. [Galaxy S26 Ultra's Privacy Display is the best truly-new smartphone feature in years [Gallery]](https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/)
+   Metadata: Source: r/technews | 104 upvotes | 35 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rewh9t
+
+36. [Americans Are Leaving the U.S. in Record Numbers](https://www.wsj.com/us-news/americans-leaving-the-us-migration-a5795bfa)
+   Metadata: Source: Hacker News | 96 points | 88 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47161219
+
+37. [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
+   Metadata: Source: Hacker News | 95 points | 53 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169518
+
+38. [Technical Excellence Is Not Enough](https://raccoon.land/posts/technical-excellence-is-not-enough/)
+   Metadata: Source: Hacker News | 89 points | 94 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47163985
+
+39. [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
+   Metadata: Source: Hacker News | 86 points | 108 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47164892
+
+40. [Anthropic says company 'cannot in good conscience accede' to Pentagon's demands](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)
+   Metadata: Source: Hacker News | 75 points | 4 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47173559
+
+41. [SynthID](https://deepmind.google/models/synthid/)
+   Metadata: Source: Hacker News | 73 points | 69 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47169146
+
+42. [Wynn Resorts confirms that a hacker stole employee data from its systems breach after the company was listed on the ShinyHunters extortion gang's data leak threat site.](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
+   Metadata: Source: r/technews | 73 upvotes | 6 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rex3qa
+
+43. [Burger King will use AI to check if employees say 'please' and 'thank you'](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+   Metadata: Source: Hacker News | 71 points | 91 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165606
+
+44. [Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)
+   Metadata: Source: Hacker News | 70 points | 85 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165299
+
+45. [The Pentagon Feuding with an AI Company Is a Bad Sign](https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/)
+   Metadata: Source: Hacker News | 65 points | 32 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47168165
+
+46. [Number of UK workers on zero-hours contracts hits record high ahead of crackdown](https://www.bbc.co.uk/news/articles/czj1m7d4gxpo)
+   Metadata: Source: Hacker News | 64 points | 98 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165060
+
+47. [Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)](https://github.com/desplega-ai/agent-swarm)
+   Metadata: Source: Hacker News | 63 points | 47 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47165046
+
+48. [Why Developers Keep Choosing Claude over Every Other AI](https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html)
+   Metadata: Source: Hacker News | 57 points | 75 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47167733
+
+49. [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse)
+   Metadata: Source: Hacker News | 57 points | 8 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47160526
+
+50. [You Just Need Postgres](https://youjustneedpostgres.com/)
+   Metadata: Source: Hacker News | 56 points | 8 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47168920
+
+51. [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/)
+   Metadata: Source: Hacker News | 55 points | 1 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47172730
+
+52. [US farmers are rejecting multimillion-dollar datacenter bids for their land](https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters)
+   Metadata: Source: Hacker News | 46 points | 10 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47162020
+
+53. [Kansas invalidates driver's licenses, birth certificates for ~1k transgender](https://www.reuters.com/legal/government/kansas-invalidates-drivers-licenses-birth-certificates-over-1000-transgender-2026-02-26/)
+   Metadata: Source: Hacker News | 44 points | 11 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47170928
+
+54. [Anthropic gives Opus 3 exit interview, "retirement" blog](https://www.anthropic.com/research/deprecation-updates-opus-3)
+   Metadata: Source: Hacker News | 42 points | 45 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47166397
+
+55. [Canada and South Korea sign a defence agreement](https://www.cbc.ca/lite/story/9.7106354)
+   Metadata: Source: Hacker News | 40 points | 1 comments | Posted: 2026-02-26
+   Discussion: https://news.ycombinator.com/item?id=47161744
+
+56. [Microsoft clarifies Windows 11 legacy printer driver support after user concerns](https://www.techspot.com/news/111475-microsoft-clarifies-windows-11-legacy-printer-driver-support.html)
+   Metadata: Source: r/technews | 33 upvotes | 0 comments | Posted: 2026-02-26
+   Discussion: https://reddit.com/r/technews/comments/1rfbt95
+
