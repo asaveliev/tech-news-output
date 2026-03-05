@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47247645",
+    "title": "MacBook Neo",
+    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "score": 1730,
+    "descendants": 2023,
+    "time": 1772633801,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47241551",
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "score": 1223,
+    "descendants": 514,
+    "time": 1772585911,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246110",
+    "title": "Nobody gets promoted for simplicity",
+    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "score": 842,
+    "descendants": 474,
+    "time": 1772624612,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47249343",
+    "title": "Something is afoot in the land of Qwen",
+    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "score": 630,
+    "descendants": 282,
+    "time": 1772639734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47252049",
+    "title": "An interactive map of Flock Cams",
+    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+    "score": 565,
+    "descendants": 204,
+    "time": 1772650245,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47243272",
+    "title": "Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "score": 510,
+    "descendants": 286,
+    "time": 1772600437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47253177",
+    "title": "Building a new Flash",
+    "url": "https://bill.newgrounds.com/news/post/1607118",
+    "score": 499,
+    "descendants": 136,
+    "time": 1772655363,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47255662",
+    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "score": 484,
+    "descendants": 267,
+    "time": 1772668270,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47241817",
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+    "score": 410,
+    "descendants": 407,
+    "time": 1772587865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47248341",
+    "title": "Government grant-funded research should not be published in for-profit journals",
+    "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+    "score": 360,
+    "descendants": 140,
+    "time": 1772636028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246296",
+    "title": "Qwen3.5 Fine-Tuning Guide",
+    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+    "score": 318,
+    "descendants": 74,
+    "time": 1772625871,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47251480",
+    "title": "Making Firefox's right-click not suck with about:config",
+    "url": "https://joshua.hu/firefox-making-right-click-not-suck",
+    "score": 292,
+    "descendants": 198,
+    "time": 1772647959,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47244291",
+    "title": "RFC 9849. TLS Encrypted Client Hello",
+    "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
+    "score": 292,
+    "descendants": 138,
+    "time": 1772609124,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47245211",
+    "title": "Bet on German Train Delays",
+    "url": "https://bahn.bet",
+    "score": 283,
+    "descendants": 188,
+    "time": 1772617340,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47248319",
+    "title": "“It turns out” (2010)",
+    "url": "https://jsomers.net/blog/it-turns-out",
+    "score": 275,
+    "descendants": 87,
+    "time": 1772635966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47243069",
+    "title": "A CPU that runs entirely on GPU",
+    "url": "https://github.com/robertcprice/nCPU",
+    "score": 246,
+    "descendants": 122,
+    "time": 1772598632,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47245491",
+    "title": "Moss is a pixel canvas where every brush is a tiny program",
+    "url": "https://www.moss.town/",
+    "score": 236,
+    "descendants": 25,
+    "time": 1772619673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47242765",
+    "title": "Nobody gets promoted for simplicity",
+    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "score": 227,
+    "descendants": 89,
+    "time": 1772595618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47247033",
+    "title": "Glaze by Raycast",
+    "url": "https://www.glazeapp.com/",
+    "score": 214,
+    "descendants": 129,
+    "time": 1772630491,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47252726",
+    "title": "Google ends its 30 percent app store fee and welcomes third-party app stores",
+    "url": "https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html",
+    "score": 209,
+    "descendants": 75,
+    "time": 1772653222,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47253364",
+    "title": "Does that use a lot of energy?",
+    "url": "https://hannahritchie.github.io/energy-use-comparisons/",
+    "score": 203,
+    "descendants": 177,
+    "time": 1772656216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47247649",
+    "title": "MacBook Neo",
+    "url": "https://www.apple.com/macbook-neo/",
+    "score": 188,
+    "descendants": 3,
+    "time": 1772633816,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47242193",
+    "title": "Graphics Programming Resources",
+    "url": "https://develop--gpvm-website.netlify.app/resources/",
+    "score": 182,
+    "descendants": 19,
+    "time": 1772590981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47252838",
+    "title": "Father claims Google's AI product fuelled son's delusional spiral",
+    "url": "https://www.bbc.com/news/articles/czx44p99457o",
+    "score": 179,
+    "descendants": 237,
+    "time": 1772653687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47241976",
+    "title": "Weave – A language aware merge algorithm based on entities",
+    "url": "https://github.com/Ataraxy-Labs/weave",
+    "score": 177,
+    "descendants": 106,
+    "time": 1772589141,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47248511",
+    "title": "Medical journal says the case reports it has published for 25 years are fiction",
+    "url": "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/",
+    "score": 166,
+    "descendants": 63,
+    "time": 1772636556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246044",
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "score": 164,
+    "descendants": 85,
+    "time": 1772624026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47241092",
+    "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+    "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+    "score": 155,
+    "descendants": 36,
+    "time": 1772583038,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
+    "score": 154,
+    "descendants": 26,
+    "time": 1772646964,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47243804",
+    "title": "Better JIT for Postgres",
+    "url": "https://github.com/vladich/pg_jitter",
+    "score": 143,
+    "descendants": 77,
+    "time": 1772605030,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246746",
+    "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+    "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+    "score": 135,
+    "descendants": 40,
+    "time": 1772628844,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246858",
+    "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+    "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+    "score": 135,
+    "descendants": 34,
+    "time": 1772629493,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47253892",
+    "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+    "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+    "score": 116,
+    "descendants": 98,
+    "time": 1772658675,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47254322",
+    "title": "Dulce et Decorum Est (1921)",
+    "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+    "score": 114,
+    "descendants": 63,
+    "time": 1772660500,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47242725",
+    "title": "California's Digital Age Assurance Act, and FOSS",
+    "url": "https://runxiyu.org/comp/ab1043/",
+    "score": 112,
+    "descendants": 111,
+    "time": 1772595378,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47253221",
+    "title": "The View from RSS",
+    "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+    "score": 108,
+    "descendants": 28,
+    "time": 1772655583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47249744",
+    "title": "Humans 40k yrs ago developed a system of conventional signs",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+    "score": 106,
+    "descendants": 48,
+    "time": 1772641236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47249809",
+    "title": "Sea level much higher than assumed in most coastal hazard assessments",
+    "url": "https://www.nature.com/articles/s41586-026-10196-1",
+    "score": 101,
+    "descendants": 69,
+    "time": 1772641458,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47254516",
+    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+    "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+    "score": 101,
+    "descendants": 59,
+    "time": 1772661380,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47244395",
+    "title": "To understand our fascination with crystals, researchers gave some to chimps",
+    "url": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+    "score": 97,
+    "descendants": 65,
+    "time": 1772610426,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47246463",
+    "title": "Iran war wreaking havoc on shipping and air cargo, could create global delays",
+    "url": "https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/",
+    "score": 95,
+    "descendants": 190,
+    "time": 1772626938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47242453",
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "score": 90,
+    "descendants": 67,
+    "time": 1772593232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47253160",
+    "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+    "url": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
+    "score": 81,
+    "descendants": 55,
+    "time": 1772655306,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47251987",
+    "title": "Data Has Weight but Only on SSDs",
+    "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+    "score": 80,
+    "descendants": 62,
+    "time": 1772649981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47247670",
+    "title": "Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip",
+    "url": "https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/",
+    "score": 80,
+    "descendants": 3,
+    "time": 1772633913,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47243036",
+    "title": "Indefinite Book Club Hiatus",
+    "url": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
+    "score": 79,
+    "descendants": 36,
+    "time": 1772598320,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47247639",
+    "title": "Show HN: P0 – Yes, AI can ship complex features into real codebases",
+    "url": "https://www.bepurple.ai/",
+    "score": 76,
+    "descendants": 37,
+    "time": 1772633768,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47249448",
+    "title": "1.5 Million Users Leave ChatGPT",
+    "url": "https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/",
+    "score": 74,
+    "descendants": 27,
+    "time": 1772640129,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47241536",
+    "title": "You can't use a code editor when you're under 18 now?",
+    "url": "https://mastodon.online/@marekfort/116164253291515471",
+    "score": 73,
+    "descendants": 41,
+    "time": 1772585819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47250286",
+    "title": "New York could prohibit chatbot medical, legal, engineering advice",
+    "url": "https://folding-sky.com/blog/ny-senate-bill-s7263-chatbot-liability",
+    "score": 71,
+    "descendants": 97,
+    "time": 1772643128,
+    "source": "hackernews"
+  }
+]
