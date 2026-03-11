@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "47324054",
+    "title": "Tony Hoare has died",
+    "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "score": 1706,
+    "descendants": 219,
+    "time": 1773154216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322635",
+    "title": "Online age-verification tools for child safety are surveilling adults",
+    "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+    "score": 599,
+    "descendants": 316,
+    "time": 1773147342,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323017",
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "score": 545,
+    "descendants": 433,
+    "time": 1773149477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323900",
+    "title": "Meta acquires Moltbook",
+    "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "score": 476,
+    "descendants": 318,
+    "time": 1773153486,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47321233",
+    "title": "I put my whole life into a single database",
+    "url": "https://howisfelix.today/",
+    "score": 442,
+    "descendants": 208,
+    "time": 1773137268,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47320600",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "score": 430,
+    "descendants": 358,
+    "time": 1773132413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47321533",
+    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+    "score": 409,
+    "descendants": 2,
+    "time": 1773139830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47320661",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "score": 383,
+    "descendants": 391,
+    "time": 1773132893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322887",
+    "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+    "url": "https://dnhkng.github.io/posts/rys/",
+    "score": 379,
+    "descendants": 101,
+    "time": 1773148735,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47317616",
+    "title": "Two Years of Emacs Solo",
+    "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+    "score": 335,
+    "descendants": 136,
+    "time": 1773101804,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47324087",
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "score": 317,
+    "descendants": 240,
+    "time": 1773154393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47327559",
+    "title": "Agents that run while I sleep",
+    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "score": 303,
+    "descendants": 295,
+    "time": 1773169786,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47324211",
+    "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+    "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+    "score": 286,
+    "descendants": 10,
+    "time": 1773154895,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47329605",
+    "title": "U+237C ⍼ Is Azimuth",
+    "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+    "score": 258,
+    "descendants": 25,
+    "time": 1773182025,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47329557",
+    "title": "Cloudflare crawl endpoint",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+    "score": 251,
+    "descendants": 98,
+    "time": 1773181635,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322815",
+    "title": "Intel Demos Chip to Compute with Encrypted Data",
+    "url": "https://spectrum.ieee.org/fhe-intel",
+    "score": 238,
+    "descendants": 105,
+    "time": 1773148248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47328214",
+    "title": "RISC-V Is Sloooow",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+    "score": 211,
+    "descendants": 202,
+    "time": 1773173514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47329608",
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "score": 207,
+    "descendants": 72,
+    "time": 1773182028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47326101",
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "score": 205,
+    "descendants": 124,
+    "time": 1773162892,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323105",
+    "title": "Rebasing in Magit",
+    "url": "https://entropicthoughts.com/rebasing-in-magit",
+    "score": 200,
+    "descendants": 132,
+    "time": 1773149919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47327015",
+    "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+    "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+    "score": 170,
+    "descendants": 57,
+    "time": 1773167199,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47318421",
+    "title": "Learnings from paying artists royalties for AI-generated art",
+    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+    "score": 166,
+    "descendants": 155,
+    "time": 1773109492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47318797",
+    "title": "SSH Secret Menu",
+    "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+    "score": 160,
+    "descendants": 52,
+    "time": 1773113318,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47320614",
+    "title": "Levels of Agentic Engineering",
+    "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+    "score": 149,
+    "descendants": 76,
+    "time": 1773132520,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47321499",
+    "title": "FreeBSD 14.4-Release Announcement",
+    "url": "https://www.freebsd.org/releases/14.4R/announce/",
+    "score": 147,
+    "descendants": 65,
+    "time": 1773139509,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47319620",
+    "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+    "url": "https://loger-project.github.io",
+    "score": 138,
+    "descendants": 27,
+    "time": 1773123366,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47319179",
+    "title": "Windows: Microsoft broke the only thing that mattered",
+    "url": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+    "score": 126,
+    "descendants": 123,
+    "time": 1773118132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47324058",
+    "title": "We are building data breach machines and nobody cares",
+    "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+    "score": 123,
+    "descendants": 43,
+    "time": 1773154243,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322629",
+    "title": "Traffic from Russia to Cloudflare is 60% down from last year",
+    "url": "https://radar.cloudflare.com/traffic/ru?dateRange=52w",
+    "score": 122,
+    "descendants": 78,
+    "time": 1773147314,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323891",
+    "title": "RFC 454545 – Human Em Dash Standard",
+    "url": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
+    "score": 118,
+    "descendants": 112,
+    "time": 1773153475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47325595",
+    "title": "I built a programming language using Claude Code",
+    "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+    "score": 117,
+    "descendants": 160,
+    "time": 1773160649,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47325280",
+    "title": "Ad-tech is fascist tech",
+    "url": "https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes",
+    "score": 111,
+    "descendants": 56,
+    "time": 1773159475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47319273",
+    "title": "Amazon holds engineering meeting following AI-related outages",
+    "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+    "score": 110,
+    "descendants": 88,
+    "time": 1773119279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322966",
+    "title": "Hisense TVs add unskippable startup ads before live TV",
+    "url": "https://www.guru3d.com/story/hisense-vidaa-tvs-reportedly-add-unskippable-startup-ads-before-live-tv/",
+    "score": 108,
+    "descendants": 128,
+    "time": 1773149207,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47327641",
+    "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
+    "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+    "score": 107,
+    "descendants": 31,
+    "time": 1773170246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47326555",
+    "title": "Billion-Parameter Theories",
+    "url": "https://www.worldgov.org/complexity.html",
+    "score": 93,
+    "descendants": 76,
+    "time": 1773164993,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322033",
+    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+    "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+    "score": 86,
+    "descendants": 30,
+    "time": 1773143916,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323028",
+    "title": "Germany's Solar Boom Eases Power Costs as Gas Price Jumps",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/germany-s-solar-boom-eases-power-costs-as-gas-price-jumps",
+    "score": 83,
+    "descendants": 79,
+    "time": 1773149525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47317739",
+    "title": "The “JVG algorithm” only wins on tiny numbers",
+    "url": "https://scottaaronson.blog/?p=9615",
+    "score": 83,
+    "descendants": 45,
+    "time": 1773102919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47327367",
+    "title": "DOGE member took Social Security data on a thumb drive, whistleblower alleges",
+    "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge/",
+    "score": 79,
+    "descendants": 6,
+    "time": 1773168799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47327473",
+    "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+    "url": "https://github.com/torlando-tech/columba",
+    "score": 77,
+    "descendants": 8,
+    "time": 1773169321,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47330004",
+    "title": "DOGE employee stole Social Security data and put it on a thumb drive",
+    "url": "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/",
+    "score": 76,
+    "descendants": 8,
+    "time": 1773184657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47328029",
+    "title": "Mother of All Grease Fires (1994)",
+    "url": "https://milk.com/wall-o-shame/bucket.html",
+    "score": 64,
+    "descendants": 24,
+    "time": 1773172592,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47323973",
+    "title": "Foreign-funded lobby groups outside EU are pushing ChatControl with propaganda",
+    "url": "https://digitalcourage.social/@echo_pbreyer/116205371224315359",
+    "score": 64,
+    "descendants": 1,
+    "time": 1773153783,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47319255",
+    "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
+    "url": "https://washere.live",
+    "score": 61,
+    "descendants": 44,
+    "time": 1773119063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47322838",
+    "title": "Show HN: DD Photos – open-source photo album site generator (Go and SvelteKit)",
+    "url": "https://github.com/dougdonohoe/ddphotos",
+    "score": 60,
+    "descendants": 19,
+    "time": 1773148428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47319387",
+    "title": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+    "url": "https://www.bunniestudios.com/blog/2026/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/",
+    "score": 54,
+    "descendants": 4,
+    "time": 1773120588,
+    "source": "hackernews"
+  }
+]
