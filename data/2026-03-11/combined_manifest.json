@@ -1,0 +1,524 @@
+[
+  {
+    "hn_id": "47340079",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "score": 3339,
+    "descendants": 1255,
+    "time": 1773257369,
+    "source": "hackernews"
+  },
+  {
+    "title": "YouTube on TV becomes insufferable with new unskippable 30-second ads",
+    "url": "https://www.dexerto.com/youtube/youtube-ads-are-about-to-get-even-longer-and-theyll-be-unskippable-3332420/",
+    "reddit_id": "1rqno22",
+    "score": 2429,
+    "num_comments": 429,
+    "date": "2026-03-11T08:00:53",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47332074",
+    "title": "Create value for others and don’t worry about the returns",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+    "score": 669,
+    "descendants": 436,
+    "time": 1773207949,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336989",
+    "title": "Temporal: The 9-year journey to fix time in JavaScript",
+    "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+    "score": 637,
+    "descendants": 203,
+    "time": 1773243350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335572",
+    "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
+    "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+    "score": 591,
+    "descendants": 259,
+    "time": 1773237121,
+    "source": "hackernews"
+  },
+  {
+    "title": "Mathematics is undergoing the biggest change in its history | The speed at which artificial intelligence is gaining in mathematical ability has taken many by surprise. It is rewriting what it means to be a mathematician",
+    "url": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/",
+    "reddit_id": "1rqut44",
+    "score": 575,
+    "num_comments": 107,
+    "date": "2026-03-11T14:10:29",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47331811",
+    "title": "Making WebAssembly a first-class language on the Web",
+    "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+    "score": 516,
+    "descendants": 173,
+    "time": 1773204286,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47334293",
+    "title": "The MacBook Neo",
+    "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+    "score": 496,
+    "descendants": 822,
+    "time": 1773229044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47333627",
+    "title": "How we hacked McKinsey's AI platform",
+    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+    "score": 430,
+    "descendants": 169,
+    "time": 1773223143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47330836",
+    "title": "Type resolution redesign, with language changes to taste",
+    "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+    "score": 396,
+    "descendants": 230,
+    "time": 1773192287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335237",
+    "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
+    "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+    "score": 367,
+    "descendants": 307,
+    "time": 1773235359,
+    "source": "hackernews"
+  },
+  {
+    "title": "Valve says Steam users downloaded 100 exabytes of games in 2025, and are averaging 274 petabytes of installs and updates every day",
+    "url": "https://www.pcgamer.com/gaming-industry/valve-says-steam-users-downloaded-100-exabytes-of-games-in-2025-and-are-averaging-274-petabytes-of-installs-and-updates-every-day/",
+    "reddit_id": "1rqwcy8",
+    "score": 363,
+    "num_comments": 24,
+    "date": "2026-03-11T15:08:26",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47340935",
+    "title": "The dead Internet is not a theory anymore",
+    "url": "https://www.adriankrebs.ch/blog/dead-internet/",
+    "score": 354,
+    "descendants": 242,
+    "time": 1773260422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47334694",
+    "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+    "url": "https://github.com/microsoft/BitNet",
+    "score": 331,
+    "descendants": 160,
+    "time": 1773232035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335349",
+    "title": "Entities enabling scientific fraud at scale (2025)",
+    "url": "https://doi.org/10.1073/pnas.2420092122",
+    "score": 284,
+    "descendants": 194,
+    "time": 1773235932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336476",
+    "title": "Google closes deal to acquire Wiz",
+    "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+    "score": 273,
+    "descendants": 167,
+    "time": 1773241100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47339164",
+    "title": "I was interviewed by an AI bot for a job",
+    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "score": 258,
+    "descendants": 240,
+    "time": 1773253050,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47341845",
+    "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+    "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+    "score": 250,
+    "descendants": 260,
+    "time": 1773263166,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47331034",
+    "title": "Writing my own text editor, and daily-driving it",
+    "url": "https://blog.jsbarretto.com/post/text-editor",
+    "score": 220,
+    "descendants": 109,
+    "time": 1773194662,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47337607",
+    "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+    "url": "https://sitespy.app",
+    "score": 219,
+    "descendants": 50,
+    "time": 1773246066,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47341645",
+    "title": "Many SWE-bench-Passing PRs would not be merged",
+    "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+    "score": 214,
+    "descendants": 91,
+    "time": 1773262612,
+    "source": "hackernews"
+  },
+  {
+    "title": "Why AI Chatbots Agree With You Even When You’re Wrong",
+    "url": "https://spectrum.ieee.org/ai-sycophancy",
+    "reddit_id": "1rqv3uc",
+    "score": 211,
+    "num_comments": 52,
+    "date": "2026-03-11T14:21:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47336111",
+    "title": "Faster asin() was hiding in plain sight",
+    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+    "score": 193,
+    "descendants": 105,
+    "time": 1773239753,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47343156",
+    "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+    "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+    "score": 185,
+    "descendants": 243,
+    "time": 1773268182,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47334982",
+    "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+    "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+    "score": 182,
+    "descendants": 408,
+    "time": 1773233861,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47339223",
+    "title": "Personal Computer by Perplexity",
+    "url": "https://www.perplexity.ai/personal-computer-waitlist",
+    "score": 145,
+    "descendants": 116,
+    "time": 1773253341,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47337249",
+    "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+    "url": "https://klausai.com/",
+    "score": 139,
+    "descendants": 77,
+    "time": 1773244463,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47340071",
+    "title": "I'm glad the Anthropic fight is happening now",
+    "url": "https://www.dwarkesh.com/p/dow-anthropic",
+    "score": 136,
+    "descendants": 178,
+    "time": 1773257339,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336171",
+    "title": "Show HN: Open-source browser for AI agents",
+    "url": "https://github.com/theredsix/agent-browser-protocol",
+    "score": 122,
+    "descendants": 40,
+    "time": 1773239970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47337177",
+    "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
+    "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+    "score": 117,
+    "descendants": 16,
+    "time": 1773244109,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336806",
+    "title": "Why the global elite gave up on spelling and grammar",
+    "url": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1",
+    "score": 114,
+    "descendants": 263,
+    "time": 1773242530,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47332054",
+    "title": "TADA: Speech generation through text-acoustic synchronization",
+    "url": "https://www.hume.ai/blog/opensource-tada",
+    "score": 98,
+    "descendants": 25,
+    "time": 1773207775,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47338091",
+    "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
+    "url": "https://fuelingcuriosity.com/game.html",
+    "score": 95,
+    "descendants": 45,
+    "time": 1773248211,
+    "source": "hackernews"
+  },
+  {
+    "title": "Intel's Heracles chip computes fully-encrypted data without decrypting it — chip is 1,074 to 5,547 times faster than a 24-core Intel Xeon in FHE math operations",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/intels-heracles-chip-computes-fully-encrypted-data-without-decrypting-it-chip-is-1-074-to-5-547-times-faster-than-a-24-core-intel-xeon-in-fhe-math-operations",
+    "reddit_id": "1rr5cc5",
+    "score": 95,
+    "num_comments": 6,
+    "date": "2026-03-11T20:26:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47343927",
+    "title": "Show HN: A context-aware permission guard for Claude Code",
+    "url": "https://github.com/manuelschipper/nah/",
+    "score": 91,
+    "descendants": 37,
+    "time": 1773271585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47339888",
+    "title": "Hisense TVs force owners to watch intrusive ads",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing",
+    "score": 89,
+    "descendants": 51,
+    "time": 1773256415,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335772",
+    "title": "UK MPs give ministers powers to restrict Internet for under 18s",
+    "url": "https://www.openrightsgroup.org/press-releases/mps-give-ministers-powers-to-restrict-entire-internet/",
+    "score": 79,
+    "descendants": 65,
+    "time": 1773238128,
+    "source": "hackernews"
+  },
+  {
+    "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists | TechCrunch",
+    "url": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+    "reddit_id": "1rqxy95",
+    "score": 79,
+    "num_comments": 5,
+    "date": "2026-03-11T16:07:35",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47331802",
+    "title": "Standardizing source maps",
+    "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+    "score": 77,
+    "descendants": 10,
+    "time": 1773204143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47333433",
+    "title": "Google to provide Pentagon with AI agents",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work",
+    "score": 72,
+    "descendants": 74,
+    "time": 1773221422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47341007",
+    "title": "Iran warns U.S. tech firms could become targets as war expands",
+    "url": "https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets",
+    "score": 71,
+    "descendants": 126,
+    "time": 1773260660,
+    "source": "hackernews"
+  },
+  {
+    "title": "US: SOLO micro-reactor plan advances with nuclear-grade graphite deal",
+    "url": "https://interestingengineering.com/energy/terra-innovatum-mersen-graphite-procurement",
+    "reddit_id": "1rqo4sp",
+    "score": 71,
+    "num_comments": 22,
+    "date": "2026-03-11T08:30:23",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47340554",
+    "title": "We were right about Havana syndrome",
+    "url": "https://warontherocks.com/2026/03/we-were-right-about-havana-syndrome/",
+    "score": 70,
+    "descendants": 74,
+    "time": 1773259308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47338055",
+    "title": "Fungal Electronics (2021)",
+    "url": "https://arxiv.org/abs/2111.11231",
+    "score": 64,
+    "descendants": 6,
+    "time": 1773247991,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336513",
+    "title": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
+    "url": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
+    "score": 61,
+    "descendants": 33,
+    "time": 1773241246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335764",
+    "title": "WA income tax clears House after 24-hour debate",
+    "url": "https://www.seattletimes.com/seattle-news/politics/wa-income-tax-passes-house-after-24-hour-debate/",
+    "score": 59,
+    "descendants": 170,
+    "time": 1773238092,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47343935",
+    "title": "Show HN: Autoresearch@home",
+    "url": "https://www.ensue-network.ai/autoresearch",
+    "score": 59,
+    "descendants": 10,
+    "time": 1773271638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47336889",
+    "title": "Elevated errors on login with Claude Code",
+    "url": "https://status.claude.com/incidents/jm3b4jjy2jrt",
+    "score": 58,
+    "descendants": 54,
+    "time": 1773242898,
+    "source": "hackernews"
+  },
+  {
+    "title": "That Doom-running, human brain cell-powered computer is headed for data centers",
+    "url": "https://www.techspot.com/news/111642-doom-running-human-brain-cell-powered-computer-headed.html",
+    "reddit_id": "1rqulos",
+    "score": 55,
+    "num_comments": 22,
+    "date": "2026-03-11T14:02:35",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47335431",
+    "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
+    "url": "https://aether.saphal.me/dashboard/default",
+    "score": 54,
+    "descendants": 17,
+    "time": 1773236297,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47332649",
+    "title": "I'm going to build my own OpenClaw, with blackjack and bun",
+    "url": "https://github.com/rcarmo/piclaw",
+    "score": 52,
+    "descendants": 68,
+    "time": 1773214578,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47342139",
+    "title": "Preliminary data from a longitudinal AI impact study",
+    "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+    "score": 49,
+    "descendants": 33,
+    "time": 1773264204,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47335369",
+    "title": "Where did you think the training data was coming from?",
+    "url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses",
+    "score": 49,
+    "descendants": 13,
+    "time": 1773236013,
+    "source": "hackernews"
+  },
+  {
+    "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
+    "url": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
+    "reddit_id": "1rqilzx",
+    "score": 48,
+    "num_comments": 5,
+    "date": "2026-03-11T03:18:14",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47332688",
+    "title": "AutoKernel: Autoresearch for GPU Kernels",
+    "url": "https://github.com/RightNow-AI/autokernel",
+    "score": 44,
+    "descendants": 10,
+    "time": 1773214930,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47342122",
+    "title": "Anthropic has strong case against Pentagon blacklisting, legal experts say",
+    "url": "https://www.reuters.com/legal/legalindustry/anthropic-has-strong-case-against-pentagon-blacklisting-legal-experts-say-2026-03-11/",
+    "score": 44,
+    "descendants": 8,
+    "time": 1773264124,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47331589",
+    "title": "MacBook Neo review: No other budget laptop can compete",
+    "url": "https://gizmodo.com/macbook-neo-review-no-other-budget-laptop-can-compete-2000731635",
+    "score": 43,
+    "descendants": 6,
+    "time": 1773201323,
+    "source": "hackernews"
+  }
+]
