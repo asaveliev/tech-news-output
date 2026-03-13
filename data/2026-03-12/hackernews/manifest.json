@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47350424",
+    "title": "Malus – Clean Room as a Service",
+    "url": "https://malus.sh",
+    "score": 1194,
+    "descendants": 435,
+    "time": 1773322924,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47357042",
+    "title": "Shall I implement it? No",
+    "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+    "score": 1172,
+    "descendants": 445,
+    "time": 1773349270,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47356968",
+    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+    "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "score": 562,
+    "descendants": 289,
+    "time": 1773348951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47344548",
+    "title": "Show HN: s@: decentralized social networking over static sites",
+    "url": "http://satproto.org/",
+    "score": 403,
+    "descendants": 214,
+    "time": 1773274939,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47351371",
+    "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+    "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+    "score": 393,
+    "descendants": 421,
+    "time": 1773326937,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352215",
+    "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
+    "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+    "score": 392,
+    "descendants": 328,
+    "time": 1773329437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47347064",
+    "title": "Returning to Rails in 2026",
+    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+    "score": 359,
+    "descendants": 225,
+    "time": 1773295606,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47349806",
+    "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+    "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+    "score": 342,
+    "descendants": 400,
+    "time": 1773319485,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47349277",
+    "title": "Big data on the cheapest MacBook",
+    "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+    "score": 342,
+    "descendants": 276,
+    "time": 1773315674,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47348304",
+    "title": "Dolphin Progress Release 2603",
+    "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+    "score": 322,
+    "descendants": 54,
+    "time": 1773307381,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47354098",
+    "title": "Bubble Sorted Amen Break",
+    "url": "https://parametricavocado.itch.io/amen-sorting",
+    "score": 313,
+    "descendants": 95,
+    "time": 1773335636,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47353533",
+    "title": "Reversing memory loss via gut-brain communication",
+    "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "score": 292,
+    "descendants": 114,
+    "time": 1773333531,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350931",
+    "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
+    "url": "https://codespeak.dev/",
+    "score": 289,
+    "descendants": 249,
+    "time": 1773325363,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352459",
+    "title": "The Met releases high-def 3D scans of 140 famous art objects",
+    "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+    "score": 265,
+    "descendants": 50,
+    "time": 1773330219,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352297",
+    "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+    "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+    "score": 262,
+    "descendants": 63,
+    "time": 1773329681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47346091",
+    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+    "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+    "score": 248,
+    "descendants": 264,
+    "time": 1773286168,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47345393",
+    "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+    "url": "https://micahflee.github.io/ice-contracts/",
+    "score": 236,
+    "descendants": 47,
+    "time": 1773280981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47347945",
+    "title": "3D-Knitting: The Ultimate Guide",
+    "url": "https://www.oliver-charles.com/pages/3d-knitting",
+    "score": 228,
+    "descendants": 79,
+    "time": 1773304036,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47348440",
+    "title": "1B identity records exposed in ID verification data leak",
+    "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+    "score": 217,
+    "descendants": 53,
+    "time": 1773308760,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47348192",
+    "title": "Avoiding Trigonometry (2013)",
+    "url": "https://iquilezles.org/articles/noacos/",
+    "score": 216,
+    "descendants": 66,
+    "time": 1773306417,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47349798",
+    "title": "US banks' exposure to private credit hits $300B (2025)",
+    "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
+    "score": 214,
+    "descendants": 5,
+    "time": 1773319406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47351239",
+    "title": "Suburban school district uses license plate readers to verify student residency",
+    "url": "https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/",
+    "score": 189,
+    "descendants": 241,
+    "time": 1773326472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352751",
+    "title": "Claude now creates interactive charts, diagrams and visualizations",
+    "url": "https://claude.com/blog/claude-builds-visuals",
+    "score": 189,
+    "descendants": 105,
+    "time": 1773331140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47356017",
+    "title": "An old photo of a large BBS (2022)",
+    "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+    "score": 181,
+    "descendants": 129,
+    "time": 1773344495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350516",
+    "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+    "url": "https://github.com/jrswab/axe",
+    "score": 178,
+    "descendants": 100,
+    "time": 1773323352,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47353993",
+    "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+    "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+    "score": 171,
+    "descendants": 104,
+    "time": 1773335236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352262",
+    "title": "US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike",
+    "url": "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters",
+    "score": 168,
+    "descendants": 266,
+    "time": 1773329574,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47355702",
+    "title": "White House plan to break up iconic U.S. climate lab moves forward",
+    "url": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
+    "score": 160,
+    "descendants": 175,
+    "time": 1773342861,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47349334",
+    "title": "Are LLM merge rates not getting better?",
+    "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+    "score": 140,
+    "descendants": 125,
+    "time": 1773316145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47353558",
+    "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+    "url": "https://github.com/onecli/onecli",
+    "score": 139,
+    "descendants": 41,
+    "time": 1773333666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352277",
+    "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
+    "url": "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths",
+    "score": 138,
+    "descendants": 197,
+    "time": 1773329614,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47348397",
+    "title": "U.S. Navy turns down Hormuz escort requests because of high risk",
+    "url": "https://maritime-executive.com/article/u-s-navy-turns-down-strait-of-hormuz-escort-requests-because-of-high-risk",
+    "score": 130,
+    "descendants": 140,
+    "time": 1773308371,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350416",
+    "title": "Show HN: Rudel – Claude Code Session Analytics",
+    "url": "https://github.com/obsessiondb/rudel",
+    "score": 129,
+    "descendants": 72,
+    "time": 1773322872,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350136",
+    "title": "Long overlooked as crucial to life, fungi start to get their due",
+    "url": "https://e360.yale.edu/features/fungi-kingdom",
+    "score": 125,
+    "descendants": 39,
+    "time": 1773321371,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47358206",
+    "title": "Grief and the AI split",
+    "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+    "score": 123,
+    "descendants": 193,
+    "time": 1773354908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352385",
+    "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+    "url": "https://github.com/wolfssl/wolfip",
+    "score": 122,
+    "descendants": 19,
+    "time": 1773329990,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352335",
+    "title": "AI should not replace people at Atlassian, says CEO",
+    "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
+    "score": 115,
+    "descendants": 50,
+    "time": 1773329813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47347362",
+    "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+    "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+    "score": 111,
+    "descendants": 73,
+    "time": 1773298556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47345364",
+    "title": "Urea prices",
+    "url": "https://tradingeconomics.com/commodity/urea",
+    "score": 110,
+    "descendants": 88,
+    "time": 1773280787,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350407",
+    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+    "url": "https://aminrj.com/posts/rag-document-poisoning/",
+    "score": 109,
+    "descendants": 41,
+    "time": 1773322836,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47345050",
+    "title": "Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015",
+    "url": "https://support.apple.com/en-us/126632",
+    "score": 106,
+    "descendants": 42,
+    "time": 1773278546,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47355781",
+    "title": "Runners who churn butter on their runs",
+    "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+    "score": 102,
+    "descendants": 60,
+    "time": 1773343305,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47347901",
+    "title": "Reliable Software in the LLM Era",
+    "url": "https://quint-lang.org/posts/llm_era",
+    "score": 102,
+    "descendants": 33,
+    "time": 1773303586,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47344999",
+    "title": "How much of HN is AI?",
+    "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+    "score": 99,
+    "descendants": 55,
+    "time": 1773278140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47353957",
+    "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+    "url": "https://github.com/understudy-ai/understudy",
+    "score": 97,
+    "descendants": 41,
+    "time": 1773335075,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47356223",
+    "title": "Amazon Employees Say AI Is Just Increasing Workload",
+    "url": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794",
+    "score": 93,
+    "descendants": 29,
+    "time": 1773345436,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47356392",
+    "title": "Bringing Chrome to ARM64 Linux Devices",
+    "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+    "score": 92,
+    "descendants": 44,
+    "time": 1773346395,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47350357",
+    "title": "First 6 days of Iran war cost $11.3B",
+    "url": "https://www.nbcnews.com/politics/congress/first-6-days-iran-war-cost-11-billion-pentagon-tells-senators-rcna263060",
+    "score": 86,
+    "descendants": 67,
+    "time": 1773322590,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352819",
+    "title": "Another DOGE staffer explaining how he flagged grants at NEH for \"DEI\"",
+    "url": "https://bsky.app/profile/404media.co/post/3mgupw4v3ak2j",
+    "score": 80,
+    "descendants": 35,
+    "time": 1773331322,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47352236",
+    "title": "The Road Not Taken: A World Where IPv4 Evolved",
+    "url": "https://owl.billpg.com/ipv4x/",
+    "score": 76,
+    "descendants": 146,
+    "time": 1773329481,
+    "source": "hackernews"
+  }
+]
