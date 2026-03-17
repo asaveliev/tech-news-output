@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "47397822",
+    "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+    "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+    "score": 1450,
+    "descendants": 930,
+    "time": 1773662406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47402950",
+    "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+    "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+    "score": 1059,
+    "descendants": 299,
+    "time": 1773686294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397593",
+    "title": "Corruption erodes social trust more in democracies than in autocracies",
+    "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+    "score": 696,
+    "descendants": 364,
+    "time": 1773660331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397797",
+    "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+    "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+    "score": 620,
+    "descendants": 257,
+    "time": 1773662253,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47394022",
+    "title": "How I write software with LLMs",
+    "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+    "score": 494,
+    "descendants": 472,
+    "time": 1773624249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47400060",
+    "title": "US Job Market Visualizer",
+    "url": "https://karpathy.ai/jobs/",
+    "score": 455,
+    "descendants": 333,
+    "time": 1773673830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47404796",
+    "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+    "url": "https://mistral.ai/news/leanstral",
+    "score": 436,
+    "descendants": 91,
+    "time": 1773694780,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47402640",
+    "title": "Meta’s renewed commitment to jemalloc",
+    "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+    "score": 411,
+    "descendants": 180,
+    "time": 1773684752,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397574",
+    "title": "Why I love FreeBSD",
+    "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+    "score": 410,
+    "descendants": 197,
+    "time": 1773660194,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47401879",
+    "title": "The “small web” is bigger than you might think",
+    "url": "https://kevinboone.me/small_web_is_big.html",
+    "score": 383,
+    "descendants": 163,
+    "time": 1773681477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398534",
+    "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+    "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+    "score": 362,
+    "descendants": 103,
+    "time": 1773666598,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47401809",
+    "title": "The American Healthcare Conundrum",
+    "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+    "score": 322,
+    "descendants": 275,
+    "time": 1773681207,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397920",
+    "title": "Obsession with growth is destroying nature, 150 countries warn",
+    "url": "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/",
+    "score": 273,
+    "descendants": 206,
+    "time": 1773663239,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398681",
+    "title": "AirPods Max 2",
+    "url": "https://www.apple.com/airpods-max/",
+    "score": 268,
+    "descendants": 448,
+    "time": 1773667323,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47396264",
+    "title": "Starlink Mini as a failover",
+    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+    "score": 247,
+    "descendants": 185,
+    "time": 1773648449,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47400868",
+    "title": "Show HN: Claude Code skills that build complete Godot games",
+    "url": "https://github.com/htdt/godogen",
+    "score": 234,
+    "descendants": 141,
+    "time": 1773677249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398479",
+    "title": "'Pokémon Go' players unknowingly trained delivery robots with 30B images",
+    "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
+    "score": 195,
+    "descendants": 93,
+    "time": 1773666333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397857",
+    "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+    "url": "https://github.com/emin-ozata/lazycut",
+    "score": 190,
+    "descendants": 56,
+    "time": 1773662708,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47393619",
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+    "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "score": 164,
+    "descendants": 110,
+    "time": 1773620568,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47393908",
+    "title": "What is agentic engineering?",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+    "score": 157,
+    "descendants": 90,
+    "time": 1773623267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47404074",
+    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "score": 155,
+    "descendants": 87,
+    "time": 1773691262,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47400261",
+    "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "score": 128,
+    "descendants": 108,
+    "time": 1773674736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47402651",
+    "title": "The return-to-the-office trend backfires",
+    "url": "https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/",
+    "score": 119,
+    "descendants": 95,
+    "time": 1773684798,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47404798",
+    "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
+    "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+    "score": 114,
+    "descendants": 199,
+    "time": 1773694789,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47394264",
+    "title": "Federal Right to Privacy Act – Draft legislation",
+    "url": "https://righttoprivacyact.github.io",
+    "score": 113,
+    "descendants": 72,
+    "time": 1773626336,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398080",
+    "title": "Even faster asin() was staring right at me",
+    "url": "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/",
+    "score": 109,
+    "descendants": 52,
+    "time": 1773664216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398023",
+    "title": "Comparing Python Type Checkers: Typing Spec Conformance",
+    "url": "https://pyrefly.org/blog/typing-conformance-comparison/",
+    "score": 105,
+    "descendants": 45,
+    "time": 1773663918,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47401734",
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+    "url": "https://arxiv.org/abs/2511.04427",
+    "score": 103,
+    "descendants": 58,
+    "time": 1773680857,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397528",
+    "title": "MM120, a pharmaceutical form of LSD, shown to reduce anxiety symptoms (2025)",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251027023816.htm",
+    "score": 92,
+    "descendants": 84,
+    "time": 1773659799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47401901",
+    "title": "Language model teams as distributed systems",
+    "url": "https://arxiv.org/abs/2603.12229",
+    "score": 89,
+    "descendants": 39,
+    "time": 1773681553,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47396557",
+    "title": "Why I may ‘hire’ AI instead of a graduate student",
+    "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student",
+    "score": 82,
+    "descendants": 88,
+    "time": 1773651553,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47406721",
+    "title": "Teens sue xAI over Grok's pornographic images of them",
+    "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo",
+    "score": 81,
+    "descendants": 21,
+    "time": 1773705339,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47396340",
+    "title": "385TB video game archive saved by fans; torrents being generated",
+    "url": "https://www.tomshardware.com/video-games/retro-gaming/385tb-video-game-archive-saved-by-fans-myrient-has-been-100-percent-backed-up-and-validated-torrents-being-generated",
+    "score": 81,
+    "descendants": 5,
+    "time": 1773649145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398441",
+    "title": "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
+    "url": "https://hackerbrief.vercel.app/",
+    "score": 67,
+    "descendants": 45,
+    "time": 1773666108,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47404575",
+    "title": "Mistral Small 4",
+    "url": "https://mistral.ai/news/mistral-small-4",
+    "score": 65,
+    "descendants": 6,
+    "time": 1773693653,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47404195",
+    "title": "Cuba's national electric grid collapses, leaving millions without power",
+    "url": "https://www.reuters.com/business/energy/cubas-national-electric-grid-collapses-says-grid-operator-2026-03-16/",
+    "score": 63,
+    "descendants": 26,
+    "time": 1773691746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397883",
+    "title": "Bringing Semiconductors to Kazakhstan",
+    "url": "https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan",
+    "score": 48,
+    "descendants": 10,
+    "time": 1773662984,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47395147",
+    "title": "ASCII and Unicode quotation marks (2007)",
+    "url": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html",
+    "score": 44,
+    "descendants": 29,
+    "time": 1773634190,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397483",
+    "title": "'Another internet is possible': Norway rails against 'enshittification'",
+    "url": "https://www.theguardian.com/world/2026/mar/16/norway-rails-against-enshittifcation-deliberate-tech-deterioration",
+    "score": 44,
+    "descendants": 21,
+    "time": 1773659390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47393688",
+    "title": "White House administration set to be paid $10B for brokering TikTok deal",
+    "url": "https://www.theguardian.com/technology/2026/mar/14/tiktok-trump-administration-10bn",
+    "score": 44,
+    "descendants": 19,
+    "time": 1773621217,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47397291",
+    "title": "Linux 7.1 to Retire UDP-Lite – Allows for Better Performance with Cleansed Code",
+    "url": "https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite",
+    "score": 42,
+    "descendants": 13,
+    "time": 1773657661,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47402118",
+    "title": "Agent Skills – Open Security Database",
+    "url": "https://index.tego.security/skills/",
+    "score": 33,
+    "descendants": 4,
+    "time": 1773682558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47405159",
+    "title": "JetBrains is shutting down \"Code With Me\" in all its IDEs",
+    "url": "https://www.neowin.net/news/jetbrains-is-shutting-down-this-neat-little-feature-in-its-ides/",
+    "score": 32,
+    "descendants": 7,
+    "time": 1773696525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47396417",
+    "title": "Apache Iggy: thread-per-core with io_uring in Rust",
+    "url": "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/",
+    "score": 32,
+    "descendants": 3,
+    "time": 1773650160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47403044",
+    "title": "Nvidia DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games",
+    "score": 31,
+    "descendants": 16,
+    "time": 1773686745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47403754",
+    "title": "Apple Exclaves and the Secure Design of the Neo's On-Screen Camera Indicator",
+    "url": "https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator",
+    "score": 30,
+    "descendants": 6,
+    "time": 1773689916,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47398462",
+    "title": "Apple introduces AirPods Max 2",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
+    "score": 28,
+    "descendants": 23,
+    "time": 1773666246,
+    "source": "hackernews"
+  }
+]
