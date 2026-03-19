@@ -1,0 +1,485 @@
+[
+  {
+    "hn_id": "47423647",
+    "title": "Rob Pike’s Rules of Programming (1989)",
+    "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "score": 917,
+    "descendants": 431,
+    "time": 1773827994,
+    "source": "hackernews"
+  },
+  {
+    "title": "The Pentagon is making plans for AI companies to train on classified data, defense official says",
+    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/?utm_medium=tr_social&amp;utm_source=reddit&amp;utm_campaign=site_visitor.unpaid.engagement",
+    "reddit_id": "1rx3los",
+    "score": 897,
+    "num_comments": 139,
+    "date": "2026-03-18T13:16:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47421442",
+    "title": "Have a fucking website",
+    "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+    "score": 878,
+    "descendants": 493,
+    "time": 1773806022,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47422942",
+    "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+    "url": "https://nightingale.cafe/",
+    "score": 543,
+    "descendants": 154,
+    "time": 1773821184,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47426057",
+    "title": "Despite doubts, federal cyber experts approved Microsoft cloud service",
+    "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+    "score": 457,
+    "descendants": 210,
+    "time": 1773843242,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47430797",
+    "title": "FBI is buying location data to track US citizens, director confirms",
+    "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+    "score": 445,
+    "descendants": 168,
+    "time": 1773864592,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47426932",
+    "title": "Death to Scroll Fade",
+    "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+    "score": 381,
+    "descendants": 195,
+    "time": 1773847438,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428541",
+    "title": "AI coding is gambling",
+    "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+    "score": 325,
+    "descendants": 397,
+    "time": 1773854522,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47431237",
+    "title": "Warranty Void If Regenerated",
+    "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+    "score": 292,
+    "descendants": 163,
+    "time": 1773866754,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427027",
+    "title": "Nvidia NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "score": 290,
+    "descendants": 204,
+    "time": 1773847867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47422759",
+    "title": "Wander – A tiny, decentralised tool to explore the small web",
+    "url": "https://susam.net/wander/",
+    "score": 255,
+    "descendants": 65,
+    "time": 1773819793,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47420432",
+    "title": "The pleasures of poor product design",
+    "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+    "score": 251,
+    "descendants": 97,
+    "time": 1773795645,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427017",
+    "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+    "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+    "score": 246,
+    "descendants": 80,
+    "time": 1773847807,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427299",
+    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+    "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+    "score": 237,
+    "descendants": 50,
+    "time": 1773849044,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple rolls out first 'background security' update for iPhones, iPads, and Macs to fix Safari bug",
+    "url": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+    "reddit_id": "1rwqjjm",
+    "score": 230,
+    "num_comments": 32,
+    "date": "2026-03-18T01:45:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47423976",
+    "title": "OpenAI Has New Focus (on the IPO)",
+    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "score": 212,
+    "descendants": 181,
+    "time": 1773830959,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47425297",
+    "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
+    "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
+    "score": 182,
+    "descendants": 2,
+    "time": 1773839055,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47426936",
+    "title": "Machine Payments Protocol (MPP)",
+    "url": "https://stripe.com/blog/machine-payments-protocol",
+    "score": 171,
+    "descendants": 73,
+    "time": 1773847452,
+    "source": "hackernews"
+  },
+  {
+    "title": "World-first 4D printing method turns sulfur waste into soft robots",
+    "url": "https://interestingengineering.com/science/sulfur-waste-4d-printing-recyclable-soft-robots",
+    "reddit_id": "1rwyc93",
+    "score": 168,
+    "num_comments": 39,
+    "date": "2026-03-18T08:39:31",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47421828",
+    "title": "SSH has no Host header",
+    "url": "https://blog.exe.dev/ssh-host-header",
+    "score": 161,
+    "descendants": 156,
+    "time": 1773811082,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47420388",
+    "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+    "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+    "score": 159,
+    "descendants": 17,
+    "time": 1773795190,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427214",
+    "title": "Meta will shut down VR Horizon Worlds access June 15",
+    "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
+    "score": 152,
+    "descendants": 160,
+    "time": 1773848618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47425680",
+    "title": "Aliens.gov ~ domain registered 17MAR2026",
+    "url": "https://whois.domaintools.com/aliens.gov",
+    "score": 151,
+    "descendants": 123,
+    "time": 1773841145,
+    "source": "hackernews"
+  },
+  {
+    "title": "The world’s first self-balancing electric motorcycle is now entering production",
+    "url": "https://electrek.co/2026/03/16/the-worlds-first-self-balancing-electric-motorcycle-is-now-entering-production/",
+    "reddit_id": "1rx5jxn",
+    "score": 146,
+    "num_comments": 33,
+    "date": "2026-03-18T14:33:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47422228",
+    "title": "Celebrating Tony Hoare's mark on computer science",
+    "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+    "score": 131,
+    "descendants": 31,
+    "time": 1773815474,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428810",
+    "title": "EU Inc.: A new harmonised corporate legal regime",
+    "url": "https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en",
+    "score": 123,
+    "descendants": 79,
+    "time": 1773855730,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427208",
+    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+    "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+    "score": 123,
+    "descendants": 72,
+    "time": 1773848599,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427416",
+    "title": "North Korean's 100k fake IT workers net $500M a year for Kim",
+    "url": "https://www.theregister.com/2026/03/18/researchers_lift_the_lid_on/",
+    "score": 120,
+    "descendants": 133,
+    "time": 1773849598,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47424458",
+    "title": "Measuring progress toward AGI: A cognitive framework",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+    "score": 118,
+    "descendants": 188,
+    "time": 1773834284,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47426246",
+    "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+    "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "score": 117,
+    "descendants": 89,
+    "time": 1773844120,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47423694",
+    "title": "2025 Turing award given for quantum information science",
+    "url": "https://awards.acm.org/about/2025-turing",
+    "score": 117,
+    "descendants": 27,
+    "time": 1773828601,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47425176",
+    "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
+    "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
+    "score": 116,
+    "descendants": 181,
+    "time": 1773838367,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47424042",
+    "title": "Judge orders restoration of Voice of America",
+    "url": "https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24",
+    "score": 105,
+    "descendants": 67,
+    "time": 1773831477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427388",
+    "title": "A tiny, decentralised tool to explore the small web",
+    "url": "https://codeberg.org/susam/wander",
+    "score": 102,
+    "descendants": 2,
+    "time": 1773849468,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428963",
+    "title": "Oil nears $110 a barrel after gas field strike",
+    "url": "https://www.bbc.com/news/articles/c78x83lpgngo",
+    "score": 95,
+    "descendants": 124,
+    "time": 1773856377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427647",
+    "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+    "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+    "score": 93,
+    "descendants": 42,
+    "time": 1773850664,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47425918",
+    "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+    "url": "https://github.com/joaoh82/rustunnel",
+    "score": 93,
+    "descendants": 35,
+    "time": 1773842443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47431671",
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+    "url": "https://github.com/alainnothere/llm-circuit-finder",
+    "score": 91,
+    "descendants": 32,
+    "time": 1773869472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47427520",
+    "title": "A data center opened next door. Then came the high-pitched whine",
+    "url": "https://www.politico.com/news/2026/03/11/data-centers-ai-electricity-virginia-00815219",
+    "score": 86,
+    "descendants": 93,
+    "time": 1773850074,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47421946",
+    "title": "Switzerland Built an Alternative to BGP",
+    "url": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+    "score": 81,
+    "descendants": 18,
+    "time": 1773812663,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47430826",
+    "title": "Remove your ring camera with a claw hammer",
+    "url": "https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw",
+    "score": 78,
+    "descendants": 58,
+    "time": 1773864731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428868",
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "url": "https://tmux.thijsverreck.com",
+    "score": 77,
+    "descendants": 35,
+    "time": 1773855985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47432915",
+    "title": "RX – a new random-access JSON alternative",
+    "url": "https://github.com/creationix/rx",
+    "score": 73,
+    "descendants": 21,
+    "time": 1773878285,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47429988",
+    "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+    "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+    "score": 71,
+    "descendants": 29,
+    "time": 1773860514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47423624",
+    "title": "Kagi is contemplating the removal of the assistant from its professional tier",
+    "url": "https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription",
+    "score": 70,
+    "descendants": 94,
+    "time": 1773827808,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47429455",
+    "title": "DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI",
+    "url": "https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges/",
+    "score": 70,
+    "descendants": 17,
+    "time": 1773858390,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
+    "reddit_id": "1rx5jtt",
+    "score": 64,
+    "num_comments": 5,
+    "date": "2026-03-18T14:33:32",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47425607",
+    "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+    "url": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+    "score": 56,
+    "descendants": 90,
+    "time": 1773840768,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428734",
+    "title": "I haven't used a mouse for 14 years",
+    "url": "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/",
+    "score": 56,
+    "descendants": 72,
+    "time": 1773855391,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47428611",
+    "title": "Iran's South Pars Gas Field Is Attacked by Israel, Sending Energy Prices Soaring",
+    "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html",
+    "score": 55,
+    "descendants": 37,
+    "time": 1773854831,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47431930",
+    "title": "What’s on HTTP?",
+    "url": "https://whatsonhttp.com/",
+    "score": 55,
+    "descendants": 24,
+    "time": 1773871078,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47421513",
+    "title": "Forget Flags and Scripts: Just Rename the File",
+    "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
+    "score": 54,
+    "descendants": 49,
+    "time": 1773807080,
+    "source": "hackernews"
+  },
+  {
+    "title": "Alibaba's AI strategy shift comes into focus with big bets on agents",
+    "url": "https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/",
+    "reddit_id": "1rx03qu",
+    "score": 50,
+    "num_comments": 0,
+    "date": "2026-03-18T10:25:58",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
