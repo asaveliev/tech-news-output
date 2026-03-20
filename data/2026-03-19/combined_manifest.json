@@ -1,0 +1,503 @@
+[
+  {
+    "hn_id": "47438723",
+    "title": "Astral to Join OpenAI",
+    "url": "https://astral.sh/blog/openai",
+    "score": 1323,
+    "descendants": 816,
+    "time": 1773925550,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47436950",
+    "title": "Afroman found not liable in defamation case",
+    "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+    "score": 1149,
+    "descendants": 665,
+    "time": 1773913916,
+    "source": "hackernews"
+  },
+  {
+    "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
+    "url": "https://www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
+    "reddit_id": "1rxyc51",
+    "score": 962,
+    "num_comments": 35,
+    "date": "2026-03-19T11:53:10",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47433058",
+    "title": "Austin’s surge of new housing construction drove down rents",
+    "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+    "score": 788,
+    "descendants": 969,
+    "time": 1773879339,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47442690",
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "score": 711,
+    "descendants": 789,
+    "time": 1773940564,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47434047",
+    "title": "A sufficiently detailed spec is code",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "score": 606,
+    "descendants": 323,
+    "time": 1773886997,
+    "source": "hackernews"
+  },
+  {
+    "title": "iOS 26.4 Fixes iPhone Keyboard Accuracy Bug",
+    "url": "https://www.macrumors.com/2026/03/18/ios-26-4-iphone-keyboard-bug-fix/",
+    "reddit_id": "1rxlly4",
+    "score": 573,
+    "num_comments": 147,
+    "date": "2026-03-19T00:32:41",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47437655",
+    "title": "“Your frustration is the product”",
+    "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+    "score": 513,
+    "descendants": 304,
+    "time": 1773920064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47444748",
+    "title": "Anthropic takes legal action against OpenCode",
+    "url": "https://github.com/anomalyco/opencode/pull/18186",
+    "score": 420,
+    "descendants": 337,
+    "time": 1773949046,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47437782",
+    "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
+    "url": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
+    "score": 399,
+    "descendants": 565,
+    "time": 1773920977,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47441546",
+    "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "score": 398,
+    "descendants": 154,
+    "time": 1773935766,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47438001",
+    "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
+    "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
+    "score": 384,
+    "descendants": 3,
+    "time": 1773922380,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47440759",
+    "title": "macOS 26 breaks custom DNS settings including .internal",
+    "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+    "score": 351,
+    "descendants": 186,
+    "time": 1773932818,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47440430",
+    "title": "4Chan mocks £520k fine for UK online safety breaches",
+    "url": "https://www.bbc.com/news/articles/c624330lg1ko",
+    "score": 346,
+    "descendants": 584,
+    "time": 1773931585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47434732",
+    "title": "Conway's Game of Life, in real life",
+    "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+    "score": 321,
+    "descendants": 83,
+    "time": 1773892503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47442834",
+    "title": "An update on Steam / GOG changes for OpenTTD",
+    "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+    "score": 308,
+    "descendants": 207,
+    "time": 1773941237,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47445246",
+    "title": "Waymo Safety Impact",
+    "url": "https://waymo.com/safety/impact/",
+    "score": 293,
+    "descendants": 296,
+    "time": 1773951215,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47434024",
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "url": "https://rjcorwin.github.io/cook/",
+    "score": 291,
+    "descendants": 89,
+    "time": 1773886834,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47437516",
+    "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
+    "url": "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/",
+    "score": 290,
+    "descendants": 379,
+    "time": 1773918927,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47438675",
+    "title": "Juggalo makeup blocks facial recognition technology (2019)",
+    "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
+    "score": 253,
+    "descendants": 146,
+    "time": 1773925355,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47434567",
+    "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+    "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+    "score": 247,
+    "descendants": 151,
+    "time": 1773891061,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47445599",
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "url": "https://github.com/cockpit-project/cockpit",
+    "score": 241,
+    "descendants": 136,
+    "time": 1773952382,
+    "source": "hackernews"
+  },
+  {
+    "title": "Scientists build first quantum battery that uses lasers to charge in femtoseconds",
+    "url": "https://www.techspot.com/news/111741-scientists-build-first-quantum-battery-charges-femtoseconds.html",
+    "reddit_id": "1rxzww1",
+    "score": 211,
+    "num_comments": 22,
+    "date": "2026-03-19T13:06:41",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47435156",
+    "title": "What 81,000 people want from AI",
+    "url": "https://www.anthropic.com/features/81k-interviews",
+    "score": 194,
+    "descendants": 183,
+    "time": 1773896456,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47439320",
+    "title": "OpenBSD: PF queues break the 4 Gbps barrier",
+    "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
+    "score": 191,
+    "descendants": 60,
+    "time": 1773927806,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47437101",
+    "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+    "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+    "score": 190,
+    "descendants": 152,
+    "time": 1773915466,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47443588",
+    "title": "Noq: n0's new QUIC implementation in Rust",
+    "url": "https://www.iroh.computer/blog/noq-announcement",
+    "score": 190,
+    "descendants": 24,
+    "time": 1773944235,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47445175",
+    "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+    "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+    "score": 180,
+    "descendants": 106,
+    "time": 1773950942,
+    "source": "hackernews"
+  },
+  {
+    "title": "Identity protection company Aura confirms data breach exposing 900,000 marketing contacts",
+    "url": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+    "reddit_id": "1rxx62u",
+    "score": 164,
+    "num_comments": 19,
+    "date": "2026-03-19T10:51:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47433265",
+    "title": "Autoresearch for SAT Solvers",
+    "url": "https://github.com/iliazintchenko/agent-sat",
+    "score": 163,
+    "descendants": 32,
+    "time": 1773880832,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47442435",
+    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+    "url": "https://blog.skypilot.co/scaling-autoresearch/",
+    "score": 160,
+    "descendants": 69,
+    "time": 1773939345,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47438716",
+    "title": "OpenAI to Acquire Astral",
+    "url": "https://openai.com/index/openai-to-acquire-astral/",
+    "score": 159,
+    "descendants": 5,
+    "time": 1773925517,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47442699",
+    "title": "How to defer US taxes",
+    "url": "https://taylor.town/succession-000",
+    "score": 155,
+    "descendants": 150,
+    "time": 1773940596,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47444195",
+    "title": "A rogue AI led to a serious security incident at Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+    "score": 148,
+    "descendants": 121,
+    "time": 1773946742,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47444072",
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "url": "https://qlabs.sh/10x",
+    "score": 135,
+    "descendants": 28,
+    "time": 1773946285,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47447600",
+    "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
+    "url": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
+    "score": 130,
+    "descendants": 98,
+    "time": 1773961158,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47441784",
+    "title": "World Happiness Report 2026",
+    "url": "https://www.worldhappiness.report/ed/2026/",
+    "score": 125,
+    "descendants": 101,
+    "time": 1773936768,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47438490",
+    "title": "How many branches can your CPU predict?",
+    "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+    "score": 122,
+    "descendants": 1,
+    "time": 1773924561,
+    "source": "hackernews"
+  },
+  {
+    "title": "South Korean firm unveils robotic hand with human-scale dexterity at under 2 lb",
+    "url": "https://interestingengineering.com/ai-robotics/south-korean-robotic-hand",
+    "reddit_id": "1rxr03u",
+    "score": 118,
+    "num_comments": 4,
+    "date": "2026-03-19T04:40:10",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47435453",
+    "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
+    "url": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
+    "score": 117,
+    "descendants": 48,
+    "time": 1773899584,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47441499",
+    "title": "Prompt Injecting Contributing.md",
+    "url": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
+    "score": 112,
+    "descendants": 36,
+    "time": 1773935532,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47444906",
+    "title": "Clockwise acquired by Salesforce",
+    "url": "https://www.getclockwise.com",
+    "score": 110,
+    "descendants": 60,
+    "time": 1773949851,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47436453",
+    "title": "Translate Garry Tan's LinkedIn-speak to plain English",
+    "url": "https://github.com/garrytan/gstack/pull/213",
+    "score": 110,
+    "descendants": 22,
+    "time": 1773909157,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47444460",
+    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+    "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+    "score": 108,
+    "descendants": 21,
+    "time": 1773947905,
+    "source": "hackernews"
+  },
+  {
+    "title": "Clearing circular RNA from cells extends lifespan, C. elegans study reveals",
+    "url": "https://phys.org/news/2026-03-circular-rna-cells-lifespan-elegans.html#goog_rewarded",
+    "reddit_id": "1rxy2tb",
+    "score": 108,
+    "num_comments": 7,
+    "date": "2026-03-19T11:39:50",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47440284",
+    "title": "The Shape of Inequalities",
+    "url": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
+    "score": 107,
+    "descendants": 17,
+    "time": 1773931047,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47446373",
+    "title": "Be intentional about how AI changes your codebase",
+    "url": "https://aicode.swerdlow.dev",
+    "score": 106,
+    "descendants": 42,
+    "time": 1773955404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47439300",
+    "title": "I turned Markdown into a protocol for generative UI",
+    "url": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
+    "score": 101,
+    "descendants": 42,
+    "time": 1773927734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47441351",
+    "title": "Oil and gas prices jump after Iran and Israel attack gasfields",
+    "url": "https://www.theguardian.com/business/2026/mar/19/oil-prices-gas-prices-rise-iran-israel-donald-trump",
+    "score": 100,
+    "descendants": 112,
+    "time": 1773934966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47445593",
+    "title": "Marc Andreessen is a philosophical zombie",
+    "url": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+    "score": 97,
+    "descendants": 20,
+    "time": 1773952362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47442591",
+    "title": "US national debt surges past $39 Trillion",
+    "url": "https://apnews.com/article/us-national-deficit-hits-39-million-6ff73495bae701b5c009d3da5515ca3a",
+    "score": 91,
+    "descendants": 149,
+    "time": 1773940037,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47446192",
+    "title": "Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla",
+    "url": "https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/",
+    "score": 90,
+    "descendants": 70,
+    "time": 1773954764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47438342",
+    "title": "Ramtrack.eu – RAM Price Intelligence",
+    "url": "https://ramtrack.eu",
+    "score": 90,
+    "descendants": 28,
+    "time": 1773923986,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47446021",
+    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+    "url": "https://esolang-bench.vercel.app/",
+    "score": 89,
+    "descendants": 47,
+    "time": 1773954063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47434311",
+    "title": "We Have Learned Nothing",
+    "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+    "score": 85,
+    "descendants": 53,
+    "time": 1773888817,
+    "source": "hackernews"
+  }
+]
