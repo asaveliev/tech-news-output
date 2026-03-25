@@ -1,0 +1,583 @@
+[
+  {
+    "hn_id": "47500335",
+    "title": "Microsoft's \"fix\" for Windows 11",
+    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+    "score": 966,
+    "descendants": 699,
+    "time": 1774344989,
+    "source": "hackernews"
+  },
+  {
+    "title": "Scientists Identify Protein That Slows Key Effects of Aging",
+    "url": "https://scitechdaily.com/scientists-identify-protein-that-slows-key-effects-of-aging/",
+    "reddit_id": "1s2i7vp",
+    "score": 880,
+    "num_comments": 76,
+    "date": "2026-03-24T16:12:20",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47507150",
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "score": 846,
+    "descendants": 299,
+    "time": 1774377292,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47501729",
+    "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "score": 723,
+    "descendants": 1,
+    "time": 1774355780,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47508246",
+    "title": "Goodbye to Sora",
+    "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+    "score": 637,
+    "descendants": 464,
+    "time": 1774382465,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47508745",
+    "title": "Is anybody else bored of talking about AI?",
+    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+    "score": 628,
+    "descendants": 425,
+    "time": 1774384268,
+    "source": "hackernews"
+  },
+  {
+    "title": "China's open-source dominance threatens US AI lead, US advisory body warns",
+    "url": "https://www.reuters.com/business/autos-transportation/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns-2026-03-23/",
+    "reddit_id": "1s29ul8",
+    "score": 622,
+    "num_comments": 98,
+    "date": "2026-03-24T10:19:21",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47504112",
+    "title": "Apple Business",
+    "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "score": 603,
+    "descendants": 347,
+    "time": 1774366181,
+    "source": "hackernews"
+  },
+  {
+    "title": "The FCC bans all routers made outside the U.S.",
+    "url": "https://mashable.com/article/us-fcc-foreign-router-ban",
+    "reddit_id": "1s2iy5n",
+    "score": 599,
+    "num_comments": 130,
+    "date": "2026-03-24T16:38:18",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47504060",
+    "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
+    "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
+    "score": 478,
+    "descendants": 314,
+    "time": 1774365952,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47497757",
+    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "score": 445,
+    "descendants": 646,
+    "time": 1774317189,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47503006",
+    "title": "So where are all the AI apps?",
+    "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+    "score": 392,
+    "descendants": 363,
+    "time": 1774361999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47503965",
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "score": 359,
+    "descendants": 283,
+    "time": 1774365559,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47508608",
+    "title": "GitHub is once again down",
+    "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+    "score": 354,
+    "descendants": 189,
+    "time": 1774383814,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47499245",
+    "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+    "url": "https://burntsushi.net/ripgrep/",
+    "score": 352,
+    "descendants": 147,
+    "time": 1774333899,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47506713",
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "score": 346,
+    "descendants": 59,
+    "time": 1774375428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47506251",
+    "title": "Arm AGI CPU",
+    "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "score": 326,
+    "descendants": 245,
+    "time": 1774373442,
+    "source": "hackernews"
+  },
+  {
+    "title": "High school student develops membrane-free filter that removes most microplastics from water",
+    "url": "https://www.techspot.com/news/111799-high-school-student-develops-membrane-free-filter-removes.html",
+    "reddit_id": "1s2covm",
+    "score": 317,
+    "num_comments": 15,
+    "date": "2026-03-24T12:43:11",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47501950",
+    "title": "Missile defense is NP-complete",
+    "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+    "score": 315,
+    "descendants": 318,
+    "time": 1774357238,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple is set to put ads in Apple Maps in services push",
+    "url": "https://www.msn.com/en-us/money/other/apple-is-set-to-put-ads-in-apple-maps-in-services-push/ar-AA1ZeKoM?uxmode=ruby&amp;apiversion=v2&amp;domshim=1&amp;noservercache=1&amp;noservertelemetry=1&amp;batchservertelemetry=1&amp;renderwebcomponents=1&amp;wcseo=1",
+    "reddit_id": "1s280yw",
+    "score": 315,
+    "num_comments": 212,
+    "date": "2026-03-24T08:27:07",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47503810",
+    "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+    "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+    "score": 314,
+    "descendants": 484,
+    "time": 1774364970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47503617",
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "url": "https://github.com/ssrajadh/sentrysearch",
+    "score": 305,
+    "descendants": 85,
+    "time": 1774364307,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47498924",
+    "title": "Log File Viewer for the Terminal",
+    "url": "https://lnav.org/",
+    "score": 297,
+    "descendants": 49,
+    "time": 1774330373,
+    "source": "hackernews"
+  },
+  {
+    "title": "AI child abuse images surge as watchdog warns of criminal misuse",
+    "url": "https://www.ft.com/content/db51695c-5757-498b-b702-1de3786ca04b?accessToken=zwAAAZ24JZNxkdPbUWlcV1dJi9O3Ah3jeGygSwE.MEUCIQDoI-C05J4e4FCjgmzGMt73X4SX1LTqloN_ZXCfkqAT8AIgZWJpmTQOhcFiEnSwJ4JVNZU3ueA_y4KJQpV335FFac8&amp;segmentId=c50c86e4-586b-23ea-1ac1-7601c9c2476f",
+    "reddit_id": "1s23wq7",
+    "score": 280,
+    "num_comments": 52,
+    "date": "2026-03-24T04:20:18",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47505144",
+    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+    "url": "https://www.emailmd.dev/",
+    "score": 270,
+    "descendants": 62,
+    "time": 1774369560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47509571",
+    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+    "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "score": 268,
+    "descendants": 116,
+    "time": 1774387473,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47503296",
+    "title": "The bridge to wealth is being pulled up with AI",
+    "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+    "score": 260,
+    "descendants": 380,
+    "time": 1774363160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47504094",
+    "title": "Hypothesis, Antithesis, synthesis",
+    "url": "https://antithesis.com/blog/2026/hegel/",
+    "score": 243,
+    "descendants": 83,
+    "time": 1774366097,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47504615",
+    "title": "No Terms. No Conditions",
+    "url": "https://notermsnoconditions.com",
+    "score": 238,
+    "descendants": 112,
+    "time": 1774367884,
+    "source": "hackernews"
+  },
+  {
+    "title": "OpenAI to discontinue Sora video platform",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/openai-set-discontinue-sora-video-195449605.html",
+    "reddit_id": "1s2q1h8",
+    "score": 238,
+    "num_comments": 35,
+    "date": "2026-03-24T20:50:45",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
+    "url": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+    "reddit_id": "1s24a3r",
+    "score": 208,
+    "num_comments": 15,
+    "date": "2026-03-24T04:40:30",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47509234",
+    "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+    "url": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/",
+    "score": 201,
+    "descendants": 2,
+    "time": 1774386081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47504695",
+    "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+    "url": "https://github.com/t8/hypura",
+    "score": 199,
+    "descendants": 75,
+    "time": 1774368142,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47501211",
+    "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+    "url": "https://nanobrew.trilok.ai/",
+    "score": 198,
+    "descendants": 124,
+    "time": 1774352421,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47500746",
+    "title": "Debunking Zswap and Zram Myths",
+    "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+    "score": 189,
+    "descendants": 56,
+    "time": 1774348761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47499721",
+    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+    "url": "https://www.web-rewind.com",
+    "score": 182,
+    "descendants": 119,
+    "time": 1774338842,
+    "source": "hackernews"
+  },
+  {
+    "title": "Source: OnePlus may shut down in global markets as early as April",
+    "url": "https://9to5google.com/2026/03/24/source-oneplus-may-shut-down-in-global-markets-as-early-as-april/",
+    "reddit_id": "1s2ndri",
+    "score": 163,
+    "num_comments": 40,
+    "date": "2026-03-24T19:14:28",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47506259",
+    "title": "The AI Industry Is Lying to You",
+    "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+    "score": 153,
+    "descendants": 122,
+    "time": 1774373455,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47509984",
+    "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
+    "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
+    "score": 150,
+    "descendants": 62,
+    "time": 1774389267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47500522",
+    "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+    "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+    "score": 142,
+    "descendants": 60,
+    "time": 1774346762,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47506279",
+    "title": "Country that put backdoors in Cisco routers to spy on world bans foreign routers",
+    "url": "https://www.theregister.com/2026/03/24/fcc_foreign_routers/",
+    "score": 135,
+    "descendants": 40,
+    "time": 1774373551,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47499672",
+    "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+    "url": "https://github.com/AmElmo/proofshot",
+    "score": 130,
+    "descendants": 89,
+    "time": 1774338406,
+    "source": "hackernews"
+  },
+  {
+    "title": "Infinite Campus, a widely used K-12 student information system, warns of data breach after extortion group ShinyHunters claims data theft and posted a “final warning” on its dark web site",
+    "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
+    "reddit_id": "1s2i3dg",
+    "score": 130,
+    "num_comments": 17,
+    "date": "2026-03-24T16:07:46",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "US regulator bans imports of new foreign-made routers, citing security concerns | Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/",
+    "reddit_id": "1s210ln",
+    "score": 129,
+    "num_comments": 25,
+    "date": "2026-03-24T02:03:36",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47500709",
+    "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+    "url": "https://dnhkng.github.io/posts/rys-ii/",
+    "score": 120,
+    "descendants": 35,
+    "time": 1774348434,
+    "source": "hackernews"
+  },
+  {
+    "title": "The Coming Drone-War Inflection in Ukraine",
+    "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+    "reddit_id": "1s2gd6q",
+    "score": 111,
+    "num_comments": 5,
+    "date": "2026-03-24T15:06:33",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Arm Is Now Making Its Own Chips",
+    "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+    "reddit_id": "1s2jze7",
+    "score": 111,
+    "num_comments": 10,
+    "date": "2026-03-24T17:14:48",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47506519",
+    "title": "FCC has banned the import of all new foreign-made routers here's what you can do",
+    "url": "https://blog.adafruit.com/2026/03/24/fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it/",
+    "score": 105,
+    "descendants": 2,
+    "time": 1774374575,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47501840",
+    "title": "NanoClaw Adopts OneCLI Agent Vault",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
+    "score": 104,
+    "descendants": 31,
+    "time": 1774356484,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47506641",
+    "title": "ARM AGI CPU: Specs and SKUs",
+    "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+    "score": 103,
+    "descendants": 27,
+    "time": 1774375156,
+    "source": "hackernews"
+  },
+  {
+    "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
+    "url": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
+    "reddit_id": "1s2nob4",
+    "score": 103,
+    "num_comments": 7,
+    "date": "2026-03-24T19:24:54",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47499822",
+    "title": "March, 19-21: God is a comedian",
+    "url": "https://no01.substack.com/p/march-19-21-god-is-a-comedian",
+    "score": 100,
+    "descendants": 19,
+    "time": 1774339831,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47501511",
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "score": 93,
+    "descendants": 8,
+    "time": 1774354496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47508863",
+    "title": "US expected to send thousands more soldiers to Middle East, sources say",
+    "url": "https://www.reuters.com/world/middle-east/us-expected-send-thousands-soldiers-middle-east-sources-say-2026-03-24/",
+    "score": 87,
+    "descendants": 55,
+    "time": 1774384756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47504498",
+    "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
+    "url": "https://github.com/wolfssl/wolfguard",
+    "score": 85,
+    "descendants": 60,
+    "time": 1774367515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47497679",
+    "title": "I created my first AI-assisted pull request",
+    "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
+    "score": 84,
+    "descendants": 77,
+    "time": 1774316558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47498766",
+    "title": "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
+    "score": 83,
+    "descendants": 33,
+    "time": 1774328421,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47505731",
+    "title": "Show HN: Gridland: make terminal apps that also run in the browser",
+    "url": "https://www.gridland.io/",
+    "score": 78,
+    "descendants": 12,
+    "time": 1774371467,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47497763",
+    "title": "Sunsetting the Techempower Framework Benchmarks",
+    "url": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
+    "score": 70,
+    "descendants": 20,
+    "time": 1774317243,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47508149",
+    "title": "Welcome to FastMCP",
+    "url": "https://gofastmcp.com/getting-started/welcome",
+    "score": 66,
+    "descendants": 48,
+    "time": 1774382031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47503239",
+    "title": "Today's Layoffs",
+    "url": "https://www.epicgames.com/site/en-US/news/todays-layoffs",
+    "score": 66,
+    "descendants": 1,
+    "time": 1774362913,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47507354",
+    "title": "Young Graduates Face the Grimmest Job Market in Years",
+    "url": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
+    "score": 65,
+    "descendants": 29,
+    "time": 1774378033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47511208",
+    "title": "A Compiler Writing Journey",
+    "url": "https://github.com/DoctorWkt/acwj",
+    "score": 65,
+    "descendants": 4,
+    "time": 1774395887,
+    "source": "hackernews"
+  }
+]
