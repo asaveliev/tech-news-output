@@ -1,0 +1,532 @@
+[
+  {
+    "hn_id": "47570269",
+    "title": "Copilot edited an ad into my PR",
+    "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+    "score": 1505,
+    "descendants": 620,
+    "time": 1774843471,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47574034",
+    "title": "How to turn anything into a router",
+    "url": "https://nbailey.ca/post/router/",
+    "score": 659,
+    "descendants": 229,
+    "time": 1774877334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577761",
+    "title": "Fedware: Government apps that spy harder than the apps they ban",
+    "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+    "score": 542,
+    "descendants": 173,
+    "time": 1774894560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47573519",
+    "title": "Do your own writing",
+    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+    "score": 491,
+    "descendants": 180,
+    "time": 1774874396,
+    "source": "hackernews"
+  },
+  {
+    "title": "How graphene oxide kills bacteria while sparing human cells",
+    "url": "https://phys.org/news/2026-03-graphene-oxide-bacteria-human-cells.html#goog_rewarded",
+    "reddit_id": "1s7ihf7",
+    "score": 479,
+    "num_comments": 19,
+    "date": "2026-03-30T06:05:45",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Facial Recognition Is Spreading Everywhere",
+    "url": "https://spectrum.ieee.org/facial-recognition-gone-wrong",
+    "reddit_id": "1s7s86t",
+    "score": 468,
+    "num_comments": 56,
+    "date": "2026-03-30T14:31:28",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged | Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
+    "url": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
+    "reddit_id": "1s7uoew",
+    "score": 451,
+    "num_comments": 91,
+    "date": "2026-03-30T16:00:27",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Apple will hide your email address from apps and websites, but not cops",
+    "url": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
+    "reddit_id": "1s83mgp",
+    "score": 421,
+    "num_comments": 40,
+    "date": "2026-03-30T21:16:42",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47569471",
+    "title": "Philly courts will ban all smart eyeglasses starting next week",
+    "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+    "score": 398,
+    "descendants": 206,
+    "time": 1774834697,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575403",
+    "title": "CodingFont: A game to help you pick a coding font",
+    "url": "https://www.codingfont.com/",
+    "score": 396,
+    "descendants": 198,
+    "time": 1774883795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47573420",
+    "title": "How the AI Bubble Bursts",
+    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+    "score": 359,
+    "descendants": 487,
+    "time": 1774873716,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47570666",
+    "title": "The curious case of retro demo scene graphics",
+    "url": "https://www.datagubbe.se/aipixels/",
+    "score": 348,
+    "descendants": 85,
+    "time": 1774848438,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575212",
+    "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+    "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+    "score": 340,
+    "descendants": 10,
+    "time": 1774882828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47576861",
+    "title": "New Washington state law bans noncompete agreements",
+    "url": "https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/",
+    "score": 317,
+    "descendants": 116,
+    "time": 1774890095,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47573887",
+    "title": "Bird brains (2023)",
+    "url": "https://www.dhanishsemar.com/writing/bird-brains",
+    "score": 315,
+    "descendants": 198,
+    "time": 1774876467,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47571279",
+    "title": "I am definitely missing the pre-AI writing era",
+    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+    "score": 305,
+    "descendants": 224,
+    "time": 1774854198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47569502",
+    "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+    "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+    "score": 304,
+    "descendants": 160,
+    "time": 1774835000,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47578572",
+    "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+    "url": "https://anishathalye.com/macbook-touchscreen/",
+    "score": 298,
+    "descendants": 135,
+    "time": 1774898553,
+    "source": "hackernews"
+  },
+  {
+    "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025",
+    "url": "https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/",
+    "reddit_id": "1s7mjud",
+    "score": 290,
+    "num_comments": 41,
+    "date": "2026-03-30T10:16:33",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47575616",
+    "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+    "score": 289,
+    "descendants": 138,
+    "time": 1774884757,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47570940",
+    "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+    "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+    "score": 287,
+    "descendants": 55,
+    "time": 1774850933,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47571376",
+    "title": "I use Excalidraw to manage my diagrams for my blog",
+    "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+    "score": 275,
+    "descendants": 112,
+    "time": 1774855026,
+    "source": "hackernews"
+  },
+  {
+    "title": "New magnetic field system enables wireless data transmission hundreds of feet underground",
+    "url": "https://www.techspot.com/news/111869-new-magnetic-field-system-enables-wireless-data-transmission.html",
+    "reddit_id": "1s7qncz",
+    "score": 242,
+    "num_comments": 12,
+    "date": "2026-03-30T13:30:33",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47580350",
+    "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+    "url": "https://30u30.fyi",
+    "score": 232,
+    "descendants": 98,
+    "time": 1774908622,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47580297",
+    "title": "Android Developer Verification",
+    "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+    "score": 231,
+    "descendants": 219,
+    "time": 1774908321,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47579229",
+    "title": "Learn Claude Code by doing, not reading",
+    "url": "https://claude.nagdy.me/",
+    "score": 226,
+    "descendants": 100,
+    "time": 1774901983,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575089",
+    "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
+    "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+    "score": 209,
+    "descendants": 254,
+    "time": 1774882198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47572771",
+    "title": "Mathematical methods and human thought in the age of AI",
+    "url": "https://arxiv.org/abs/2603.26524",
+    "score": 202,
+    "descendants": 84,
+    "time": 1774868737,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47576317",
+    "title": "Take better notes, by hand",
+    "url": "https://brianschrader.com/archive/take-better-notes-by-hand/",
+    "score": 196,
+    "descendants": 87,
+    "time": 1774887836,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47578086",
+    "title": "Vulnerability research is cooked",
+    "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
+    "score": 164,
+    "descendants": 111,
+    "time": 1774896218,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47571495",
+    "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+    "url": "https://dani2442.github.io/posts/continuous-rl/",
+    "score": 157,
+    "descendants": 46,
+    "time": 1774856044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47570435",
+    "title": "VHDL's Crown Jewel",
+    "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+    "score": 145,
+    "descendants": 61,
+    "time": 1774845555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47572910",
+    "title": "Ghostmoon.app – A Swiss Army Knife for your macOS menu bar",
+    "url": "https://www.mgrunwald.com/ghostmoon/",
+    "score": 143,
+    "descendants": 115,
+    "time": 1774869950,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577735",
+    "title": "“CEO said a thing” journalism",
+    "url": "https://karlbode.com/ceo-said-a-thing-journalism/",
+    "score": 130,
+    "descendants": 71,
+    "time": 1774894380,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47576978",
+    "title": "You are falling behind because you haven't fed the insincerity machine",
+    "url": "https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/",
+    "score": 129,
+    "descendants": 33,
+    "time": 1774890596,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47576055",
+    "title": "OCR for construction documents does not work, we fixed it",
+    "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+    "score": 122,
+    "descendants": 89,
+    "time": 1774886746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47579200",
+    "title": "America Is Now a Rogue Superpower",
+    "url": "https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/",
+    "score": 119,
+    "descendants": 90,
+    "time": 1774901819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47578741",
+    "title": "I'm betting on ATProto",
+    "url": "https://brittanyellich.com/atproto/",
+    "score": 106,
+    "descendants": 91,
+    "time": 1774899465,
+    "source": "hackernews"
+  },
+  {
+    "title": "Inside the stealthy startup that pitched brainless human clones",
+    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/?utm_source=Reddit&amp;utm_medium=tr_social&amp;utm_campaign=site_visitor.unpaid.engagement&amp;utm_content=socialbp",
+    "reddit_id": "1s80omx",
+    "score": 99,
+    "num_comments": 41,
+    "date": "2026-03-30T19:29:43",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47579754",
+    "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
+    "url": "https://www.opengridworks.com",
+    "score": 98,
+    "descendants": 11,
+    "time": 1774905166,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575935",
+    "title": "An NSFW filter for Marginalia search",
+    "url": "https://www.marginalia.nu/log/a_134_nsfw/",
+    "score": 95,
+    "descendants": 16,
+    "time": 1774886291,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577142",
+    "title": "Spain shuts airspace for US planes involved in Iran war",
+    "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
+    "score": 88,
+    "descendants": 50,
+    "time": 1774891416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47574346",
+    "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
+    "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
+    "score": 85,
+    "descendants": 40,
+    "time": 1774878691,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577120",
+    "title": "Recover Apple Keychain",
+    "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+    "score": 82,
+    "descendants": 30,
+    "time": 1774891309,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47568884",
+    "title": "The Strait of Hormuz Oil Shock Is Now Heading West",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock",
+    "score": 79,
+    "descendants": 60,
+    "time": 1774829508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47578464",
+    "title": "William Blake, Remote by the Sea",
+    "url": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
+    "score": 76,
+    "descendants": 4,
+    "time": 1774897985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575417",
+    "title": "Show HN: Coasts – Containerized Hosts for Agents",
+    "url": "https://github.com/coast-guard/coasts",
+    "score": 74,
+    "descendants": 31,
+    "time": 1774883871,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577899",
+    "title": "The Hateful Eight is 85% of S&P 500 Decline",
+    "url": "https://paulkedrosky.com/chart-of-the-day-the-hateful-eight-is-85-of-s-p-500-decline/",
+    "score": 71,
+    "descendants": 78,
+    "time": 1774895239,
+    "source": "hackernews"
+  },
+  {
+    "title": "File read flaw in Smart Slider 3 plugin impacts 500K WordPress sites",
+    "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+    "reddit_id": "1s7hzx1",
+    "score": 70,
+    "num_comments": 2,
+    "date": "2026-03-30T05:37:37",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47572000",
+    "title": "Stripe is down",
+    "url": "https://status.stripe.com/",
+    "score": 67,
+    "descendants": 18,
+    "time": 1774860678,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47579085",
+    "title": "We hid a free trip to Switzerland in our privacy policy",
+    "url": "https://www.cape.co/blog/easter-egg-in-privacy-policy",
+    "score": 67,
+    "descendants": 16,
+    "time": 1774901113,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577032",
+    "title": "DigitalOcean Seeks $800M in Funding",
+    "url": "https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/",
+    "score": 66,
+    "descendants": 54,
+    "time": 1774890846,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47574083",
+    "title": "Euro-Office Wants to Replace Google Docs and Microsoft Office",
+    "url": "https://www.howtogeek.com/this-new-open-source-web-editor-wants-to-replace-google-docs-and-microsoft-office/",
+    "score": 64,
+    "descendants": 8,
+    "time": 1774877595,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47575950",
+    "title": "Bitwarden integrates with OneCLI agent vault",
+    "url": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
+    "score": 62,
+    "descendants": 42,
+    "time": 1774886341,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47577979",
+    "title": "A sea of sparks: Seeing radioactivity",
+    "url": "https://maurycyz.com/projects/spinthariscope/",
+    "score": 62,
+    "descendants": 24,
+    "time": 1774895687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47570547",
+    "title": "HD Audio Driver for Windows 98SE / Me",
+    "url": "https://github.com/andrew-hoffman/wdmhda",
+    "score": 62,
+    "descendants": 8,
+    "time": 1774846867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47580891",
+    "title": "A Nursing Home Owner Got a Pardon. The Families of His Patients Got Nothing",
+    "url": "https://www.propublica.org/article/joseph-schwartz-trump-pardon-skyline-nursing-home-patients",
+    "score": 62,
+    "descendants": 2,
+    "time": 1774912585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47569837",
+    "title": "The sudden fall of Sora",
+    "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
+    "score": 58,
+    "descendants": 53,
+    "time": 1774838597,
+    "source": "hackernews"
+  }
+]
