@@ -1,0 +1,494 @@
+[
+  {
+    "hn_id": "47584540",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "score": 1975,
+    "descendants": 964,
+    "time": 1774947640,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582220",
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "score": 1826,
+    "descendants": 737,
+    "time": 1774925657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47586778",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "score": 1122,
+    "descendants": 446,
+    "time": 1774962270,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47587935",
+    "title": "Oracle slashes 30k jobs",
+    "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+    "score": 862,
+    "descendants": 784,
+    "time": 1774967448,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582043",
+    "title": "Artemis II is not safe to fly",
+    "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+    "score": 832,
+    "descendants": 573,
+    "time": 1774923830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582482",
+    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+    "url": "https://ollama.com/blog/mlx",
+    "score": 617,
+    "descendants": 342,
+    "time": 1774928445,
+    "source": "hackernews"
+  },
+  {
+    "title": "New fibre optic record allows 50,000,000 movies to be streamed at once",
+    "url": "https://www.newscientist.com/article/2520542-new-fibre-optic-record-allows-50000000-movies-to-be-streamed-at-once/",
+    "reddit_id": "1s8ok9y",
+    "score": 611,
+    "num_comments": 67,
+    "date": "2026-03-31T14:12:20",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47582984",
+    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+    "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+    "score": 580,
+    "descendants": 340,
+    "time": 1774933884,
+    "source": "hackernews"
+  },
+  {
+    "title": "Hackers are using fake coding jobs to spread malware through GitHub",
+    "url": "https://www.techspot.com/news/111870-hackers-using-fake-coding-jobs-spread-malware-through.html",
+    "reddit_id": "1s8mdj8",
+    "score": 568,
+    "num_comments": 14,
+    "date": "2026-03-31T12:44:24",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "DIY solar cooling system freezes water by day, cools homes at night",
+    "url": "https://interestingengineering.com/innovation/solar-powered-air-conditioning-system",
+    "reddit_id": "1s8c7e8",
+    "score": 548,
+    "num_comments": 34,
+    "date": "2026-03-31T03:24:36",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47587866",
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "score": 513,
+    "descendants": 184,
+    "time": 1774967137,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47591928",
+    "title": "GitHub's Historic Uptime",
+    "url": "https://damrnelson.github.io/github-historical-uptime/",
+    "score": 462,
+    "descendants": 112,
+    "time": 1774983689,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47581701",
+    "title": "Universal Claude.md – cut Claude output tokens",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "score": 455,
+    "descendants": 158,
+    "time": 1774920214,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47591104",
+    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+    "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+    "score": 439,
+    "descendants": 91,
+    "time": 1774979704,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47592755",
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "score": 423,
+    "descendants": 368,
+    "time": 1774987650,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47586614",
+    "title": "Open source CAD in the browser (Solvespace)",
+    "url": "https://solvespace.com/webver.pl",
+    "score": 322,
+    "descendants": 103,
+    "time": 1774961423,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47586176",
+    "title": "Claude Code users hitting usage limits 'way faster than expected'",
+    "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+    "score": 300,
+    "descendants": 185,
+    "time": 1774959089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47583045",
+    "title": "Google's 200M-parameter time-series foundation model with 16k context",
+    "url": "https://github.com/google-research/timesfm",
+    "score": 300,
+    "descendants": 104,
+    "time": 1774934519,
+    "source": "hackernews"
+  },
+  {
+    "title": "One of JavaScript's most popular libraries compromised by hackers — Axios npm package hit in supply chain attack that deployed a cross-platform RAT",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/axios-npm-package-compromised-in-supply-chain-attack-that-deployed-a-cross-platform-rat",
+    "reddit_id": "1s8ma75",
+    "score": 294,
+    "num_comments": 24,
+    "date": "2026-03-31T12:40:14",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47584795",
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+    "score": 278,
+    "descendants": 738,
+    "time": 1774949443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47593556",
+    "title": "A dot a day keeps the clutter away",
+    "url": "https://scottlawsonbc.com/post/dot-system",
+    "score": 277,
+    "descendants": 82,
+    "time": 1774991701,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47593422",
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "url": "https://prismml.com/",
+    "score": 224,
+    "descendants": 94,
+    "time": 1774990878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47587953",
+    "title": "Slop is not necessarily the future",
+    "url": "https://www.greptile.com/blog/ai-slopware-future",
+    "score": 223,
+    "descendants": 376,
+    "time": 1774967546,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47593285",
+    "title": "MiniStack (replacement for LocalStack)",
+    "url": "https://ministack.org/",
+    "score": 205,
+    "descendants": 40,
+    "time": 1774990095,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple adds Apple TV and iPad mini models to ‘obsolete’ products list",
+    "url": "https://9to5mac.com/2026/03/31/apple-adds-apple-tv-and-ipad-mini-models-to-obsolete-products-list/",
+    "reddit_id": "1s8yiz9",
+    "score": 201,
+    "num_comments": 46,
+    "date": "2026-03-31T20:06:53",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47589011",
+    "title": "Italy blocks US use of Sicily air base for Middle East war",
+    "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+    "score": 189,
+    "descendants": 99,
+    "time": 1774971585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47589818",
+    "title": "Cohere Transcribe: Speech Recognition",
+    "url": "https://cohere.com/blog/transcribe",
+    "score": 187,
+    "descendants": 55,
+    "time": 1774974422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47585974",
+    "title": "Combinators",
+    "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+    "score": 142,
+    "descendants": 39,
+    "time": 1774957743,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47589856",
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "url": "https://github.com/timescale/pg_textsearch",
+    "score": 140,
+    "descendants": 42,
+    "time": 1774974592,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47586018",
+    "title": "U.S. stocks are set to deliver their worst quarter in nearly four years",
+    "url": "https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea",
+    "score": 138,
+    "descendants": 223,
+    "time": 1774957984,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47588349",
+    "title": "GitHub Monaspace Case Study",
+    "url": "https://lettermatic.com/custom/monaspace-case-study",
+    "score": 129,
+    "descendants": 41,
+    "time": 1774969295,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47592462",
+    "title": "I traced my traffic through a home Tailscale exit node",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "score": 108,
+    "descendants": 50,
+    "time": 1774986403,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47586814",
+    "title": "Nobody is coming to save your career",
+    "url": "https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career",
+    "score": 103,
+    "descendants": 107,
+    "time": 1774962453,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47593634",
+    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+    "score": 99,
+    "descendants": 33,
+    "time": 1774992168,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47587631",
+    "title": "RubyGems Fracture Incident Report",
+    "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
+    "score": 91,
+    "descendants": 38,
+    "time": 1774966117,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582056",
+    "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+    "score": 87,
+    "descendants": 51,
+    "time": 1774923975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582418",
+    "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+    "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+    "score": 81,
+    "descendants": 32,
+    "time": 1774927683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582990",
+    "title": "Sony halts memory card shipments due to NAND shortage",
+    "url": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
+    "score": 79,
+    "descendants": 31,
+    "time": 1774933955,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47591208",
+    "title": "Iran says it will target US tech companies in Middle East",
+    "url": "https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/",
+    "score": 71,
+    "descendants": 56,
+    "time": 1774980181,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47581721",
+    "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+    "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+    "score": 68,
+    "descendants": 31,
+    "time": 1774920498,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47583959",
+    "title": "Accidentally created my first fork bomb with Claude Code",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "score": 67,
+    "descendants": 17,
+    "time": 1774942818,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47582877",
+    "title": "Claude Code bug can silently 10-20x API costs",
+    "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+    "score": 65,
+    "descendants": 7,
+    "time": 1774932653,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47585008",
+    "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+    "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+    "score": 60,
+    "descendants": 14,
+    "time": 1774951354,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47589567",
+    "title": "Scotty: A beautiful SSH task runner",
+    "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
+    "score": 55,
+    "descendants": 26,
+    "time": 1774973549,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47585645",
+    "title": "Prediction: The Shopify CEO's Pull Request Will Never Be Merged nor Closed",
+    "url": "https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/",
+    "score": 52,
+    "descendants": 8,
+    "time": 1774955554,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47589111",
+    "title": "President's new science council: 9 billionaires and 1 scientist",
+    "url": "https://www.scientificamerican.com/article/trumps-new-science-panel-includes-9-tech-billionaires-and-just-one-scientist/",
+    "score": 49,
+    "descendants": 14,
+    "time": 1774971922,
+    "source": "hackernews"
+  },
+  {
+    "title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
+    "url": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/",
+    "reddit_id": "1s8yebi",
+    "score": 48,
+    "num_comments": 20,
+    "date": "2026-03-31T20:02:25",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47584850",
+    "title": "Claude Code full source code leaked on NPM",
+    "url": "https://github.com/chatgptprojects/claude-code",
+    "score": 47,
+    "descendants": 3,
+    "time": 1774950012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47589370",
+    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+    "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+    "score": 45,
+    "descendants": 28,
+    "time": 1774972829,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47585161",
+    "title": "Entirety of Wikinews to be shut down",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-03-31/News_and_notes",
+    "score": 44,
+    "descendants": 9,
+    "time": 1774952258,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47588324",
+    "title": "Show HN: Sundial – a new way to look at a weather forecast",
+    "url": "https://sundial.page/",
+    "score": 42,
+    "descendants": 15,
+    "time": 1774969217,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47592626",
+    "title": "Super Micro Computer Investors Look for Exits",
+    "url": "https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/",
+    "score": 38,
+    "descendants": 18,
+    "time": 1774987074,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47584304",
+    "title": "Closed Source AI = Neofeudalism",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+    "score": 38,
+    "descendants": 18,
+    "time": 1774945764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47583532",
+    "title": "Scientists uncovered the nutrients bees were missing – Colonies surged 15-fold",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260327000518.htm",
+    "score": 38,
+    "descendants": 3,
+    "time": 1774939035,
+    "source": "hackernews"
+  }
+]
