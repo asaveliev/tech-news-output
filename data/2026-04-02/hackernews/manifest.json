@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "47613981",
+    "title": "LinkedIn is searching your browser extensions",
+    "url": "https://browsergate.eu/",
+    "score": 1678,
+    "descendants": 699,
+    "time": 1775135349,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47616361",
+    "title": "Google releases Gemma 4 open models",
+    "url": "https://deepmind.google/models/gemma/gemma-4/",
+    "score": 1382,
+    "descendants": 397,
+    "time": 1775146254,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612601",
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "score": 818,
+    "descendants": 402,
+    "time": 1775127000,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609564",
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+    "score": 732,
+    "descendants": 343,
+    "time": 1775099544,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47616242",
+    "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+    "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+    "score": 660,
+    "descendants": 254,
+    "time": 1775145627,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615002",
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "score": 504,
+    "descendants": 176,
+    "time": 1775140132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612724",
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "url": "https://lemonade-server.ai",
+    "score": 500,
+    "descendants": 107,
+    "time": 1775127891,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618189",
+    "title": "Tailscale's new macOS home",
+    "url": "https://tailscale.com/blog/macos-notch-escape",
+    "score": 432,
+    "descendants": 212,
+    "time": 1775154123,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612053",
+    "title": "I Am Not A Number. In memory of the more than 72,000 Palestinians killed",
+    "url": "https://bkhmsi.github.io/i-am-not-a-number/",
+    "score": 422,
+    "descendants": 118,
+    "time": 1775122333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615490",
+    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+    "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+    "score": 393,
+    "descendants": 295,
+    "time": 1775142525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618084",
+    "title": "Cursor 3",
+    "url": "https://cursor.com/blog/cursor-3",
+    "score": 380,
+    "descendants": 307,
+    "time": 1775153621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609694",
+    "title": "Email obfuscation: What works in 2026?",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "score": 348,
+    "descendants": 96,
+    "time": 1775100933,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615449",
+    "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+    "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+    "score": 344,
+    "descendants": 146,
+    "time": 1775142284,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609090",
+    "title": "The Weather Channel – RetroCast",
+    "url": "https://weather.com/retro/",
+    "score": 310,
+    "descendants": 58,
+    "time": 1775094498,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47611921",
+    "title": "Significant raise of reports",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 292,
+    "descendants": 149,
+    "time": 1775121258,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609882",
+    "title": "Subscription bombing and how to mitigate it",
+    "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+    "score": 287,
+    "descendants": 177,
+    "time": 1775102885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615434",
+    "title": "Delve allegedly forked an open-source tool and sold it as its own",
+    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+    "score": 279,
+    "descendants": 142,
+    "time": 1775142188,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47613078",
+    "title": "Inside Nepal's Fake Rescue Racket",
+    "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+    "score": 279,
+    "descendants": 124,
+    "time": 1775130041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47611721",
+    "title": "IBM Announces Strategic Collaboration with Arm",
+    "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+    "score": 266,
+    "descendants": 175,
+    "time": 1775119724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615756",
+    "title": "Renewables reached nearly 50% of global electricity capacity last year",
+    "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+    "score": 265,
+    "descendants": 125,
+    "time": 1775143578,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47608495",
+    "title": "Quantum computing bombshells that are not April Fools",
+    "url": "https://scottaaronson.blog/?p=9665",
+    "score": 259,
+    "descendants": 103,
+    "time": 1775089483,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47617415",
+    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+    "score": 235,
+    "descendants": 91,
+    "time": 1775150943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609356",
+    "title": "Artemis II's toilet is a moon mission milestone",
+    "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+    "score": 224,
+    "descendants": 93,
+    "time": 1775097432,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47616704",
+    "title": "Modern SQLite: Features You Didn't Know It Had",
+    "url": "https://slicker.me/sqlite/features.htm",
+    "score": 207,
+    "descendants": 59,
+    "time": 1775147679,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47617376",
+    "title": "OpenAI Acquires TBPN",
+    "url": "https://openai.com/index/openai-acquires-tbpn/",
+    "score": 203,
+    "descendants": 160,
+    "time": 1775150809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609294",
+    "title": "The Claude Code Leak",
+    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+    "score": 192,
+    "descendants": 176,
+    "time": 1775096765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47614100",
+    "title": "'Backrooms' and the Rise of the Institutional Gothic",
+    "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+    "score": 191,
+    "descendants": 94,
+    "time": 1775135885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47611481",
+    "title": "Bringing Clojure programming to Enterprise (2021)",
+    "url": "https://blogit.michelin.io/clojure-programming/",
+    "score": 190,
+    "descendants": 103,
+    "time": 1775117951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47610336",
+    "title": "r/programming bans all discussion of LLM programming",
+    "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+    "score": 187,
+    "descendants": 193,
+    "time": 1775108000,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618581",
+    "title": "Amazon is adding a fuel surcharge to fees it collects from third-party sellers",
+    "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
+    "score": 152,
+    "descendants": 84,
+    "time": 1775155778,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47611809",
+    "title": "New laws to make it easier to cancel subscriptions and get refunds",
+    "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
+    "score": 151,
+    "descendants": 63,
+    "time": 1775120426,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618176",
+    "title": "George Goble has died",
+    "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+    "score": 143,
+    "descendants": 30,
+    "time": 1775154068,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47617343",
+    "title": "Trump fires Pam Bondi as attorney general",
+    "url": "https://www.cnn.com/2026/04/02/politics/pam-bondi-role-trump",
+    "score": 120,
+    "descendants": 85,
+    "time": 1775150684,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618221",
+    "title": "The Australian government has announced gambling advertising reforms",
+    "url": "https://www.bbc.com/news/articles/c62492e925lo",
+    "score": 117,
+    "descendants": 85,
+    "time": 1775154252,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47616050",
+    "title": "March heat in American west has left snowpack at record-low levels",
+    "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
+    "score": 106,
+    "descendants": 56,
+    "time": 1775144837,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47618100",
+    "title": "Yggdrasil Network",
+    "url": "https://yggdrasil-network.github.io/",
+    "score": 105,
+    "descendants": 49,
+    "time": 1775153719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47617027",
+    "title": "A forecast of the fair market value of SpaceX's businesses",
+    "url": "https://futuresearch.ai/spacex-ipo-valuation/",
+    "score": 97,
+    "descendants": 189,
+    "time": 1775149211,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612775",
+    "title": "The SpaceX IPO: retail investor notes",
+    "url": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
+    "score": 93,
+    "descendants": 92,
+    "time": 1775128287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612321",
+    "title": "Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries",
+    "url": "https://github.com/razvandimescu/numa",
+    "score": 93,
+    "descendants": 55,
+    "time": 1775124477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47621438",
+    "title": "Show HN: Made a little Artemis II tracker",
+    "url": "https://artemis-ii-tracker.com/",
+    "score": 91,
+    "descendants": 33,
+    "time": 1775171765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609725",
+    "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+    "url": "https://www.sunnywingsvirtual.com/artemis2/timeline.html",
+    "score": 91,
+    "descendants": 16,
+    "time": 1775101249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609253",
+    "title": "Solar Balconies Take Europe by Storm",
+    "url": "https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/",
+    "score": 88,
+    "descendants": 37,
+    "time": 1775096271,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612558",
+    "title": "Enabling Codex to Analyze Two Decades of Hacker News Data",
+    "url": "https://modolap.com/publication/hn-analysis-1",
+    "score": 78,
+    "descendants": 30,
+    "time": 1775126543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47615876",
+    "title": "The case for zero-error horizons in trustworthy LLMs",
+    "url": "https://arxiv.org/abs/2601.15714",
+    "score": 71,
+    "descendants": 100,
+    "time": 1775144131,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47613156",
+    "title": "ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026",
+    "url": "https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/",
+    "score": 68,
+    "descendants": 23,
+    "time": 1775130541,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47619322",
+    "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
+    "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+    "score": 64,
+    "descendants": 37,
+    "time": 1775159391,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47621048",
+    "title": "Why Doesn't Anybody Realize We're Going Back to the Moon?",
+    "url": "https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/",
+    "score": 61,
+    "descendants": 106,
+    "time": 1775169149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47609752",
+    "title": "The future of code search is not regex – 100x faster than ripgrep",
+    "url": "https://fff.dmtrkovalenko.dev/",
+    "score": 59,
+    "descendants": 43,
+    "time": 1775101522,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47612277",
+    "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
+    "url": "https://almightylisp.com/",
+    "score": 59,
+    "descendants": 4,
+    "time": 1775124144,
+    "source": "hackernews"
+  }
+]
