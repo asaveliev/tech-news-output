@@ -1,0 +1,503 @@
+[
+  {
+    "title": "Scientists mapped all the nerves of the clitoris for the first time",
+    "url": "https://www.livescience.com/health/anatomy/scientists-mapped-all-the-nerves-of-the-clitoris-for-the-first-time",
+    "reddit_id": "1sbrsh5",
+    "score": 949,
+    "num_comments": 205,
+    "date": "2026-04-03T22:24:08",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47625952",
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "url": "https://text.blogosphere.app/",
+    "score": 703,
+    "descendants": 179,
+    "time": 1775219625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47631118",
+    "title": "Artemis II crew take “spectacular” image of Earth",
+    "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+    "score": 688,
+    "descendants": 251,
+    "time": 1775244902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624645",
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "url": "https://apfel.franzai.com",
+    "score": 668,
+    "descendants": 140,
+    "time": 1775207734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47631732",
+    "title": "Oracle files H-1B visa petitions amid mass layoffs",
+    "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+    "score": 484,
+    "descendants": 266,
+    "time": 1775247683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47628326",
+    "title": "F-15E jet shot down over Iran",
+    "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+    "score": 456,
+    "descendants": 1032,
+    "time": 1775232044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629433",
+    "title": "iNaturalist",
+    "url": "https://www.inaturalist.org/",
+    "score": 395,
+    "descendants": 105,
+    "time": 1775236940,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47627056",
+    "title": "Marc Andreessen is wrong about introspection",
+    "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+    "score": 380,
+    "descendants": 448,
+    "time": 1775226552,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624741",
+    "title": "European alternatives to Google, Apple, Dropbox and 120 US apps",
+    "url": "https://only-eu.eu/en/",
+    "score": 356,
+    "descendants": 156,
+    "time": 1775209044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47633947",
+    "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+    "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+    "score": 354,
+    "descendants": 107,
+    "time": 1775260592,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47628608",
+    "title": "OpenClaw privilege escalation vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+    "score": 340,
+    "descendants": 180,
+    "time": 1775233292,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624736",
+    "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+    "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+    "score": 325,
+    "descendants": 149,
+    "time": 1775208993,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624731",
+    "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+    "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+    "score": 302,
+    "descendants": 118,
+    "time": 1775208916,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47627061",
+    "title": "Solar and batteries can power the world",
+    "url": "https://nworbmot.org/blog/solar-battery-world.html",
+    "score": 269,
+    "descendants": 415,
+    "time": 1775226566,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624811",
+    "title": "SSH certificates: the better SSH experience",
+    "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+    "score": 236,
+    "descendants": 103,
+    "time": 1775209940,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47621792",
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 231,
+    "descendants": 105,
+    "time": 1775174419,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47625244",
+    "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+    "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+    "score": 222,
+    "descendants": 132,
+    "time": 1775213931,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47632503",
+    "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "score": 184,
+    "descendants": 82,
+    "time": 1775251555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624558",
+    "title": "Proton Meet isn't what they told you it was",
+    "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+    "score": 163,
+    "descendants": 156,
+    "time": 1775206785,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630109",
+    "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+    "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+    "score": 161,
+    "descendants": 63,
+    "time": 1775240416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47625639",
+    "title": "The Document Foundation ejects its core developers",
+    "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+    "score": 151,
+    "descendants": 2,
+    "time": 1775217212,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629116",
+    "title": "Go on Embedded Systems and WebAssembly",
+    "url": "https://tinygo.org/",
+    "score": 147,
+    "descendants": 18,
+    "time": 1775235429,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47627527",
+    "title": "Build your own Dial-up ISP with a Raspberry Pi",
+    "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+    "score": 140,
+    "descendants": 29,
+    "time": 1775228896,
+    "source": "hackernews"
+  },
+  {
+    "title": "Hims &amp; Hers warns of data breach after Zendesk support ticket breach",
+    "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+    "reddit_id": "1sbp8ey",
+    "score": 138,
+    "num_comments": 10,
+    "date": "2026-04-03T20:43:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47624317",
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "score": 128,
+    "descendants": 10,
+    "time": 1775204112,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630893",
+    "title": "Age verification on Systemd and Flatpak",
+    "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+    "score": 111,
+    "descendants": 94,
+    "time": 1775243848,
+    "source": "hackernews"
+  },
+  {
+    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
+    "url": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+    "reddit_id": "1sbeh3p",
+    "score": 110,
+    "num_comments": 3,
+    "date": "2026-04-03T14:02:36",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47626116",
+    "title": "Adult German men must request permission to leave Germany for more than 3 months",
+    "url": "https://www.fr.de/politik/drastische-wehrpflicht-aenderung-maenner-die-deutschland-laenger-wollen-brauchen-genehmigung-zr-94248132.html",
+    "score": 109,
+    "descendants": 63,
+    "time": 1775220719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629903",
+    "title": "Why are we still using Markdown?",
+    "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+    "score": 101,
+    "descendants": 168,
+    "time": 1775239390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47633157",
+    "title": "Fake Fans",
+    "url": "https://www.wordsfromeliza.com/p/fake-fans",
+    "score": 101,
+    "descendants": 19,
+    "time": 1775255198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630576",
+    "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
+    "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+    "score": 100,
+    "descendants": 43,
+    "time": 1775242451,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47632750",
+    "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+    "url": "https://github.com/cmc-labo/tinyos-rtos",
+    "score": 96,
+    "descendants": 38,
+    "time": 1775252786,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624804",
+    "title": "Category Theory Illustrated – Types",
+    "url": "https://abuseofnotation.github.io/category-theory-illustrated/06_type/",
+    "score": 95,
+    "descendants": 15,
+    "time": 1775209781,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47626462",
+    "title": "Big-Endian Testing with QEMU",
+    "url": "https://www.hanshq.net/big-endian-qemu.html",
+    "score": 87,
+    "descendants": 95,
+    "time": 1775222938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47633131",
+    "title": "Run Linux containers on Android, no root required",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 87,
+    "descendants": 31,
+    "time": 1775255035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47622616",
+    "title": "The Technocracy Movement of the 1930s",
+    "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
+    "score": 85,
+    "descendants": 77,
+    "time": 1775183362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47622490",
+    "title": "The open web isn't dying, we're killing it",
+    "url": "https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/",
+    "score": 84,
+    "descendants": 74,
+    "time": 1775181920,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47624990",
+    "title": "Adobe wrote to my hosts file. I've never had an app do this before",
+    "url": "https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/",
+    "score": 84,
+    "descendants": 19,
+    "time": 1775211775,
+    "source": "hackernews"
+  },
+  {
+    "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
+    "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
+    "reddit_id": "1sbr5qy",
+    "score": 83,
+    "num_comments": 4,
+    "date": "2026-04-03T21:58:15",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47621825",
+    "title": "I Built an SMS Gateway with a $20 Android Phone – Jonno.nz",
+    "url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
+    "score": 82,
+    "descendants": 38,
+    "time": 1775174651,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630795",
+    "title": "Hello, World",
+    "url": "https://www.nasa.gov/image-detail/fd02_for-pao/",
+    "score": 81,
+    "descendants": 15,
+    "time": 1775243370,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47633116",
+    "title": "The house is a work of art: Frank Lloyd Wright",
+    "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
+    "score": 80,
+    "descendants": 31,
+    "time": 1775254938,
+    "source": "hackernews"
+  },
+  {
+    "title": "Astronauts are bringing computers to space—and IT troubles, too",
+    "url": "https://www.fastcompany.com/91520941/manoj-leelanivas-hp-interview",
+    "reddit_id": "1sbfggd",
+    "score": 75,
+    "num_comments": 30,
+    "date": "2026-04-03T14:40:57",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47625385",
+    "title": "H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",
+    "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935",
+    "score": 74,
+    "descendants": 41,
+    "time": 1775215228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629505",
+    "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+    "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+    "score": 74,
+    "descendants": 32,
+    "time": 1775237361,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47632504",
+    "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "score": 73,
+    "descendants": 29,
+    "time": 1775251573,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630592",
+    "title": "Async Python Is Secretly Deterministic",
+    "url": "https://www.dbos.dev/blog/async-python-is-secretly-deterministic",
+    "score": 70,
+    "descendants": 29,
+    "time": 1775242512,
+    "source": "hackernews"
+  },
+  {
+    "title": "Scientists turn MXene into tiny nanoscrolls that supercharge batteries and sensors",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260331001111.htm",
+    "reddit_id": "1sbdtu9",
+    "score": 66,
+    "num_comments": 0,
+    "date": "2026-04-03T13:36:41",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47633676",
+    "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+    "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+    "score": 53,
+    "descendants": 48,
+    "time": 1775258804,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629013",
+    "title": "Mercurial Dyson – a plan for the disassembly of planet Mercury",
+    "url": "https://github.com/RokoMijic/MercurialDyson/blob/main/written_report.md",
+    "score": 51,
+    "descendants": 35,
+    "time": 1775234866,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47633150",
+    "title": "The Subprime AI Crisis Is Here",
+    "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
+    "score": 48,
+    "descendants": 19,
+    "time": 1775255122,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47623101",
+    "title": "A Rave Review of Superpowers (For Claude Code)",
+    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "score": 44,
+    "descendants": 24,
+    "time": 1775189390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47630582",
+    "title": "Three main saturated fats raise your cholesterol",
+    "url": "https://www.empirical.health/blog/saturated-fats-cholesterol-heart-disease/",
+    "score": 44,
+    "descendants": 11,
+    "time": 1775242469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47629608",
+    "title": "Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law",
+    "url": "https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+    "score": 44,
+    "descendants": 9,
+    "time": 1775237756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47625311",
+    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+    "url": "https://github.com/oven-sh/bun/pull/28801",
+    "score": 42,
+    "descendants": 20,
+    "time": 1775214598,
+    "source": "hackernews"
+  }
+]
