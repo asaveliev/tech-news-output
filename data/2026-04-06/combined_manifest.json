@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "47659135",
+    "title": "Sam Altman may control our future – can he be trusted?",
+    "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+    "score": 1290,
+    "descendants": 497,
+    "time": 1775471817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47660925",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "score": 1012,
+    "descendants": 569,
+    "time": 1775483435,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655408",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "url": "https://github.com/arman-bd/guppylm",
+    "score": 866,
+    "descendants": 128,
+    "time": 1775434812,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47661439",
+    "title": "I won't download your app. The web version is a-ok",
+    "url": "https://www.0xsid.com/blog/wont-download-your-app",
+    "score": 865,
+    "descendants": 507,
+    "time": 1775485889,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47658146",
+    "title": "France pulls last gold held in US",
+    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "score": 583,
+    "descendants": 321,
+    "time": 1775462623,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664912",
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+    "score": 542,
+    "descendants": 454,
+    "time": 1775500263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664186",
+    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "url": "https://www.wesnoth.org",
+    "score": 466,
+    "descendants": 128,
+    "time": 1775497058,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662234",
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "url": "https://words.filippo.io/crqc-timeline/",
+    "score": 440,
+    "descendants": 182,
+    "time": 1775489480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655466",
+    "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+    "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+    "score": 439,
+    "descendants": 279,
+    "time": 1775435348,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47660286",
+    "title": "What being ripped off taught me",
+    "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+    "score": 393,
+    "descendants": 198,
+    "time": 1775480021,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47666024",
+    "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+    "url": "https://github.com/matthartman/ghost-pepper",
+    "score": 354,
+    "descendants": 161,
+    "time": 1775505016,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662857",
+    "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+    "url": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+    "score": 349,
+    "descendants": 401,
+    "time": 1775492141,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655392",
+    "title": "Show HN: I made a YouTube search form with advanced filters",
+    "url": "https://playlists.at/youtube/search/",
+    "score": 312,
+    "descendants": 196,
+    "time": 1775434706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47660954",
+    "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "score": 297,
+    "descendants": 143,
+    "time": 1775483557,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664205",
+    "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
+    "url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
+    "score": 295,
+    "descendants": 142,
+    "time": 1775497110,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47659109",
+    "title": "Age verification as mass surveillance infrastructure",
+    "url": "https://tboteproject.com/surveillancefindings/",
+    "score": 293,
+    "descendants": 109,
+    "time": 1775471582,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656501",
+    "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+    "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+    "score": 286,
+    "descendants": 182,
+    "time": 1775444602,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662945",
+    "title": "Show HN: GovAuctions lets you browse government auctions at once",
+    "url": "https://www.govauctions.app/",
+    "score": 270,
+    "descendants": 78,
+    "time": 1775492506,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47663147",
+    "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+    "url": "https://www.freestyle.sh/",
+    "score": 261,
+    "descendants": 145,
+    "time": 1775493131,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656622",
+    "title": "An open-source 240-antenna array to bounce signals off the Moon",
+    "url": "https://moonrf.com/",
+    "score": 252,
+    "descendants": 60,
+    "time": 1775445762,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47660853",
+    "title": "Book review: There Is No Antimemetics Division",
+    "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+    "score": 241,
+    "descendants": 172,
+    "time": 1775483041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47659252",
+    "title": "Is Germany's gold safe in New York ?",
+    "url": "https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873",
+    "score": 233,
+    "descendants": 259,
+    "time": 1775472851,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47667717",
+    "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "score": 233,
+    "descendants": 100,
+    "time": 1775512328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656659",
+    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+    "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+    "score": 197,
+    "descendants": 58,
+    "time": 1775446084,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47668727",
+    "title": "After 20 years I turned off Google Adsense for my websites (2025)",
+    "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+    "score": 180,
+    "descendants": 118,
+    "time": 1775517808,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655329",
+    "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "score": 162,
+    "descendants": 35,
+    "time": 1775434074,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662116",
+    "title": "Sky – an Elm-inspired language that compiles to Go",
+    "url": "https://github.com/anzellai/sky",
+    "score": 160,
+    "descendants": 57,
+    "time": 1775488973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662596",
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "score": 159,
+    "descendants": 238,
+    "time": 1775491027,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655367",
+    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "url": "https://github.com/kessler/gemma-gem",
+    "score": 151,
+    "descendants": 21,
+    "time": 1775434477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47666488",
+    "title": "A macOS bug that causes TCP networking to stop working after 49.7 days",
+    "url": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
+    "score": 144,
+    "descendants": 92,
+    "time": 1775506854,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656981",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "url": "https://drop.com/",
+    "score": 128,
+    "descendants": 70,
+    "time": 1775449489,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47667321",
+    "title": "Peptides: where to begin?",
+    "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
+    "score": 127,
+    "descendants": 162,
+    "time": 1775510523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47661065",
+    "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
+    "score": 126,
+    "descendants": 200,
+    "time": 1775484069,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47655905",
+    "title": "Usenet Archives",
+    "url": "https://usenetarchives.com",
+    "score": 124,
+    "descendants": 65,
+    "time": 1775439180,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47658743",
+    "title": "Number in man page titles e.g. sleep(3)",
+    "url": "https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/",
+    "score": 123,
+    "descendants": 78,
+    "time": 1775468357,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656303",
+    "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+    "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+    "score": 116,
+    "descendants": 64,
+    "time": 1775442520,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664389",
+    "title": "Intelligent people are better judges of the intelligence of others",
+    "url": "https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/",
+    "score": 99,
+    "descendants": 116,
+    "time": 1775497966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662658",
+    "title": "Sc-im: Spreadsheets in your terminal",
+    "url": "https://github.com/andmarti1424/sc-im",
+    "score": 96,
+    "descendants": 28,
+    "time": 1775491229,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47667672",
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "score": 87,
+    "descendants": 17,
+    "time": 1775512174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664647",
+    "title": "Got kicked out of uni and had the cops called for a social media website I made",
+    "url": "https://monyatwu.com/blog/iitsocial/",
+    "score": 78,
+    "descendants": 252,
+    "time": 1775499041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47664921",
+    "title": "Londoners are sick of viral videos telling lies about their city",
+    "url": "https://www.londoncentric.media/p/london-crime-viral-videos-crime",
+    "score": 76,
+    "descendants": 83,
+    "time": 1775500299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47665245",
+    "title": "Agent Reading Test",
+    "url": "https://agentreadingtest.com",
+    "score": 64,
+    "descendants": 17,
+    "time": 1775501817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656335",
+    "title": "Does coding with LLMs mean more microservices?",
+    "url": "https://ben.page/microservices",
+    "score": 63,
+    "descendants": 59,
+    "time": 1775442801,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47659461",
+    "title": "The Intelligence Failure in Iran",
+    "url": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
+    "score": 61,
+    "descendants": 85,
+    "time": 1775474495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47662350",
+    "title": "Anthropic is burning more and more dev goodwill",
+    "url": "https://twitter.com/GergelyOrosz/status/2041133254586122605",
+    "score": 61,
+    "descendants": 30,
+    "time": 1775490049,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47661231",
+    "title": "When Virality Is the Message: The New Age of AI Propaganda",
+    "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
+    "score": 60,
+    "descendants": 84,
+    "time": 1775484995,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47656114",
+    "title": "We replaced Node.js with Bun for 5x throughput",
+    "url": "https://trigger.dev/blog/firebun",
+    "score": 59,
+    "descendants": 32,
+    "time": 1775440679,
+    "source": "hackernews"
+  }
+]
