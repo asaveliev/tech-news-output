@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47679121",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 1213,
+    "descendants": 584,
+    "time": 1775585374,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673360",
+    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+    "score": 748,
+    "descendants": 228,
+    "time": 1775560064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47679258",
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 656,
+    "descendants": 471,
+    "time": 1775585916,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47676509",
+    "title": "Lunar Flyby",
+    "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+    "score": 650,
+    "descendants": 152,
+    "time": 1775574198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672818",
+    "title": "Are We Idiocracy Yet?",
+    "url": "https://idiocracy.wtf/",
+    "score": 605,
+    "descendants": 522,
+    "time": 1775555859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47677853",
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "url": "https://z.ai/blog/glm-5.1",
+    "score": 509,
+    "descendants": 207,
+    "time": 1775579535,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47682276",
+    "title": "US and Iran agree to provisional ceasefire",
+    "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+    "score": 435,
+    "descendants": 1204,
+    "time": 1775601662,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673005",
+    "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+    "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+    "score": 408,
+    "descendants": 192,
+    "time": 1775557512,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675013",
+    "title": "Dropping Cloudflare for Bunny.net",
+    "url": "https://jola.dev/posts/dropping-cloudflare",
+    "score": 384,
+    "descendants": 196,
+    "time": 1775568185,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47678573",
+    "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+    "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+    "score": 365,
+    "descendants": 77,
+    "time": 1775582623,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675625",
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+    "score": 319,
+    "descendants": 96,
+    "time": 1775570854,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672295",
+    "title": "Every GPU That Mattered",
+    "url": "https://sheets.works/data-viz/every-gpu",
+    "score": 311,
+    "descendants": 196,
+    "time": 1775551097,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47677142",
+    "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
+    "url": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
+    "score": 287,
+    "descendants": 112,
+    "time": 1775576836,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47680404",
+    "title": "S3 Files",
+    "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+    "score": 284,
+    "descendants": 84,
+    "time": 1775591041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47679155",
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "url": "https://red.anthropic.com/2026/mythos-preview/",
+    "score": 281,
+    "descendants": 41,
+    "time": 1775585491,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47674286",
+    "title": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07/",
+    "score": 244,
+    "descendants": 156,
+    "time": 1775565110,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47677241",
+    "title": "Taste in the age of AI and LLMs",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "score": 240,
+    "descendants": 194,
+    "time": 1775577256,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673394",
+    "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+    "url": "https://locker.dev",
+    "score": 234,
+    "descendants": 194,
+    "time": 1775560337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47676521",
+    "title": "Claude Code login fails with OAuth timeout on Windows",
+    "url": "https://github.com/anthropics/claude-code/issues/44257",
+    "score": 219,
+    "descendants": 294,
+    "time": 1775574263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673541",
+    "title": "AI may be making us think and write more alike",
+    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "score": 218,
+    "descendants": 231,
+    "time": 1775561342,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675213",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+    "score": 192,
+    "descendants": 50,
+    "time": 1775569155,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47677885",
+    "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+    "url": "https://printervention.app/details",
+    "score": 189,
+    "descendants": 82,
+    "time": 1775579637,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47681112",
+    "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+    "url": "https://middle-earth-interactive-map.web.app/",
+    "score": 182,
+    "descendants": 35,
+    "time": 1775594557,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672884",
+    "title": "Identify a London Underground Line just by listening to it",
+    "url": "https://tubesoundquiz.com/",
+    "score": 173,
+    "descendants": 53,
+    "time": 1775556505,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672318",
+    "title": "Blackholing My Email",
+    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "score": 172,
+    "descendants": 33,
+    "time": 1775551325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47669337",
+    "title": "Solod – A subset of Go that translates to C",
+    "url": "https://github.com/solod-dev/solod",
+    "score": 171,
+    "descendants": 45,
+    "time": 1775522881,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47680309",
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "score": 168,
+    "descendants": 22,
+    "time": 1775590625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47674027",
+    "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+    "url": "https://www.intofarlands.com/atlasofarda",
+    "score": 158,
+    "descendants": 28,
+    "time": 1775563935,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47678666",
+    "title": "A whole civilization might die tonight",
+    "url": "https://www.nbcnews.com/politics/white-house/trump-threat-whole-civilization-will-die-iran-war-deadline-hormuz-rcna267059",
+    "score": 142,
+    "descendants": 94,
+    "time": 1775583101,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47681274",
+    "title": "Bitcoin and quantum computing",
+    "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+    "score": 141,
+    "descendants": 96,
+    "time": 1775595383,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673928",
+    "title": "Record wind and solar saved UK from gas imports worth £1B in March 2026",
+    "url": "https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/",
+    "score": 117,
+    "descendants": 120,
+    "time": 1775563523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47671219",
+    "title": "John Coltrane illustrates the mathematics of jazz",
+    "url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
+    "score": 117,
+    "descendants": 14,
+    "time": 1775541481,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47670981",
+    "title": "Three hundred synths, 3 hardware projects, and one app",
+    "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
+    "score": 114,
+    "descendants": 17,
+    "time": 1775538745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47674234",
+    "title": "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
+    "url": "https://twitter.com/TheBobPony/status/2041112541909205001",
+    "score": 113,
+    "descendants": 70,
+    "time": 1775564879,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675372",
+    "title": "Has electricity decoupled from natural gas prices in Germany?",
+    "url": "https://has-electricity-decoupled-yet.strommarktberatung.de",
+    "score": 111,
+    "descendants": 143,
+    "time": 1775569827,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47669749",
+    "title": "Dear Heroku: Uhh What's Going On?",
+    "url": "https://judoscale.com/blog/heroku-whats-going-on",
+    "score": 107,
+    "descendants": 44,
+    "time": 1775526160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47676557",
+    "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+    "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+    "score": 102,
+    "descendants": 24,
+    "time": 1775574458,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673880",
+    "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+    "url": "https://github.com/pion/handoff",
+    "score": 93,
+    "descendants": 17,
+    "time": 1775563311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672778",
+    "title": "Breaking the console: a brief history of video game security",
+    "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
+    "score": 92,
+    "descendants": 26,
+    "time": 1775555488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47682098",
+    "title": "Ex-Meta worker investigated for downloading 30k private Facebook photos",
+    "url": "https://www.bbc.com/news/articles/cvg049xz1ygo",
+    "score": 85,
+    "descendants": 32,
+    "time": 1775600422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675155",
+    "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+    "url": "https://www.inngest.com/blog/hanging-promises-for-control-flow",
+    "score": 81,
+    "descendants": 53,
+    "time": 1775568873,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47671527",
+    "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+    "url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
+    "score": 81,
+    "descendants": 22,
+    "time": 1775544308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673072",
+    "title": "Germany Power Prices Turn Deeply Negative on Renewables Surge",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge",
+    "score": 79,
+    "descendants": 93,
+    "time": 1775558031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47682719",
+    "title": "Xilem – An experimental Rust native UI framework",
+    "url": "https://github.com/linebender/xilem",
+    "score": 79,
+    "descendants": 22,
+    "time": 1775604975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47675893",
+    "title": "A blind man made it possible for others with low vision to build Lego sets",
+    "url": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+    "score": 78,
+    "descendants": 6,
+    "time": 1775571870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47673379",
+    "title": "DeiMOS – A Superoptimizer for the MOS 6502",
+    "url": "https://aransentin.github.io/deimos/",
+    "score": 76,
+    "descendants": 17,
+    "time": 1775560222,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47679979",
+    "title": "US labor force participation continues to slide",
+    "url": "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/",
+    "score": 74,
+    "descendants": 27,
+    "time": 1775589136,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47674635",
+    "title": "A fire sale has U.S. office buildings going for 90% off",
+    "url": "https://www.wsj.com/real-estate/commercial/a-fire-sale-has-u-s-office-buildings-going-for-90-off-8fa8b5d8",
+    "score": 72,
+    "descendants": 66,
+    "time": 1775566784,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47681566",
+    "title": "USD Purchasing Power in Real Time Since 2000",
+    "url": "https://onedollar.today/",
+    "score": 65,
+    "descendants": 66,
+    "time": 1775597223,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47672642",
+    "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+    "score": 65,
+    "descendants": 1,
+    "time": 1775554151,
+    "source": "hackernews"
+  }
+]
