@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47716043",
+    "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+    "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+    "score": 835,
+    "descendants": 1,
+    "time": 1775817453,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719740",
+    "title": "1D Chess",
+    "url": "https://rowan441.github.io/1dchess/chess.html",
+    "score": 777,
+    "descendants": 139,
+    "time": 1775835448,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47724352",
+    "title": "Filing the corners off my MacBooks",
+    "url": "https://kentwalters.com/posts/corners/",
+    "score": 681,
+    "descendants": 350,
+    "time": 1775859400,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47716490",
+    "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+    "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+    "score": 583,
+    "descendants": 287,
+    "time": 1775820544,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719486",
+    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+    "score": 487,
+    "descendants": 625,
+    "time": 1775834448,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719602",
+    "title": "You can't trust macOS Privacy and Security settings",
+    "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+    "score": 457,
+    "descendants": 156,
+    "time": 1775834904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719942",
+    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+    "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+    "score": 453,
+    "descendants": 128,
+    "time": 1775836192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47712718",
+    "title": "I still prefer MCP over skills",
+    "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+    "score": 430,
+    "descendants": 354,
+    "time": 1775786508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47717587",
+    "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "score": 429,
+    "descendants": 311,
+    "time": 1775826523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47716412",
+    "title": "Microsoft suspends dev accounts for high-profile open source projects",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+    "score": 363,
+    "descendants": 135,
+    "time": 1775820051,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47720419",
+    "title": "Industrial design files for Keychron keyboards and mice",
+    "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "score": 355,
+    "descendants": 109,
+    "time": 1775838146,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47724118",
+    "title": "Installing every* Firefox extension",
+    "url": "https://jack.cab/blog/every-firefox-extension",
+    "score": 328,
+    "descendants": 36,
+    "time": 1775858193,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47712656",
+    "title": "We've raised $17M to build what comes after Git",
+    "url": "https://blog.gitbutler.com/series-a",
+    "score": 314,
+    "descendants": 687,
+    "time": 1775785978,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47717847",
+    "title": "CPU-Z and HWMonitor compromised",
+    "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+    "score": 310,
+    "descendants": 88,
+    "time": 1775827760,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722333",
+    "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+    "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+    "score": 305,
+    "descendants": 175,
+    "time": 1775848222,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719274",
+    "title": "Helium is hard to replace",
+    "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+    "score": 298,
+    "descendants": 205,
+    "time": 1775833611,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47724921",
+    "title": "Sam Altman's response to Molotov cocktail incident",
+    "url": "https://blog.samaltman.com/2279512",
+    "score": 289,
+    "descendants": 570,
+    "time": 1775862348,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47721953",
+    "title": "AI assistance when contributing to the Linux kernel",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "score": 277,
+    "descendants": 183,
+    "time": 1775846121,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47713495",
+    "title": "Team from ETH Zurich make high quality quantum swap gate using a geometric phase",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+    "score": 226,
+    "descendants": 48,
+    "time": 1775793897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722566",
+    "title": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
+    "url": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
+    "score": 225,
+    "descendants": 52,
+    "time": 1775849289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722096",
+    "title": "Molotov cocktail is hurled at home of Sam Altman",
+    "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+    "score": 224,
+    "descendants": 538,
+    "time": 1775846904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47712222",
+    "title": "New iPhone age and identity checks restrict internet freedom in the UK",
+    "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+    "score": 224,
+    "descendants": 140,
+    "time": 1775782243,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47720827",
+    "title": "A compelling title that is cryptic enough to get you to take action on it",
+    "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+    "score": 216,
+    "descendants": 117,
+    "time": 1775840035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47721946",
+    "title": "JSON formatter Chrome plugin now closed and injecting adware",
+    "url": "https://github.com/callumlocke/json-formatter",
+    "score": 201,
+    "descendants": 109,
+    "time": 1775846095,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47713584",
+    "title": "Afrika Bambaataa has died",
+    "url": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+    "score": 183,
+    "descendants": 64,
+    "time": 1775794648,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722562",
+    "title": "Nowhere is safe",
+    "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+    "score": 177,
+    "descendants": 217,
+    "time": 1775849278,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47716809",
+    "title": "Intel 486 CPU announced April 10, 1989",
+    "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+    "score": 161,
+    "descendants": 149,
+    "time": 1775822614,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47713839",
+    "title": "YouTube locked my accounts and I can't cancel my subscription",
+    "url": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
+    "score": 156,
+    "descendants": 101,
+    "time": 1775797402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47714273",
+    "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
+    "url": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
+    "score": 147,
+    "descendants": 72,
+    "time": 1775801746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47716663",
+    "title": "White House staff told not to place bets on prediction markets",
+    "url": "https://www.bbc.co.uk/news/articles/cgld65x396go",
+    "score": 145,
+    "descendants": 80,
+    "time": 1775821628,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47719975",
+    "title": "Bluesky April 2026 Outage Post-Mortem",
+    "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+    "score": 135,
+    "descendants": 70,
+    "time": 1775836301,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47713113",
+    "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+    "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+    "score": 129,
+    "descendants": 29,
+    "time": 1775790194,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47721997",
+    "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+    "url": "https://fluidcad.io/",
+    "score": 124,
+    "descendants": 28,
+    "time": 1775846359,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47718470",
+    "title": "Code is run more than read (2023)",
+    "url": "https://olano.dev/blog/code-is-run-more-than-read/",
+    "score": 122,
+    "descendants": 91,
+    "time": 1775830368,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47718830",
+    "title": "CPU-Z and HWMonitor compromised",
+    "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
+    "score": 122,
+    "descendants": 1,
+    "time": 1775831849,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47718891",
+    "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+    "url": "https://kerkour.com/rust-supply-chain-nightmare",
+    "score": 116,
+    "descendants": 58,
+    "time": 1775832124,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47718114",
+    "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+    "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+    "score": 105,
+    "descendants": 92,
+    "time": 1775828837,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47721955",
+    "title": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
+    "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+    "score": 104,
+    "descendants": 114,
+    "time": 1775846129,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47721207",
+    "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
+    "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
+    "score": 103,
+    "descendants": 65,
+    "time": 1775842027,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47712340",
+    "title": "Microsoft PhotoDNA scanning problem",
+    "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/",
+    "score": 102,
+    "descendants": 45,
+    "time": 1775783346,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722913",
+    "title": "DOJ Top Antitrust Litigators Exit After Ticketmaster Accord",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement",
+    "score": 98,
+    "descendants": 21,
+    "time": 1775851089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722262",
+    "title": "Watgo – A WebAssembly Toolkit for Go",
+    "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+    "score": 91,
+    "descendants": 6,
+    "time": 1775847819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47717973",
+    "title": "The effects of caffeine consumption do not decay with a ~5 hour half-life",
+    "url": "https://www.lesswrong.com/posts/vefsxkGWkEMmDcZ7v/the-effects-of-caffeine-consumption-do-not-decay-with-a-5",
+    "score": 89,
+    "descendants": 92,
+    "time": 1775828319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47715291",
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "url": "https://www.nature.com/articles/d41586-026-01100-y",
+    "score": 86,
+    "descendants": 88,
+    "time": 1775810677,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47714573",
+    "title": "Artemis II and the invisible hazard on the way to the Moon",
+    "url": "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1",
+    "score": 84,
+    "descendants": 67,
+    "time": 1775804657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47723243",
+    "title": "Combining spicy foods with mint boosts anti-inflammatory effects 100x or more",
+    "url": "https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/",
+    "score": 74,
+    "descendants": 45,
+    "time": 1775852696,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47718694",
+    "title": "\"Negative\" views of Broadcom driving VMware migrations, rival says",
+    "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+    "score": 74,
+    "descendants": 33,
+    "time": 1775831249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47722011",
+    "title": "Show HN: A WYSIWYG word processor in Python",
+    "url": "https://codeberg.org/chrisecker/miniword",
+    "score": 70,
+    "descendants": 31,
+    "time": 1775846434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47725403",
+    "title": "Italo Calvino: A traveller in a world of uncertainty",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+    "score": 67,
+    "descendants": 13,
+    "time": 1775864887,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47720418",
+    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+    "url": "https://twill.ai",
+    "score": 65,
+    "descendants": 61,
+    "time": 1775838133,
+    "source": "hackernews"
+  }
+]
