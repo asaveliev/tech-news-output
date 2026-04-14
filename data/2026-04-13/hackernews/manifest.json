@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47755629",
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "score": 904,
+    "descendants": 251,
+    "time": 1776102879,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47746610",
+    "title": "All elementary functions from a single binary operator",
+    "url": "https://arxiv.org/abs/2603.21852",
+    "score": 814,
+    "descendants": 260,
+    "time": 1776044972,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47757495",
+    "title": "GitHub Stacked PRs",
+    "url": "https://github.github.com/gh-stack/",
+    "score": 675,
+    "descendants": 356,
+    "time": 1776112609,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47750872",
+    "title": "Servo is now available on crates.io",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "score": 448,
+    "descendants": 145,
+    "time": 1776082342,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47747017",
+    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+    "score": 410,
+    "descendants": 360,
+    "time": 1776048790,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47753472",
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "score": 408,
+    "descendants": 225,
+    "time": 1776094266,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47748064",
+    "title": "The economics of software teams: Why most engineering orgs are flying blind",
+    "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+    "score": 396,
+    "descendants": 271,
+    "time": 1776059132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751781",
+    "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+    "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+    "score": 377,
+    "descendants": 253,
+    "time": 1776087453,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47752819",
+    "title": "Make tmux pretty and usable (2024)",
+    "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "score": 364,
+    "descendants": 229,
+    "time": 1776091735,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47750669",
+    "title": "Android now stops you sharing your location in photos",
+    "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+    "score": 355,
+    "descendants": 295,
+    "time": 1776080895,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751936",
+    "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+    "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+    "score": 346,
+    "descendants": 260,
+    "time": 1776088104,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47752884",
+    "title": "This year’s insane timeline of hacks",
+    "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+    "score": 305,
+    "descendants": 181,
+    "time": 1776091985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47754379",
+    "title": "The Future of Everything Is Lies, I Guess: Safety",
+    "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+    "score": 297,
+    "descendants": 163,
+    "time": 1776097389,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47753689",
+    "title": "Building a CLI for all of Cloudflare",
+    "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "score": 294,
+    "descendants": 98,
+    "time": 1776095042,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47758028",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "score": 238,
+    "descendants": 342,
+    "time": 1776115538,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47750821",
+    "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+    "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+    "score": 214,
+    "descendants": 121,
+    "time": 1776081935,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751029",
+    "title": "I went to America's worst national parks so you don't have to",
+    "url": "https://substack.com/home/post/p-193626949",
+    "score": 195,
+    "descendants": 182,
+    "time": 1776083375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751032",
+    "title": "AI could be the end of the digital wave, not the next big thing",
+    "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+    "score": 179,
+    "descendants": 257,
+    "time": 1776083379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47749674",
+    "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+    "url": "https://github.com/brightbeanxyz/brightbean-studio",
+    "score": 178,
+    "descendants": 120,
+    "time": 1776072416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756321",
+    "title": "How to make Firefox builds 17% faster",
+    "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+    "score": 166,
+    "descendants": 33,
+    "time": 1776106208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756569",
+    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+    "url": "https://www.ithihasas.in",
+    "score": 145,
+    "descendants": 35,
+    "time": 1776107407,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47759341",
+    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+    "url": "https://github.com/fabienmillet/WiiFin",
+    "score": 138,
+    "descendants": 63,
+    "time": 1776123198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47753643",
+    "title": "Claude.ai down",
+    "url": "https://status.claude.com/incidents/6jd2m42f8mld",
+    "score": 128,
+    "descendants": 123,
+    "time": 1776094868,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751669",
+    "title": "They See Your Photos",
+    "url": "https://theyseeyourphotos.com/",
+    "score": 127,
+    "descendants": 111,
+    "time": 1776086871,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47754002",
+    "title": "Missouri town fires half its city council over data center deal",
+    "url": "https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259",
+    "score": 126,
+    "descendants": 129,
+    "time": 1776095994,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756772",
+    "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+    "url": "https://amd-gaia.ai/docs",
+    "score": 126,
+    "descendants": 30,
+    "time": 1776108521,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47754100",
+    "title": "Who's Been Impersonating This ProPublica Reporter?",
+    "url": "https://www.propublica.org/article/impersonating-propublica-reporter",
+    "score": 116,
+    "descendants": 2,
+    "time": 1776096319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47755604",
+    "title": "Tax Wrapped 2025",
+    "url": "https://taxwrapped.com",
+    "score": 113,
+    "descendants": 62,
+    "time": 1776102759,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47757775",
+    "title": "The tech jobs bust is real. Don't blame AI (yet)",
+    "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+    "score": 110,
+    "descendants": 158,
+    "time": 1776114141,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47755573",
+    "title": "New Orleans's Car-Crash Conspiracy",
+    "url": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
+    "score": 107,
+    "descendants": 60,
+    "time": 1776102656,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47746577",
+    "title": "State of Homelab 2026",
+    "url": "https://mrlokans.work/posts/state-of-homelab-2026/",
+    "score": 105,
+    "descendants": 92,
+    "time": 1776044557,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47755209",
+    "title": "B-trees and database indexes (2024)",
+    "url": "https://planetscale.com/blog/btrees-and-database-indexes",
+    "score": 104,
+    "descendants": 40,
+    "time": 1776100951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756672",
+    "title": "The looming college-enrollment death spiral",
+    "url": "https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/",
+    "score": 102,
+    "descendants": 137,
+    "time": 1776107914,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47754606",
+    "title": "The rational conclusion of doomerism is violence",
+    "url": "https://www.campbellramble.ai/p/the-rational-conclusion",
+    "score": 88,
+    "descendants": 155,
+    "time": 1776098230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47748036",
+    "title": "X Randomly Banning Users for \"Inauthentic Behavior\"",
+    "url": "https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/",
+    "score": 86,
+    "descendants": 88,
+    "time": 1776058764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47752466",
+    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "url": "https://spectrum.ieee.org/mems-photonics",
+    "score": 86,
+    "descendants": 38,
+    "time": 1776090362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47747248",
+    "title": "Haunt, the 70s text adventure game, is now playable on a website",
+    "url": "https://haunt.madebywindmill.com",
+    "score": 82,
+    "descendants": 26,
+    "time": 1776051062,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47759292",
+    "title": "The AI revolution in math has arrived",
+    "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+    "score": 81,
+    "descendants": 48,
+    "time": 1776122764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47751621",
+    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+    "score": 81,
+    "descendants": 24,
+    "time": 1776086630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756036",
+    "title": "Visualizing CPU Pipelining (2024)",
+    "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+    "score": 78,
+    "descendants": 10,
+    "time": 1776104800,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47755734",
+    "title": "In Denmark, the spread of solar panels has become a divisive issue",
+    "url": "https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections",
+    "score": 76,
+    "descendants": 150,
+    "time": 1776103356,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47752402",
+    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+    "score": 76,
+    "descendants": 75,
+    "time": 1776090089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47749222",
+    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+    "score": 75,
+    "descendants": 53,
+    "time": 1776068020,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47748314",
+    "title": "Programming Used to Be Free",
+    "url": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
+    "score": 70,
+    "descendants": 71,
+    "time": 1776061479,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47758863",
+    "title": "The human cost of 10x: How AI is physically breaking senior engineers",
+    "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+    "score": 66,
+    "descendants": 60,
+    "time": 1776120026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47758347",
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "url": "https://ndaybench.winfunc.com",
+    "score": 61,
+    "descendants": 16,
+    "time": 1776117243,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47748123",
+    "title": "The AI Layoff Trap",
+    "url": "https://arxiv.org/abs/2603.20617",
+    "score": 59,
+    "descendants": 103,
+    "time": 1776059809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47757426",
+    "title": "Ascending into the Realm of Japanese Charts",
+    "url": "https://www.chartography.net/p/ascending-into-the-realm-of-japanese",
+    "score": 55,
+    "descendants": 2,
+    "time": 1776112195,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756081",
+    "title": "Austerity Creates Fascism",
+    "url": "https://pluralistic.net/2026/04/12/always-great/",
+    "score": 54,
+    "descendants": 25,
+    "time": 1776104977,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47756876",
+    "title": "Just Enough Chimera Linux",
+    "url": "https://www.dwarmstrong.org/chimera-install-zfs/",
+    "score": 54,
+    "descendants": 14,
+    "time": 1776109074,
+    "source": "hackernews"
+  }
+]
