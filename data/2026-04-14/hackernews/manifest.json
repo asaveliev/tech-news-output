@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "47760529",
+    "title": "DaVinci Resolve – Photo",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+    "score": 1094,
+    "descendants": 275,
+    "time": 1776133515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762864",
+    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+    "url": "https://rareese.com/posts/backblaze/",
+    "score": 1060,
+    "descendants": 629,
+    "time": 1776155427,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47760764",
+    "title": "A new spam policy for “back button hijacking”",
+    "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "score": 870,
+    "descendants": 489,
+    "time": 1776135987,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47765604",
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "score": 628,
+    "descendants": 180,
+    "time": 1776174391,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47772012",
+    "title": "Stop Flock",
+    "url": "https://stopflock.com",
+    "score": 611,
+    "descendants": 152,
+    "time": 1776203765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768813",
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+    "score": 593,
+    "descendants": 236,
+    "time": 1776188820,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768133",
+    "title": "Claude Code Routines",
+    "url": "https://code.claude.com/docs/en/routines",
+    "score": 583,
+    "descendants": 343,
+    "time": 1776185673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47763759",
+    "title": "jj – the CLI for Jujutsu",
+    "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+    "score": 519,
+    "descendants": 449,
+    "time": 1776162819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768195",
+    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+    "score": 411,
+    "descendants": 417,
+    "time": 1776185949,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47759709",
+    "title": "Lean proved this program correct; then I found a bug",
+    "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "score": 384,
+    "descendants": 174,
+    "time": 1776126308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762641",
+    "title": "Introspective Diffusion Language Models",
+    "url": "https://introspective-diffusion.github.io/",
+    "score": 263,
+    "descendants": 46,
+    "time": 1776153453,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47760750",
+    "title": "Sometimes powerful people just do dumb shit",
+    "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+    "score": 262,
+    "descendants": 153,
+    "time": 1776135860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47766550",
+    "title": "The future of everything is lies, I guess: Work",
+    "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+    "score": 260,
+    "descendants": 207,
+    "time": 1776178845,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768788",
+    "title": "OpenSSL 4.0.0",
+    "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0",
+    "score": 245,
+    "descendants": 81,
+    "time": 1776188734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762901",
+    "title": "An AI Vibe Coding Horror Story",
+    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "score": 206,
+    "descendants": 203,
+    "time": 1776155745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47767191",
+    "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
+    "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+    "score": 181,
+    "descendants": 93,
+    "time": 1776181603,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761997",
+    "title": "Distributed DuckDB Instance",
+    "url": "https://github.com/citguru/openduck",
+    "score": 172,
+    "descendants": 33,
+    "time": 1776148304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47760925",
+    "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+    "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+    "score": 164,
+    "descendants": 46,
+    "time": 1776137536,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47769183",
+    "title": "40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal",
+    "url": "https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b",
+    "score": 160,
+    "descendants": 266,
+    "time": 1776190469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47767160",
+    "title": "For the first time in the U.S., renewables generate more power than natural gas",
+    "url": "https://e360.yale.edu/digest/us-renewables-natural-gas-coal",
+    "score": 160,
+    "descendants": 159,
+    "time": 1776181455,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47767676",
+    "title": "5NF and Database Design",
+    "url": "https://kb.databasedesignbook.com/posts/5nf/",
+    "score": 156,
+    "descendants": 59,
+    "time": 1776183769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762060",
+    "title": "The secrets of the Shinkansen",
+    "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+    "score": 154,
+    "descendants": 152,
+    "time": 1776148861,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768339",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "score": 154,
+    "descendants": 77,
+    "time": 1776186583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47772048",
+    "title": "Fuck the cloud (2009)",
+    "url": "https://ascii.textfiles.com/archives/1717",
+    "score": 141,
+    "descendants": 85,
+    "time": 1776204011,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47767194",
+    "title": "Zig 0.16.0 Release Notes",
+    "url": "https://ziglang.org/download/0.16.0/release-notes.html",
+    "score": 137,
+    "descendants": 31,
+    "time": 1776181618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47766370",
+    "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "score": 131,
+    "descendants": 42,
+    "time": 1776178126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47769967",
+    "title": "California ghost-gun bill wants 3D printers to play cop, EFF says",
+    "url": "https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/",
+    "score": 120,
+    "descendants": 2,
+    "time": 1776193712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761625",
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+    "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "score": 111,
+    "descendants": 60,
+    "time": 1776144768,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761310",
+    "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+    "url": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
+    "score": 106,
+    "descendants": 28,
+    "time": 1776141551,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47772203",
+    "title": "H.R.8250 – To require operating system providers to verify the age of any user",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/8250/all-info",
+    "score": 105,
+    "descendants": 83,
+    "time": 1776205135,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47770124",
+    "title": "Gas Town: From Clown Show to v1.0",
+    "url": "https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec",
+    "score": 103,
+    "descendants": 136,
+    "time": 1776194333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762006",
+    "title": "Can Claude Fly a Plane?",
+    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+    "score": 103,
+    "descendants": 96,
+    "time": 1776148365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47764098",
+    "title": "NimConf 2026: Dates Announced, Registrations Open",
+    "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+    "score": 103,
+    "descendants": 30,
+    "time": 1776165550,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47765458",
+    "title": "Two Months After I Gave an AI $100 and No Instructions",
+    "url": "https://www.sebastian-jais.de/blog/two-months-alma-experiment",
+    "score": 90,
+    "descendants": 107,
+    "time": 1776173664,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47762994",
+    "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+    "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+    "score": 85,
+    "descendants": 86,
+    "time": 1776156732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761609",
+    "title": "TanStack Start Now Support React Server Components",
+    "url": "https://tanstack.com/blog/react-server-components",
+    "score": 84,
+    "descendants": 71,
+    "time": 1776144531,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768750",
+    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+    "url": "https://github.com/dropseed/plain",
+    "score": 84,
+    "descendants": 38,
+    "time": 1776188597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47772906",
+    "title": "Apple App Store threatened to remove Grok over deepfakes: Letter",
+    "url": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677",
+    "score": 81,
+    "descendants": 43,
+    "time": 1776210103,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47770770",
+    "title": "Trusted access for the next era of cyber defense",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+    "score": 76,
+    "descendants": 51,
+    "time": 1776197240,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761723",
+    "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+    "url": "https://github.com/lasect/pg_6502",
+    "score": 70,
+    "descendants": 8,
+    "time": 1776145609,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47761825",
+    "title": "Roblox devs now need a subscription to share their games freely",
+    "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+    "score": 68,
+    "descendants": 69,
+    "time": 1776146671,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47764265",
+    "title": "The exponential curve behind open source backlogs",
+    "url": "https://armanckeser.com/writing/jellyfin-flow",
+    "score": 68,
+    "descendants": 47,
+    "time": 1776166676,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47767143",
+    "title": "The Fediverse deserves a dumb graphical client",
+    "url": "https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md",
+    "score": 68,
+    "descendants": 17,
+    "time": 1776181368,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47766144",
+    "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
+    "url": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
+    "score": 64,
+    "descendants": 86,
+    "time": 1776176995,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47771220",
+    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
+    "url": "https://mrdns.com/",
+    "score": 60,
+    "descendants": 4,
+    "time": 1776199341,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47764164",
+    "title": "The Case Against Gameplay Loops (2024)",
+    "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
+    "score": 59,
+    "descendants": 55,
+    "time": 1776165985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47766960",
+    "title": "AI will never be ethical or safe",
+    "url": "https://meiert.com/blog/ai-ethics-and-safety/",
+    "score": 59,
+    "descendants": 31,
+    "time": 1776180648,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47768337",
+    "title": "NYC to open municipal grocery store in 2027",
+    "url": "https://www.grocerydive.com/news/new-york-city-owned-grocery-store-manhattan-mamdani/817381/",
+    "score": 56,
+    "descendants": 162,
+    "time": 1776186576,
+    "source": "hackernews"
+  }
+]
