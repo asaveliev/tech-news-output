@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "47793411",
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "score": 1690,
+    "descendants": 1207,
+    "time": 1776349430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792764",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 1046,
+    "descendants": 455,
+    "time": 1776346587,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47796469",
+    "title": "Codex for almost everything",
+    "url": "https://openai.com/index/codex-for-almost-everything/",
+    "score": 830,
+    "descendants": 418,
+    "time": 1776359539,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788385",
+    "title": "The local LLM ecosystem doesn’t need Ollama",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "score": 618,
+    "descendants": 205,
+    "time": 1776310511,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792718",
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
+    "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+    "score": 597,
+    "descendants": 627,
+    "time": 1776346333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788542",
+    "title": "Darkbloom – Private inference on idle Macs",
+    "url": "https://darkbloom.dev",
+    "score": 479,
+    "descendants": 237,
+    "time": 1776312399,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792593",
+    "title": "Cloudflare Email Service",
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "score": 437,
+    "descendants": 198,
+    "time": 1776345713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47796830",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "score": 389,
+    "descendants": 83,
+    "time": 1776361040,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47791871",
+    "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+    "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+    "score": 385,
+    "descendants": 279,
+    "time": 1776341610,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788424",
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "url": "https://daedal.io/@thomzane/116410863009847575",
+    "score": 375,
+    "descendants": 216,
+    "time": 1776311078,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792368",
+    "title": "Mozilla Thunderbolt",
+    "url": "https://www.thunderbolt.io/",
+    "score": 347,
+    "descendants": 307,
+    "time": 1776344496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47799120",
+    "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+    "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+    "score": 288,
+    "descendants": 195,
+    "time": 1776371512,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792538",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 271,
+    "descendants": 64,
+    "time": 1776345457,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47791212",
+    "title": "Codex Hacked a Samsung TV",
+    "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+    "score": 238,
+    "descendants": 127,
+    "time": 1776336285,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47800738",
+    "title": "Everything we like is a psyop?",
+    "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+    "score": 236,
+    "descendants": 148,
+    "time": 1776381333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47791236",
+    "title": "AI cybersecurity is not proof of work",
+    "url": "https://antirez.com/news/163",
+    "score": 220,
+    "descendants": 84,
+    "time": 1776336480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47797665",
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "score": 210,
+    "descendants": 74,
+    "time": 1776364799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47800166",
+    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+    "score": 202,
+    "descendants": 47,
+    "time": 1776377333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47794391",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "score": 193,
+    "descendants": 263,
+    "time": 1776352393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47793926",
+    "title": "Laravel raised money and now injects ads directly into your agent",
+    "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+    "score": 192,
+    "descendants": 113,
+    "time": 1776351073,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792374",
+    "title": "Artifacts: Versioned storage that speaks Git",
+    "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+    "score": 191,
+    "descendants": 20,
+    "time": 1776344523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47798345",
+    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+    "url": "https://clojure.org/about/documentary",
+    "score": 186,
+    "descendants": 45,
+    "time": 1776367938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47793493",
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/claude/opus",
+    "score": 186,
+    "descendants": 12,
+    "time": 1776349749,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788473",
+    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "score": 176,
+    "descendants": 50,
+    "time": 1776311661,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47793546",
+    "title": "Claude Opus 4.7 Model Card",
+    "url": "https://anthropic.com/claude-opus-4-7-system-card",
+    "score": 169,
+    "descendants": 79,
+    "time": 1776349944,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47800839",
+    "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
+    "url": "https://www.bbc.com/news/articles/clyrd818gd2o",
+    "score": 157,
+    "descendants": 105,
+    "time": 1776382147,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47800033",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 157,
+    "descendants": 35,
+    "time": 1776376597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47796197",
+    "title": "Japan implements language proficiency requirements for certain visa applicants",
+    "url": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+    "score": 148,
+    "descendants": 115,
+    "time": 1776358412,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788398",
+    "title": "North American English Dialects",
+    "url": "https://aschmann.net/AmEng/",
+    "score": 147,
+    "descendants": 90,
+    "time": 1776310725,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47792525",
+    "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+    "url": "https://github.com/SeanFDZ/macmind",
+    "score": 137,
+    "descendants": 37,
+    "time": 1776345389,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47798176",
+    "title": "Playdate’s handheld changed how Duke University teaches game design",
+    "url": "https://news.play.date/news/duke-playdate-education/",
+    "score": 134,
+    "descendants": 51,
+    "time": 1776367111,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788857",
+    "title": "Internet Protocol Version 8 (IPv8)",
+    "url": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+    "score": 123,
+    "descendants": 107,
+    "time": 1776316025,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47790791",
+    "title": "SDL bans AI-written commits",
+    "url": "https://github.com/libsdl-org/SDL/issues/15350",
+    "score": 121,
+    "descendants": 121,
+    "time": 1776332443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47799573",
+    "title": "A Better R Programming Experience Thanks to Tree-sitter",
+    "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+    "score": 121,
+    "descendants": 14,
+    "time": 1776374042,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47787877",
+    "title": "Stealth signals are bypassing Iran’s internet blackout",
+    "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+    "score": 115,
+    "descendants": 57,
+    "time": 1776305810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47798456",
+    "title": "European civil servants are being forced off WhatsApp",
+    "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+    "score": 109,
+    "descendants": 71,
+    "time": 1776368414,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47797911",
+    "title": "Europe has \"maybe 6 weeks of jet fuel left\"",
+    "url": "https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703",
+    "score": 102,
+    "descendants": 78,
+    "time": 1776366009,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47798244",
+    "title": "GPT‑Rosalind for life sciences research",
+    "url": "https://openai.com/index/introducing-gpt-rosalind/",
+    "score": 92,
+    "descendants": 22,
+    "time": 1776367490,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47794514",
+    "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+    "url": "https://www.zatanna.ai/kampala",
+    "score": 86,
+    "descendants": 73,
+    "time": 1776352794,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47791855",
+    "title": "Apple accelerates eco progress with highest-ever recycled materials",
+    "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+    "score": 83,
+    "descendants": 71,
+    "time": 1776341477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47787957",
+    "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
+    "url": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
+    "score": 81,
+    "descendants": 5,
+    "time": 1776306616,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47787127",
+    "title": "Agent - Native Mac OS X coding ide/harness",
+    "url": "https://github.com/macOS26/Agent",
+    "score": 77,
+    "descendants": 32,
+    "time": 1776298780,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788633",
+    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+    "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+    "score": 76,
+    "descendants": 13,
+    "time": 1776313376,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47800765",
+    "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+    "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+    "score": 75,
+    "descendants": 50,
+    "time": 1776381467,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788818",
+    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+    "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+    "score": 74,
+    "descendants": 20,
+    "time": 1776315665,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47787854",
+    "title": "Arguing with Agents",
+    "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
+    "score": 71,
+    "descendants": 37,
+    "time": 1776305603,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47791282",
+    "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+    "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+    "score": 65,
+    "descendants": 56,
+    "time": 1776337033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47788246",
+    "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
+    "url": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+    "score": 64,
+    "descendants": 28,
+    "time": 1776309244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47790353",
+    "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
+    "url": "https://www.bbc.com/news/articles/c98mrepzgj7o",
+    "score": 64,
+    "descendants": 25,
+    "time": 1776329031,
+    "source": "hackernews"
+  }
+]
