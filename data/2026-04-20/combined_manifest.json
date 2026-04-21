@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "47840219",
+    "title": "John Ternus to become Apple CEO",
+    "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+    "score": 1673,
+    "descendants": 837,
+    "time": 1776717572,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47834195",
+    "title": "All phones sold in the EU to have replaceable batteries from 2027",
+    "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+    "score": 1187,
+    "descendants": 990,
+    "time": 1776692485,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831621",
+    "title": "GitHub's fake star economy",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "score": 767,
+    "descendants": 360,
+    "time": 1776673612,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47835735",
+    "title": "Kimi K2.6: Advancing open-source coding",
+    "url": "https://www.kimi.com/blog/kimi-k2-6",
+    "score": 639,
+    "descendants": 331,
+    "time": 1776698893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47834565",
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+    "score": 614,
+    "descendants": 322,
+    "time": 1776693934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47837611",
+    "title": "At long last, InfoWars is ours",
+    "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+    "score": 576,
+    "descendants": 279,
+    "time": 1776705838,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47833247",
+    "title": "Atlassian enables default data collection to train AI",
+    "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "score": 565,
+    "descendants": 124,
+    "time": 1776687819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47832222",
+    "title": "NSA is using Anthropic's Mythos despite blacklist",
+    "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+    "score": 458,
+    "descendants": 319,
+    "time": 1776679235,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47834184",
+    "title": "Sauna effect on heart rate",
+    "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+    "score": 412,
+    "descendants": 215,
+    "time": 1776692428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47833558",
+    "title": "ggsql: A Grammar of Graphics for SQL",
+    "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "score": 402,
+    "descendants": 79,
+    "time": 1776689480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47839951",
+    "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+    "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+    "score": 355,
+    "descendants": 341,
+    "time": 1776716353,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47835928",
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "score": 339,
+    "descendants": 339,
+    "time": 1776699662,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47833156",
+    "title": "Tesla concealed fatal accidents to continue testing autonomous driving",
+    "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
+    "score": 314,
+    "descendants": 192,
+    "time": 1776687139,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47835775",
+    "title": "Not buying another Kindle",
+    "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
+    "score": 306,
+    "descendants": 237,
+    "time": 1776699017,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47836730",
+    "title": "We accepted surveillance as default",
+    "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+    "score": 304,
+    "descendants": 132,
+    "time": 1776702865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47829486",
+    "title": "The insider trading suspicions looming over Trump's presidency",
+    "url": "https://www.bbc.com/news/articles/cge0grppe3po",
+    "score": 297,
+    "descendants": 151,
+    "time": 1776649835,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831437",
+    "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+    "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+    "score": 286,
+    "descendants": 311,
+    "time": 1776671388,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47832248",
+    "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+    "score": 278,
+    "descendants": 129,
+    "time": 1776679480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47840980",
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+    "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "score": 262,
+    "descendants": 131,
+    "time": 1776720052,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47839835",
+    "title": "F-35 is built for the wrong war",
+    "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+    "score": 257,
+    "descendants": 523,
+    "time": 1776715655,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47838703",
+    "title": "Kimi vendor verifier – verify accuracy of inference providers",
+    "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+    "score": 246,
+    "descendants": 21,
+    "time": 1776710393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47832969",
+    "title": "WebUSB Extension for Firefox",
+    "url": "https://github.com/ArcaneNibble/awawausb",
+    "score": 237,
+    "descendants": 207,
+    "time": 1776685864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47841129",
+    "title": "Jujutsu megamerges for fun and profit",
+    "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+    "score": 217,
+    "descendants": 98,
+    "time": 1776720730,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47829178",
+    "title": "Claude Token Counter, now with model comparisons",
+    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+    "score": 216,
+    "descendants": 81,
+    "time": 1776646600,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47836463",
+    "title": "Palantir Wants to Reinstate the Draft",
+    "url": "https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/",
+    "score": 211,
+    "descendants": 225,
+    "time": 1776701960,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831742",
+    "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+    "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+    "score": 210,
+    "descendants": 97,
+    "time": 1776674962,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47836784",
+    "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+    "url": "https://words.filippo.io/128-bits/",
+    "score": 207,
+    "descendants": 77,
+    "time": 1776703068,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47828896",
+    "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+    "url": "https://github.com/shivampkumar/trellis-mac",
+    "score": 196,
+    "descendants": 34,
+    "time": 1776643636,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47838788",
+    "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+    "url": "https://github.com/Luce-Org/lucebox-hub",
+    "score": 164,
+    "descendants": 44,
+    "time": 1776710782,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831272",
+    "title": "IEA: Solar overtakes all energy sources in a major global first",
+    "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+    "score": 163,
+    "descendants": 117,
+    "time": 1776669567,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47835646",
+    "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+    "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+    "score": 130,
+    "descendants": 22,
+    "time": 1776698521,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47842021",
+    "title": "Even 'uncensored' models can't say what they want",
+    "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+    "score": 128,
+    "descendants": 99,
+    "time": 1776725009,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47839645",
+    "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+    "url": "https://github.com/gizmo64k/soulplayer-c64",
+    "score": 119,
+    "descendants": 30,
+    "time": 1776714667,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47834025",
+    "title": "U.S. banks may soon collect citizenship data from customers",
+    "url": "https://www.cnbc.com/2026/04/15/banks-citizenship-data-collection-customer-accounts.html",
+    "score": 111,
+    "descendants": 167,
+    "time": 1776691643,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47832366",
+    "title": "Figma's woes compound with Claude Design",
+    "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+    "score": 107,
+    "descendants": 92,
+    "time": 1776680795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47829800",
+    "title": "Anthropic installed a spyware bridge on my machine?",
+    "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
+    "score": 102,
+    "descendants": 31,
+    "time": 1776652910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831205",
+    "title": "Advancing human gut microbiota research by considering gut transit time (2023)",
+    "url": "https://gut.bmj.com/content/72/1/180",
+    "score": 100,
+    "descendants": 79,
+    "time": 1776668850,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47830575",
+    "title": "Stripe's Payment APIs: the first 10 years (2020)",
+    "url": "https://stripe.dev/blog/payment-api-design",
+    "score": 94,
+    "descendants": 49,
+    "time": 1776661543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47833092",
+    "title": "NASA Artemis Posters",
+    "url": "https://www.nasa.gov/gallery/artemis/",
+    "score": 94,
+    "descendants": 17,
+    "time": 1776686708,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47837105",
+    "title": "The Theory of Interstellar Trade [pdf] (1978)",
+    "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+    "score": 92,
+    "descendants": 26,
+    "time": 1776704230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47838508",
+    "title": "Changes to GitHub Copilot Individual Plans",
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "score": 90,
+    "descendants": 29,
+    "time": 1776709445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47838178",
+    "title": "The Palantir's Stasi Protocols",
+    "url": "https://professorsigmund.com/praxis/palantir-stasi-protocols.html",
+    "score": 83,
+    "descendants": 23,
+    "time": 1776708083,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47841149",
+    "title": "Monero Community Crowdfunding System",
+    "url": "https://ccs.getmonero.org/ideas/",
+    "score": 81,
+    "descendants": 50,
+    "time": 1776720795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47831499",
+    "title": "Tracking when Trump chickens out",
+    "url": "https://www.thetacotracker.com/",
+    "score": 68,
+    "descendants": 31,
+    "time": 1776672081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47838930",
+    "title": "Anduril, Palantir and SpaceX are changing how America wages war",
+    "url": "https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war",
+    "score": 66,
+    "descendants": 74,
+    "time": 1776711344,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47833026",
+    "title": "macOS 27 won’t be supporting Intel anymore",
+    "url": "https://twitter.com/Lina_Hoshino/status/2046112493320458649",
+    "score": 65,
+    "descendants": 92,
+    "time": 1776686284,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47832887",
+    "title": "A Pascal's Wager for AI doomers",
+    "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
+    "score": 64,
+    "descendants": 97,
+    "time": 1776685337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47836226",
+    "title": "Peter Thiel Is Building a Parallel Justice System – Powered by AI",
+    "url": "https://www.codastory.com/polarization/can-we-trust-an-ai-jury-to-judge-journalism/",
+    "score": 63,
+    "descendants": 19,
+    "time": 1776700946,
+    "source": "hackernews"
+  }
+]
