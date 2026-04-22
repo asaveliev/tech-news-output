@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "47852177",
+    "title": "Framework Laptop 13 Pro",
+    "url": "https://frame.work/laptop13pro",
+    "score": 1195,
+    "descendants": 600,
+    "time": 1776794434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847179",
+    "title": "Laws of Software Engineering",
+    "url": "https://lawsofsoftwareengineering.com",
+    "score": 955,
+    "descendants": 456,
+    "time": 1776769496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47852835",
+    "title": "ChatGPT Images 2.0",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "score": 749,
+    "descendants": 567,
+    "time": 1776797400,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47855293",
+    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+    "url": "https://twitter.com/spacex/status/2046713419978453374",
+    "score": 545,
+    "descendants": 653,
+    "time": 1776809598,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47854477",
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "score": 529,
+    "descendants": 503,
+    "time": 1776805384,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851948",
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "score": 504,
+    "descendants": 376,
+    "time": 1776793239,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47844269",
+    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "url": "https://docs.openclaw.ai/providers/anthropic",
+    "score": 488,
+    "descendants": 278,
+    "time": 1776742983,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847324",
+    "title": "Tim Cook's Impeccable Timing",
+    "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+    "score": 326,
+    "descendants": 393,
+    "time": 1776771003,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851634",
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "score": 304,
+    "descendants": 109,
+    "time": 1776791675,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47844431",
+    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "score": 279,
+    "descendants": 158,
+    "time": 1776744732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851885",
+    "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+    "url": "https://britannica11.org/",
+    "score": 272,
+    "descendants": 98,
+    "time": 1776792830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47848276",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "score": 270,
+    "descendants": 281,
+    "time": 1776776905,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847558",
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "url": "https://vidstudio.app/video-editor",
+    "score": 269,
+    "descendants": 86,
+    "time": 1776772696,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849854",
+    "title": "Original GrapheneOS responses to WIRED fact checker",
+    "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+    "score": 252,
+    "descendants": 205,
+    "time": 1776783864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47843194",
+    "title": "How to make a fast dynamic language interpreter",
+    "url": "https://zef-lang.dev/implementation",
+    "score": 244,
+    "descendants": 55,
+    "time": 1776732487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847124",
+    "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+    "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+    "score": 226,
+    "descendants": 54,
+    "time": 1776769073,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47854051",
+    "title": "I don't want your PRs anymore",
+    "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+    "score": 220,
+    "descendants": 130,
+    "time": 1776802900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47844797",
+    "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
+    "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
+    "score": 219,
+    "descendants": 90,
+    "time": 1776748523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849221",
+    "title": "Brands got worse on purpose",
+    "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
+    "score": 214,
+    "descendants": 165,
+    "time": 1776781189,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47844539",
+    "title": "The Beauty of Bonsai Styles",
+    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "score": 205,
+    "descendants": 37,
+    "time": 1776745890,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47852155",
+    "title": "Cal.diy: open-source community edition of cal.com",
+    "url": "https://github.com/calcom/cal.diy",
+    "score": 190,
+    "descendants": 51,
+    "time": 1776794301,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849097",
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "score": 173,
+    "descendants": 63,
+    "time": 1776780713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851077",
+    "title": "A Periodic Map of Cheese",
+    "url": "https://cheesemap.netlify.app/",
+    "score": 157,
+    "descendants": 73,
+    "time": 1776789081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47846946",
+    "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+    "url": "https://codemix.com/graph",
+    "score": 157,
+    "descendants": 44,
+    "time": 1776767604,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847240",
+    "title": "Smoking ban for people born after 2008 in the UK agreed",
+    "url": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
+    "score": 155,
+    "descendants": 366,
+    "time": 1776770134,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849315",
+    "title": "Fusion Power Plant Simulator",
+    "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+    "score": 146,
+    "descendants": 95,
+    "time": 1776781612,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47845429",
+    "title": "Less human AI agents, please",
+    "url": "https://nial.se/blog/less-human-ai-agents-please/",
+    "score": 143,
+    "descendants": 152,
+    "time": 1776754688,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47844890",
+    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "score": 136,
+    "descendants": 90,
+    "time": 1776749255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47856535",
+    "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+    "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+    "score": 129,
+    "descendants": 84,
+    "time": 1776815625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849592",
+    "title": "As oceans warm, great white sharks are overheating",
+    "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
+    "score": 124,
+    "descendants": 130,
+    "time": 1776782935,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47845231",
+    "title": "Louis Zocchi, games industry pioneer, has died",
+    "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+    "score": 124,
+    "descendants": 53,
+    "time": 1776752355,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47847928",
+    "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
+    "url": "https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/",
+    "score": 114,
+    "descendants": 159,
+    "time": 1776775010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47850212",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "url": "https://www.brex.com/crabtrap",
+    "score": 110,
+    "descendants": 40,
+    "time": 1776785356,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47848195",
+    "title": "Tindie store under \"scheduled maintenance\" for days",
+    "url": "https://www.tindie.com/",
+    "score": 109,
+    "descendants": 62,
+    "time": 1776776520,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47855616",
+    "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion",
+    "score": 108,
+    "descendants": 1,
+    "time": 1776811246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47854125",
+    "title": "California has more money than projected after admin miscalculated state budget",
+    "url": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+    "score": 104,
+    "descendants": 91,
+    "time": 1776803337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47855448",
+    "title": "SpaceX strikes deal with Cursor for $60B",
+    "url": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+    "score": 100,
+    "descendants": 1,
+    "time": 1776810437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851630",
+    "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+    "url": "https://github.com/Arc1011/KernelUNO",
+    "score": 80,
+    "descendants": 15,
+    "time": 1776791666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47845111",
+    "title": "Types and Neural Networks",
+    "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+    "score": 77,
+    "descendants": 25,
+    "time": 1776751193,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47855832",
+    "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
+    "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
+    "score": 70,
+    "descendants": 28,
+    "time": 1776812169,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47849494",
+    "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
+    "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+    "score": 65,
+    "descendants": 34,
+    "time": 1776782496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47848487",
+    "title": "Vera C. Rubin Observatory has Discovered 11,000 New Asteroids",
+    "url": "https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started",
+    "score": 64,
+    "descendants": 10,
+    "time": 1776777874,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47846861",
+    "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+    "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+    "score": 63,
+    "descendants": 2,
+    "time": 1776766789,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47851086",
+    "title": "Meta to start capturing employee mouse movement, keystrokes for AI training data",
+    "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html",
+    "score": 58,
+    "descendants": 4,
+    "time": 1776789146,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47850907",
+    "title": "Show HN: Daemons – we pivoted from building agents to cleaning up after them",
+    "url": "https://charlielabs.ai/",
+    "score": 56,
+    "descendants": 28,
+    "time": 1776788201,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47854116",
+    "title": "Zindex – Diagram Infrastructure for Agents",
+    "url": "https://zindex.ai/",
+    "score": 50,
+    "descendants": 17,
+    "time": 1776803257,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47850542",
+    "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+    "url": "https://github.com/Yus314/kasane",
+    "score": 50,
+    "descendants": 5,
+    "time": 1776786802,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47843569",
+    "title": "Prediction markets are breaking the news and becoming their own beat",
+    "url": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
+    "score": 48,
+    "descendants": 69,
+    "time": 1776735974,
+    "source": "hackernews"
+  }
+]
