@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "47865868",
+    "title": "Alberta startup sells no-tech tractors for half price",
+    "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+    "score": 1690,
+    "descendants": 540,
+    "time": 1776875365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861270",
+    "title": "Windows 9x Subsystem for Linux",
+    "url": "https://social.hails.org/@hailey/116446826733136456",
+    "score": 942,
+    "descendants": 223,
+    "time": 1776851572,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47863217",
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "score": 821,
+    "descendants": 383,
+    "time": 1776863998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866697",
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "score": 653,
+    "descendants": 176,
+    "time": 1776879303,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47868867",
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "score": 553,
+    "descendants": 135,
+    "time": 1776889651,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862331",
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "url": "https://cli.github.com/telemetry",
+    "score": 438,
+    "descendants": 321,
+    "time": 1776859138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862497",
+    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "score": 431,
+    "descendants": 211,
+    "time": 1776860129,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866913",
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "score": 351,
+    "descendants": 200,
+    "time": 1776880277,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862386",
+    "title": "3.4M Solar Panels",
+    "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+    "score": 306,
+    "descendants": 234,
+    "time": 1776859470,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47864393",
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "score": 304,
+    "descendants": 216,
+    "time": 1776869072,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47865661",
+    "title": "Technical, cognitive, and intent debt",
+    "url": "https://martinfowler.com/fragments/2026-04-02.html",
+    "score": 255,
+    "descendants": 64,
+    "time": 1776874283,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47867048",
+    "title": "Website streamed live directly from a model",
+    "url": "https://flipbook.page/",
+    "score": 252,
+    "descendants": 72,
+    "time": 1776880878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861087",
+    "title": "How does GPS work?",
+    "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+    "score": 232,
+    "descendants": 49,
+    "time": 1776849725,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47863324",
+    "title": "Ultraviolet corona discharges on treetops during storms",
+    "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+    "score": 228,
+    "descendants": 64,
+    "time": 1776864520,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47858246",
+    "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+    "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+    "score": 223,
+    "descendants": 153,
+    "time": 1776826180,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47860742",
+    "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+    "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+    "score": 222,
+    "descendants": 169,
+    "time": 1776846797,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47857477",
+    "title": "San Diego rents declined following surge in supply",
+    "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+    "score": 217,
+    "descendants": 228,
+    "time": 1776820869,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866750",
+    "title": "Parallel agents in Zed",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "score": 217,
+    "descendants": 120,
+    "time": 1776879537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47865622",
+    "title": "Youth Suicides Declined After Creation of National Hotline",
+    "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+    "score": 214,
+    "descendants": 137,
+    "time": 1776874076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47859861",
+    "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+    "score": 209,
+    "descendants": 205,
+    "time": 1776839885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47867755",
+    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+    "score": 195,
+    "descendants": 265,
+    "time": 1776884240,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47864454",
+    "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+    "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+    "score": 152,
+    "descendants": 49,
+    "time": 1776869342,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861703",
+    "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+    "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+    "score": 136,
+    "descendants": 90,
+    "time": 1776855069,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866860",
+    "title": "Workspace Agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "score": 132,
+    "descendants": 50,
+    "time": 1776880027,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47860682",
+    "title": "You don't need advice from editors on rejected manuscripts",
+    "url": "https://twitter.com/orsonscottcard/status/2046702294406680751",
+    "score": 126,
+    "descendants": 73,
+    "time": 1776846332,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861731",
+    "title": "Nobody got fired for Uber's $8M ledger mistake?",
+    "url": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+    "score": 123,
+    "descendants": 81,
+    "time": 1776855289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47864785",
+    "title": "Ping-pong robot beats top-level human players",
+    "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+    "score": 115,
+    "descendants": 126,
+    "time": 1776870828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862230",
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "url": "https://lwn.net/Articles/1068928/",
+    "score": 112,
+    "descendants": 96,
+    "time": 1776858487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866395",
+    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+    "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+    "score": 112,
+    "descendants": 47,
+    "time": 1776877999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47860961",
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "score": 111,
+    "descendants": 87,
+    "time": 1776848566,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862626",
+    "title": "Columnar Storage Is Normalization",
+    "url": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+    "score": 110,
+    "descendants": 37,
+    "time": 1776861014,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47857509",
+    "title": "Global growth in solar \"the largest ever observed for any source\"",
+    "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+    "score": 104,
+    "descendants": 39,
+    "time": 1776821104,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47865523",
+    "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
+    "url": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013",
+    "score": 100,
+    "descendants": 55,
+    "time": 1776873601,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47868063",
+    "title": "New study compares growing corn for energy to solar production",
+    "url": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
+    "score": 87,
+    "descendants": 134,
+    "time": 1776885706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47864808",
+    "title": "Top MAGA influencer revealed to be AI",
+    "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
+    "score": 84,
+    "descendants": 46,
+    "time": 1776870904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866293",
+    "title": "Google Cloud customer wakes up to $18,000 bill despite $7 budget",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-customer-wakes-up-to-usd18-000-bill-despite-usd7-budget-thanks-to-forgotten-public-api-key-attacker-put-in-60-000-requests-and-blasted-through-usd1-400-spending-cap",
+    "score": 76,
+    "descendants": 56,
+    "time": 1776877511,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861881",
+    "title": "Iran claims US exploited networking equipment backdoors during strikes",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/iran-claims-us-exploited-networking-equipment-backdoors-during-strikes",
+    "score": 73,
+    "descendants": 39,
+    "time": 1776856249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47862608",
+    "title": "The eighth-generation TPU: An architecture deep dive",
+    "url": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
+    "score": 67,
+    "descendants": 10,
+    "time": 1776860880,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47866368",
+    "title": "Anker made its own chip to bring AI to all its products",
+    "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "score": 66,
+    "descendants": 44,
+    "time": 1776877846,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47867579",
+    "title": "Maryland to become first state to ban 'dynamic pricing' in grocery stores",
+    "url": "https://www.yahoo.com/news/articles/maryland-become-first-state-ban-150854726.html",
+    "score": 60,
+    "descendants": 11,
+    "time": 1776883379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47865642",
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "url": "https://github.com/besimple-oss/broccoli",
+    "score": 58,
+    "descendants": 39,
+    "time": 1776874196,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47861988",
+    "title": "CDC blocks study showing Covid shots cut hospital visits after earlier delay",
+    "url": "https://www.washingtonpost.com/health/2026/04/22/covid-vaccine-report-blocked-cdc-mmwr/",
+    "score": 57,
+    "descendants": 1,
+    "time": 1776856908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47870108",
+    "title": "Bring your own Agent to MS Teams",
+    "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+    "score": 56,
+    "descendants": 42,
+    "time": 1776896728,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47857964",
+    "title": "Kuri – Zig based agent-browser alternative",
+    "url": "https://github.com/justrach/kuri",
+    "score": 55,
+    "descendants": 7,
+    "time": 1776824138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47868832",
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "score": 54,
+    "descendants": 18,
+    "time": 1776889445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47868991",
+    "title": "US saw record high of 5,668 books banned in libraries in 2025, says agency",
+    "url": "https://www.theguardian.com/us-news/2026/apr/22/us-libraries-banned-books",
+    "score": 53,
+    "descendants": 35,
+    "time": 1776890241,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47858165",
+    "title": "Southern Poverty Law Center indicted for fraud, money laundering",
+    "url": "https://www.politico.com/news/2026/04/21/southern-poverty-law-center-justice-department-investigation-00885376",
+    "score": 51,
+    "descendants": 50,
+    "time": 1776825549,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47859442",
+    "title": "What Async Promised and What It Delivered",
+    "url": "https://causality.blog/essays/what-async-promised/",
+    "score": 51,
+    "descendants": 29,
+    "time": 1776835738,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47869496",
+    "title": "The Neon King of New Orleans",
+    "url": "https://gardenandgun.com/new-orleans-neon-king",
+    "score": 51,
+    "descendants": 8,
+    "time": 1776893198,
+    "source": "hackernews"
+  }
+]
