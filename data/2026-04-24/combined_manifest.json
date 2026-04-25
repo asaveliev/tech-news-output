@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "47884971",
+    "title": "DeepSeek v4",
+    "url": "https://api-docs.deepseek.com/news/news260424",
+    "score": 1884,
+    "descendants": 1468,
+    "time": 1776999681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892019",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "score": 863,
+    "descendants": 505,
+    "time": 1777046359,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892074",
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "score": 543,
+    "descendants": 529,
+    "time": 1777046681,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47890799",
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "score": 412,
+    "descendants": 106,
+    "time": 1777040932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47891019",
+    "title": "Norway set to become latest country to ban social media for under 16s",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+    "score": 387,
+    "descendants": 447,
+    "time": 1777041910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888372",
+    "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+    "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+    "score": 342,
+    "descendants": 314,
+    "time": 1777027694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47887334",
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "url": "https://github.com/matz/spinel",
+    "score": 322,
+    "descendants": 86,
+    "time": 1777019327,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885596",
+    "title": "Ubuntu 26.04",
+    "url": "https://lwn.net/Articles/1069399/",
+    "score": 312,
+    "descendants": 244,
+    "time": 1777005517,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47884768",
+    "title": "Why I Write (1946)",
+    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+    "score": 277,
+    "descendants": 76,
+    "time": 1776997583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885377",
+    "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+    "url": "https://www.nature.com/articles/s41467-026-71264-8",
+    "score": 254,
+    "descendants": 244,
+    "time": 1777003482,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892291",
+    "title": "SDL Now Supports DOS",
+    "url": "https://github.com/libsdl-org/SDL/pull/15377",
+    "score": 249,
+    "descendants": 101,
+    "time": 1777047615,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47886517",
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "url": "https://ynarwal.github.io/how-llms-work/",
+    "score": 235,
+    "descendants": 53,
+    "time": 1777013333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47894000",
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "score": 233,
+    "descendants": 127,
+    "time": 1777055012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47894747",
+    "title": "My audio interface has SSH enabled by default",
+    "url": "https://hhh.hn/rodecaster-duo-fw/",
+    "score": 227,
+    "descendants": 76,
+    "time": 1777059046,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47887683",
+    "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+    "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+    "score": 223,
+    "descendants": 149,
+    "time": 1777022277,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47895080",
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "score": 208,
+    "descendants": 7,
+    "time": 1777060830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47893779",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 207,
+    "descendants": 84,
+    "time": 1777053965,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47894435",
+    "title": "The Classic American Diner",
+    "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+    "score": 206,
+    "descendants": 127,
+    "time": 1777057269,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888465",
+    "title": "Hear your agent suffer through your code",
+    "url": "https://github.com/AndrewVos/endless-toil",
+    "score": 187,
+    "descendants": 84,
+    "time": 1777028325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888557",
+    "title": "UK Biobank leak: Health details of 500k people offered for sale on Alibaba",
+    "url": "https://www.bmj.com/content/393/bmj.s781",
+    "score": 186,
+    "descendants": 79,
+    "time": 1777028976,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47891801",
+    "title": "I'm done making desktop applications (2009)",
+    "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+    "score": 167,
+    "descendants": 183,
+    "time": 1777045443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885014",
+    "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "score": 158,
+    "descendants": 18,
+    "time": 1777000074,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47893060",
+    "title": "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
+    "url": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+    "score": 154,
+    "descendants": 57,
+    "time": 1777050684,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47891872",
+    "title": "Refuse to let your doctor record you",
+    "url": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
+    "score": 153,
+    "descendants": 198,
+    "time": 1777045696,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885739",
+    "title": "Why Not Venus?",
+    "url": "https://mceglowski.substack.com/p/why-not-venus",
+    "score": 142,
+    "descendants": 86,
+    "time": 1777006870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47894081",
+    "title": "SFO Quiet Airport (2025)",
+    "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+    "score": 142,
+    "descendants": 84,
+    "time": 1777055393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47895765",
+    "title": "Google Flow Music",
+    "url": "https://www.flowmusic.app/",
+    "score": 128,
+    "descendants": 125,
+    "time": 1777064510,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47889279",
+    "title": "The operating cost of adult and gambling startups",
+    "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
+    "score": 121,
+    "descendants": 193,
+    "time": 1777033638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47889030",
+    "title": "Aspartame is not that bad? (2022)",
+    "url": "https://dynomight.net/aspartame/",
+    "score": 118,
+    "descendants": 244,
+    "time": 1777031919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47886773",
+    "title": "Composition shouldn't be this hard",
+    "url": "https://www.cambra.dev/blog/announcement/",
+    "score": 118,
+    "descendants": 73,
+    "time": 1777015351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888124",
+    "title": "Mounting tar archives as a filesystem in WebAssembly",
+    "url": "https://jeroen.github.io/notes/webassembly-tar/",
+    "score": 118,
+    "descendants": 38,
+    "time": 1777025606,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47886272",
+    "title": "Show HN: Gova – The declarative GUI framework for Go",
+    "url": "https://github.com/NV404/gova",
+    "score": 118,
+    "descendants": 26,
+    "time": 1777011407,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892236",
+    "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+    "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+    "score": 113,
+    "descendants": 41,
+    "time": 1777047409,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47896163",
+    "title": "Show HN: I've built a nice home server OS",
+    "url": "https://lightwhale.asklandd.dk/",
+    "score": 110,
+    "descendants": 45,
+    "time": 1777066946,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47895380",
+    "title": "Do I belong in tech anymore?",
+    "url": "https://ky.fyi/posts/ai-burnout",
+    "score": 103,
+    "descendants": 73,
+    "time": 1777062684,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888337",
+    "title": "nowhere: an entire website encoded in a URL",
+    "url": "https://hostednowhere.com/",
+    "score": 102,
+    "descendants": 63,
+    "time": 1777027449,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885668",
+    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+    "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+    "score": 100,
+    "descendants": 58,
+    "time": 1777006134,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47885042",
+    "title": "A quick look at Mythos run on Firefox: too much hype?",
+    "url": "https://xark.es/b/mythos-firefox-150",
+    "score": 99,
+    "descendants": 36,
+    "time": 1777000350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47890841",
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "url": "https://github.com/browser-use/browser-harness",
+    "score": 97,
+    "descendants": 50,
+    "time": 1777041098,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47890873",
+    "title": "Different language models learn similar number representations",
+    "url": "https://arxiv.org/abs/2604.20817",
+    "score": 95,
+    "descendants": 38,
+    "time": 1777041263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47894690",
+    "title": "Could a Claude Code routine watch my finances?",
+    "url": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
+    "score": 77,
+    "descendants": 98,
+    "time": 1777058715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892765",
+    "title": "Tesla discloses $2B AI hardware company acquisition in filing",
+    "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+    "score": 75,
+    "descendants": 47,
+    "time": 1777049506,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47893427",
+    "title": "CSS as a Query Language",
+    "url": "https://evdc.me/blog/css-query",
+    "score": 70,
+    "descendants": 24,
+    "time": 1777052377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47888694",
+    "title": "8087 Emulation on 8086 Systems",
+    "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
+    "score": 66,
+    "descendants": 31,
+    "time": 1777030034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47890456",
+    "title": "ML supports existence of unrecognized transient astronomical phenomena",
+    "url": "https://arxiv.org/abs/2604.18799",
+    "score": 65,
+    "descendants": 53,
+    "time": 1777039303,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47892660",
+    "title": "Redesigning the Recurse Center application to inspire curious programmers",
+    "url": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+    "score": 65,
+    "descendants": 10,
+    "time": 1777049110,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47889110",
+    "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+    "url": "https://atomicapp.ai/",
+    "score": 58,
+    "descendants": 41,
+    "time": 1777032450,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47884225",
+    "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
+    "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
+    "score": 57,
+    "descendants": 10,
+    "time": 1776992225,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47893620",
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "url": "https://github.com/delta-hq/cc-canary",
+    "score": 53,
+    "descendants": 24,
+    "time": 1777053217,
+    "source": "hackernews"
+  }
+]
