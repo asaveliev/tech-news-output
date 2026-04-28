@@ -1,0 +1,462 @@
+[
+  {
+    "hn_id": "47921248",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "score": 857,
+    "descendants": 729,
+    "time": 1777296162,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47923357",
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "score": 633,
+    "descendants": 466,
+    "time": 1777305788,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47920074",
+    "title": "Men who stare at walls",
+    "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "score": 553,
+    "descendants": 247,
+    "time": 1777288106,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919630",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "score": 513,
+    "descendants": 183,
+    "time": 1777283830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47926861",
+    "title": "Is my blue your blue?",
+    "url": "https://ismy.blue/",
+    "score": 492,
+    "descendants": 335,
+    "time": 1777321473,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919997",
+    "title": "Pgbackrest is no longer being maintained",
+    "url": "https://github.com/pgbackrest/pgbackrest",
+    "score": 417,
+    "descendants": 220,
+    "time": 1777287394,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47920315",
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+    "score": 367,
+    "descendants": 265,
+    "time": 1777290239,
+    "source": "hackernews"
+  },
+  {
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/?utm_medium=tr_social&amp;utm_source=reddit&amp;utm_campaign=site_visitor.unpaid.engagement",
+    "reddit_id": "1sx3dtu",
+    "score": 346,
+    "num_comments": 85,
+    "date": "2026-04-27T13:16:01",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47920787",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "url": "https://github.com/dirac-run/dirac",
+    "score": 337,
+    "descendants": 125,
+    "time": 1777293355,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47922712",
+    "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+    "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+    "score": 327,
+    "descendants": 136,
+    "time": 1777302761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47924775",
+    "title": "GitHub is having issues now",
+    "url": "https://www.githubstatus.com",
+    "score": 314,
+    "descendants": 114,
+    "time": 1777311739,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47927903",
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 311,
+    "descendants": 106,
+    "time": 1777326948,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919240",
+    "title": "Quarkdown – Markdown with Superpowers",
+    "url": "https://quarkdown.com/",
+    "score": 301,
+    "descendants": 108,
+    "time": 1777280097,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47928828",
+    "title": "To my students",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "score": 286,
+    "descendants": 180,
+    "time": 1777334259,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47924877",
+    "title": "Super ZSNES – GPU Powered SNES Emulator",
+    "url": "https://zsnes.com/",
+    "score": 286,
+    "descendants": 85,
+    "time": 1777312210,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47916890",
+    "title": "TurboQuant: A first-principles walkthrough",
+    "url": "https://arkaung.github.io/interactive-turboquant/",
+    "score": 286,
+    "descendants": 58,
+    "time": 1777254872,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47922079",
+    "title": "“Why not just use Lean?”",
+    "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+    "score": 280,
+    "descendants": 194,
+    "time": 1777299893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47917026",
+    "title": "The Prompt API",
+    "url": "https://developer.chrome.com/docs/ai/prompt-api",
+    "score": 261,
+    "descendants": 135,
+    "time": 1777256338,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47922940",
+    "title": "US Supreme Court reviews police use of cell location data",
+    "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+    "score": 239,
+    "descendants": 143,
+    "time": 1777303781,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919733",
+    "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "score": 238,
+    "descendants": 87,
+    "time": 1777284917,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47923010",
+    "title": "Networking changes coming in macOS 27",
+    "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "score": 225,
+    "descendants": 196,
+    "time": 1777304172,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47925425",
+    "title": "United Wizards of the Coast",
+    "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+    "score": 224,
+    "descendants": 207,
+    "time": 1777314870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919725",
+    "title": "Mistral built a $14B AI empire by not being American",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "score": 213,
+    "descendants": 166,
+    "time": 1777284855,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47922957",
+    "title": "The woes of sanitizing SVGs",
+    "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+    "score": 211,
+    "descendants": 89,
+    "time": 1777303896,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47924813",
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "url": "https://github.com/Hanqaqa/Easyduino",
+    "score": 203,
+    "descendants": 31,
+    "time": 1777311902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47918961",
+    "title": "It's OK to abandon your side-project (2024)",
+    "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "score": 184,
+    "descendants": 86,
+    "time": 1777277476,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47927070",
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "score": 151,
+    "descendants": 69,
+    "time": 1777322656,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47923121",
+    "title": "Supreme Court to hear arguments in landmark Roundup weedkiller case",
+    "url": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
+    "score": 140,
+    "descendants": 184,
+    "time": 1777304713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47924188",
+    "title": "Canada's first sovereign wealth fund",
+    "url": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238",
+    "score": 140,
+    "descendants": 99,
+    "time": 1777309081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47926259",
+    "title": "U.S. companies back Sam Altman's World ID even as much of the world pushes back",
+    "url": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/",
+    "score": 139,
+    "descendants": 93,
+    "time": 1777318537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47918657",
+    "title": "A mushroom that makes people have the exact same hallucination",
+    "url": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+    "score": 124,
+    "descendants": 81,
+    "time": 1777274477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47927526",
+    "title": "NPM website was down",
+    "url": "https://status.npmjs.org",
+    "score": 123,
+    "descendants": 56,
+    "time": 1777325185,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921064",
+    "title": "Running local LLMs offline on a ten-hour flight",
+    "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+    "score": 119,
+    "descendants": 94,
+    "time": 1777295159,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47916410",
+    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+    "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+    "score": 107,
+    "descendants": 112,
+    "time": 1777250070,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47916909",
+    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "url": "https://github.com/evanklem/evanflow",
+    "score": 106,
+    "descendants": 55,
+    "time": 1777254999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47920973",
+    "title": "Windows 11's second-chance setup dialogs hurt IT, drain productivity",
+    "url": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
+    "score": 103,
+    "descendants": 71,
+    "time": 1777294539,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921626",
+    "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+    "url": "https://www.systalyze.com/utilyze",
+    "score": 96,
+    "descendants": 23,
+    "time": 1777298143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921130",
+    "title": "Tim Cook Is Leaving. Good",
+    "url": "https://routerjockey.com/tim-cook-is-leaving-good/",
+    "score": 94,
+    "descendants": 196,
+    "time": 1777295491,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47920289",
+    "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+    "url": "https://github.com/garritfra/cell",
+    "score": 93,
+    "descendants": 45,
+    "time": 1777289989,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47928554",
+    "title": "Integrated by Design",
+    "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+    "score": 92,
+    "descendants": 40,
+    "time": 1777331666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47916964",
+    "title": "Notepad++ for Mac – Independent community port",
+    "url": "https://notepad-plus-plus-mac.org/",
+    "score": 87,
+    "descendants": 80,
+    "time": 1777255593,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47918009",
+    "title": "AI can cost more than human workers now",
+    "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+    "score": 87,
+    "descendants": 58,
+    "time": 1777267719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47926480",
+    "title": "L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility",
+    "url": "https://github.com/duane1024/l123",
+    "score": 83,
+    "descendants": 18,
+    "time": 1777319609,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47925679",
+    "title": "Our principles",
+    "url": "https://openai.com/index/our-principles/",
+    "score": 82,
+    "descendants": 101,
+    "time": 1777316106,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921377",
+    "title": "Tendril – a self-extending agent that builds and registers its own tools",
+    "url": "https://github.com/serverless-dna/tendril",
+    "score": 77,
+    "descendants": 32,
+    "time": 1777296888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47917411",
+    "title": "Framework's new Linux laptop is selling faster than its Windows one",
+    "url": "https://www.pcworld.com/article/3123900/framework-new-linux-laptop-is-selling-faster-than-its-windows-one.html",
+    "score": 75,
+    "descendants": 43,
+    "time": 1777260364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47919386",
+    "title": "Moleskine's AI Lord of the Rings collection can only mock",
+    "url": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+    "score": 73,
+    "descendants": 98,
+    "time": 1777281546,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47922518",
+    "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+    "score": 70,
+    "descendants": 28,
+    "time": 1777301928,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921262",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "score": 70,
+    "descendants": 1,
+    "time": 1777296255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47928088",
+    "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
+    "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
+    "score": 63,
+    "descendants": 31,
+    "time": 1777327997,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47921151",
+    "title": "Silicon Valley has forgotten what normal people want",
+    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+    "score": 59,
+    "descendants": 40,
+    "time": 1777295616,
+    "source": "hackernews"
+  }
+]
