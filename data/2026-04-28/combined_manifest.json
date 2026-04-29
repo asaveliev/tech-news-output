@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "47939579",
+    "title": "Ghostty is leaving GitHub",
+    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "score": 2382,
+    "descendants": 706,
+    "time": 1777405492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47935853",
+    "title": "Your phone is about to stop being yours",
+    "url": "https://keepandroidopen.org/en/",
+    "score": 1282,
+    "descendants": 585,
+    "time": 1777389660,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47933208",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "score": 809,
+    "descendants": 248,
+    "time": 1777377260,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47940921",
+    "title": "Before GitHub",
+    "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "score": 420,
+    "descendants": 120,
+    "time": 1777411060,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47933983",
+    "title": "UAE to leave OPEC",
+    "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+    "score": 402,
+    "descendants": 539,
+    "time": 1777381321,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932422",
+    "title": "An update on GitHub availability",
+    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+    "score": 367,
+    "descendants": 228,
+    "time": 1777370703,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932937",
+    "title": "Who owns the code Claude Code wrote?",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "score": 360,
+    "descendants": 363,
+    "time": 1777375492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47931035",
+    "title": "GTFOBins",
+    "url": "https://gtfobins.org/",
+    "score": 353,
+    "descendants": 88,
+    "time": 1777357659,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47933236",
+    "title": "VibeVoice: Open-source frontier voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "score": 349,
+    "descendants": 169,
+    "time": 1777377364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932990",
+    "title": "Period tracking app, Flo, found to be selling user data to Meta",
+    "url": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+    "score": 348,
+    "descendants": 231,
+    "time": 1777375900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936479",
+    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+    "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "score": 327,
+    "descendants": 74,
+    "time": 1777392943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47934120",
+    "title": "UAE Leaves OPEC",
+    "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+    "score": 318,
+    "descendants": 2,
+    "time": 1777382034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936156",
+    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "score": 289,
+    "descendants": 264,
+    "time": 1777391362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47942437",
+    "title": "How ChatGPT serves ads",
+    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "score": 286,
+    "descendants": 196,
+    "time": 1777420454,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47938097",
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "score": 282,
+    "descendants": 244,
+    "time": 1777399281,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47934269",
+    "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+    "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+    "score": 280,
+    "descendants": 107,
+    "time": 1777382786,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932028",
+    "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+    "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+    "score": 273,
+    "descendants": 186,
+    "time": 1777366865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47938184",
+    "title": "Waymo in Portland",
+    "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+    "score": 267,
+    "descendants": 472,
+    "time": 1777399693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936370",
+    "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+    "score": 248,
+    "descendants": 198,
+    "time": 1777392478,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47939320",
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "score": 243,
+    "descendants": 81,
+    "time": 1777404283,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936264",
+    "title": "Warp is now open-source",
+    "url": "https://www.warp.dev/blog/warp-is-now-open-source",
+    "score": 242,
+    "descendants": 69,
+    "time": 1777391910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47929035",
+    "title": "High Performance Git",
+    "url": "https://gitperf.com/",
+    "score": 237,
+    "descendants": 81,
+    "time": 1777336324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47937349",
+    "title": "Warp is now open-source",
+    "url": "https://github.com/warpdotdev/warp",
+    "score": 231,
+    "descendants": 157,
+    "time": 1777396181,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47933257",
+    "title": "GitHub Actions is the weakest link",
+    "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+    "score": 227,
+    "descendants": 78,
+    "time": 1777377494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936210",
+    "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+    "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+    "score": 217,
+    "descendants": 146,
+    "time": 1777391661,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47940271",
+    "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
+    "url": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
+    "score": 217,
+    "descendants": 72,
+    "time": 1777408235,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936867",
+    "title": "AI's economics don't make sense",
+    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "score": 212,
+    "descendants": 171,
+    "time": 1777394393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47942492",
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "score": 203,
+    "descendants": 101,
+    "time": 1777420797,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47938756",
+    "title": "Bankruptcies increase 11.9 percent",
+    "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+    "score": 182,
+    "descendants": 113,
+    "time": 1777402029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47934261",
+    "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+    "url": "https://www.lumara-space.app/",
+    "score": 176,
+    "descendants": 60,
+    "time": 1777382748,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936347",
+    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "score": 170,
+    "descendants": 110,
+    "time": 1777392361,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47930493",
+    "title": "WASM is not quite a stack machine",
+    "url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+    "score": 166,
+    "descendants": 43,
+    "time": 1777350869,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936616",
+    "title": "Greece to ban anonymity on social media",
+    "url": "https://www.euractiv.com/news/greece-to-ban-anonymity-on-social-media/",
+    "score": 151,
+    "descendants": 72,
+    "time": 1777393440,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47940389",
+    "title": "I won a championship that doesn't exist",
+    "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+    "score": 144,
+    "descendants": 79,
+    "time": 1777408701,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47938417",
+    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+    "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "score": 119,
+    "descendants": 40,
+    "time": 1777400813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47939105",
+    "title": "CJIT: C, Just in Time",
+    "url": "https://dyne.org/cjit/",
+    "score": 117,
+    "descendants": 30,
+    "time": 1777403414,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47941590",
+    "title": "Carrot Disclosure: Forgejo",
+    "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "score": 114,
+    "descendants": 40,
+    "time": 1777414469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47942386",
+    "title": "Claude for Creative Work",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "score": 113,
+    "descendants": 83,
+    "time": 1777420016,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47937380",
+    "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+    "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+    "score": 110,
+    "descendants": 23,
+    "time": 1777396350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936312",
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "url": "https://github.com/trycua/cua",
+    "score": 98,
+    "descendants": 28,
+    "time": 1777392214,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936511",
+    "title": "Laguna XS.2 and M.1",
+    "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
+    "score": 92,
+    "descendants": 46,
+    "time": 1777393075,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47936236",
+    "title": "After Spain's blackout, its shift to renewables and grid evolution power on",
+    "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
+    "score": 89,
+    "descendants": 38,
+    "time": 1777391755,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932977",
+    "title": "New gas-powered data centers could emit more greenhouse gases than whole nations",
+    "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+    "score": 85,
+    "descendants": 134,
+    "time": 1777375770,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47929510",
+    "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+    "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+    "score": 83,
+    "descendants": 19,
+    "time": 1777340052,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47939079",
+    "title": "A playable DOOM MCP app",
+    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "score": 82,
+    "descendants": 31,
+    "time": 1777403327,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47929454",
+    "title": "I quit drinking for a year",
+    "url": "https://dynomight.net/drinking/",
+    "score": 81,
+    "descendants": 105,
+    "time": 1777339563,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47930738",
+    "title": "Vibe coding will break your company",
+    "url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
+    "score": 80,
+    "descendants": 84,
+    "time": 1777354534,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47931068",
+    "title": "BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
+    "url": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
+    "score": 79,
+    "descendants": 123,
+    "time": 1777357973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47937641",
+    "title": "BookStack Moves from GitHub to Codeberg",
+    "url": "https://github.com/BookStackApp/BookStack/issues/4551",
+    "score": 79,
+    "descendants": 13,
+    "time": 1777397351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47932446",
+    "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
+    "url": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
+    "score": 73,
+    "descendants": 86,
+    "time": 1777370918,
+    "source": "hackernews"
+  }
+]
