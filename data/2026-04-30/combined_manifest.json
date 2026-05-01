@@ -1,0 +1,453 @@
+[
+  {
+    "hn_id": "47963204",
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "score": 1118,
+    "descendants": 608,
+    "time": 1777559818,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957688",
+    "title": "Where the goblins came from",
+    "url": "https://openai.com/index/where-the-goblins-came-from/",
+    "score": 1029,
+    "descendants": 631,
+    "time": 1777519264,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47961319",
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "score": 800,
+    "descendants": 801,
+    "time": 1777551434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957294",
+    "title": "The Zig project's rationale for their anti-AI contribution policy",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "score": 652,
+    "descendants": 433,
+    "time": 1777515347,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47959463",
+    "title": "Mozilla's opposition to Chrome's Prompt API",
+    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+    "score": 613,
+    "descendants": 221,
+    "time": 1777535035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967786",
+    "title": "Can I disable all data collection from my vehicle?",
+    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "score": 609,
+    "descendants": 246,
+    "time": 1777580842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47965060",
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "score": 566,
+    "descendants": 187,
+    "time": 1777567260,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47961838",
+    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+    "score": 493,
+    "descendants": 397,
+    "time": 1777554462,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47964034",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "score": 476,
+    "descendants": 187,
+    "time": 1777563100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47965108",
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "score": 469,
+    "descendants": 357,
+    "time": 1777567427,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967262",
+    "title": "LinkedIn is scanning browser extensions",
+    "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+    "score": 419,
+    "descendants": 189,
+    "time": 1777578020,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47962548",
+    "title": "How an oil refinery works",
+    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "score": 405,
+    "descendants": 122,
+    "time": 1777557260,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47964617",
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "score": 387,
+    "descendants": 131,
+    "time": 1777565366,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957101",
+    "title": "Craig Venter has died",
+    "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "score": 331,
+    "descendants": 81,
+    "time": 1777513496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967289",
+    "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+    "url": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+    "score": 295,
+    "descendants": 97,
+    "time": 1777578153,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47961004",
+    "title": "GCC 16 has been released",
+    "url": "https://gcc.gnu.org/gcc-16/changes.html",
+    "score": 292,
+    "descendants": 51,
+    "time": 1777549213,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47960507",
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "score": 288,
+    "descendants": 182,
+    "time": 1777545077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47961378",
+    "title": "I aggregated 28 US Government auction sites into one search",
+    "url": "https://bidprowl.com",
+    "score": 274,
+    "descendants": 77,
+    "time": 1777551893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47965503",
+    "title": "I built a Game Boy emulator in F#",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "score": 265,
+    "descendants": 59,
+    "time": 1777569261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47963316",
+    "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
+    "url": "https://honker.dev/",
+    "score": 211,
+    "descendants": 53,
+    "time": 1777560182,
+    "source": "hackernews"
+  },
+  {
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/?utm_medium=tr_social&amp;utm_source=reddit&amp;utm_campaign=site_visitor.unpaid.engagement",
+    "reddit_id": "1t010lw",
+    "score": 201,
+    "num_comments": 22,
+    "date": "2026-04-30T16:17:56",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "47956739",
+    "title": "Mike: open-source legal AI",
+    "url": "https://mikeoss.com/",
+    "score": 198,
+    "descendants": 97,
+    "time": 1777510583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957714",
+    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+    "url": "https://burrito.bio/essays/biology-is-a-burrito",
+    "score": 198,
+    "descendants": 28,
+    "time": 1777519481,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957627",
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "score": 191,
+    "descendants": 154,
+    "time": 1777518711,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957624",
+    "title": "Functional programmers need to take a look at Zig",
+    "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+    "score": 189,
+    "descendants": 138,
+    "time": 1777518693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967508",
+    "title": "Vercel’s pricing page",
+    "url": "https://theupsellgame.com/",
+    "score": 171,
+    "descendants": 51,
+    "time": 1777579355,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47961804",
+    "title": "U.S. Debt Tops 100% of GDP",
+    "url": "https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7",
+    "score": 162,
+    "descendants": 216,
+    "time": 1777554249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47959513",
+    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "url": "https://datacenter.fm/",
+    "score": 136,
+    "descendants": 28,
+    "time": 1777535532,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47962386",
+    "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
+    "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+    "score": 129,
+    "descendants": 81,
+    "time": 1777556710,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47966254",
+    "title": "Full-Text Search with DuckDB",
+    "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "score": 125,
+    "descendants": 30,
+    "time": 1777572858,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47966625",
+    "title": "Does Postgres Scale?",
+    "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+    "score": 123,
+    "descendants": 57,
+    "time": 1777574722,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47963163",
+    "title": "The More Young People Use AI, the More They Hate It",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "score": 118,
+    "descendants": 134,
+    "time": 1777559676,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47956895",
+    "title": "Claude.ai and API unavailable [fixed]",
+    "url": "https://status.claude.com/incidents/2gf1jpyty350",
+    "score": 118,
+    "descendants": 120,
+    "time": 1777512063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47960953",
+    "title": "For the first time in history, more Americans are moving to EU than vice versa",
+    "url": "https://twitter.com/benbawan/status/2049303326999609846",
+    "score": 111,
+    "descendants": 149,
+    "time": 1777548687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47965027",
+    "title": "American Dads Became the Parents Their Fathers Never Were",
+    "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
+    "score": 104,
+    "descendants": 120,
+    "time": 1777567094,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47958106",
+    "title": "Monad Tutorials Timeline",
+    "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+    "score": 97,
+    "descendants": 49,
+    "time": 1777523287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47963499",
+    "title": "Japan is building cardboard suicide drones",
+    "url": "https://www.404media.co/japan-cardboard-drones-air-kamuy/",
+    "score": 92,
+    "descendants": 68,
+    "time": 1777560936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47969288",
+    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "score": 91,
+    "descendants": 31,
+    "time": 1777589331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47963868",
+    "title": "A 1960s art school experiment that redefined creativity",
+    "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+    "score": 91,
+    "descendants": 29,
+    "time": 1777562449,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967863",
+    "title": "Apple reports second quarter results",
+    "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+    "score": 88,
+    "descendants": 94,
+    "time": 1777581228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47956781",
+    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+    "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "score": 87,
+    "descendants": 235,
+    "time": 1777510915,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47958942",
+    "title": "Will you heed my warnings now?",
+    "url": "https://scottaaronson.blog/?p=9718",
+    "score": 84,
+    "descendants": 100,
+    "time": 1777530630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957494",
+    "title": "Microsoft open sources DOS 1.00 on 45th anniversary",
+    "url": "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/",
+    "score": 77,
+    "descendants": 18,
+    "time": 1777517577,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47968982",
+    "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+    "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+    "score": 76,
+    "descendants": 21,
+    "time": 1777587537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47968112",
+    "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+    "url": "https://pu.dev/",
+    "score": 75,
+    "descendants": 21,
+    "time": 1777582512,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47964996",
+    "title": "Largest Digital Human Rights Conference Suddenly Canceled",
+    "url": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
+    "score": 74,
+    "descendants": 15,
+    "time": 1777566958,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957199",
+    "title": "Zulip 12.0 Released",
+    "url": "https://blog.zulip.com/2026/04/27/zulip-12-0-released/",
+    "score": 70,
+    "descendants": 9,
+    "time": 1777514451,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47957484",
+    "title": "Warm Burnout: editor and terminal color scheme",
+    "url": "https://warmburnout.com/",
+    "score": 69,
+    "descendants": 4,
+    "time": 1777517490,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47963026",
+    "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+    "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
+    "score": 68,
+    "descendants": 42,
+    "time": 1777559198,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "47967069",
+    "title": "Follow-up to Carrot disclosure: Forgejo",
+    "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+    "score": 68,
+    "descendants": 11,
+    "time": 1777576975,
+    "source": "hackernews"
+  }
+]
