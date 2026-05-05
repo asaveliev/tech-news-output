@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "48007438",
+    "title": "Talking to strangers at the gym",
+    "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "score": 1316,
+    "descendants": 624,
+    "time": 1777894862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48006402",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+    "score": 672,
+    "descendants": 643,
+    "time": 1777887072,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48006445",
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+    "score": 605,
+    "descendants": 280,
+    "time": 1777887606,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009697",
+    "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+    "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+    "score": 555,
+    "descendants": 503,
+    "time": 1777907441,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48012735",
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "score": 517,
+    "descendants": 183,
+    "time": 1777918962,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011689",
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "score": 477,
+    "descendants": 155,
+    "time": 1777914996,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011184",
+    "title": "I am worried about Bun",
+    "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "score": 475,
+    "descendants": 314,
+    "time": 1777913100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48010301",
+    "title": "Incident with Issues and Webhooks – Resolved",
+    "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+    "score": 421,
+    "descendants": 259,
+    "time": 1777910001,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48013919",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "score": 388,
+    "descendants": 122,
+    "time": 1777923767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48012022",
+    "title": "Days without GitHub incidents",
+    "url": "https://www.dayswithoutgithubincident.com/",
+    "score": 371,
+    "descendants": 155,
+    "time": 1777916192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009020",
+    "title": "How Monero’s proof of work works",
+    "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+    "score": 279,
+    "descendants": 195,
+    "time": 1777903850,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009983",
+    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "url": "https://www.nber.org/papers/w35117",
+    "score": 274,
+    "descendants": 253,
+    "time": 1777908766,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009172",
+    "title": "Redis array: short story of a long development process",
+    "url": "https://antirez.com/news/164",
+    "score": 273,
+    "descendants": 89,
+    "time": 1777904587,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48008083",
+    "title": "PyInfra 3.8.0",
+    "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "score": 266,
+    "descendants": 89,
+    "time": 1777899226,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011603",
+    "title": "Stop big tech from making users behave in ways they don't want to",
+    "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+    "score": 265,
+    "descendants": 168,
+    "time": 1777914657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48012003",
+    "title": "Heat pump sales rise across Europe",
+    "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+    "score": 244,
+    "descendants": 152,
+    "time": 1777916115,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48015397",
+    "title": "Agent Skills",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "score": 232,
+    "descendants": 100,
+    "time": 1777930842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48012162",
+    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "score": 193,
+    "descendants": 80,
+    "time": 1777916792,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009747",
+    "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
+    "url": "https://www.fuelinsight.co.uk",
+    "score": 174,
+    "descendants": 83,
+    "time": 1777907721,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48004380",
+    "title": "Humanoid Robot Actuators",
+    "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+    "score": 167,
+    "descendants": 78,
+    "time": 1777866129,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009840",
+    "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+    "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+    "score": 164,
+    "descendants": 122,
+    "time": 1777908173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48014325",
+    "title": "Formatting a 25M-line codebase overnight",
+    "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "score": 162,
+    "descendants": 82,
+    "time": 1777925513,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011904",
+    "title": "Let's talk about LLMs",
+    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+    "score": 159,
+    "descendants": 137,
+    "time": 1777915779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011980",
+    "title": "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
+    "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+    "score": 155,
+    "descendants": 59,
+    "time": 1777916028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48008074",
+    "title": "Newton's law of gravity passes its biggest test",
+    "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+    "score": 146,
+    "descendants": 133,
+    "time": 1777899177,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48015218",
+    "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+    "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+    "score": 133,
+    "descendants": 145,
+    "time": 1777929955,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48009441",
+    "title": "Pomiferous: The most extensive apples (pommes) database",
+    "url": "https://pomiferous.com/",
+    "score": 123,
+    "descendants": 47,
+    "time": 1777906061,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48010208",
+    "title": "Alberta voter list leak is a potential public safety disaster",
+    "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
+    "score": 119,
+    "descendants": 91,
+    "time": 1777909647,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48012477",
+    "title": "Offenders sentenced up to 10 years for spying on TSMC",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
+    "score": 118,
+    "descendants": 20,
+    "time": 1777917873,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48010774",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "score": 116,
+    "descendants": 107,
+    "time": 1777911698,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48006123",
+    "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
+    "url": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
+    "score": 111,
+    "descendants": 107,
+    "time": 1777884041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011781",
+    "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
+    "url": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
+    "score": 111,
+    "descendants": 19,
+    "time": 1777915304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48008326",
+    "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
+    "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+    "score": 108,
+    "descendants": 61,
+    "time": 1777900432,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48013423",
+    "title": "DHS demanded Google surrender data on a Canadian man over anti-ICE posts",
+    "url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
+    "score": 108,
+    "descendants": 14,
+    "time": 1777921613,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48010266",
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "score": 105,
+    "descendants": 130,
+    "time": 1777909897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48007503",
+    "title": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
+    "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
+    "score": 96,
+    "descendants": 98,
+    "time": 1777895356,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48007145",
+    "title": "ASML's Best Selling Product Isn't What You Think It Is",
+    "url": "https://www.siliconimist.com/p/asmls-best-selling-product",
+    "score": 96,
+    "descendants": 39,
+    "time": 1777892902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48013608",
+    "title": "White House Considers Vetting A.I. Models Before They Are Released",
+    "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "score": 93,
+    "descendants": 97,
+    "time": 1777922302,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48015097",
+    "title": "Pulitzer Prize Winners 2026",
+    "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+    "score": 88,
+    "descendants": 34,
+    "time": 1777929278,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48004734",
+    "title": "Stitch together lots of little HTML pages with navigations for interactions",
+    "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+    "score": 85,
+    "descendants": 65,
+    "time": 1777869816,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011440",
+    "title": "The Visible Zorker: Zork 3",
+    "url": "https://eblong.com/infocom/visi/zork3/",
+    "score": 68,
+    "descendants": 6,
+    "time": 1777913968,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48007880",
+    "title": "DAG Workflow Engine",
+    "url": "https://github.com/vivekg13186/Daisy-DAG",
+    "score": 59,
+    "descendants": 52,
+    "time": 1777897920,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48014868",
+    "title": "When Networking Doesn't Work",
+    "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "score": 58,
+    "descendants": 9,
+    "time": 1777928179,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48008104",
+    "title": "Gaps in national food production, worldwide",
+    "url": "https://www.nature.com/articles/s43016-025-01173-4",
+    "score": 52,
+    "descendants": 25,
+    "time": 1777899316,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48011895",
+    "title": "Flock Holding Closed Police Conference, Requires Police Consent for Marketing",
+    "url": "https://ipvm.com/reports/flock-closed-police-marketing",
+    "score": 51,
+    "descendants": 0,
+    "time": 1777915736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48014197",
+    "title": "Transformers Are Inherently Succinct (2025)",
+    "url": "https://arxiv.org/abs/2510.19315",
+    "score": 50,
+    "descendants": 6,
+    "time": 1777924988,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48013706",
+    "title": "Google is discontinuing its free web search index for developers",
+    "url": "https://www.heise.de/en/news/Google-is-discontinuing-its-free-web-search-index-for-developers-11152411.html",
+    "score": 48,
+    "descendants": 7,
+    "time": 1777922720,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48010597",
+    "title": "Homebridge 2.0 is here, and it speaks Matter",
+    "url": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums",
+    "score": 46,
+    "descendants": 12,
+    "time": 1777911145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48013673",
+    "title": "'Staggering' number of people believe unproven health claims",
+    "url": "https://www.nature.com/articles/d41586-026-01285-2",
+    "score": 44,
+    "descendants": 34,
+    "time": 1777922571,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48015226",
+    "title": "Canadian election databases use \"canary traps\"–and they work",
+    "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+    "score": 44,
+    "descendants": 7,
+    "time": 1777929995,
+    "source": "hackernews"
+  }
+]
