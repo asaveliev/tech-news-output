@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "48044311",
+    "title": "The Vatican's Website in Latin",
+    "url": "https://www.vatican.va/latin/latin_index.html",
+    "score": 133,
+    "descendants": 75,
+    "time": 1778117163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043736",
+    "title": "Iran hit more U.S. military targets than has been reported, satellite images",
+    "url": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+    "score": 121,
+    "descendants": 68,
+    "time": 1778112997,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044638",
+    "title": "Permacomputing Principles",
+    "url": "https://permacomputing.net/principles/",
+    "score": 118,
+    "descendants": 47,
+    "time": 1778120303,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043964",
+    "title": "RSS Feeds Send Me More Traffic Than Google",
+    "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+    "score": 76,
+    "descendants": 14,
+    "time": 1778114406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045012",
+    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "url": "https://aniket.foo/posts/20260505-netboot/",
+    "score": 74,
+    "descendants": 28,
+    "time": 1778123604,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043706",
+    "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+    "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+    "score": 54,
+    "descendants": 79,
+    "time": 1778112743,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044022",
+    "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+    "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+    "score": 39,
+    "descendants": 12,
+    "time": 1778114835,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045174",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "score": 33,
+    "descendants": 19,
+    "time": 1778125575,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045067",
+    "title": "We programmed a program to program new programs (2011)",
+    "url": "https://www.smbc-comics.com/comic/2011-09-08",
+    "score": 29,
+    "descendants": 1,
+    "time": 1778124090,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043866",
+    "title": "They don't look like me",
+    "url": "https://niccolorastrelli.com/they-dont-look-like-me",
+    "score": 27,
+    "descendants": 3,
+    "time": 1778113761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044444",
+    "title": "SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
+    "url": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
+    "score": 19,
+    "descendants": 3,
+    "time": 1778118425,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045603",
+    "title": "Russia's top secret spy school teaching hacking and election meddling",
+    "url": "https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference",
+    "score": 15,
+    "descendants": 1,
+    "time": 1778130379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045384",
+    "title": "Building the TD4 4-Bit CPU",
+    "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+    "score": 14,
+    "descendants": 6,
+    "time": 1778127943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044587",
+    "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
+    "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
+    "score": 11,
+    "descendants": 7,
+    "time": 1778119785,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045234",
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "score": 10,
+    "descendants": 3,
+    "time": 1778126194,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045680",
+    "title": "Elon Musk's Lawyers Ask OpenAI's President Why He Is Worth $30B",
+    "url": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+    "score": 9,
+    "descendants": 2,
+    "time": 1778131128,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043697",
+    "title": "Elon Musk's Last-Ditch Effort to Control OpenAI",
+    "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1778112672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48046023",
+    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "score": 9,
+    "descendants": 0,
+    "time": 1778134345,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044965",
+    "title": "How Elon Musk Left OpenAI, According to Greg Brockman",
+    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1778123039,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045748",
+    "title": "Actor alleges James Cameron used her teenage face to create 'Avatar' character",
+    "url": "https://www.nbcnews.com/pop-culture/movies/actor-alleges-james-cameron-teen-face-create-avatar-character-rcna343825",
+    "score": 8,
+    "descendants": 0,
+    "time": 1778131981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045615",
+    "title": "GitHub outage: CCR and CCA failing to start for PR comments",
+    "url": "https://www.githubstatus.com/incidents/qp0lxr014sw8",
+    "score": 7,
+    "descendants": 10,
+    "time": 1778130516,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044216",
+    "title": "Discord group guessed the URL to Anthropic's Mythos model before CISA used it",
+    "url": "https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY",
+    "score": 7,
+    "descendants": 6,
+    "time": 1778116393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044110",
+    "title": "Open weights are quietly closing up – and that's a problem",
+    "url": "https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s",
+    "score": 7,
+    "descendants": 3,
+    "time": 1778115491,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043743",
+    "title": "Taiwan cops say student's radio kit brought bullet trains to a standstill",
+    "url": "https://www.theregister.com/cyber-crime/2026/05/06/taiwan-student-pwns-rail-comms-halts-high-speed-trains/5230489",
+    "score": 7,
+    "descendants": 0,
+    "time": 1778113017,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044696",
+    "title": "Three-Em Dash",
+    "url": "https://www.compart.com/en/unicode/U+2E3B",
+    "score": 6,
+    "descendants": 2,
+    "time": 1778120835,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045690",
+    "title": "LAWS: A new transform operation turning LLM inference into cheap cache lookups",
+    "url": "https://arxiv.org/abs/2605.04069",
+    "score": 6,
+    "descendants": 1,
+    "time": 1778131246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48046167",
+    "title": "Alaska megatsunami was second largest ever recorded",
+    "url": "https://www.bbc.com/news/articles/c1m253033m4o",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778135940,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044728",
+    "title": "School Cellphone Ban Study Finds Mixed Results",
+    "url": "https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778121082,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044376",
+    "title": "Cognitive Surrender",
+    "url": "https://twitter.com/addyosmani/status/2052124873208799378",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778117868,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044005",
+    "title": "The Global Effort to Figure Out Where Hantavirus Will Strike Next",
+    "url": "https://www.wsj.com/health/hantavirus-contact-tracing-cruise-ship-3a9afe33",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778114682,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045003",
+    "title": "TogetherLoop – Social media minus the nonsense",
+    "url": "https://togetherloop.com/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1778123528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044555",
+    "title": "Show HN: Dreamwork – a job search site I made after Indeed fired my pregnant wif",
+    "url": "https://www.dreamworkhq.com/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1778119493,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043873",
+    "title": "Was this Virginia office building built with missiles in mind?",
+    "url": "https://www.washingtonpost.com/dc-md-va/2022/09/03/skyline-buildings-baileys-crossroads/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1778113817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044888",
+    "title": "Show HN: I Replaced React in GraphiQL with Svelte",
+    "url": "https://code.webb.page/eol/graphiql.git/about/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778122354,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044419",
+    "title": "Geography Is Four-Dimensional",
+    "url": "https://sive.rs/4d",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778118267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045965",
+    "title": "Mythos Shows AI Weapons Inspectors Need Sharp Teeth",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-05-07/anthropic-s-mythos-shows-ai-weapons-inspectors-need-sharp-teeth",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778133842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045778",
+    "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+    "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778132230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044635",
+    "title": "Hantavirus explained: Symptoms, transmission and treatment",
+    "url": "https://epi.ufl.edu/2026/05/06/hantavirus-explained-symptoms-transmission-and-treatment/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778120246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044630",
+    "title": "Quilt Poems",
+    "url": "https://leetusman.com/projects/quilt-poems/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778120202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044604",
+    "title": "Encountering Artificial Intelligence: Ethical and Anthropological Investigations",
+    "url": "https://jmt.scholasticahq.com/article/91230-encountering-artificial-intelligence-ethical-and-anthropological-investigations",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778119933,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48043649",
+    "title": "Aphasia",
+    "url": "https://en.wikipedia.org/wiki/Aphasia",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778112351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044820",
+    "title": "Character.ai Faces Unlawful Practice of Medicine Claim in Pennsylvania Suit",
+    "url": "https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/",
+    "score": 4,
+    "descendants": 7,
+    "time": 1778121854,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48044104",
+    "title": "Six New High Severity CVEs for Next.js and 1 for React",
+    "url": "https://github.com/vercel/next.js/releases/tag/v16.2.5",
+    "score": 4,
+    "descendants": 2,
+    "time": 1778115477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045939",
+    "title": "Show HN: Trust – Coding Rust like it's 1989",
+    "url": "https://github.com/wojtczyk/trust",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778133532,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045179",
+    "title": "Whistleblower David Grusch on \"Non-Human\" Biologics and Craft [video]",
+    "url": "https://www.youtube.com/watch?v=Q3BpTZXmDns",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778125631,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045916",
+    "title": "How to Buy Cheap Claude Tokens in China",
+    "url": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778133344,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045667",
+    "title": "Publishers sue Meta, claiming it violated copyrights in training AI with books",
+    "url": "https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778131032,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045635",
+    "title": "'FOMO has proven a stronger incentive than poor stock performance' Goldman Sachs",
+    "url": "https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778130694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48045552",
+    "title": "Openrouter SDK for Elixir",
+    "url": "https://hex.pm/packages/openrouter_sdk",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778129957,
+    "source": "hackernews"
+  }
+]
