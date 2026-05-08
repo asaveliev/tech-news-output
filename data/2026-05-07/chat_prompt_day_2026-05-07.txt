@@ -174,199 +174,203 @@ Following are the stories to parse:
 
 Slides:
 
-1. [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
-   Metadata: Source: Hacker News | 133 points | 75 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044311
+1. [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+   Metadata: Source: Hacker News | 628 points | 385 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48054423
 
-2. [Iran hit more U.S. military targets than has been reported, satellite images](https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/)
-   Metadata: Source: Hacker News | 121 points | 68 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043736
+2. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+   Metadata: Source: Hacker News | 627 points | 310 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48049653
 
-3. [Permacomputing Principles](https://permacomputing.net/principles/)
-   Metadata: Source: Hacker News | 118 points | 47 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044638
+3. [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+   Metadata: Source: Hacker News | 611 points | 540 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48053203
 
-4. [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-   Metadata: Source: Hacker News | 76 points | 14 comments | Posted: 2026-05-07
+4. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+   Metadata: Source: Hacker News | 600 points | 245 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48053623
+
+5. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+   Metadata: Source: Hacker News | 572 points | 350 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48055913
+
+6. [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
+   Metadata: Source: Hacker News | 546 points | 206 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48050964
+
+7. [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
+   Metadata: Source: Hacker News | 494 points | 314 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48047981
+
+8. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+   Metadata: Source: Hacker News | 445 points | 214 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48051562
+
+9. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+   Metadata: Source: Hacker News | 436 points | 228 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48056227
+
+10. [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)
+   Metadata: Source: Hacker News | 365 points | 101 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48050751
+
+11. [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00720-8)
+   Metadata: Source: Hacker News | 354 points | 283 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48049208
+
+12. [I want to live like Costco people](https://tastecooking.com/i-want-to-live-like-costco-people/)
+   Metadata: Source: Hacker News | 286 points | 593 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48050499
+
+13. [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
+   Metadata: Source: Hacker News | 284 points | 122 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48050278
+
+14. [Motherboard sales 'collapse' amid unprecedented shortages fueled by AI](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+   Metadata: Source: Hacker News | 270 points | 318 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48050540
+
+15. [RSS feeds send me more traffic than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
+   Metadata: Source: Hacker News | 263 points | 70 comments | Posted: 2026-05-07
    Discussion: https://news.ycombinator.com/item?id=48043964
 
-5. [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-   Metadata: Source: Hacker News | 74 points | 28 comments | Posted: 2026-05-07
+16. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
+   Metadata: Source: Hacker News | 259 points | 87 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48052537
+
+17. [Permacomputing Principles](https://permacomputing.net/principles/)
+   Metadata: Source: Hacker News | 257 points | 196 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48044638
+
+18. [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
+   Metadata: Source: Hacker News | 214 points | 126 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48047970
+
+19. [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+   Metadata: Source: Hacker News | 193 points | 98 comments | Posted: 2026-05-07
    Discussion: https://news.ycombinator.com/item?id=48045012
 
-6. [The Old Guard: Confronting America's Gerontocratic Crisis](https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/)
-   Metadata: Source: Hacker News | 54 points | 79 comments | Posted: 2026-05-07
+20. [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
+   Metadata: Source: Hacker News | 184 points | 135 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48044311
+
+21. [Brazil's Pix payment system faces pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
+   Metadata: Source: Hacker News | 171 points | 141 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48052371
+
+22. [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
+   Metadata: Source: Hacker News | 167 points | 70 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48049764
+
+23. [Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
+   Metadata: Source: Hacker News | 166 points | 84 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48051079
+
+24. [Iran hit more U.S. military targets than has been reported, satellite images](https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/)
+   Metadata: Source: Hacker News | 148 points | 87 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48043736
+
+25. [ShinyHunters claims data theft from 8,800 schools (Instructure/Canvas)](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+   Metadata: Source: Hacker News | 142 points | 2 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48054386
+
+26. [ProgramBench: Can language models rebuild programs from scratch?](https://arxiv.org/abs/2605.03546)
+   Metadata: Source: Hacker News | 141 points | 74 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48045174
+
+27. [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
+   Metadata: Source: Hacker News | 137 points | 40 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48056158
+
+28. [Show HN: TRUST – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
+   Metadata: Source: Hacker News | 135 points | 77 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48045939
+
+29. [Mozilla says 271 vulnerabilities found by Mythos and "almost no false positives"](https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/)
+   Metadata: Source: Hacker News | 122 points | 4 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48053816
+
+30. [I switched from Mac to a Lenovo Chromebook](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
+   Metadata: Source: Hacker News | 119 points | 162 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48051025
+
+31. [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
+   Metadata: Source: Hacker News | 115 points | 22 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48046397
+
+32. [The Old Guard: Confronting America's Gerontocratic Crisis](https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/)
+   Metadata: Source: Hacker News | 105 points | 219 comments | Posted: 2026-05-07
    Discussion: https://news.ycombinator.com/item?id=48043706
 
-7. [How I made $350K from an open-source JavaScript library using dual licensing](https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/)
+33. [ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters](https://firethering.com/zaya1-8b-open-source-math-coding-model/)
+   Metadata: Source: Hacker News | 102 points | 54 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48047082
+
+34. [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+   Metadata: Source: Hacker News | 97 points | 39 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48056268
+
+35. [California leaders report four to six weeks worth of gasoline and diesel supply](https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply)
+   Metadata: Source: Hacker News | 96 points | 203 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48051873
+
+36. [How Cloudflare responded to the “Copy Fail” Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
+   Metadata: Source: Hacker News | 95 points | 72 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48049160
+
+37. [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
+   Metadata: Source: Hacker News | 93 points | 46 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48052333
+
+38. [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+   Metadata: Source: Hacker News | 82 points | 19 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48053842
+
+39. [Cloudflare lays off 1,100 employees (~20% of workforce)](https://finance.yahoo.com/markets/stocks/articles/cloudflare-announces-first-quarter-2026-201500778.html)
+   Metadata: Source: Hacker News | 82 points | 2 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48055238
+
+40. [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
+   Metadata: Source: Hacker News | 78 points | 48 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48051080
+
+41. [Utah senator smacks ABC reporters phone out of hand amid Data Center controversy](https://www.abc4.com/news/digital-exclusives/reporter-jj-nursery-utah-senator-jerry-stevenson-box-elder-county-data-center/)
+   Metadata: Source: Hacker News | 77 points | 30 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48054732
+
+42. [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
+   Metadata: Source: Hacker News | 76 points | 22 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48047826
+
+43. [Draw Marc Andreessen on an Egg](https://eieio.games/blog/marc-andreessen-egg-game/)
+   Metadata: Source: Hacker News | 69 points | 27 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48054293
+
+44. [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
+   Metadata: Source: Hacker News | 68 points | 34 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48046023
+
+45. [The Upper Middle Class Trap](https://ofdollarsanddata.com/the-upper-middle-class-trap/)
+   Metadata: Source: Hacker News | 65 points | 97 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48048262
+
+46. [MPEG-2 Transport Stream Packaging for Media over QUIC Transport](https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html)
+   Metadata: Source: Hacker News | 63 points | 21 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48049963
+
+47. [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
+   Metadata: Source: Hacker News | 61 points | 7 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48053770
+
+48. [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+   Metadata: Source: Hacker News | 57 points | 45 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48056359
+
+49. [How I made $350K from an open-source JavaScript library using dual licensing](https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/)
    Metadata: Source: Hacker News | 39 points | 12 comments | Posted: 2026-05-07
    Discussion: https://news.ycombinator.com/item?id=48044022
 
-8. [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
-   Metadata: Source: Hacker News | 33 points | 19 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045174
-
-9. [We programmed a program to program new programs (2011)](https://www.smbc-comics.com/comic/2011-09-08)
-   Metadata: Source: Hacker News | 29 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045067
-
-10. [They don't look like me](https://niccolorastrelli.com/they-dont-look-like-me)
-   Metadata: Source: Hacker News | 27 points | 3 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043866
-
-11. [SpaceX IPO gives Musk unchecked power and forbids investor lawsuits](https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/)
-   Metadata: Source: Hacker News | 19 points | 3 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044444
-
-12. [Russia's top secret spy school teaching hacking and election meddling](https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference)
-   Metadata: Source: Hacker News | 15 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045603
-
-13. [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
-   Metadata: Source: Hacker News | 14 points | 6 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045384
-
-14. [If AI cuts jobs, it would also threaten Social Security and Medicare](https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/)
-   Metadata: Source: Hacker News | 11 points | 7 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044587
-
-15. [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
-   Metadata: Source: Hacker News | 10 points | 3 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045234
-
-16. [Elon Musk's Lawyers Ask OpenAI's President Why He Is Worth $30B](https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html)
-   Metadata: Source: Hacker News | 9 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045680
-
-17. [Elon Musk's Last-Ditch Effort to Control OpenAI](https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/)
-   Metadata: Source: Hacker News | 9 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043697
-
-18. [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
-   Metadata: Source: Hacker News | 9 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48046023
-
-19. [How Elon Musk Left OpenAI, According to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
-   Metadata: Source: Hacker News | 8 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044965
-
-20. [Actor alleges James Cameron used her teenage face to create 'Avatar' character](https://www.nbcnews.com/pop-culture/movies/actor-alleges-james-cameron-teen-face-create-avatar-character-rcna343825)
-   Metadata: Source: Hacker News | 8 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045748
-
-21. [GitHub outage: CCR and CCA failing to start for PR comments](https://www.githubstatus.com/incidents/qp0lxr014sw8)
-   Metadata: Source: Hacker News | 7 points | 10 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045615
-
-22. [Discord group guessed the URL to Anthropic's Mythos model before CISA used it](https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY)
-   Metadata: Source: Hacker News | 7 points | 6 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044216
-
-23. [Open weights are quietly closing up – and that's a problem](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s)
-   Metadata: Source: Hacker News | 7 points | 3 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044110
-
-24. [Taiwan cops say student's radio kit brought bullet trains to a standstill](https://www.theregister.com/cyber-crime/2026/05/06/taiwan-student-pwns-rail-comms-halts-high-speed-trains/5230489)
-   Metadata: Source: Hacker News | 7 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043743
-
-25. [Three-Em Dash](https://www.compart.com/en/unicode/U+2E3B)
-   Metadata: Source: Hacker News | 6 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044696
-
-26. [LAWS: A new transform operation turning LLM inference into cheap cache lookups](https://arxiv.org/abs/2605.04069)
-   Metadata: Source: Hacker News | 6 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045690
-
-27. [Alaska megatsunami was second largest ever recorded](https://www.bbc.com/news/articles/c1m253033m4o)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48046167
-
-28. [School Cellphone Ban Study Finds Mixed Results](https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044728
-
-29. [Cognitive Surrender](https://twitter.com/addyosmani/status/2052124873208799378)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044376
-
-30. [The Global Effort to Figure Out Where Hantavirus Will Strike Next](https://www.wsj.com/health/hantavirus-contact-tracing-cruise-ship-3a9afe33)
-   Metadata: Source: Hacker News | 6 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044005
-
-31. [TogetherLoop – Social media minus the nonsense](https://togetherloop.com/)
-   Metadata: Source: Hacker News | 5 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045003
-
-32. [Show HN: Dreamwork – a job search site I made after Indeed fired my pregnant wif](https://www.dreamworkhq.com/)
-   Metadata: Source: Hacker News | 5 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044555
-
-33. [Was this Virginia office building built with missiles in mind?](https://www.washingtonpost.com/dc-md-va/2022/09/03/skyline-buildings-baileys-crossroads/)
-   Metadata: Source: Hacker News | 5 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043873
-
-34. [Show HN: I Replaced React in GraphiQL with Svelte](https://code.webb.page/eol/graphiql.git/about/)
-   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044888
-
-35. [Geography Is Four-Dimensional](https://sive.rs/4d)
-   Metadata: Source: Hacker News | 5 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044419
-
-36. [Mythos Shows AI Weapons Inspectors Need Sharp Teeth](https://www.bloomberg.com/opinion/articles/2026-05-07/anthropic-s-mythos-shows-ai-weapons-inspectors-need-sharp-teeth)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045965
-
-37. [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045778
-
-38. [Hantavirus explained: Symptoms, transmission and treatment](https://epi.ufl.edu/2026/05/06/hantavirus-explained-symptoms-transmission-and-treatment/)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044635
-
-39. [Quilt Poems](https://leetusman.com/projects/quilt-poems/)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044630
-
-40. [Encountering Artificial Intelligence: Ethical and Anthropological Investigations](https://jmt.scholasticahq.com/article/91230-encountering-artificial-intelligence-ethical-and-anthropological-investigations)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044604
-
-41. [Aphasia](https://en.wikipedia.org/wiki/Aphasia)
-   Metadata: Source: Hacker News | 5 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48043649
-
-42. [Character.ai Faces Unlawful Practice of Medicine Claim in Pennsylvania Suit](https://www.law.com/therecorder/2026/05/06/characterai-maker-faces-unlawful-practice-of-medicine-claim-in-pennsylvania-suit/)
-   Metadata: Source: Hacker News | 4 points | 7 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044820
-
-43. [Six New High Severity CVEs for Next.js and 1 for React](https://github.com/vercel/next.js/releases/tag/v16.2.5)
-   Metadata: Source: Hacker News | 4 points | 2 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48044104
-
-44. [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
-   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045939
-
-45. [Whistleblower David Grusch on "Non-Human" Biologics and Craft [video]](https://www.youtube.com/watch?v=Q3BpTZXmDns)
-   Metadata: Source: Hacker News | 4 points | 1 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045179
-
-46. [How to Buy Cheap Claude Tokens in China](https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045916
-
-47. [Publishers sue Meta, claiming it violated copyrights in training AI with books](https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045667
-
-48. ['FOMO has proven a stronger incentive than poor stock performance' Goldman Sachs](https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045635
-
-49. [Openrouter SDK for Elixir](https://hex.pm/packages/openrouter_sdk)
-   Metadata: Source: Hacker News | 4 points | 0 comments | Posted: 2026-05-07
-   Discussion: https://news.ycombinator.com/item?id=48045552
+50. [OpenClaw had a rough week](https://openclaw.ai/blog/openclaw-rough-week)
+   Metadata: Source: Hacker News | 37 points | 62 comments | Posted: 2026-05-07
+   Discussion: https://news.ycombinator.com/item?id=48056003
 
