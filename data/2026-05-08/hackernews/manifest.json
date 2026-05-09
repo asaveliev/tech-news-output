@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "48062117",
+    "title": "Poland is now among the 20 largest economies",
+    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "score": 962,
+    "descendants": 760,
+    "time": 1778243405,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067119",
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "score": 926,
+    "descendants": 308,
+    "time": 1778265958,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48063199",
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "score": 668,
+    "descendants": 340,
+    "time": 1778248570,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48061884",
+    "title": "David Attenborough's 100th Birthday",
+    "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+    "score": 589,
+    "descendants": 116,
+    "time": 1778241806,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48062178",
+    "title": "A web page that shows you everything the browser told it without asking",
+    "url": "https://sinceyouarrived.world/taken",
+    "score": 563,
+    "descendants": 278,
+    "time": 1778243825,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48061566",
+    "title": "An Introduction to Meshtastic",
+    "url": "https://meshtastic.org/docs/introduction/",
+    "score": 431,
+    "descendants": 155,
+    "time": 1778239331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48057901",
+    "title": "Mojo 1.0 Beta",
+    "url": "https://mojolang.org/",
+    "score": 337,
+    "descendants": 216,
+    "time": 1778208541,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48065360",
+    "title": "Cartoon Network Flash Games",
+    "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "score": 330,
+    "descendants": 105,
+    "time": 1778257792,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48066524",
+    "title": "AI is breaking two vulnerability cultures",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "score": 315,
+    "descendants": 130,
+    "time": 1778262908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48061938",
+    "title": "US Government releases first batch of UAP documents and videos",
+    "url": "https://www.war.gov/UFO/",
+    "score": 286,
+    "descendants": 424,
+    "time": 1778242225,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48059662",
+    "title": "ClojureScript Gets Async/Await",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "score": 267,
+    "descendants": 72,
+    "time": 1778223864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48069192",
+    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+    "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+    "score": 248,
+    "descendants": 161,
+    "time": 1778276867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48059606",
+    "title": "Nintendo announces price increases for Nintendo Switch 2",
+    "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+    "score": 230,
+    "descendants": 233,
+    "time": 1778223373,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48064312",
+    "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+    "url": "https://btxx.org/posts/memory/",
+    "score": 215,
+    "descendants": 89,
+    "time": 1778253035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48066169",
+    "title": "Apple, Intel have reached preliminary chip-making deal",
+    "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+    "score": 210,
+    "descendants": 134,
+    "time": 1778261121,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48057209",
+    "title": "GPT-5.5 Price Increase: What It Costs",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "score": 206,
+    "descendants": 63,
+    "time": 1778202148,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48063240",
+    "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+    "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+    "score": 205,
+    "descendants": 254,
+    "time": 1778248712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48058197",
+    "title": "AWS North Virginia data center outage – recovery to take hours",
+    "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+    "score": 205,
+    "descendants": 136,
+    "time": 1778211118,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48062997",
+    "title": "Just Use Go",
+    "url": "https://blainsmith.com/articles/just-fucking-use-go/",
+    "score": 195,
+    "descendants": 169,
+    "time": 1778247622,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067734",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "url": "https://ze3tar.github.io/post-zcrx.html",
+    "score": 176,
+    "descendants": 103,
+    "time": 1778269239,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48060918",
+    "title": "GeoJSON",
+    "url": "https://geojson.org/",
+    "score": 157,
+    "descendants": 74,
+    "time": 1778234137,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48066592",
+    "title": "Teaching Claude Why",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "score": 151,
+    "descendants": 76,
+    "time": 1778263181,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067790",
+    "title": "Let’s Encrypt: Stopping Issuance for Potential Incident – Resolved",
+    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+    "score": 138,
+    "descendants": 81,
+    "time": 1778269528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48063521",
+    "title": "PC Engine CPU",
+    "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+    "score": 137,
+    "descendants": 58,
+    "time": 1778249671,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48065511",
+    "title": "The React2Shell Story",
+    "url": "https://lachlan.nz/blog/the-react2shell-story/",
+    "score": 125,
+    "descendants": 7,
+    "time": 1778258388,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48056749",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "score": 124,
+    "descendants": 57,
+    "time": 1778198618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48062745",
+    "title": "Podman rootless containers and the Copy Fail exploit",
+    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "score": 124,
+    "descendants": 24,
+    "time": 1778246553,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067197",
+    "title": "What we lost the last time code got cheap",
+    "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+    "score": 113,
+    "descendants": 110,
+    "time": 1778266388,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48062035",
+    "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
+    "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+    "score": 111,
+    "descendants": 29,
+    "time": 1778242801,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48063548",
+    "title": "Show HN: Git for AI Agents",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "score": 100,
+    "descendants": 46,
+    "time": 1778249736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48058644",
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "url": "https://github.com/graemeg/blaise",
+    "score": 98,
+    "descendants": 50,
+    "time": 1778215442,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067870",
+    "title": "Discord Incident – Resolved",
+    "url": "https://discordstatus.com",
+    "score": 88,
+    "descendants": 58,
+    "time": 1778269926,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48059633",
+    "title": "QBE – Compiler Back End",
+    "url": "https://c9x.me/compile/",
+    "score": 88,
+    "descendants": 25,
+    "time": 1778223625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48070115",
+    "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+    "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+    "score": 86,
+    "descendants": 53,
+    "time": 1778283475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48066038",
+    "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+    "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+    "score": 83,
+    "descendants": 17,
+    "time": 1778260492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48065916",
+    "title": "How do I deal with memory leaks? (2022)",
+    "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "score": 81,
+    "descendants": 67,
+    "time": 1778260019,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48065254",
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "score": 74,
+    "descendants": 15,
+    "time": 1778257316,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48058340",
+    "title": "US will start revoking passports for parents who owe child support",
+    "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+    "score": 70,
+    "descendants": 58,
+    "time": 1778212334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48062530",
+    "title": "UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
+    "url": "https://www.war.gov/UFO/#release",
+    "score": 62,
+    "descendants": 2,
+    "time": 1778245611,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48056804",
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "score": 58,
+    "descendants": 42,
+    "time": 1778199044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48069354",
+    "title": "Judge rules DOGE cancellation of humanities grants was unconstitutional",
+    "url": "https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e",
+    "score": 57,
+    "descendants": 9,
+    "time": 1778277979,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48058337",
+    "title": "Digging into Drama at the Document Foundation",
+    "url": "https://lwn.net/Articles/1066418/",
+    "score": 56,
+    "descendants": 10,
+    "time": 1778212319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48057842",
+    "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+    "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+    "score": 49,
+    "descendants": 7,
+    "time": 1778207995,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48070161",
+    "title": "The Tax of Living in a Low-Trust Society: How Collapsed Trust Costs You",
+    "url": "https://yourbrainonmoney.substack.com/p/low-trust-society-cost",
+    "score": 46,
+    "descendants": 31,
+    "time": 1778283987,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48057294",
+    "title": "AWS EC2 outage in use1-az4 (us-east-1)",
+    "url": "https://health.aws.amazon.com/health/status?t=2026-05-07",
+    "score": 46,
+    "descendants": 8,
+    "time": 1778202791,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48068947",
+    "title": "Non-determinism is an issue with patching CVEs",
+    "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+    "score": 45,
+    "descendants": 12,
+    "time": 1778275387,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067686",
+    "title": "My first in-prod corrupted hard drive problem",
+    "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
+    "score": 42,
+    "descendants": 28,
+    "time": 1778268936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48067496",
+    "title": "Apple Is Holding My Pictures Hostage Until I Accept Their New Terms of Service",
+    "url": "https://probablydance.com/2026/05/01/apple-is-holding-my-pictures-hostage-until-i-accept-their-new-terms-of-service/",
+    "score": 42,
+    "descendants": 18,
+    "time": 1778267955,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48068254",
+    "title": "When is your birthday? The math behind hash collisions",
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+    "score": 41,
+    "descendants": 8,
+    "time": 1778271519,
+    "source": "hackernews"
+  }
+]
