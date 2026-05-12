@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "48102700",
+    "title": "They Live (1988) inspired Adblocker",
+    "url": "https://github.com/davmlaw/they_live_adblocker",
+    "score": 186,
+    "descendants": 49,
+    "time": 1778546274,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103042",
+    "title": "Claude Platform on AWS",
+    "url": "https://claude.com/blog/claude-platform-on-aws",
+    "score": 123,
+    "descendants": 56,
+    "time": 1778549069,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104428",
+    "title": "Screenshots of Old Desktop OSes",
+    "url": "http://www.typewritten.org/Media/",
+    "score": 86,
+    "descendants": 22,
+    "time": 1778562684,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103511",
+    "title": "Software Internals Book Club",
+    "url": "https://eatonphil.com/bookclub.html",
+    "score": 82,
+    "descendants": 13,
+    "time": 1778552891,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103871",
+    "title": "Productivity isn't about going faster",
+    "url": "https://humanpro.co/articles/productivity-isnt-about-going-faster/",
+    "score": 60,
+    "descendants": 28,
+    "time": 1778556528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104041",
+    "title": "Extremely Low Frequencies",
+    "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "score": 54,
+    "descendants": 1,
+    "time": 1778558375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103529",
+    "title": "The PSP feels surprisingly present right now",
+    "url": "https://gardinerbryant.com/psp-in-2026/",
+    "score": 39,
+    "descendants": 31,
+    "time": 1778553190,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103459",
+    "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+    "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+    "score": 38,
+    "descendants": 40,
+    "time": 1778552524,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103417",
+    "title": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
+    "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
+    "score": 38,
+    "descendants": 3,
+    "time": 1778552252,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104355",
+    "title": "Google Search Is Down",
+    "url": "https://www.google.com/search?q=test",
+    "score": 28,
+    "descendants": 15,
+    "time": 1778561969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103428",
+    "title": "Microsoft fires head of Israeli subsidiary over surveillance of Palestinians",
+    "url": "https://www.pcgamer.com/gaming-industry/microsoft-fires-head-of-israeli-subsidiary-and-other-managers-over-surveillance-of-palestinians/",
+    "score": 27,
+    "descendants": 2,
+    "time": 1778552336,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104297",
+    "title": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead",
+    "url": "https://www.macrumors.com/2026/05/11/reddit-starts-blocking-mobile-website/",
+    "score": 22,
+    "descendants": 7,
+    "time": 1778561294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104043",
+    "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
+    "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
+    "score": 17,
+    "descendants": 7,
+    "time": 1778558381,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104273",
+    "title": "US in closely-guarded talks to open new bases in Greenland",
+    "url": "https://www.bbc.com/news/articles/cx21669452lo",
+    "score": 15,
+    "descendants": 5,
+    "time": 1778561049,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102971",
+    "title": "The Silence That Meets the Rape of Palestinians",
+    "url": "https://www.nytimes.com/2026/05/11/opinion/israel-palestinians-sexual-violence.html",
+    "score": 15,
+    "descendants": 4,
+    "time": 1778548441,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102636",
+    "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+    "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+    "score": 13,
+    "descendants": 2,
+    "time": 1778545810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104576",
+    "title": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead",
+    "url": "https://old.reddit.com/r/technology/comments/1ta2xrk/reddit_starts_blocking_mobile_website_pushing/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1778564126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104282",
+    "title": "Supercomputer networking to accelerate large scale AI training",
+    "url": "https://openai.com/index/mrc-supercomputer-networking/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1778561174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103767",
+    "title": "“Something rather unusual is happening in Russia” – My BBC Radio Dispatch",
+    "url": "https://www.youtube.com/watch?v=K9su3iLw9hU",
+    "score": 10,
+    "descendants": 1,
+    "time": 1778555638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104230",
+    "title": "Chinese AI engineers are Silicon Valley's new power players",
+    "url": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1778560625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103860",
+    "title": "Elon Musk's Grok Is Losing Ground in AI Race",
+    "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
+    "score": 8,
+    "descendants": 6,
+    "time": 1778556401,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103302",
+    "title": "Cisco CPO predicts AI will have built majority of their products by end of 2027",
+    "url": "https://www.sdxcentral.com/analysis/cisco-cpo-predicts-ai-will-have-built-majority-of-the-vendors-products-by-end-of-2027/",
+    "score": 8,
+    "descendants": 5,
+    "time": 1778551133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104863",
+    "title": "Show HN: Agent FM – local, open-source radio for Claude Code and Codex agents",
+    "url": "https://github.com/agentfm-ai/agent-fm",
+    "score": 8,
+    "descendants": 0,
+    "time": 1778566893,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104596",
+    "title": "Tens of thousands of pedophiles operate in Israel every year",
+    "url": "https://www.jpost.com/israel-news/tens-of-thousands-of-pedophiles-operate-in-israel-every-year-637393",
+    "score": 7,
+    "descendants": 3,
+    "time": 1778564308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103887",
+    "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+    "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+    "score": 7,
+    "descendants": 2,
+    "time": 1778556688,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104254",
+    "title": "Show HN: Doomscroll the Goverment's UFO Files as One Gigantic Microfilm",
+    "url": "https://hypergrid.systems/war.gov-ufo-viewer/microfilm2?page=2",
+    "score": 6,
+    "descendants": 3,
+    "time": 1778560851,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104999",
+    "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores",
+    "url": "https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca",
+    "score": 6,
+    "descendants": 1,
+    "time": 1778568169,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103232",
+    "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+    "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778550534,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103112",
+    "title": "Show HN: Personal Trainer – Lift, share plans, and rank with friends",
+    "url": "https://mobile-squad.com/#personal-trainer",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778549537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104187",
+    "title": "Zig versus Rust in 2026",
+    "url": "https://zackoverflow.dev/writing/zig-vs-rust-in-2026/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778560040,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102737",
+    "title": "Reuters: Sutskever says spent year proving sama dishonest",
+    "url": "https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778546542,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104494",
+    "title": "The Software Layer of China-US Tech Diplomacy",
+    "url": "https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778563320,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103516",
+    "title": "America is experiencing a productivity miracle",
+    "url": "https://www.economist.com/finance-and-economics/2026/05/11/america-is-experiencing-a-productivity-miracle",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778552986,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102606",
+    "title": "The April every AI plan broke",
+    "url": "https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778545617,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104755",
+    "title": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6",
+    "url": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778565726,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103085",
+    "title": "What were scanners like in the 80s? – 1988 IBM PageScanner 3119 [video]",
+    "url": "https://www.youtube.com/watch?v=IhMzwISbIAo",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778549350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104303",
+    "title": "Skymizer's chip design could embarrass Nvidia and AMD cards",
+    "url": "https://www.techradar.com/pro/tiny-company-steals-amds-thunder-and-challenges-nvidia-with-old-tech-pcie-ai-accelerator-that-runs-700b-llms-locally-sipping-just-240w-thanks-to-decade-old-ddr4-and-28nm-chips",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778561418,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104081",
+    "title": "Supply chain compromise in mistralai Python package",
+    "url": "https://github.com/mistralai/client-python/issues/523",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778558745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102805",
+    "title": "Christophe Pettus: PHP Goes BSD",
+    "url": "https://thebuild.com/blog/2026/04/30/php-goes-bsd/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778546932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102601",
+    "title": "CRUD Is Broken",
+    "url": "https://sawyer-p.me/crud-is-broken",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778545537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102507",
+    "title": "Graft – semantic memory for AI agents, without the LLM",
+    "url": "https://github.com/AEndrix03/Graft",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778544849,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103368",
+    "title": "Instructure Security Incident Update",
+    "url": "https://www.instructure.com/incident_update",
+    "score": 3,
+    "descendants": 3,
+    "time": 1778551738,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48105385",
+    "title": "Can a Language Model Paint?",
+    "url": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
+    "score": 3,
+    "descendants": 2,
+    "time": 1778571859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103864",
+    "title": "End-to-end encrypted RCS messaging rolling out for Android and iPhone users",
+    "url": "https://blog.google/products-and-platforms/platforms/android/android-ios-end-to-end-encrypted-rcs-messaging/",
+    "score": 3,
+    "descendants": 2,
+    "time": 1778556461,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48104699",
+    "title": "Agent View in Claude Code",
+    "url": "https://claude.com/blog/agent-view-in-claude-code",
+    "score": 3,
+    "descendants": 1,
+    "time": 1778565248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48103362",
+    "title": "Vocal Mirror voice self-analysis tool: Talk to record, Quiet to Listen",
+    "url": "https://danverbraganza.com/tools/vocal-mirror",
+    "score": 3,
+    "descendants": 1,
+    "time": 1778551684,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48102957",
+    "title": "The new Shai-Hulud worm threatens to wipe your machine if you revoke its token",
+    "url": "https://cybersecurityreach.org/investigations/ifyourevokethistokenitwillwipethecomputeroftheowner-shai-hulud-2026",
+    "score": 3,
+    "descendants": 1,
+    "time": 1778548326,
+    "source": "hackernews"
+  }
+]
