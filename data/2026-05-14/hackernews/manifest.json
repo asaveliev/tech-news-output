@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48129694",
+    "title": "Scorched Earth 2000 – Web",
+    "url": "http://www.scorch2000.com/web/",
+    "score": 226,
+    "descendants": 91,
+    "time": 1778719289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130950",
+    "title": "Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "score": 193,
+    "descendants": 119,
+    "time": 1778731175,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130123",
+    "title": "Cisco workforce reductions",
+    "url": "https://blogs.cisco.com/news/our-path-forward",
+    "score": 183,
+    "descendants": 158,
+    "time": 1778722685,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130519",
+    "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+    "score": 138,
+    "descendants": 79,
+    "time": 1778726708,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129789",
+    "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+    "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+    "score": 116,
+    "descendants": 40,
+    "time": 1778720058,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129561",
+    "title": "The other half of AI safety",
+    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "score": 77,
+    "descendants": 96,
+    "time": 1778718440,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130711",
+    "title": "Arena AI Model ELO History",
+    "url": "https://mayerwin.github.io/AI-Arena-History/",
+    "score": 52,
+    "descendants": 25,
+    "time": 1778728745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130186",
+    "title": "Show HN: Nibble",
+    "url": "https://github.com/glouw/nibble",
+    "score": 49,
+    "descendants": 4,
+    "time": 1778723205,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129598",
+    "title": "Who Trusts Sam Altman?",
+    "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "score": 46,
+    "descendants": 24,
+    "time": 1778718668,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129953",
+    "title": "delta time",
+    "url": "https://www.deltatime.life/",
+    "score": 39,
+    "descendants": 18,
+    "time": 1778721324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129934",
+    "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+    "score": 39,
+    "descendants": 1,
+    "time": 1778721182,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130679",
+    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "url": "https://github.com/DrCatHicks/learning-opportunities",
+    "score": 30,
+    "descendants": 5,
+    "time": 1778728411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131888",
+    "title": "LLMs are breaking 20 year old system design",
+    "url": "https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/",
+    "score": 26,
+    "descendants": 16,
+    "time": 1778740779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130300",
+    "title": "ICE may be at World Cup matches in U.S.",
+    "url": "https://www.nbcnews.com/sports/soccer/ice-may-world-cup-matches-us-rcna344797",
+    "score": 19,
+    "descendants": 3,
+    "time": 1778724366,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130359",
+    "title": "LinkedIn planning to lay off 5% of staff",
+    "url": "https://www.reuters.com/business/world-at-work/linkedin-is-planning-lay-off-5-staff-latest-tech-sector-cuts-source-says-2026-05-13/",
+    "score": 17,
+    "descendants": 2,
+    "time": 1778724989,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129552",
+    "title": "Proton's password manager passes audit by top security firm – Proton",
+    "url": "https://proton.me/business/blog/proton-pass-audit-2026",
+    "score": 16,
+    "descendants": 3,
+    "time": 1778718411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129889",
+    "title": "SQLite Code of Ethics",
+    "url": "https://sqlite.org/codeofethics.html",
+    "score": 15,
+    "descendants": 2,
+    "time": 1778720778,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130272",
+    "title": "US citizen convicted of running secret Chinese 'police station' in NYC",
+    "url": "https://www.bbc.com/news/articles/cy72yy7z1dyo",
+    "score": 15,
+    "descendants": 1,
+    "time": 1778724063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131370",
+    "title": "AI coders are carrying half-open laptops through airports, offices, ice rinks",
+    "url": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5",
+    "score": 14,
+    "descendants": 16,
+    "time": 1778735949,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131032",
+    "title": "US sells 30-year bonds at 5% yield for first time since 2007",
+    "url": "https://www.ft.com/content/11233902-2054-4ed5-b647-26402e7b58bd",
+    "score": 14,
+    "descendants": 6,
+    "time": 1778732100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130976",
+    "title": "Switchlab.dev – Learn switching and routing through interactive labs",
+    "url": "https://switchlab.dev/",
+    "score": 14,
+    "descendants": 1,
+    "time": 1778731487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130582",
+    "title": "My life was changed by four sentences in four books",
+    "url": "https://sive.rs/4s4b",
+    "score": 13,
+    "descendants": 0,
+    "time": 1778727469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130469",
+    "title": "MacBook Neo Review: The Laptop for the Rest of Us",
+    "url": "https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/",
+    "score": 11,
+    "descendants": 5,
+    "time": 1778726250,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129365",
+    "title": "Canvas Just Sent a Dangerous Message to Hackers: Crime Pays If You Do It Right",
+    "url": "https://www.pcmag.com/opinions/canvas-just-sent-a-dangerous-message-to-hackers-crime-pays-if-you-do-it",
+    "score": 11,
+    "descendants": 1,
+    "time": 1778717007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129740",
+    "title": "Israeli Tech Exposes Users of Musk's Starlink Satellite-Based Internet",
+    "url": "https://www.haaretz.com/israel-news/security-aviation/2026-05-12/ty-article-magazine/.premium/starlink-users-beware-israeli-tech-can-reveal-your-identity/0000019e-17f1-d618-adde-17f3e27d0000",
+    "score": 10,
+    "descendants": 3,
+    "time": 1778719693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129917",
+    "title": "The Original 1965 Gatorade Recipe",
+    "url": "https://eatshistory.com/the-original-1965-gatorade-recipe-we-made-the-drink-that-started-a-billion-dollar-industry/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1778721031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130202",
+    "title": "Federalism for Anti-Fascists",
+    "url": "https://medium.com/@carmitage/federalism-for-anti-fascists-e83fb20c6fc2",
+    "score": 9,
+    "descendants": 0,
+    "time": 1778723360,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131100",
+    "title": "Reddit Tests Blocking Mobile Web to Force App Downloads",
+    "url": "https://reclaimthenet.org/reddit-tests-blocking-mobile-web-to-force-app-downloads",
+    "score": 8,
+    "descendants": 4,
+    "time": 1778732819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130220",
+    "title": "Cerebras prices IPO at $185 per share to raise $5.55B",
+    "url": "https://www.reuters.com/legal/government/cerebras-prices-ipo-185-per-share-raise-555-billion-sources-say-2026-05-13/",
+    "score": 7,
+    "descendants": 3,
+    "time": 1778723593,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130051",
+    "title": "The inventor hoping to fix your washing machine to stop microplastics",
+    "url": "https://www.theguardian.com/environment/2026/may/13/you-have-to-be-where-the-pollution-is-the-inventor-hoping-to-fix-your-washing-machine-to-stop-microplastics",
+    "score": 7,
+    "descendants": 2,
+    "time": 1778722095,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131403",
+    "title": "Major Atlassian Outage",
+    "url": "https://status.atlassian.com/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1778736312,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131537",
+    "title": "Signal warns would pull out of Canada if made to comply with lawful access bill",
+    "url": "https://www.theglobeandmail.com/politics/article-signal-warns-it-would-pull-out-of-canada-if-made-to-comply-with-lawful/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1778737702,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130260",
+    "title": "Alberta judge throws out petition seeking for the province separation",
+    "url": "https://www.bbc.com/news/articles/clypn8py4zwo",
+    "score": 7,
+    "descendants": 0,
+    "time": 1778723965,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129813",
+    "title": "Show HN: Claude-pee: use Claude -p without the programmatic usage credit pool",
+    "url": "https://github.com/sbhattap/claude-pee/tree/main",
+    "score": 6,
+    "descendants": 2,
+    "time": 1778720261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129586",
+    "title": "Anthropic carves all non-interactive use out of monthly subscriptions",
+    "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+    "score": 6,
+    "descendants": 2,
+    "time": 1778718615,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131018",
+    "title": "Why scrapping quarterly earnings is a bad idea",
+    "url": "https://www.ft.com/content/8a42a683-2f1a-41b9-a9f4-5efed4e967ac",
+    "score": 6,
+    "descendants": 1,
+    "time": 1778731951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130170",
+    "title": "Sound Mode: Can TypeScript Type Checking Be Stricter?",
+    "url": "https://tsz.dev/sound-mode/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1778723084,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129761",
+    "title": "Short-Term Dietary Intervention Alters Physiological Profiles Relevant to Ageing",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/acel.70507",
+    "score": 6,
+    "descendants": 0,
+    "time": 1778719827,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48132056",
+    "title": "AI is using our Open Source code to replace us. We need new licenses now",
+    "url": "https://opensource.com/",
+    "score": 5,
+    "descendants": 4,
+    "time": 1778742475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130818",
+    "title": "Greenhouse and Icehouse Earth",
+    "url": "https://en.wikipedia.org/wiki/Greenhouse_and_icehouse_Earth",
+    "score": 5,
+    "descendants": 2,
+    "time": 1778729807,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131440",
+    "title": "ChatGPT-Linked Mass Shootings Drive Developer Liability Concerns",
+    "url": "https://news.bloomberglaw.com/litigation/chatgpt-linked-mass-shootings-drive-developer-liability-concerns",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778736667,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48130187",
+    "title": "How Bribery Became Legal",
+    "url": "https://medium.com/@carmitage/how-bribery-became-legal-b28dbdf0a41c",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778723206,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129662",
+    "title": "Trump's Disappearing China Hawks",
+    "url": "https://www.politico.com/news/2026/05/13/trump-disappearing-china-hawks-00919051",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778719102,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48129579",
+    "title": "Use whatever brace style you prefer. But not this. Don't do this",
+    "url": "https://twitter.com/akramcodez/status/2054099010571645430",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778718589,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48132060",
+    "title": "AI chatbots are giving out people's real phone numbers",
+    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778742514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131910",
+    "title": "Wolf of Wall Street financier Jho Low seeks pardon from Donald Trump",
+    "url": "https://www.theguardian.com/world/2026/may/13/1mdb-financier-jho-low-seeks-pardon-from-donald-trump",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778740981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131138",
+    "title": "Trump Mobile announces T1 phones will begin shipping this week",
+    "url": "https://twitter.com/TrumpMobile/status/2054574531101266301",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778733315,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48131054",
+    "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
+    "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778732365,
+    "source": "hackernews"
+  }
+]
