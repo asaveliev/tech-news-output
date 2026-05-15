@@ -1,0 +1,416 @@
+[
+  {
+    "hn_id": "48143880",
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "score": 344,
+    "descendants": 185,
+    "time": 1778812535,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144494",
+    "title": "How Claude Code works in large codebases",
+    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "score": 157,
+    "descendants": 106,
+    "time": 1778818531,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143284",
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "score": 129,
+    "descendants": 94,
+    "time": 1778807284,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144380",
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "score": 92,
+    "descendants": 13,
+    "time": 1778817374,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145144",
+    "title": "UK Government Kicks Out Palantir",
+    "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+    "score": 79,
+    "descendants": 13,
+    "time": 1778825765,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143366",
+    "title": "7 in 10 Americans oppose data centers being built in their communities",
+    "url": "https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/",
+    "score": 64,
+    "descendants": 85,
+    "time": 1778808076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48142964",
+    "title": "Elevated error rates on Opus 4.7",
+    "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+    "score": 57,
+    "descendants": 51,
+    "time": 1778804573,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143997",
+    "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+    "url": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
+    "score": 50,
+    "descendants": 26,
+    "time": 1778813501,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144490",
+    "title": "Solar-based sleep patterns compared to modern norms",
+    "url": "https://dylan.gr/1775146616",
+    "score": 35,
+    "descendants": 24,
+    "time": 1778818524,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143237",
+    "title": "New Linux LPE, 5.10 and above (ptrace_may_access mm-NULL + pidfd_getfd)",
+    "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+    "score": 22,
+    "descendants": 1,
+    "time": 1778806929,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143256",
+    "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "url": "https://www.theembeddedrustacean.com/uferris",
+    "score": 20,
+    "descendants": 3,
+    "time": 1778807053,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144410",
+    "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+    "url": "https://github.com/pike00/coldkey",
+    "score": 16,
+    "descendants": 4,
+    "time": 1778817729,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143235",
+    "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+    "url": "https://github.com/AliAmmar15/Velonus",
+    "score": 12,
+    "descendants": 3,
+    "time": 1778806925,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48142847",
+    "title": "I built a live map for tracking military aircraft activity worldwide",
+    "url": "https://skyrane.com/",
+    "score": 11,
+    "descendants": 3,
+    "time": 1778803401,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143267",
+    "title": "Plain Text. Paper, Less (PTPL)",
+    "url": "https://ellanew.com/tagged/ptpl",
+    "score": 10,
+    "descendants": 0,
+    "time": 1778807193,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145385",
+    "title": "The era of 15GB free Gmail storage is ending",
+    "url": "https://www.androidauthority.com/google-gmail-5gb-free-storage-test-3667002/",
+    "score": 8,
+    "descendants": 5,
+    "time": 1778828353,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143617",
+    "title": "Find vendors used by any company",
+    "url": "https://sub-processors.com/subprocessor/elasticsearch",
+    "score": 7,
+    "descendants": 3,
+    "time": 1778810157,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144715",
+    "title": "Britain investigates Microsoft over business software dominance",
+    "url": "https://www.reuters.com/legal/litigation/uk-opens-antitrust-probe-into-microsofts-business-software-2026-05-14/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1778820934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143515",
+    "title": "Kill Canvas. Now",
+    "url": "https://www.chronicle.com/article/kill-canvas-now",
+    "score": 7,
+    "descendants": 1,
+    "time": 1778809203,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144383",
+    "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end",
+    "url": "https://www.reuters.com/sustainability/society-equity/elon-musks-court-battle-against-openai-enters-homestretch-2026-05-14/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1778817399,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143085",
+    "title": "Anthropic agrees terms of $30B funding deal at $900B valuation",
+    "url": "https://www.ft.com/content/9deae3c6-716d-4f4d-8b09-434d8519f847",
+    "score": 7,
+    "descendants": 0,
+    "time": 1778805554,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144202",
+    "title": "Big tech is sacrificing its cashflows to prop up the AI boom",
+    "url": "https://www.economist.com/business/2026/05/13/big-tech-is-sacrificing-its-cashflows-to-prop-up-the-ai-boom",
+    "score": 6,
+    "descendants": 2,
+    "time": 1778815566,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143761",
+    "title": "The Efficiency Moat: Why China Is Beating the U.S. on AI and Everything Else",
+    "url": "https://www.thebignewsletter.com/p/the-efficiency-moat-why-china-is",
+    "score": 6,
+    "descendants": 2,
+    "time": 1778811420,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143847",
+    "title": "Switch to Codex",
+    "url": "https://chatgpt.com/codex/switch-to-codex/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1778812218,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144004",
+    "title": "Dmitry Senin - I escaped Vladimir Putin in the belly of a dead cow",
+    "url": "https://www.telegraph.co.uk/world-news/2026/05/14/dmitry-senin-russia-fsb-escaped-putin-in-dead-cow/",
+    "score": 5,
+    "descendants": 3,
+    "time": 1778813560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144817",
+    "title": "The Power of the Breath",
+    "url": "https://medicine.yale.edu/news-article/the-power-of-the-breath/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1778822175,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145108",
+    "title": "Canada Is Acting Increasingly Like the EU's 28th Member State",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-12/alienated-by-trump-carney-s-canada-is-moving-closer-to-europe",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778825328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48142950",
+    "title": "Build iterative repair loops with Codex",
+    "url": "https://developers.openai.com/cookbook/examples/codex/build_iterative_repair_loops_with_codex",
+    "score": 5,
+    "descendants": 1,
+    "time": 1778804427,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144617",
+    "title": "US reportedly dropped fraud charges against Adani after he hired Trump's lawyer",
+    "url": "https://www.theguardian.com/us-news/2026/may/14/gautam-adani-billionaire-trump",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778819917,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144353",
+    "title": "How Do VPNs Protect Your Privacy? VPN Overview",
+    "url": "https://www.privacyguides.org/en/basics/vpn-overview/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778816999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143377",
+    "title": "Codex Harness in OpenClaw",
+    "url": "https://openclaw.ai/blog/openai-models-in-openclaw-done-right",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778808175,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143206",
+    "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
+    "url": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1778806709,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144796",
+    "title": "Social Media Bans Are for Kids. What About Adults?",
+    "url": "https://pmz1.substack.com/p/social-media-bans-are-for-kids-what",
+    "score": 4,
+    "descendants": 4,
+    "time": 1778821934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144384",
+    "title": "Latvian government collapses after Ukrainian drones strike oil facility",
+    "url": "https://www.theglobeandmail.com/world/article-latvian-government-collapses-after-ukrainian-drones-possibly/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1778817414,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145622",
+    "title": "Power up your Domain Specific Language",
+    "url": "https://slangify.org/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778830331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145095",
+    "title": "Show HN: I solved my study problems by talking to a goose",
+    "url": "https://professorgoose.com/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1778825167,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145567",
+    "title": "Windscribe – We'll move HQ and take our taxes elsewhere",
+    "url": "https://twitter.com/windscribecom/status/2055044048122003569",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778829874,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145514",
+    "title": "Zero-day exploit defeats default Windows 11 BitLocker protections",
+    "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778829411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145415",
+    "title": "'Everyone is unhappy': Meta faces grim mood, plans 8k layoffs soon amid cuts",
+    "url": "https://www.aol.com/finance/everyone-unhappy-meta-employees-describe-151500588.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778828613,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48145073",
+    "title": "I built an extension to preview GitHub repos and links without opening new tabs",
+    "url": "https://gopeekapp.github.io/gopeek/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778824863,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144749",
+    "title": "OpenAI just lost its enterprise AI crown to Anthropic",
+    "url": "https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778821444,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144735",
+    "title": "Edith Eger, Auschwitz Survivor Who Helped Others Cope with Trauma, Dies at 98",
+    "url": "https://www.wsj.com/world/edith-eva-eger-dead-13268534",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778821094,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144584",
+    "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+    "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778819541,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144358",
+    "title": "White-collar workers report growing feelings of 'AI brain fry'",
+    "url": "https://www.ft.com/content/0ba3bd4f-cc3a-4cad-8a8e-76925da2a711",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778817076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48144249",
+    "title": "Musk's China trip during OpenAI trial prompts apology from his lawyer",
+    "url": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778815968,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48143680",
+    "title": "Agentic Search Models",
+    "url": "https://softwaredoug.com/blog/2026/05/11/the-new-agentic-search-models.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1778810681,
+    "source": "hackernews"
+  }
+]
