@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48188183",
+    "title": "The last six months in LLMs in five minutes",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "score": 353,
+    "descendants": 226,
+    "time": 1779154242,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188665",
+    "title": "Peter Salus has died",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "score": 122,
+    "descendants": 10,
+    "time": 1779159402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188310",
+    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+    "score": 99,
+    "descendants": 105,
+    "time": 1779155508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187680",
+    "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+    "url": "https://vas-blog.pages.dev/qwen-censorship/",
+    "score": 77,
+    "descendants": 39,
+    "time": 1779149791,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188787",
+    "title": "Peter Neumann has died",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+    "score": 71,
+    "descendants": 3,
+    "time": 1779160665,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189156",
+    "title": "Codex-maxxing",
+    "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+    "score": 68,
+    "descendants": 46,
+    "time": 1779164685,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188506",
+    "title": "War game exposed U.S. vulnerability to low-tech warfare",
+    "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+    "score": 46,
+    "descendants": 54,
+    "time": 1779157529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189026",
+    "title": "Apple Silicon costs less than OpenRouter",
+    "url": "https://twitter.com/rohan_sood15/status/2056585919805714777",
+    "score": 43,
+    "descendants": 19,
+    "time": 1779163311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189225",
+    "title": "As of April 2026: Iran has destroyed 42 U.S. Military Aircraft in Op: Epic Fury",
+    "url": "https://nationalsecurityjournal.org/iran-destroyed-42-u-s-military-aircraft-in-operation-epic-fury-lessons-must-be-learned/",
+    "score": 43,
+    "descendants": 13,
+    "time": 1779165483,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187736",
+    "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
+    "url": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
+    "score": 41,
+    "descendants": 24,
+    "time": 1779150264,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189368",
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "score": 36,
+    "descendants": 5,
+    "time": 1779167089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189178",
+    "title": "PyTorch Landscape",
+    "url": "https://pytorch.landscape2.io",
+    "score": 29,
+    "descendants": 4,
+    "time": 1779164979,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188469",
+    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "url": "https://techxplore.com/news/2026-05-centers-nearby-temperatures-degrees-phoenix.html",
+    "score": 25,
+    "descendants": 2,
+    "time": 1779157026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189044",
+    "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+    "url": "https://github.com/harmont-dev/hsrs",
+    "score": 22,
+    "descendants": 1,
+    "time": 1779163569,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188684",
+    "title": "PgBackRest Will Continue",
+    "url": "https://pgbackrest.org/news.html#will-continue",
+    "score": 19,
+    "descendants": 1,
+    "time": 1779159604,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189462",
+    "title": "Signal warns it would pull out of Canada if made to comply with access bill",
+    "url": "https://www.theglobeandmail.com/politics/article-signal-warns-it-would-pull-out-of-canada-if-made-to-comply-with-lawful/",
+    "score": 14,
+    "descendants": 4,
+    "time": 1779167912,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188727",
+    "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+    "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+    "score": 13,
+    "descendants": 1,
+    "time": 1779160005,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188911",
+    "title": "Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+    "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
+    "score": 12,
+    "descendants": 0,
+    "time": 1779161912,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188996",
+    "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+    "url": "https://www.llmcap.io/",
+    "score": 10,
+    "descendants": 6,
+    "time": 1779163017,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189363",
+    "title": "Nordstjernen Web Browser",
+    "url": "https://www.nordstjernen.org/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1779167013,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189680",
+    "title": "Humble Tech Book Bundle: The Ultimate Functional Programming",
+    "url": "https://www.humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books",
+    "score": 9,
+    "descendants": 4,
+    "time": 1779169695,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48190348",
+    "title": "My domain got abused on GitHub Pages",
+    "url": "https://meertens.dev/blog/github-enables-domain-abuse/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1779175739,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187714",
+    "title": "Melbourne psychiatrist refuses new patients who don't consent to AI note-taking",
+    "url": "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779150078,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187853",
+    "title": "May I recommend eww for Emacs's innovative UI?",
+    "url": "https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779151260,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187727",
+    "title": "AgentCRM – Headless CRM for Claude Code",
+    "url": "https://github.com/cluster-software/agent-crm",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779150196,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188741",
+    "title": "Show HN: Clark-Browser – Stealth Chromium",
+    "url": "https://github.com/clark-labs-inc/clark-browser",
+    "score": 7,
+    "descendants": 2,
+    "time": 1779160191,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187643",
+    "title": "how coding harnesses are used, an introspection",
+    "url": "https://research.tamarillo.ai/coding-harness-inspection/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1779149516,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188971",
+    "title": "Finnish spy chief warns Europe may never break free from foreign tech",
+    "url": "https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1779162705,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189580",
+    "title": "Filipino virtual assistants behind LinkedIn's \"thought leadership\" content mill",
+    "url": "https://restofworld.org/2026/virtual-assistant-linkedin-engagement/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1779168842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188576",
+    "title": "Baseball is learning to live with shorter attention spans",
+    "url": "https://www.ft.com/content/f499089d-a104-44ad-9773-1ef31715afae",
+    "score": 7,
+    "descendants": 0,
+    "time": 1779158344,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188210",
+    "title": "The Coming Food Crisis in South Asia",
+    "url": "https://thediplomat.com/2026/05/the-coming-food-crisis-in-south-asia/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779154562,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187814",
+    "title": "Google and Blackstone to Create New AI Cloud Company",
+    "url": "https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779150836,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187581",
+    "title": "Nous Research edits GitHub issue to remove plagiarism claims about Hermes Agent",
+    "url": "https://github.com/NousResearch/hermes-agent/issues/10232",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779149028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189322",
+    "title": "No, I don't want my kids using your stupid AI",
+    "url": "https://www.theglobeandmail.com/life/article-no-i-dont-want-my-kids-using-your-stupid-ai/",
+    "score": 5,
+    "descendants": 3,
+    "time": 1779166445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188705",
+    "title": "The Mac mini just became infrastructure",
+    "url": "https://thenewstack.io/mac-mini-agent-infrastructure/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779159853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189962",
+    "title": "Deterministic vs. Probabilistic Code Generation",
+    "url": "https://thetechenabler.substack.com/p/deterministic-vs-probabilistic-code",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779172375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189233",
+    "title": "Mug Shots: A Small Town Noir (2014)",
+    "url": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779165571,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189142",
+    "title": "SEC to Ready Plan for Trading Crypto Versions of Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/sec-is-said-to-ready-plan-for-trading-crypto-versions-of-stocks",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779164566,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187637",
+    "title": "From-scratch reimplementation of Mythos Glasswing pipeline",
+    "url": "https://github.com/evilsocket/audit",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779149464,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189394",
+    "title": "Windows AI Background Services Are Slowing Down Your PC",
+    "url": "https://www.fixtech.co.ke/2026/05/windows-ai-background-services-are.html",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779167375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48190359",
+    "title": "A new EDIT tool for LLM agents",
+    "url": "https://antirez.com/news/166",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779175812,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189437",
+    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779167703,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189331",
+    "title": "Linux 7.1-rc4: security list \"almost unmanageable\" from AI bug reports",
+    "url": "https://lwn.net/Articles/1073192/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779166488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48188540",
+    "title": "OpenBSD/zaurus: pocket-sized BSD",
+    "url": "http://miod.online.fr/software/openbsd/stories/zaurus2.html",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779157826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48187940",
+    "title": "Will the Indus Valley script ever be deciphered?",
+    "url": "https://www.livescience.com/archaeology/will-the-indus-valley-script-ever-be-deciphered",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779152236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48190205",
+    "title": "Pythagorean Addition",
+    "url": "https://entropicthoughts.com/pythagorean-addition",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779174432,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189624",
+    "title": "SpaceX IPO set to ensure Elon Musk cannot be fired",
+    "url": "https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779169275,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48189544",
+    "title": "Show HN: Closed Rings – A CLI-first time tracker for developers",
+    "url": "https://closedrings.sh/en",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779168540,
+    "source": "hackernews"
+  }
+]
