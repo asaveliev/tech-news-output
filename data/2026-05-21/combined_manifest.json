@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48216278",
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "score": 179,
+    "descendants": 131,
+    "time": 1779323761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217052",
+    "title": "OpenAI to confidentially file for IPO as soon as Friday",
+    "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+    "score": 133,
+    "descendants": 98,
+    "time": 1779330275,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216983",
+    "title": "Haskell Foundation 2026 Update",
+    "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "score": 101,
+    "descendants": 23,
+    "time": 1779329603,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48219060",
+    "title": "Vivaldi 8.0",
+    "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+    "score": 64,
+    "descendants": 17,
+    "time": 1779348115,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216619",
+    "title": "What is a Demand Coop",
+    "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+    "score": 54,
+    "descendants": 54,
+    "time": 1779326452,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217199",
+    "title": "Apple's new iPhone comes with Israeli chips",
+    "url": "https://nonogra.ph/apples-new-iphone-comes-with-israeli-chips-05-21-2026",
+    "score": 14,
+    "descendants": 2,
+    "time": 1779331425,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216900",
+    "title": "Smart Earbuds with built-in camera and AI",
+    "url": "https://heyordo.com",
+    "score": 12,
+    "descendants": 7,
+    "time": 1779328678,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216786",
+    "title": "Show HN: CipherStash Stack – Data Level Access Control in TS/JS",
+    "url": "https://cipherstash.com/blog/introducing-cipherstash-stack",
+    "score": 12,
+    "descendants": 0,
+    "time": 1779327764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218161",
+    "title": "Meta Lays Off 8k Employees, as A.I. Casualties Mount",
+    "url": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+    "score": 11,
+    "descendants": 5,
+    "time": 1779340418,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217499",
+    "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+    "url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1779333899,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216236",
+    "title": "Technology creates an illusion of control that risks robbing us of meaning",
+    "url": "https://www.punkt.ch/blogs/editorials/punkt-losing-traction",
+    "score": 10,
+    "descendants": 1,
+    "time": 1779323395,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216582",
+    "title": "81yo Grandma Streaming Minecraft to Pay for Grandson's Cancer Swatted",
+    "url": "https://www.thegamer.com/grammacrackers-81-year-old-minecraft-youtuber-swatted/",
+    "score": 9,
+    "descendants": 2,
+    "time": 1779326245,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216195",
+    "title": "White House briefs AI firms on plans for model review",
+    "url": "https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779322998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217515",
+    "title": "Why does the arrow (->) operator in C exist?",
+    "url": "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779334080,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216862",
+    "title": "HD189733B: A hot Jupiter that rains molten glass",
+    "url": "https://en.wikipedia.org/wiki/HD_189733_b",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779328350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216091",
+    "title": "Elon Musk's X admits noncompliance with Australia child protection request",
+    "url": "https://www.reuters.com/legal/litigation/elon-musks-x-admits-noncompliance-with-australia-child-protection-request-2026-05-20/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779322133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216966",
+    "title": "House Passes Housing Bill, Uniting on a Measure to Bring Down Costs",
+    "url": "https://www.nytimes.com/2026/05/20/us/politics/housing-bill-house-senate-trump.html",
+    "score": 7,
+    "descendants": 1,
+    "time": 1779329394,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216066",
+    "title": "Convicted Felon Gets $1M/Year to Sell Obsolete Internet Service. You Pay for It",
+    "url": "https://www.propublica.org/article/alaska-telecom-subsidies-roger-shoffstall",
+    "score": 7,
+    "descendants": 1,
+    "time": 1779321945,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217275",
+    "title": "Trump Executive Order Expands Bank Secrecy Act",
+    "url": "https://www.therage.co/trump-executive-order-expands-bank-secrecy-act/",
+    "score": 6,
+    "descendants": 2,
+    "time": 1779332100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217242",
+    "title": "MoonRay, DreamWorks Animation's Open Source Production Renderer",
+    "url": "https://www.aswf.io/news/moonray-dreamworks-animations-open-source-production-renderer-joins-the-academy-software-foundation/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779331842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216953",
+    "title": "Long-Term Finasteride and Dutasteride Use: It's Time to Sound the Alarm",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7308241/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779329273,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216070",
+    "title": "Physicists confirm 'negative time' is real by asking the atoms themselves",
+    "url": "https://www.livescience.com/physics-mathematics/quantum-physics/physicists-confirm-negative-time-is-real-by-asking-the-atoms-themselves",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779321973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217696",
+    "title": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI",
+    "url": "https://www.reuters.com/legal/transactional/bound-mars-elon-musks-spacex-unveils-filing-blockbuster-ipo-2026-05-20/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779335841,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216614",
+    "title": "Nx Console VS Code extension was the initial access vector in the GitHub breach",
+    "url": "https://twitter.com/jeffbcross/status/2057236396658811020",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779326420,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218739",
+    "title": "Noyb success: ORF.at must correct misleading cookie banner",
+    "url": "https://noyb.eu/en/noyb-success-orfat-must-correct-misleading-cookie-banner",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779345608,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217038",
+    "title": "PyTorch 2.12 Release",
+    "url": "https://pytorch.org/blog/pytorch-2-12-release-blog/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779330151,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216103",
+    "title": "Open-source Discord alternative GoofCord has been released",
+    "url": "https://github.com/Milkshiift/GoofCord",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779322224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216099",
+    "title": "The hype literacy toolkit for journalists",
+    "url": "https://akademie.dw.de/hype-literacy/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779322209,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217074",
+    "title": "I made a browser alone and barely got any users",
+    "url": "https://kagerou.glass/",
+    "score": 4,
+    "descendants": 6,
+    "time": 1779330476,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218565",
+    "title": "SpaceX's historic IPO plans: Billions in losses and Musk's ownership",
+    "url": "https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html",
+    "score": 4,
+    "descendants": 3,
+    "time": 1779343878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48219117",
+    "title": "Hexed.it",
+    "url": "https://hexed.it/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779348710,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217040",
+    "title": "Private equity's new escape hatch keeps unsold companies in limbo",
+    "url": "https://www.ft.com/content/92a167c0-206b-4408-9a60-f56c6f68cf6a",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779330165,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48219231",
+    "title": "Cannot see all pull requests [still true after a month]",
+    "url": "https://github.com/orgs/community/discussions/193463",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779349710,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218580",
+    "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
+    "url": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779344081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218106",
+    "title": "Iran is consolidating control of Hormuz with checkpoints, deals, and 'fees'",
+    "url": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779340011,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218092",
+    "title": "Obsidian plugins are (mostly) dangerous",
+    "url": "https://zeroquarry.com/research/excalidraw-vulnerabilities/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779339932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217702",
+    "title": "SpaceX Filing Reveals $4.28B Loss, Musk's Tight Grip (3)",
+    "url": "https://news.bloomberglaw.com/capital-markets/musks-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779335934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217162",
+    "title": "To study how chips work, MIT researchers built their own operating system",
+    "url": "https://www.csail.mit.edu/news/study-how-chips-really-work-mit-researchers-built-their-own-operating-system",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779331126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216962",
+    "title": "SpaceX S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm#id286866c4c474ba490d6531a57db9e93_57",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779329352,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48219213",
+    "title": "Claude Mythos Audited Symfony and Found 19 Vulnerabilities",
+    "url": "https://symfony.com/blog/claude-mythos-audited-symfony-and-found-19-vulnerabilities",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779349556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218551",
+    "title": "Déjà moo: cows can recognise the faces of people they know",
+    "url": "https://www.thetimes.com/uk/science/article/cattle-ability-recall-human-faces-ttn6v0nns",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779343731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48218136",
+    "title": "Google Health 5.0 rolling out with new stats widget on Android",
+    "url": "https://9to5google.com/2026/05/20/google-health-5-0-widget/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779340247,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217777",
+    "title": "List of Alleged Extraterrestrial Beings",
+    "url": "https://en.wikipedia.org/wiki/List_of_alleged_extraterrestrial_beings",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779336641,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217724",
+    "title": "VPNs: The \"Most Trusted\" Security Tool Until Claude Roasts It in a Weekend",
+    "url": "https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779336154,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217300",
+    "title": "Figma Design Agent",
+    "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779332341,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217283",
+    "title": "The Google AI Pro plan just got a quiet downgrade",
+    "url": "https://www.androidcentral.com/apps-software/ai/google-ai-pro-plan-just-got-a-quiet-downgrade",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779332194,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48217087",
+    "title": "Google is dethroning OpenAI as the king of consumer AI",
+    "url": "https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779330555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48216937",
+    "title": "Building DeepSeek's Answer to Claude Code",
+    "url": "https://dlcmh.github.io/deepseek-harness",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779329075,
+    "source": "hackernews"
+  }
+]
