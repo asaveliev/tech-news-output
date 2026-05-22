@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48230892",
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "score": 214,
+    "descendants": 168,
+    "time": 1779413445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231319",
+    "title": "Cleve Moler has died",
+    "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+    "score": 76,
+    "descendants": 4,
+    "time": 1779417354,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231226",
+    "title": "It is time to build a new internet",
+    "url": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
+    "score": 65,
+    "descendants": 83,
+    "time": 1779416393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231938",
+    "title": "Slumber a TUI HTTP Client",
+    "url": "https://slumber.lucaspickering.me",
+    "score": 52,
+    "descendants": 22,
+    "time": 1779424163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231815",
+    "title": "SpaceX not the behemoth everyone thought",
+    "url": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai",
+    "score": 52,
+    "descendants": 22,
+    "time": 1779422616,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232118",
+    "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "url": "https://arxiv.org/abs/2605.19269",
+    "score": 52,
+    "descendants": 4,
+    "time": 1779425673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231477",
+    "title": "Logging Off",
+    "url": "https://user8.bearblog.dev/logging-off/",
+    "score": 45,
+    "descendants": 22,
+    "time": 1779418931,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230720",
+    "title": "How you probably will find Satoshi",
+    "url": "https://foxchapelresearch.substack.com/p/how-you-probably-will-find-satoshi",
+    "score": 41,
+    "descendants": 9,
+    "time": 1779411923,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230868",
+    "title": "Iran Moved Billions Through Binance to Fund Regime–Continuing into This Month",
+    "url": "https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218",
+    "score": 23,
+    "descendants": 1,
+    "time": 1779413247,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230439",
+    "title": "U.S. bears brunt of Israel's missile defense, Pentagon assessments show",
+    "url": "https://www.washingtonpost.com/national-security/2026/05/21/us-bears-brunt-israels-missile-defense-pentagon-assessments-show/",
+    "score": 20,
+    "descendants": 3,
+    "time": 1779409403,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232060",
+    "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+    "url": "https://pythongiant.github.io/KVBoost/",
+    "score": 18,
+    "descendants": 14,
+    "time": 1779425268,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231136",
+    "title": "Riot Games celebrates bricking cheat devices",
+    "url": "https://twitter.com/riotgames/status/2057604027941302564",
+    "score": 17,
+    "descendants": 6,
+    "time": 1779415535,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48233177",
+    "title": "Deepfakes Tore a High School Apart",
+    "url": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+    "score": 17,
+    "descendants": 1,
+    "time": 1779436335,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230781",
+    "title": "Merkel Urges EU to Keep Regulating Social Media Speech",
+    "url": "https://reclaimthenet.org/merkel-eu-speech-regulation-censorship",
+    "score": 11,
+    "descendants": 2,
+    "time": 1779412469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231714",
+    "title": "Newsom intervenes amid historic tech layoffs",
+    "url": "https://www.sfgate.com/politics/article/newsom-california-ai-layoffs-22271312.php",
+    "score": 10,
+    "descendants": 3,
+    "time": 1779421385,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231045",
+    "title": "Wolfram Language",
+    "url": "https://www.wolfram.com/language/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1779414696,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230753",
+    "title": "The AI Bubble – No One's Happy",
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "score": 8,
+    "descendants": 5,
+    "time": 1779412205,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232367",
+    "title": "Why does the arrow (->) operator in C exist?",
+    "url": "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist",
+    "score": 8,
+    "descendants": 3,
+    "time": 1779427859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232147",
+    "title": "Designing Firefox for the Future",
+    "url": "https://blog.mozilla.org/en/firefox/new-firefox-design/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1779425906,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231810",
+    "title": "Israel's arrogance is becoming the evidence in the case against it",
+    "url": "https://www.aljazeera.com/opinions/2026/5/21/israels-arrogance-is-becoming-the-evidence-in-the-case-against-it",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779422509,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231256",
+    "title": "Coins Stream",
+    "url": "https://coins.stream",
+    "score": 7,
+    "descendants": 4,
+    "time": 1779416746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232533",
+    "title": "Show HN: Sylph – the open-source company brain behind my YC startup",
+    "url": "https://github.com/getnao/sylph",
+    "score": 6,
+    "descendants": 2,
+    "time": 1779429779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231808",
+    "title": "AI workflows: an industry optimising the wrong variables",
+    "url": "https://adsurg.substack.com/p/navigating-ai-with-paper-maps",
+    "score": 6,
+    "descendants": 2,
+    "time": 1779422500,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231547",
+    "title": "Build Adafruit projects right from Firefox",
+    "url": "https://www.firefox.com/en-US/landing/adafruit/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779419587,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231578",
+    "title": "Americans beware: markets can be out of sync with reality",
+    "url": "https://www.ft.com/content/d95ce239-4494-4a94-be43-fc678bc6e1c3",
+    "score": 5,
+    "descendants": 3,
+    "time": 1779419922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230698",
+    "title": "Condé Nast expects search to become a single-digit of its traffic",
+    "url": "https://searchengineland.com/conde-nast-search-single-digit-traffic-477358",
+    "score": 5,
+    "descendants": 2,
+    "time": 1779411647,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231956",
+    "title": "Support multiple cursor in macOS – computer use 2.0",
+    "url": "https://twitter.com/bridge_surf/status/2057416247319618039",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779424311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230627",
+    "title": "Trump's IRS \"settlement\" is not limited to $1.776B [video]",
+    "url": "https://www.youtube.com/watch?v=tIBCjzz-bmk",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779411037,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231546",
+    "title": "Alleged Kimwolf Botmaster 'Dort' Arrested, Charged in U.S. and Canada",
+    "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779419581,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231203",
+    "title": "Gopass: The slightly more standard Unix password manager for teams",
+    "url": "https://github.com/gopasspw/gopass",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779416208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231124",
+    "title": "White House yanked AI order after David Sacks raised industry concerns",
+    "url": "https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779415430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231066",
+    "title": "Three matrix algorithms, three walk orders – interactive animations",
+    "url": "https://algo-rhythm.dev/en/matrix/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779414932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48233268",
+    "title": "Trump's Endgame Is Surrender",
+    "url": "https://www.theatlantic.com/international/2026/05/trump-surrender-iran-endgame/687252/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779437465,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231602",
+    "title": "DeepSeek Founder Declares AGI Goal as $10B Round Advances",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779420212,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231495",
+    "title": "India Launches Tradable Rainfall Futures Called Rainmumbai",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-gets-first-rainfall-hedge-as-el-nino-threatens-monsoon",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779419089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230655",
+    "title": "Fork Your Dependencies",
+    "url": "https://twitter.com/mitchellh/status/2057171518027887035",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779411272,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230443",
+    "title": "Human Urine Becomes Option for Farmers in Fertilizer Supply Crunch",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-22/farmers-turn-to-human-urine-after-fertilizer-crunch-from-iran-war",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779409434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230406",
+    "title": "The San Francisco $10k treasure chest has been found",
+    "url": "https://old.reddit.com/r/sanfrancisco/comments/1tjv11f/we_found_a_10000_treasure_chest",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779409132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48233136",
+    "title": "The Writer Who Dared Criticize Silicon Valley",
+    "url": "https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779435866,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232985",
+    "title": "Cisco used AI to write security incident reports, with mixed results",
+    "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779434373,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232901",
+    "title": "Pokélike",
+    "url": "https://pokelike.xyz/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779433511,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232890",
+    "title": "Report Alleges Chinese Influence Behind AI Data Center Pushback in the U.S.",
+    "url": "https://dominotheory.com/report-alleges-chinese-influence-behind-the-ai-data-center-pushback-in-the-u-s/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779433355,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232796",
+    "title": "Pressure from Silicon Valley helped block Trump's expected order on AI",
+    "url": "https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779432446,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48232159",
+    "title": "Ramen at 8. Run after work. Movie tonight. Drop the plan. See who's innn",
+    "url": "https://www.innn.life",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779426072,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231869",
+    "title": "First ever AI feature film premieres at the Cannes Film Festival",
+    "url": "https://www.cgmagonline.com/news/hell-grind-made-only-with-higgsfield-ai/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779423277,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48231611",
+    "title": "Nicotine Patches to Treat Long Covid",
+    "url": "https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience/strange-story-nicotine-patches-treat-long-covid",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779420289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230787",
+    "title": "Consumer groups file complaint against Meta, TikTok and Google running scam ads",
+    "url": "https://www.beuc.eu/press-releases/consumer-groups-file-complaints-against-meta-tiktok-and-google-failing-protect",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779412537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48230613",
+    "title": "San Francisco woman gets photographer's old number. It changes both their lives",
+    "url": "https://www.nbcbayarea.com/news/local/bay-area-proud/san-francisco-woman-gets-photographers-old-phone-number-it-changes-both-their-lives/4079035/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779410885,
+    "source": "hackernews"
+  }
+]
