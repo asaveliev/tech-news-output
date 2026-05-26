@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "48274077",
+    "title": "Does anybody like React?",
+    "url": "https://jsx.lol",
+    "score": 170,
+    "descendants": 211,
+    "time": 1779760515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275059",
+    "title": "The User Is Visibly Frustrated",
+    "url": "https://pscanf.com/s/354/",
+    "score": 125,
+    "descendants": 82,
+    "time": 1779770343,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274794",
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "score": 115,
+    "descendants": 54,
+    "time": 1779767769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274711",
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "url": "https://earthiongame.com/",
+    "score": 56,
+    "descendants": 23,
+    "time": 1779766943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275098",
+    "title": "Notes on Pope Leo XIV's Encyclical on AI",
+    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+    "score": 52,
+    "descendants": 7,
+    "time": 1779770729,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48276363",
+    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+    "url": "https://dynip.dev/",
+    "score": 33,
+    "descendants": 8,
+    "time": 1779780920,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274667",
+    "title": "Why the smart home bubble popped",
+    "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
+    "score": 24,
+    "descendants": 59,
+    "time": 1779766517,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275053",
+    "title": "Real wages start to shrink in developed countries",
+    "url": "https://www.ft.com/content/e126f744-3db9-4305-8871-31f83ebc4ed7",
+    "score": 23,
+    "descendants": 6,
+    "time": 1779770278,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274472",
+    "title": "Waymo suspends all freeway rides over safety issues",
+    "url": "https://sfstandard.com/2026/05/21/waymo-suspends-all-freeway-rides-safety-issues/",
+    "score": 20,
+    "descendants": 4,
+    "time": 1779764222,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273597",
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+    "score": 19,
+    "descendants": 6,
+    "time": 1779755777,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275106",
+    "title": "Self-Driving bus in Sweden crashes with tram on first day of passenger service",
+    "url": "https://www.firstpost.com/auto/self-driving-bus-in-sweden-crashes-with-tram-on-first-day-of-passenger-service-14015075.html",
+    "score": 17,
+    "descendants": 8,
+    "time": 1779770773,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275288",
+    "title": "Will MySpace ever lose its monopoly? (2007)",
+    "url": "https://www.theguardian.com/technology/2007/feb/08/business.comment",
+    "score": 15,
+    "descendants": 2,
+    "time": 1779772638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273309",
+    "title": "Stack Overflow Sold to Tech Giant Prosus for $1.8B (2021)",
+    "url": "https://www.wsj.com/business/deals/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+    "score": 13,
+    "descendants": 12,
+    "time": 1779753706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273688",
+    "title": "Our Warming Planet Is a Petri Dish for New and Deadly Microbes",
+    "url": "https://www.newyorker.com/magazine/2026/06/01/our-warming-planet-is-a-petri-dish-for-new-and-deadly-microbes",
+    "score": 11,
+    "descendants": 6,
+    "time": 1779756614,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273531",
+    "title": "TP-7 Field Recorder",
+    "url": "https://teenage.engineering/products/tp-7",
+    "score": 10,
+    "descendants": 5,
+    "time": 1779755263,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274545",
+    "title": "SK Group chairman says memory chip shortage will last until 2030",
+    "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
+    "score": 10,
+    "descendants": 1,
+    "time": 1779765081,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274018",
+    "title": "Browser-based file encryption tool using WebCrypto",
+    "url": "https://secvant.com/",
+    "score": 9,
+    "descendants": 20,
+    "time": 1779759933,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273633",
+    "title": "She can mentally time travel. Why did everyone think she was lying?",
+    "url": "https://www.popularmechanics.com/science/a70866475/teenager-hyperthymesia-memory-condition/",
+    "score": 9,
+    "descendants": 10,
+    "time": 1779756121,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274048",
+    "title": "Taiwan Overtakes India as Fifth-Largest Stock Market",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/tsmc-s-relentless-rise-powers-taiwan-s-market-value-above-india",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779760194,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273579",
+    "title": "An Open Call to Flipper Devices: Problems with Flipper and How They Can Improve",
+    "url": "https://spicemesh.de/posts/open-call-to-flipper/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1779755631,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275849",
+    "title": "AI Gurus Are Charging Wall Street Banks $25,000 a Day",
+    "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779777180,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275715",
+    "title": "The Pressure",
+    "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779776242,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275656",
+    "title": "America's schools face a backlash on digital devices",
+    "url": "https://apnews.com/article/school-screen-time-technology-edtech-07958fb159c7cfbceb7bfdb37b2bb726",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779775808,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275462",
+    "title": "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+    "url": "https://github.com/andreoliwa/logseq-doctor",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779774205,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273982",
+    "title": "Trump releases new batch of previously classified UFO files",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779759529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48276707",
+    "title": "AI overly affirms users asking for personal advice",
+    "url": "https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779783408,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275360",
+    "title": "John Cleese on Creativity in Management [video]",
+    "url": "https://www.youtube.com/watch?v=Pb5oIIPO62g",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779773237,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273385",
+    "title": "What is 'pink-slime' journalism and has it infiltrated Australian media?",
+    "url": "https://www.abc.net.au/news/2026-05-22/pink-slime-journalism-regional-australia-ai/106639600",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779754200,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275113",
+    "title": "The terrifying rise of schoolboys making AI girlfriends",
+    "url": "https://www.telegraph.co.uk/news/2026/05/25/schoolboys-ai-girlfriends/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1779770842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48276012",
+    "title": "AI guardrails stripped from Meta and Google models in minutes",
+    "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779778271,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275571",
+    "title": "Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code",
+    "url": "https://github.com/human-avatar/skills-for-humanity",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779775123,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275186",
+    "title": "Tech CEOs summoned to Congress for another hearing on social media's risks",
+    "url": "https://apnews.com/article/tech-ceos-senate-hearing-zuckerberg-8c2c46758fd669e688170f96fa12a882",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779771488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275069",
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779770457,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274336",
+    "title": "Show HN: Pgcraft – a lazygit-style TUI for Postgres",
+    "url": "https://github.com/lucasfrederico/pgcraft",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779762960,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274215",
+    "title": "Crypto code commits fall 75% as developers move to AI projects",
+    "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779761937,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275719",
+    "title": "Standard WiFi can identify individuals with near-perfect accuracy",
+    "url": "https://www.digitaljournal.com/tech-science/privacy-any-wi-fi-can-now-identify-you-with-near-perfect-accuracy/article",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779776287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274056",
+    "title": "If you're asked to confirm that you're an adult",
+    "url": "https://support.apple.com/en-us/125662",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779760254,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48276244",
+    "title": "A look inside ITER, the world's largest fusion energy project",
+    "url": "https://www.cnet.com/science/climate/inside-the-worlds-biggest-bet-on-fusion-energy/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779779889,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275902",
+    "title": "Microsoft to Publishers: Don't Block the AI Bots",
+    "url": "https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779777494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275730",
+    "title": "Stealth Firefox that passes every bot detection test",
+    "url": "https://github.com/feder-cr/invisible_playwright",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779776398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275257",
+    "title": "America's schools face backlash on digital devices as screens saturate classroom",
+    "url": "https://www.boston25news.com/news/technology/americas-schools/XFNZQ73AT4Y3RCPO5A4AV3A6SU/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779772165,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274590",
+    "title": "Webwright: A Terminal Is All You Need for Web Agents",
+    "url": "https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779765625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48274437",
+    "title": "Human-Made Materials Now Weigh More Than All Life on Earth Combined (2020)",
+    "url": "https://www.smithsonianmag.com/smart-news/human-made-materials-now-weigh-more-all-life-earth-combined-180976522/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779763938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48273347",
+    "title": "Sweden now considered a smoke free country",
+    "url": "https://www.sverigesradio.se/artikel/sweden-now-considered-a-smoke-free-country",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779753979,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275750",
+    "title": "ThriftAttention: Selective Mixed Precision for Long-Context FP4 Attention",
+    "url": "https://arxiv.org/abs/2605.23081",
+    "score": 3,
+    "descendants": 1,
+    "time": 1779776525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275661",
+    "title": "What ClickUp's mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "score": 3,
+    "descendants": 1,
+    "time": 1779775865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48275407",
+    "title": "Why Is It So Hard to Be Ordinary?",
+    "url": "https://www.newyorker.com/culture/open-questions/why-is-it-so-hard-to-be-ordinary",
+    "score": 3,
+    "descendants": 1,
+    "time": 1779773612,
+    "source": "hackernews"
+  }
+]
