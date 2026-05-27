@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48287982",
+    "title": "Stripe is friendly to “friendly fraud”",
+    "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+    "score": 269,
+    "descendants": 172,
+    "time": 1779842405,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287952",
+    "title": "Erin Brockovich made a map to track data centers around the country",
+    "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+    "score": 219,
+    "descendants": 206,
+    "time": 1779842163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288191",
+    "title": "Where does next-token prediction leave us?",
+    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+    "score": 178,
+    "descendants": 134,
+    "time": 1779844244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289439",
+    "title": "The just-say-no engineer was a ZIRP phenomenon",
+    "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+    "score": 137,
+    "descendants": 109,
+    "time": 1779854202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287678",
+    "title": "Sonny Rollins, jazz saxophonist, has died",
+    "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+    "score": 109,
+    "descendants": 14,
+    "time": 1779840184,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287649",
+    "title": "AI tools are only as good as your judgment",
+    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "score": 79,
+    "descendants": 22,
+    "time": 1779840035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288478",
+    "title": "Scientists say they've reversed brain aging in mice with a nasal spray",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+    "score": 61,
+    "descendants": 27,
+    "time": 1779846736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288174",
+    "title": "Tunecat: Simple Internet Radio",
+    "url": "https://codeberg.org/lindenii/tunecat/",
+    "score": 47,
+    "descendants": 3,
+    "time": 1779844096,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287808",
+    "title": "Agent Memory: An Anatomy",
+    "url": "https://brgsk.xyz/agent-memory-anatomy/",
+    "score": 39,
+    "descendants": 18,
+    "time": 1779841086,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289950",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "score": 30,
+    "descendants": 4,
+    "time": 1779858819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289203",
+    "title": "Power bills more than 250 per cent higher near data centres",
+    "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-market-factors-power-bills-more-than-250-per-cent-higher-near-data/",
+    "score": 25,
+    "descendants": 3,
+    "time": 1779852385,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288709",
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+    "url": "https://tsduck.io/",
+    "score": 24,
+    "descendants": 1,
+    "time": 1779848579,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290462",
+    "title": "Show HN: GoPeek – open links in live mini browser windows without new tabs",
+    "url": "https://guptalog.substack.com/p/gopeek-open-links-in-live-mini-browser",
+    "score": 20,
+    "descendants": 2,
+    "time": 1779863353,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289624",
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "url": "https://github.com/craigmccaskill/posthorn",
+    "score": 17,
+    "descendants": 11,
+    "time": 1779855986,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287929",
+    "title": "The Best Engineers Write Less Code",
+    "url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code/",
+    "score": 17,
+    "descendants": 9,
+    "time": 1779842011,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289660",
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "score": 16,
+    "descendants": 11,
+    "time": 1779856230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288165",
+    "title": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
+    "url": "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html",
+    "score": 11,
+    "descendants": 5,
+    "time": 1779844033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288815",
+    "title": "Clanker: A Word for the Machine",
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "score": 11,
+    "descendants": 3,
+    "time": 1779849325,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290383",
+    "title": "Leaked Documents Reveal Russian 'Cognitive Strikes' Against the West",
+    "url": "https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779862826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288733",
+    "title": "Modos Flow – A paper-like monitor for reading, writing, and focused work",
+    "url": "https://www.crowdsupply.com/modos-tech/modos-flow",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779848719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288616",
+    "title": "Steve Jobs in Exile: NeXT and the Making of a Comeback [video]",
+    "url": "https://www.youtube.com/watch?v=WnZeiw8q4Wk",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779847888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288326",
+    "title": "Paxton Wins Texas Republican Primary After Trump Endorsement",
+    "url": "https://www.reuters.com/world/us/cornyn-fights-political-life-against-trump-endorsed-paxton-texas-2026-05-26/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1779845427,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288213",
+    "title": "\"my battery is low and it's getting dark\" – were never sent from Mars",
+    "url": "https://spacedaily.com/b-the-opportunity-rovers-famous-last-words-my-battery-is-low-and-its-getting-dark-were-never-actually-sent-from-mars-the-real-story-of-where-that-sentence-came-from-is-stranger/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1779844443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289164",
+    "title": "You Can't Stop This Data Center, a Mom Was Told. She Won't Quit",
+    "url": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779851998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287760",
+    "title": "Pope Leo warns AI challenges must be confronted with regulation, transparency",
+    "url": "https://www.cbc.ca/news/world/pope-leo-magnifica-humanitas-encylical-9.7210842",
+    "score": 8,
+    "descendants": 0,
+    "time": 1779840739,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288837",
+    "title": "Researchers Warn of WiFi 7 Routers as 'A Potential Means for Surveillance'",
+    "url": "https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181",
+    "score": 7,
+    "descendants": 4,
+    "time": 1779849434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287901",
+    "title": "theta: a humble approach to harness agnostic configuration",
+    "url": "https://github.com/tamarillo-ai/theta",
+    "score": 7,
+    "descendants": 2,
+    "time": 1779841789,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289117",
+    "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
+    "url": "https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1779851619,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289056",
+    "title": "Billionaire Mark Cuban says bye-bye Bitcoin: Why he is 'disappointed' by crypto",
+    "url": "https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779851112,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288163",
+    "title": "Netherlands blocked US company from buying provider of Dutch digital identity",
+    "url": "https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity",
+    "score": 6,
+    "descendants": 1,
+    "time": 1779844008,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288300",
+    "title": "Mined in America Act Would Put Bitcoin Network at Risk",
+    "url": "https://www.therage.co/mined-in-america-act-bitcoin-at-risk/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1779845154,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48291034",
+    "title": "Spotify CEO defends AI music, wants you to stop calling it 'slop'",
+    "url": "https://www.neowin.net/news/spotify-ceo-defends-ai-music-wants-you-to-stop-calling-it-slop/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1779868299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290149",
+    "title": "Four Big Takeaways from the FBI's Report on Internet Crime",
+    "url": "https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8",
+    "score": 5,
+    "descendants": 1,
+    "time": 1779860810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290029",
+    "title": "Russian censors target Visual Novel titles on Steam",
+    "url": "https://xcancel.com/ebihimes/status/2059363728693608573",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779859528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288761",
+    "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
+    "url": "https://gearcommit.nanocorp.app/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779848964,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288583",
+    "title": "Gardeners often hear about supposed hacks and quick fix. Here are some debunked",
+    "url": "https://apnews.com/article/gardening-myths-vinegar-tilling-watering-c07faf7472e7a2dc40d3886b94f1b508",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779847630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288564",
+    "title": "Dubious Chinese Carbon Projects Expose Depth of European Market's Flaws",
+    "url": "https://www.bloomberg.com/graphics/2026-europe-china-dubious-carbon-credits/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1779847480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288156",
+    "title": "Ian's Shoelace Site",
+    "url": "https://www.fieggen.com/shoelace/index.htm",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779843940,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287894",
+    "title": "Toxic Truth: How Wikipedia Poisons Global Knowledge",
+    "url": "https://ellakenan100.substack.com/p/toxic-truth-how-wikipedia-poisons",
+    "score": 4,
+    "descendants": 2,
+    "time": 1779841734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290214",
+    "title": "This Film Cost $500,000 to Make. $400,000 Was AI Compute Costs",
+    "url": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779861324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289960",
+    "title": "How should we think about Starship?",
+    "url": "https://mceglowski.substack.com/p/how-should-we-think-about-starship",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779858934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289755",
+    "title": "Nine Crypto Whales Dominate Polymarket Disputes Worth Billions",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-26/nine-crypto-whales-dominate-polymarket-disputes-video",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779857132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48288264",
+    "title": "New Class of Gaming Systems (Hardware): Imagination Based Gaming [video]",
+    "url": "https://www.youtube.com/shorts/TU0SFNk0hg0",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779844857,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48287742",
+    "title": "Bye-Bye, HR – Bolt Boots HR Dept",
+    "url": "https://nypost.com/2026/05/26/opinion/bye-bye-hr-lets-hope-bolt-financial-ceo-ryan-breslow-starts-a-trend/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1779840628,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290669",
+    "title": "Choosing to Stay Human means choosing when and how to use AI",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779865029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290563",
+    "title": "Is Peter Thiel the Target of Pope Leo's Gandalf Quote? An Investigation",
+    "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779864216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48290177",
+    "title": "Bangladesh measles cases: children die within months",
+    "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779860987,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48289698",
+    "title": "Show HN: Tasmap – Canva for Maps",
+    "url": "https://tasmap.app/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1779856596,
+    "source": "hackernews"
+  }
+]
