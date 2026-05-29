@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "48318481",
+    "title": "Cars collect a startling amount of data about you",
+    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "score": 300,
+    "descendants": 136,
+    "time": 1780023660,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317774",
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "score": 262,
+    "descendants": 261,
+    "time": 1780017398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318678",
+    "title": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+    "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "score": 205,
+    "descendants": 8,
+    "time": 1780025535,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319509",
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "score": 85,
+    "descendants": 38,
+    "time": 1780033536,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317339",
+    "title": "Where are the economies of scale in homebuilding?",
+    "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+    "score": 77,
+    "descendants": 101,
+    "time": 1780013780,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317294",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "score": 70,
+    "descendants": 44,
+    "time": 1780013375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318174",
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "score": 59,
+    "descendants": 12,
+    "time": 1780020800,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318313",
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "score": 50,
+    "descendants": 14,
+    "time": 1780021993,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317563",
+    "title": "Microsoft data suggests using AI is more expensive than hiring people",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+    "score": 50,
+    "descendants": 6,
+    "time": 1780015745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319968",
+    "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "score": 27,
+    "descendants": 21,
+    "time": 1780038331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319524",
+    "title": "Zot now supports Claude Opus 4.8",
+    "url": "https://www.zot.sh",
+    "score": 26,
+    "descendants": 23,
+    "time": 1780033701,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318720",
+    "title": "GNUtrition 0.33.0rc3",
+    "url": "https://savannah.gnu.org/news/?id=10895",
+    "score": 18,
+    "descendants": 0,
+    "time": 1780025947,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318978",
+    "title": "Python utility package for building Claude Code hooks",
+    "url": "https://github.com/RasmusGodske/claude-hook-utils",
+    "score": 17,
+    "descendants": 1,
+    "time": 1780028314,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318985",
+    "title": "Asterinas – Forge the Future of Rust OSes",
+    "url": "https://asterinas.github.io/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1780028375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320007",
+    "title": "US Military personnel are being targeted using location data",
+    "url": "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/",
+    "score": 11,
+    "descendants": 2,
+    "time": 1780038652,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317848",
+    "title": "White House pushes Congress to approve $250 bill with Trump's image",
+    "url": "https://www.theguardian.com/us-news/2026/may/28/trump-250-bill",
+    "score": 10,
+    "descendants": 5,
+    "time": 1780017986,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318522",
+    "title": "Let's compile Quake like it's 1997",
+    "url": "https://fabiensanglard.net/compile_like_1997/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1780024042,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317224",
+    "title": "Eric Schmidt believes the era of writing code manually is coming to an end",
+    "url": "https://www.inkl.com/news/if-youre-writing-code-traditionally-stop-its-over-former-google-ceo-eric-schmidt-explains-why-he-is-mourning-as-a-programmer/qYwMPRFlVMQ",
+    "score": 9,
+    "descendants": 11,
+    "time": 1780012868,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318568",
+    "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+    "url": "https://github.com/HeidiSQL/HeidiSQL",
+    "score": 9,
+    "descendants": 2,
+    "time": 1780024479,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319223",
+    "title": "Russian drone crashes into apartment building in Romania",
+    "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo",
+    "score": 9,
+    "descendants": 0,
+    "time": 1780030661,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317986",
+    "title": "Blue Origin New Glenn Rocket Apparently Explodes at Cape Canaveral, Florida",
+    "url": "https://www.floridatoday.com/story/tech/science/space/2026/05/28/blue-origin-new-glenn-rocket-apparently-explodes-on-launch-pad-in-cape-canaveral-florida--live/90305379007/",
+    "score": 8,
+    "descendants": 3,
+    "time": 1780019360,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318450",
+    "title": "Blue Origin rocket, owned by Jeff Bezos, explodes during test in Florida",
+    "url": "https://www.theguardian.com/science/2026/may/29/blue-origin-rocket-explodes",
+    "score": 8,
+    "descendants": 1,
+    "time": 1780023431,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320012",
+    "title": "Is Russia Maneuvering to Threaten an Iceye Satellite?",
+    "url": "https://integrityisr.com/is-russia-maneuvering-to-threaten-an-iceye-satellite/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1780038700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318960",
+    "title": "Step 3.7 Flash – Open-source multimodal model for speed and agents",
+    "url": "https://static.stepfun.com/blog/step-3.7-flash/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1780028158,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318853",
+    "title": "Trump Administration Defends Samuel Alito's Son as Secretive Role Revealed",
+    "url": "https://www.newsweek.com/trump-administration-defends-samuel-alitos-son-secretive-role-revealed-12004159",
+    "score": 6,
+    "descendants": 2,
+    "time": 1780027123,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317628",
+    "title": "Musk abandoned his own solar electric economy to burn gas for an unused AI chat",
+    "url": "https://electrek.co/2026/05/25/musk-solar-hypocrisy-gas-ai-chatbot-space-solar-spacex-ipo/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1780016093,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320252",
+    "title": "Whitehouse.gov/Aliens",
+    "url": "https://www.whitehouse.gov/aliens/",
+    "score": 5,
+    "descendants": 5,
+    "time": 1780040556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317519",
+    "title": "Gitea CVE-2026-27771 exposed private container images without authentication",
+    "url": "https://www.noscope.com/blog/gitea-instances-exposing-private-container",
+    "score": 5,
+    "descendants": 3,
+    "time": 1780015392,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318959",
+    "title": "Blue Origin's New Glenn rocket explodes during prelaunch test",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test",
+    "score": 5,
+    "descendants": 2,
+    "time": 1780028111,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317991",
+    "title": "How Sam Altman fooled Sundar Pichai and pushed Google into cannibalizing itself",
+    "url": "https://fortune.com/2026/05/27/sam-altman-fooled-sundar-pichai-google-ai-search-bust-sunil-sharan/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1780019441,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317735",
+    "title": "I Tried to Sell My House with a Chatbot",
+    "url": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
+    "score": 5,
+    "descendants": 2,
+    "time": 1780017031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317653",
+    "title": "The RIAA hates us all (2007)",
+    "url": "https://www.computerworld.com/article/1501347/the-riaa-hates-us-all-and-bigtit-hu.html",
+    "score": 5,
+    "descendants": 2,
+    "time": 1780016335,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318760",
+    "title": "Ruby inventor Matz working on native compiler with AI help",
+    "url": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
+    "score": 5,
+    "descendants": 1,
+    "time": 1780026297,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318602",
+    "title": "SQLite now has a machine-generated bug forum",
+    "url": "https://sqlite.org/bugs/forum",
+    "score": 5,
+    "descendants": 1,
+    "time": 1780024787,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318168",
+    "title": "Blue Origin's New Glenn rocket explodes on launchpad",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/blue-origin-s-new-glenn-rocket-explodes-on-floria-launchpad",
+    "score": 5,
+    "descendants": 1,
+    "time": 1780020760,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319560",
+    "title": "Reuters: Tesla's FSD safety claims are misleading marketing, not safety research",
+    "url": "https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780034091,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319551",
+    "title": "China is building launch pads near its nuclear missile silos",
+    "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780034038,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317997",
+    "title": "Show HN: htop for the airwaves — a live 802.11 RF dashboard in your terminal",
+    "url": "https://github.com/yeet-src/airtop",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780019480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317932",
+    "title": "Starbucks retired AI agent that miscounted inventories, slowed down baristas",
+    "url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780018862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319073",
+    "title": "Linux Memory Had One Maintainer for 26 Years. He Just Quit. Now What?",
+    "url": "https://canartuc.medium.com/linux-memory-had-one-maintainer-for-26-years-he-just-quit-now-what-0f6591b89611",
+    "score": 4,
+    "descendants": 3,
+    "time": 1780029223,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320360",
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780041513,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319619",
+    "title": "Troops' phones gave away location data to foreign adversaries",
+    "url": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780034817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48318027",
+    "title": "Functional recovery of adult hippocampus after cryopreservation by vitrification",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2516848123",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780019710,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48317789",
+    "title": "Do more Europeans die of summer heat than Americans die of guns?",
+    "url": "https://hannahritchie.substack.com/p/heat-guns-america-europe",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780017472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320174",
+    "title": "Nordstjernen Web Browser version 0.8 released",
+    "url": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/0.8.0",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780039840,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320026",
+    "title": "Microsoft walks back \"Microsoft Windows Defender is all you need\" statement",
+    "url": "https://www.neowin.net/news/microsoft-no-longer-claims-that-windows-11-has-all-the-protection-that-you-need/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780038813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48320009",
+    "title": "Glibc CVE-2026-5450 9.8",
+    "url": "https://app.opencve.io/cve/CVE-2026-5450",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780038673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319796",
+    "title": "Supercomputers once worth millions to be auctioned",
+    "url": "https://www.bbc.co.uk/news/articles/cx211w5gwr7o",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780036474,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319732",
+    "title": "Oh No! I've invented SVG badly!",
+    "url": "https://owl.billpg.com/on-no-ive-invented-svg-badly/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780036014,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48319250",
+    "title": "Indian brand sues Google, wins ban on rivals bidding on its trademark",
+    "url": "https://theprint.in/judiciary/indian-sanitaryware-brand-took-google-to-court-won-rivals-can-no-longer-bid-on-its-trademark/2941303/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780030976,
+    "source": "hackernews"
+  }
+]
