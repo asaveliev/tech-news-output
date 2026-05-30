@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "48331511",
+    "title": "WH proposes rules giving political appointees final approval on research grants",
+    "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+    "score": 142,
+    "descendants": 136,
+    "time": 1780105192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331786",
+    "title": "Naphtha shortages in Japan",
+    "url": "https://www.nippon.com/en/japan-data/h02783/",
+    "score": 103,
+    "descendants": 63,
+    "time": 1780107640,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332151",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+    "url": "https://www.perryts.com/",
+    "score": 78,
+    "descendants": 62,
+    "time": 1780110865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332201",
+    "title": "TempleOS WASM",
+    "url": "https://templeos.reiko.app/",
+    "score": 18,
+    "descendants": 0,
+    "time": 1780111320,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331847",
+    "title": "US strike campaign against drug boats tops 200 deaths",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/drug-boat-strikes-cocaine-trafficking-b2986243.html",
+    "score": 16,
+    "descendants": 10,
+    "time": 1780108328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332889",
+    "title": "Records Show UC Sharing Data with US Customs and Border Protection",
+    "url": "https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html",
+    "score": 15,
+    "descendants": 0,
+    "time": 1780118701,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332098",
+    "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+    "url": "https://github.com/vinhnx/VTCode",
+    "score": 10,
+    "descendants": 4,
+    "time": 1780110445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48330948",
+    "title": "US to Appeal Judge's Order for Broad Refund of Trump Tariffs",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/us-to-appeal-judge-s-order-for-broad-refund-of-trump-tariffs",
+    "score": 9,
+    "descendants": 3,
+    "time": 1780099521,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332936",
+    "title": "The Biggest Tell That Something Was Written by AI",
+    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+    "score": 8,
+    "descendants": 5,
+    "time": 1780119065,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331147",
+    "title": "Orbitals from Entanglement: Quantum Information gives rise to Chemical bonds",
+    "url": "https://arxiv.org/abs/2501.15699",
+    "score": 8,
+    "descendants": 0,
+    "time": 1780101370,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332509",
+    "title": "Meta tool to track employee mouse clicks collision course with EU privacy rules",
+    "url": "https://www.reuters.com/business/meta-tool-track-employee-mouse-clicks-collision-course-with-eu-privacy-rules-2026-05-29/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1780114530,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333564",
+    "title": "LLM Paper Trading",
+    "url": "https://gertlabs.com/spectate?game=trading",
+    "score": 6,
+    "descendants": 4,
+    "time": 1780125494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333287",
+    "title": "Paint .NET is now at paint.net",
+    "url": "https://bsky.app/profile/rickbrew.bsky.social/post/3mmz73u6lzs2t",
+    "score": 6,
+    "descendants": 0,
+    "time": 1780122922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332432",
+    "title": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
+    "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1780113735,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332047",
+    "title": "Utiq – The ad tracking of your (European) ISP and how to avoid it",
+    "url": "https://korben.info/utiq-identifiant-publicitaire-telcos.html",
+    "score": 6,
+    "descendants": 0,
+    "time": 1780109953,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331199",
+    "title": "Google Chrome adds session cookie theft protection for all users",
+    "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+    "score": 5,
+    "descendants": 4,
+    "time": 1780101886,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48330918",
+    "title": "Russia is being beaten by robots in Ukraine [video]",
+    "url": "https://www.youtube.com/watch?v=_9GkUkIaOno",
+    "score": 5,
+    "descendants": 1,
+    "time": 1780099210,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333096",
+    "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+    "url": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780120832,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332202",
+    "title": "After decades risking arrest, South Korea's tattoo artists step into limelight",
+    "url": "https://www.bbc.com/news/articles/cg4pwdn6130o",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780111329,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331800",
+    "title": "John Cornyn loses GOP primary",
+    "url": "https://liveclip.substack.com/p/john-cornyn-loses-gop-primary-brief",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780107830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331237",
+    "title": "Key Chemistry Question Answered, No Quantum Computer Required",
+    "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1780102321,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333089",
+    "title": "Guitar Tools – PWA for Scales, Circle of Fifths and More",
+    "url": "https://guitar-tools.eejalab.xyz/",
+    "score": 4,
+    "descendants": 3,
+    "time": 1780120782,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332641",
+    "title": "China's world-beating solar industry is in turmoil",
+    "url": "https://economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil",
+    "score": 4,
+    "descendants": 2,
+    "time": 1780116011,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332561",
+    "title": "The Muser – Open-source alternative to Suno, runs locally, you own everything",
+    "url": "https://github.com/noah-chelednik/the-muser",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780115261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332415",
+    "title": "I made a CPU only spiking neuron network lib that comes pretty close to PyTorch",
+    "url": "https://huggingface.co/etoxin/neuronguard-wikipedia-classifier",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780113635,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331496",
+    "title": "US Counterterrorism Strategy 2026 [pdf]",
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2026/05/2026-USCT-Strategy-1.pdf",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780105101,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331320",
+    "title": "What a 98-Year Old Children's Book Teaches Us About AI",
+    "url": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780103138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331230",
+    "title": "Why we're pivoting away from healthcare",
+    "url": "https://saffron.health",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780102199,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331122",
+    "title": "Petition in Support of Wikipedia Workers Union",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wiki_Workers_United_solidarity",
+    "score": 4,
+    "descendants": 1,
+    "time": 1780101228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333602",
+    "title": "An Excruciatingly Detailed Guide to SSH",
+    "url": "https://grahamhelton.com/blog/ssh-cheatsheet",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780125831,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331682",
+    "title": "The function signature is a lie",
+    "url": "https://lospino.so/blog/abi-series/the-function-signature-is-a-lie/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780106725,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331258",
+    "title": "Genomic test could spare millions of breast cancer patients chemotherapy",
+    "url": "https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780102528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331203",
+    "title": "Goldman's Model Shows Spain as 26% Probable World Cup Winner",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/goldman-s-model-shows-spain-as-26-probable-world-cup-winner",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780101926,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331188",
+    "title": "TokioConf 2026 Talks",
+    "url": "https://www.youtube.com/playlist?list=PLgVIJ9TpEgOmHj0ADDpf-qGckYEJs4QCE",
+    "score": 4,
+    "descendants": 0,
+    "time": 1780101779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331286",
+    "title": "Textile Markup Language Documentation",
+    "url": "https://textile-lang.com/",
+    "score": 3,
+    "descendants": 3,
+    "time": 1780102852,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331447",
+    "title": "How the West Lost to China in EVs [video]",
+    "url": "https://www.youtube.com/watch?v=UhhZu0ZHdw4",
+    "score": 3,
+    "descendants": 2,
+    "time": 1780104583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332339",
+    "title": "DeepSWE blows up AI coding leaderboard, crowns GPT-5.5, + ClaudeOpus loophole",
+    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+    "score": 3,
+    "descendants": 1,
+    "time": 1780112647,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331837",
+    "title": "The healthy life beverage book (1911)",
+    "url": "https://gutenberg.org/cache/epub/78781/pg78781-images.html",
+    "score": 3,
+    "descendants": 1,
+    "time": 1780108255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331426",
+    "title": "Stephen Hawking's father worried his son 'does not study much', diaries reveal",
+    "url": "https://www.theguardian.com/science/2026/may/23/stephen-hawking-father-worried-son-does-not-study-much-diaries",
+    "score": 3,
+    "descendants": 1,
+    "time": 1780104334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333465",
+    "title": "Botnet of more than 17M devices dismantled",
+    "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780124542,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333358",
+    "title": "Lisa Su Address to MIT Class of 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=vQMQjHv5pEM",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780123671,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48333074",
+    "title": "Sleuths uncover 100 suspicious images in Thermo Fisher antibody catalogue",
+    "url": "https://www.nature.com/articles/d41586-026-01706-2",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780120597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332988",
+    "title": "Boom shakes S Carolina, rattling Columbia and raising questions about the cause",
+    "url": "https://www.thestate.com/news/local/environment/article315932620.html",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780119666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332983",
+    "title": "Show HN: I built an Android OS in the browser",
+    "url": "https://mobilegym.dev/",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780119624,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332926",
+    "title": "Indian court ruling on Google keyword ads could reshape online advertising",
+    "url": "https://www.reuters.com/business/media-telecom/indian-court-ruling-google-keyword-ads-could-reshape-online-advertising-2026-05-29/",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780119031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48332630",
+    "title": "SpaceX and the 'Enshittification' of Markets",
+    "url": "https://www.ft.com/content/f724d500-fd45-4f38-86b8-549b5cae88ba",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780115870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331587",
+    "title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+    "url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780105852,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331509",
+    "title": "Restoring macOS on an Intel T2 Mac via Target Disk Mode from Apple Silicon",
+    "url": "https://it-solutions-usa.github.io/mac-admin/reports/macos_restore_tdm_report.html",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780105189,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48331432",
+    "title": "Mac External Display Support by Chip",
+    "url": "https://retinadesk.com/tools/external-display-support/",
+    "score": 3,
+    "descendants": 0,
+    "time": 1780104418,
+    "source": "hackernews"
+  }
+]
