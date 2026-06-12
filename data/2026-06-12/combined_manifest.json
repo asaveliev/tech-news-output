@@ -1,0 +1,416 @@
+[
+  {
+    "hn_id": "48500012",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "score": 439,
+    "descendants": 146,
+    "time": 1781239373,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498385",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "score": 433,
+    "descendants": 144,
+    "time": 1781224691,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498573",
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "score": 402,
+    "descendants": 318,
+    "time": 1781226411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500404",
+    "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+    "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+    "score": 81,
+    "descendants": 68,
+    "time": 1781243599,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498421",
+    "title": "Removing 'um' from a recording is harder than it sounds",
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "score": 70,
+    "descendants": 22,
+    "time": 1781224931,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498283",
+    "title": "Don't let the LLM speak, just probe it",
+    "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+    "score": 23,
+    "descendants": 1,
+    "time": 1781223888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499349",
+    "title": "StonkRider – Ride any stock chart",
+    "url": "https://stonkrider.com/",
+    "score": 20,
+    "descendants": 2,
+    "time": 1781233100,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498252",
+    "title": "Our workplace LLM mass delusion",
+    "url": "https://blog.avas.space/llm-circus/",
+    "score": 16,
+    "descendants": 1,
+    "time": 1781223640,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499890",
+    "title": "Device Clock Generation (2025)",
+    "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+    "score": 15,
+    "descendants": 2,
+    "time": 1781238256,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498442",
+    "title": "Deconstructing Datalog",
+    "url": "https://www.rntz.net/post/my-thesis.html",
+    "score": 14,
+    "descendants": 0,
+    "time": 1781225131,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498370",
+    "title": "Software Update Auto Turns Off Amazon Delivery Drivers' AC in Summer Heat",
+    "url": "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1781224597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498680",
+    "title": "ShinyHunters hacked 100 orgs by exploiting an Oracle PeopleSoft 0-day",
+    "url": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
+    "score": 12,
+    "descendants": 0,
+    "time": 1781227397,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499790",
+    "title": "The Normalization of Deviance in AI",
+    "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1781237063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498529",
+    "title": "I Have No Mouth, and I Must Scream",
+    "url": "https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream",
+    "score": 8,
+    "descendants": 1,
+    "time": 1781226043,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499749",
+    "title": "Koalas at risk of death once seven-day temperatures rise beyond 27C",
+    "url": "https://www.abc.net.au/news/science/2026-05-27/koala-deaths-linked-to-a-few-extra-degrees-of-heat/106722276",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781236651,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499510",
+    "title": "Are you ready to admit it's the phones?",
+    "url": "https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781234310,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498778",
+    "title": "Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot",
+    "url": "https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781228225,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498608",
+    "title": "Lite XL – Fast, Lightweight and Powerful Text-Editing Experience",
+    "url": "https://lite-xl.com/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781226729,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498863",
+    "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
+    "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1781228947,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499272",
+    "title": "AI isn't making developers more productive – it's making them busier",
+    "url": "https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier",
+    "score": 6,
+    "descendants": 0,
+    "time": 1781232495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500771",
+    "title": "Google director resigns, citing military deals: 'Management lost moral compass'",
+    "url": "https://www.businessinsider.com/google-director-resigned-pentagon-ai-deal-military-artificial-intelligence-gemini-2026-6",
+    "score": 5,
+    "descendants": 2,
+    "time": 1781247706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498502",
+    "title": "I'm a \"Software Engineer\"",
+    "url": "https://briandouglas.ie/software-engineer/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1781225674,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500629",
+    "title": "Over 400 Malicious packages found in Arch AUR",
+    "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781246101,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500086",
+    "title": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic",
+    "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781240169,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499690",
+    "title": "Stdx, Rust's extended standard library",
+    "url": "https://kerkour.com/stdx",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781235972,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498793",
+    "title": "Ignore what everyone else is doing",
+    "url": "https://briandouglas.ie/developer_noise/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781228334,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498629",
+    "title": "Trump Is in Trouble: Kharg Island Ground Invasion Threats Nuclear Risk [video]",
+    "url": "https://www.youtube.com/watch?v=JqXsCCGINes",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781226992,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500485",
+    "title": "Humans prefer to walk anticlockwise, scientists find – but reason is unclear",
+    "url": "https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear",
+    "score": 4,
+    "descendants": 5,
+    "time": 1781244390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499692",
+    "title": "A 60fps eInk Monitor, the Modos Flow [video]",
+    "url": "https://www.youtube.com/watch?v=nHbA2-_qzH4",
+    "score": 4,
+    "descendants": 2,
+    "time": 1781235978,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499093",
+    "title": "Zelle Heads to India, Unveils ZelleUSD Stablecoin for Other Markets",
+    "url": "https://www.earlywarning.com/press-release/zelle-heads-india-unveils-zelleusd-stablecoin-other-markets",
+    "score": 4,
+    "descendants": 1,
+    "time": 1781230835,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48501346",
+    "title": "NHS Replaces a&E Receptionists with iPads",
+    "url": "https://www.telegraph.co.uk/news/2026/06/10/nhs-replaces-ae-receptionists-with-ipads/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781252304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500510",
+    "title": "Matchmakers Are Busy, but Worried",
+    "url": "https://www.tabletmag.com/sections/community/articles/matchmaker-business-booming",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781244714,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500426",
+    "title": "Guardian Runtime – Track AI agents token usage and enforce API budgets",
+    "url": "https://github.com/ashp15205/guardian-runtime",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781243774,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500015",
+    "title": "Louis Rossmann is suing Samsung after firm offers $330 refund",
+    "url": "https://www.tomshardware.com/pc-components/ssds/louis-rossman-threatens-to-take-samsung-to-court-over-dead-4tb-990-pro-ssd-after-ssd-maker-failed-to-replace-the-drive-under-warranty",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781239416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499993",
+    "title": "Asciline – real-time ASCII video rendering engine",
+    "url": "https://github.com/YusufB5/ASCILINE",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781239186,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499585",
+    "title": "Engineers aren't afraid of AI – they're afraid of becoming junior again",
+    "url": "https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781234903,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499308",
+    "title": "Ex-Andreessen Horowitz partner: old firm, VCs 'political infiltration' on AI",
+    "url": "https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781232801,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499241",
+    "title": "Tech Industry Warns of Piracy Blocking Risks as FIFA World Cup Kicks Off",
+    "url": "https://torrentfreak.com/tech-industry-warns-of-piracy-blocking-risks-as-fifa-world-cup-kicks-off/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781232255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499030",
+    "title": "Rust in the Vibe Coding Era",
+    "url": "https://www.dioko.ai/blog/rust-in-the-vibecoding-era",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781230251,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498512",
+    "title": "Mythos-class models will diffuse throughout the world by 2029",
+    "url": "https://spateder.com/projects/20260611/openweightmodels",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781225881,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498158",
+    "title": "Show HN: Deploy personal apps with your agent via Buildy",
+    "url": "https://buildy.so/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781222925,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498099",
+    "title": "Framework 13 Pro delayed by a month due to touchpad, display fixes",
+    "url": "https://old.reddit.com/r/framework/comments/1u29mc6/framework_13_pro_delay/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1781222463,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498345",
+    "title": "Fable 5 is nothing besides expensive loops",
+    "url": "https://www.anthropic.com",
+    "score": 3,
+    "descendants": 2,
+    "time": 1781224402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48498172",
+    "title": "Are software patents legit? I let mine expire on purpose",
+    "url": "https://taskloco.com/",
+    "score": 3,
+    "descendants": 2,
+    "time": 1781222998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48500120",
+    "title": "Show HN: Dont lose your friends, use a Kadoodle to plan your next event",
+    "url": "https://kalerum.com/en/tools/kadoodle",
+    "score": 3,
+    "descendants": 1,
+    "time": 1781240618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48499645",
+    "title": "Voronoi Village",
+    "url": "https://wwwtyro.github.io/voronoi-village/",
+    "score": 3,
+    "descendants": 1,
+    "time": 1781235416,
+    "source": "hackernews"
+  }
+]
