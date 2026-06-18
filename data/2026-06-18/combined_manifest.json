@@ -1,0 +1,416 @@
+[
+  {
+    "hn_id": "48579650",
+    "title": "Midjourney Medical",
+    "url": "https://www.midjourney.com/medical/blogpost",
+    "score": 666,
+    "descendants": 456,
+    "time": 1781747991,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580209",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "score": 183,
+    "descendants": 81,
+    "time": 1781751860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580686",
+    "title": "SteamOS Linux 3.8 released as stable",
+    "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+    "score": 131,
+    "descendants": 37,
+    "time": 1781755506,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581458",
+    "title": "DeepSeek Introduces Vision",
+    "url": "https://chat.deepseek.com/",
+    "score": 104,
+    "descendants": 41,
+    "time": 1781763460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578894",
+    "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+    "score": 96,
+    "descendants": 135,
+    "time": 1781742244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580466",
+    "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
+    "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
+    "score": 77,
+    "descendants": 95,
+    "time": 1781753694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581489",
+    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+    "url": "https://www.acma.gov.au/sms-sender-id-register",
+    "score": 76,
+    "descendants": 43,
+    "time": 1781763804,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581070",
+    "title": "I Hate Compilers",
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "score": 56,
+    "descendants": 49,
+    "time": 1781759428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580504",
+    "title": "Nim Conf 2026 (Online, Sat June 20)",
+    "url": "https://conf.nim-lang.org/",
+    "score": 41,
+    "descendants": 6,
+    "time": 1781753911,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578957",
+    "title": "Noam Shazeer is joining OpenAI",
+    "url": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
+    "score": 38,
+    "descendants": 4,
+    "time": 1781742688,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579913",
+    "title": "AI Compute Extensions (ACE) Specification",
+    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+    "score": 34,
+    "descendants": 16,
+    "time": 1781749921,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580277",
+    "title": "Gloat compiles Clojure and YAMLScript to Go code, native binaries and WASM",
+    "url": "https://gloathub.org/",
+    "score": 32,
+    "descendants": 0,
+    "time": 1781752224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48582320",
+    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "score": 30,
+    "descendants": 5,
+    "time": 1781770080,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581485",
+    "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
+    "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+    "score": 29,
+    "descendants": 15,
+    "time": 1781763784,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580103",
+    "title": "Meta head of product for 'AI for work' transformation is leaving company",
+    "url": "https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/",
+    "score": 23,
+    "descendants": 2,
+    "time": 1781750965,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578913",
+    "title": "Noam Shazeer Joins OpenAI",
+    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "score": 21,
+    "descendants": 1,
+    "time": 1781742366,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580398",
+    "title": "A 10K-star milestone for Diskless Kafka",
+    "url": "https://github.com/AutoMQ/automq",
+    "score": 17,
+    "descendants": 2,
+    "time": 1781753215,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579915",
+    "title": "Scaling opencomputer from 1 VM to 1 million sandboxes",
+    "url": "https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/",
+    "score": 14,
+    "descendants": 0,
+    "time": 1781749945,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580796",
+    "title": "BBC to axe Radio 4's The World Tonight after more than 50 years",
+    "url": "https://www.theguardian.com/media/2026/jun/17/bbc-boss-compulsory-redundancies-cuts",
+    "score": 13,
+    "descendants": 5,
+    "time": 1781756769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580328",
+    "title": "Trump Demanded Iran's 'Unconditional Surrender.' He Got a Surprise Instead",
+    "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
+    "score": 12,
+    "descendants": 3,
+    "time": 1781752634,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580771",
+    "title": "'Most famous tree in the world': Sherwood Forest's 1000-year-old Major oak dies",
+    "url": "https://www.theguardian.com/environment/2026/jun/18/most-famous-tree-world-sherwood-forest-ancient-major-oak-dies",
+    "score": 12,
+    "descendants": 0,
+    "time": 1781756449,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578730",
+    "title": "Rationale for the 2026 Iran War",
+    "url": "https://en.wikipedia.org/wiki/Rationale_for_the_2026_Iran_war",
+    "score": 11,
+    "descendants": 3,
+    "time": 1781740901,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578776",
+    "title": "Federal Trade Commission sues leading transgender health group",
+    "url": "https://www.cnn.com/2026/06/17/health/ftc-transgender-care-lawsuit",
+    "score": 10,
+    "descendants": 1,
+    "time": 1781741245,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579589",
+    "title": "Show HN: Local personal data redaction for any AI tools",
+    "url": "https://github.com/sophia486/pii-gui",
+    "score": 9,
+    "descendants": 3,
+    "time": 1781747572,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581035",
+    "title": "SF landlord killed tenant to clear Sunset home for sale, lawsuit alleges",
+    "url": "https://sfstandard.com/2026/06/17/lawsuit-alleges-sf-landlord-killed-tenant-clear-home-sale/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1781759114,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579153",
+    "title": "We Did the Math on Why the iPhone 18 Pro Could Cost $1,299",
+    "url": "https://www.wsj.com/tech/personal-tech/apple-iphone-price-increase-e846d737",
+    "score": 8,
+    "descendants": 1,
+    "time": 1781744046,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579013",
+    "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+    "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+    "score": 8,
+    "descendants": 1,
+    "time": 1781743012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48582272",
+    "title": "Show HN: Bonscape – Whiteboard for AI Chats",
+    "url": "https://bonscape.com/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1781769706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48582293",
+    "title": "War Books: The Marine Corps Commandant's 2026 Reading List",
+    "url": "https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/",
+    "score": 7,
+    "descendants": 4,
+    "time": 1781769892,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578931",
+    "title": "Jeremy Clarkson, British TV Host, Says He Has Cancer",
+    "url": "https://www.nytimes.com/2026/06/17/world/europe/jeremy-clarkson-cancer-uk.html",
+    "score": 7,
+    "descendants": 2,
+    "time": 1781742533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580759",
+    "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+    "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781756319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580138",
+    "title": "The Israeli Ultra-Hawks Who Feel Betrayed by Trump's Iran Deal",
+    "url": "https://www.newyorker.com/news/q-and-a/the-israeli-ultra-hawks-who-feel-betrayed-by-trumps-iran-deal",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781751244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579017",
+    "title": "Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative",
+    "url": "https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781743043,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580147",
+    "title": "Continue has been acquired by Cursor",
+    "url": "https://www.continue.dev/",
+    "score": 6,
+    "descendants": 6,
+    "time": 1781751288,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48582147",
+    "title": "The Forge We Deserve",
+    "url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1781768815,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580746",
+    "title": "Simpler, older version of Stonehenge found three miles from famous site",
+    "url": "https://www.bbc.co.uk/news/articles/clyxw8550y8o",
+    "score": 6,
+    "descendants": 2,
+    "time": 1781756144,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578724",
+    "title": "How Does One Brain Speak Two Languages?",
+    "url": "https://www.nytimes.com/2026/06/15/science/brain-language-grammar.html",
+    "score": 6,
+    "descendants": 2,
+    "time": 1781740869,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581181",
+    "title": "RIP Joshua Baer. Founder of Capital Factory, Austin incubator, died in jet crash",
+    "url": "https://cbsaustin.com/news/local/capital-factory-ceo-joshua-baer-killed-in-plane-crash-near-laredo-texas",
+    "score": 6,
+    "descendants": 1,
+    "time": 1781760532,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581158",
+    "title": "Ukraine hits Moscow refinery again",
+    "url": "https://www.reuters.com/world/europe/russia-attacks-kyiv-with-missiles-local-authorities-say-2026-06-17/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1781760204,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580292",
+    "title": "Pentagon says Grok used to launch missiles at Iran",
+    "url": "https://thehill.com/newsletters/technology/5929290-pentagon-grok-iran-missiles/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1781752324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581453",
+    "title": "Tesla remotely disabled the €6,200 FSD feature I had used for months",
+    "url": "https://teslatookwhatipaidfor.com/en/",
+    "score": 5,
+    "descendants": 7,
+    "time": 1781763357,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48578808",
+    "title": "We Ran the Numbers. Remote Work Is Bad for Us",
+    "url": "https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html",
+    "score": 5,
+    "descendants": 6,
+    "time": 1781741514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48581640",
+    "title": "Trump admin blocking Fable 5 rerelease unless Anthropic ensures no jailbreaks",
+    "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1781765059,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580986",
+    "title": "Show HN: Attagram, a tiny printer that gives kids a magical daily digest",
+    "url": "https://www.attagram.com/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1781758594,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48580886",
+    "title": "Vulnerability Disclosure: Stealing Emails via Firefox's AI Features",
+    "url": "https://insinuator.net/2026/06/vulnerability-disclosure-stealing-emails-via-firefoxs-ai-features/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781757487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48579845",
+    "title": "Three reasons fungi are not plants",
+    "url": "https://asm.org/articles/2021/january/three-reasons-fungi-are-not-plants",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781749458,
+    "source": "hackernews"
+  }
+]
