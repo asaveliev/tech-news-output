@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "48594592",
+    "title": "Ice water drowning survival of young patient (2025)",
+    "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+    "score": 139,
+    "descendants": 88,
+    "time": 1781841025,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594715",
+    "title": "Many Let's Encrypt renewals had errors today",
+    "url": "https://letsencrypt.status.io/#2026",
+    "score": 139,
+    "descendants": 87,
+    "time": 1781842689,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595511",
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "score": 73,
+    "descendants": 36,
+    "time": 1781850957,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593731",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "score": 73,
+    "descendants": 25,
+    "time": 1781831187,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595331",
+    "title": "So You Want to Define a Well-Known URI",
+    "url": "https://mnot.net/blog/2026/well_known_uris",
+    "score": 46,
+    "descendants": 21,
+    "time": 1781849101,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595144",
+    "title": "Generative AI Is Having Its Herbalife Moment",
+    "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+    "score": 44,
+    "descendants": 50,
+    "time": 1781847471,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594012",
+    "title": "GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It",
+    "url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/",
+    "score": 40,
+    "descendants": 23,
+    "time": 1781834280,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593416",
+    "title": "The Job Market Is Thawing",
+    "url": "https://www.theatlantic.com/newsletters/2026/06/job-market-hiring-may/687640/",
+    "score": 28,
+    "descendants": 1,
+    "time": 1781828423,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593949",
+    "title": "CBC to stop airing NHL games after 74 years, end of free hockey on Canadian TV",
+    "url": "https://www.theglobeandmail.com/sports/hockey/article-cbc-to-no-longer-air-nhl-hockey-ending-74-year-run-on-public-network/",
+    "score": 23,
+    "descendants": 7,
+    "time": 1781833667,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594933",
+    "title": "DARPA Heavy Life Challenge",
+    "url": "https://www.darpa.mil/research/challenges/lift",
+    "score": 20,
+    "descendants": 23,
+    "time": 1781845279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594893",
+    "title": "Amazon employees say they're facing termination for backing data center limits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "score": 20,
+    "descendants": 8,
+    "time": 1781844817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594733",
+    "title": "Fable Converted Pylint to Rust",
+    "url": "https://pypi.org/project/prylint/",
+    "score": 19,
+    "descendants": 7,
+    "time": 1781842867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595295",
+    "title": "Apple A12 and A13 Chips: New Unpatchable Exploit",
+    "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
+    "score": 19,
+    "descendants": 0,
+    "time": 1781848705,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593703",
+    "title": "Observation is the layer under taste. We built it for AI runtime",
+    "url": "https://twitter.com/damnventures/status/2067394719756251468",
+    "score": 14,
+    "descendants": 0,
+    "time": 1781830952,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595390",
+    "title": "Iran Delays U.S. Peace Talks over Israeli Attacks in Lebanon",
+    "url": "https://maritime-executive.com/article/report-iran-suspends-hormuz-talks-because-of-israeli-attacks-in-lebanon",
+    "score": 11,
+    "descendants": 3,
+    "time": 1781849672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594963",
+    "title": "Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)",
+    "url": "https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1781845628,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594302",
+    "title": "US Tells ASML It's Concerned China May Have Top Chip Tool",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool",
+    "score": 11,
+    "descendants": 0,
+    "time": 1781837192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593576",
+    "title": "Meta lobbies Congress for protection from child-harm lawsuits",
+    "url": "https://www.reuters.com/world/meta-lobbies-congress-protection-child-harm-lawsuits-2026-06-18/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1781829746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595077",
+    "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search",
+    "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1781846788,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594797",
+    "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
+    "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+    "score": 9,
+    "descendants": 0,
+    "time": 1781843596,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594036",
+    "title": "Amazon Workers Say They're Under Investigation for Speaking About Data Centers",
+    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1781834522,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594987",
+    "title": "Phone Batteries Keep Getting Better. So Why Are We Always Charging?",
+    "url": "https://www.cnet.com/tech/mobile/features/phone-battery-life-silicon-carbon-what-next/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1781845885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594908",
+    "title": "Amazon S3 annotations: attach rich, queryable context directly to objects",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1781844976,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594579",
+    "title": "California 'billionaire tax' makes ballot despite opposition from tech moguls",
+    "url": "https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition",
+    "score": 7,
+    "descendants": 4,
+    "time": 1781840926,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595316",
+    "title": "The ISA Doesn't Matter Where It Counts",
+    "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
+    "score": 7,
+    "descendants": 3,
+    "time": 1781848973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594374",
+    "title": "A bold satellite rescue mission came together in record time, but will it work?",
+    "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781838065,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594199",
+    "title": "Grok Is More Important Than Clean Air, DOJ Says",
+    "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781836180,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594090",
+    "title": "An Embedded Linux on a Single Floppy",
+    "url": "https://github.com/w84death/floppinux",
+    "score": 7,
+    "descendants": 0,
+    "time": 1781835016,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595251",
+    "title": "Renting vs. Buying – A case study for Bangalore",
+    "url": "https://bangalore-property-buy-vs-rent.pagey.site/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1781848288,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594741",
+    "title": "Staarfruit.com",
+    "url": "https://staarfruit.com/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1781842931,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594597",
+    "title": "The Flat Curve Society",
+    "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+    "score": 6,
+    "descendants": 0,
+    "time": 1781841076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594182",
+    "title": "\"Windows Just Killed Linux on June 24th the Exodus Has Begun\"",
+    "url": "https://www.youtube.com/watch?v=SXk8Ag7rLoo",
+    "score": 5,
+    "descendants": 4,
+    "time": 1781835965,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593509",
+    "title": "Teen summer employment is headed for its worst year since 1948",
+    "url": "https://fortune.com/2026/06/18/teen-summer-jobs-record-low-2026/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1781829224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595355",
+    "title": "Bobby Prince Jr (composer of classic Doom soundtrack) has passed away",
+    "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781849275,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595118",
+    "title": "The First Prompt: \"Let There Be Light\"",
+    "url": "https://substack.com/@iancutzu/note/c-278921935",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781847226,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594897",
+    "title": "White House talks with Anthropic shift to setting AI security rules",
+    "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781844859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48594391",
+    "title": "Our game anticheat has no kernel driver, we catch not block",
+    "url": "https://cyberlete.net",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781838253,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593588",
+    "title": "What I Learned from Being Burned Alive",
+    "url": "https://www.wsj.com/lifestyle/what-i-learned-from-being-burned-alive-95e91c88",
+    "score": 5,
+    "descendants": 1,
+    "time": 1781829862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48596273",
+    "title": "What 'Getting Your Hands Dirty' Means at LLM-Era",
+    "url": "https://carette.xyz/posts/the_mud_and_the_mind/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781858030,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595125",
+    "title": "Show HN: Foldkit vs. React, the same pixel art editor implemented in both",
+    "url": "https://foldkit.dev/react/foldkit-vs-react-side-by-side",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781847261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595047",
+    "title": "Don't Get Hacked!",
+    "url": "https://www.cs.columbia.edu/~smb/homesec/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781846525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595022",
+    "title": "\"I scratched my own itch\" isn't good enough (2025)",
+    "url": "https://longform.asmartbear.com/scratched-my-own-itch/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781846281,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593879",
+    "title": "Coding Theory",
+    "url": "https://en.wikipedia.org/wiki/Coding_theory",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781832764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593651",
+    "title": "AI Governance Cannot Be a Tool Call",
+    "url": "https://tenureai.dev/writing/ai-governance-cannot-be-a-tool-call/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781830430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593574",
+    "title": "1992 view of the problems of computer programming in 1992",
+    "url": "https://blog.plover.com/2026/06/18/#fortran-i",
+    "score": 5,
+    "descendants": 0,
+    "time": 1781829721,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48596095",
+    "title": "Show HN: I was drowning in browser tabs, so I built this",
+    "url": "https://microsoftedge.microsoft.com/addons/detail/gopeek/ffaeanmhghmohbponokefmbhfkkomnmk",
+    "score": 4,
+    "descendants": 3,
+    "time": 1781856480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48593869",
+    "title": "AI has granted America new power",
+    "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
+    "score": 4,
+    "descendants": 3,
+    "time": 1781832646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48596210",
+    "title": "GLM-5.2: Chop off 84% of the volume from a 1.5TB model, still retain 82% power",
+    "url": "https://twitter.com/AYi_AInotes/status/2067642004184383564",
+    "score": 4,
+    "descendants": 1,
+    "time": 1781857533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48595462",
+    "title": "GLM 5.2 vs. Opus",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1781850403,
+    "source": "hackernews"
+  }
+]
