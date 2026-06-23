@@ -1,0 +1,425 @@
+[
+  {
+    "hn_id": "48639184",
+    "title": "1,700 free online courses from top universities",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "score": 185,
+    "descendants": 32,
+    "time": 1782179678,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638660",
+    "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+    "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+    "score": 166,
+    "descendants": 8,
+    "time": 1782175652,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639240",
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "score": 161,
+    "descendants": 58,
+    "time": 1782180085,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638886",
+    "title": "In praise of memcached",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "score": 139,
+    "descendants": 53,
+    "time": 1782177305,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640196",
+    "title": "Will It Mythos?",
+    "url": "https://swelljoe.com/post/will-it-mythos/",
+    "score": 138,
+    "descendants": 84,
+    "time": 1782188104,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639063",
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "score": 78,
+    "descendants": 34,
+    "time": 1782178568,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639165",
+    "title": "An Introduction to YOLO26",
+    "url": "https://blog.roboflow.com/yolo26/",
+    "score": 62,
+    "descendants": 19,
+    "time": 1782179540,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639057",
+    "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
+    "url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+    "score": 61,
+    "descendants": 68,
+    "time": 1782178526,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640974",
+    "title": "The new HTTP QUERY method explained",
+    "url": "https://kreya.app/blog/new-http-query-method-explained/",
+    "score": 41,
+    "descendants": 14,
+    "time": 1782194737,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639434",
+    "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "url": "https://arxiv.org/abs/2606.03748",
+    "score": 36,
+    "descendants": 5,
+    "time": 1782181680,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639498",
+    "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+    "score": 25,
+    "descendants": 4,
+    "time": 1782182311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638850",
+    "title": "Death by a Thousand Comments",
+    "url": "https://royalicing.com/2026/death-by-a-thousand-comments",
+    "score": 24,
+    "descendants": 1,
+    "time": 1782177033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639257",
+    "title": "Definium's LSD-based depression pill delivers strong late-stage results",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/definiums-lsd-based-pill-reduces-depression-symptoms-late-stage-trial-2026-06-22/",
+    "score": 18,
+    "descendants": 8,
+    "time": 1782180220,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638776",
+    "title": "AI's Brokenomics",
+    "url": "https://www.wheresyoured.at/brokenomics/",
+    "score": 17,
+    "descendants": 7,
+    "time": 1782176453,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48641245",
+    "title": "EU Member States (and Google) suddenly want to keep cookie banners",
+    "url": "https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners",
+    "score": 17,
+    "descendants": 6,
+    "time": 1782197249,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638640",
+    "title": "Facial recognition on public buses sparks debate over security and privacy",
+    "url": "https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703",
+    "score": 13,
+    "descendants": 1,
+    "time": 1782175480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640278",
+    "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+    "url": "https://github.com/imtomt/ymawky/tree/linux",
+    "score": 11,
+    "descendants": 3,
+    "time": 1782188894,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638922",
+    "title": "AWS introduces Lambda MicroVMs: isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1782177625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639459",
+    "title": "The Secret Reason Bosses Want Everyone Back in the Office, Every Day: Narcissism",
+    "url": "https://www.nytimes.com/2026/06/22/opinion/office-work-wfh-bosses.html",
+    "score": 10,
+    "descendants": 2,
+    "time": 1782181970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639303",
+    "title": "Everything you say CAN and WILL be used against you",
+    "url": "https://idiallo.com/blog/the-right-to-remain-silent",
+    "score": 9,
+    "descendants": 0,
+    "time": 1782180591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638884",
+    "title": "Universal basic income, the utopian idea resurging in Silicon Valley",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/06/14/universal-basic-income-the-utopian-idea-resurging-in-silicon-valley_6754473_23.html",
+    "score": 8,
+    "descendants": 7,
+    "time": 1782177297,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638391",
+    "title": "Vietnam plans to discontinue IPv4 by 2030",
+    "url": "https://vietnamnet.vn/en/vietnam-launches-ipv6-only-roadmap-to-power-next-digital-era-2527244.html",
+    "score": 8,
+    "descendants": 3,
+    "time": 1782173621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640539",
+    "title": "The Cheap Model Fallacy",
+    "url": "https://twitter.com/deepwhitman/status/2067282002307612888",
+    "score": 8,
+    "descendants": 0,
+    "time": 1782191039,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639488",
+    "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+    "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+    "score": 8,
+    "descendants": 0,
+    "time": 1782182206,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640168",
+    "title": "Reddit now blocks all free API access besides RedReader",
+    "url": "https://old.reddit.com/r/continuumreddit/comments/1u2monb/comment/oqyqn99/",
+    "score": 7,
+    "descendants": 6,
+    "time": 1782187862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48641473",
+    "title": "Meta Invests $900M in CRED, Taps Founder to Head WhatsApp",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment",
+    "score": 7,
+    "descendants": 1,
+    "time": 1782199312,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639840",
+    "title": "GLM-5.2 is the step change for open agents",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "score": 7,
+    "descendants": 0,
+    "time": 1782185008,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639742",
+    "title": "Nonstop Trading, Lots of Leverage. How 'Perp Futures' Are Changing Wall Street",
+    "url": "https://www.wsj.com/finance/commodities-futures/nonstop-trading-loads-of-leverage-how-perp-futures-are-shaking-up-wall-street-59682069",
+    "score": 7,
+    "descendants": 0,
+    "time": 1782184248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48641763",
+    "title": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
+    "url": "https://sean-but-ai.vercel.app/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1782201436,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638441",
+    "title": "California police are using drones to disarm people, make arrests",
+    "url": "https://www.sfgate.com/bayarea/article/california-police-drone-responders-22315437.php",
+    "score": 6,
+    "descendants": 1,
+    "time": 1782173954,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639933",
+    "title": "UK considers forcing social media firms to prioritise trusted news",
+    "url": "https://www.reuters.com/legal/litigation/uk-considers-forcing-social-media-firms-prioritise-trusted-news-2026-06-22/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1782185713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639465",
+    "title": "Zhipu AI Surges Past Trillion Yuan Market Cap in China's AI Boom",
+    "url": "https://asiaai.fyi/zhipu-ai-surges-past-trillion-yuan-market-cap-in-chinas-ai-boom/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1782182011,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639018",
+    "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
+    "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1782178259,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638427",
+    "title": "We built the fastest API for GLM-5.2 (280 TPS)",
+    "url": "https://www.baseten.co/blog/how-we-built-the-worlds-fastest-api-for-glm-52/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1782173862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48641869",
+    "title": "EU could open deportation centres outside bloc by next year, says Denmark PM",
+    "url": "https://www.ft.com/content/cce58433-02bf-47aa-9222-89dd4e0ba2bd",
+    "score": 5,
+    "descendants": 3,
+    "time": 1782202176,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640477",
+    "title": "Show HN: WSL Dashboard – an open-source,low-memory, high-performance GUI manager",
+    "url": "https://github.com/owu/wsl-dashboard",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782190404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640407",
+    "title": "AI Wrote the Code. Nobody Knows Why It Made Those Decisions",
+    "url": "https://brunelly.com/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782189815,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640155",
+    "title": "Valve describes just how brutal RAM negotiations are in 2026",
+    "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782187732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639680",
+    "title": "I Bought the Trump Phone [video]",
+    "url": "https://www.youtube.com/watch?v=b1ytw85Npt8",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782183697,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639591",
+    "title": "Show HN: Loft gives thumb-keys and split-layout on a standard laptop or keyboard",
+    "url": "https://loftkeyboard.com",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782183002,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638501",
+    "title": "AI is changing biological and nuclear risks; governance must change accordingly",
+    "url": "https://thebulletin.org/2026/06/ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1782174357,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640969",
+    "title": "Colombia's president accuses Israel of compromising election software",
+    "url": "https://twitter.com/petrogustavo/status/2068831260982571151",
+    "score": 4,
+    "descendants": 3,
+    "time": 1782194713,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48638471",
+    "title": "The future of oil prices may depend on China",
+    "url": "https://www.cnn.com/2026/06/22/energy/oil-price-china-dependence-iran-war-intl-hnk",
+    "score": 4,
+    "descendants": 2,
+    "time": 1782174152,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639462",
+    "title": "Zombie unicorns are haunting Silicon Valley",
+    "url": "https://economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+    "score": 4,
+    "descendants": 1,
+    "time": 1782181979,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639150",
+    "title": "A zero-install static site hosting service for hackers",
+    "url": "https://pgs.sh/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1782179437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48639054",
+    "title": "Full typing for Nix based on TypeScript",
+    "url": "https://github.com/ryanrasti/typenix",
+    "score": 4,
+    "descendants": 1,
+    "time": 1782178509,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48640698",
+    "title": "Stop your agent from saying it's done when it isn't",
+    "url": "https://deepwiki.com/grainulation/bean",
+    "score": 4,
+    "descendants": 0,
+    "time": 1782192531,
+    "source": "hackernews"
+  }
+]
