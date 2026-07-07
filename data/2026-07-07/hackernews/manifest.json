@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48812156",
+    "title": "How to sequence your own DNA at home",
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "score": 226,
+    "descendants": 88,
+    "time": 1783383261,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815196",
+    "title": "Microsoft Can Track Users via a Windows Device ID",
+    "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "score": 72,
+    "descendants": 19,
+    "time": 1783414443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815117",
+    "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+    "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "score": 65,
+    "descendants": 54,
+    "time": 1783413591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813850",
+    "title": "Odin 1.0 Announcement",
+    "url": "https://www.youtube.com/watch?v=dLPAqXi9In0",
+    "score": 45,
+    "descendants": 6,
+    "time": 1783400761,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813929",
+    "title": "The Art of Computer Programming by Donald E. Knuth",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "score": 26,
+    "descendants": 7,
+    "time": 1783401543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812468",
+    "title": "Rust is in TIOBE Index top 10",
+    "url": "https://www.tiobe.com/tiobe-index/",
+    "score": 18,
+    "descendants": 9,
+    "time": 1783386173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812387",
+    "title": "First-ever reverse-aging drug was just injected into a human",
+    "url": "https://www.businessinsider.com/first-ever-reverse-aging-treatment-injected-into-a-human-2026-6",
+    "score": 18,
+    "descendants": 3,
+    "time": 1783385340,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812424",
+    "title": "Claude Fable 5 Backlash Grows",
+    "url": "https://tech.yahoo.com/ai/claude/articles/claude-fable-5-backlash-grows-213000534.html",
+    "score": 17,
+    "descendants": 8,
+    "time": 1783385767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813951",
+    "title": "Learning another language appears to slow brain ageing by up to 13 years",
+    "url": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
+    "score": 17,
+    "descendants": 6,
+    "time": 1783401763,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812191",
+    "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
+    "url": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
+    "score": 13,
+    "descendants": 2,
+    "time": 1783383486,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812194",
+    "title": "Brit supermarket giant triples down on facial recog to nab shoplifters",
+    "url": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935",
+    "score": 12,
+    "descendants": 6,
+    "time": 1783383512,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812282",
+    "title": "Strata – An app that talks me out of dying outdoors",
+    "url": "https://strata.highloop.co/",
+    "score": 9,
+    "descendants": 28,
+    "time": 1783384379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812196",
+    "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation",
+    "url": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
+    "score": 9,
+    "descendants": 3,
+    "time": 1783383545,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813353",
+    "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+    "url": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1783394607,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814951",
+    "title": "Microsoft admits a Windows 11 bug is eating up to 500GB of storage",
+    "url": "https://www.windowslatest.com/2026/07/06/microsoft-admits-a-windows-11-bug-is-eating-up-to-500gb-of-storage-verify-if-you-are-affected/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783411923,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814852",
+    "title": "Fable – Inner Forward Pass",
+    "url": "https://claude.ai/public/artifacts/05b42f8b-a4a3-4a7a-9774-c5d427ada379",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783410724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814023",
+    "title": "I Built the Only 2026 WWII Jeep",
+    "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1783402706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812489",
+    "title": "LLMs Are Not a Default Execution Engine",
+    "url": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+    "score": 7,
+    "descendants": 1,
+    "time": 1783386379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812371",
+    "title": "Tencent Hy3",
+    "url": "https://huggingface.co/tencent/Hy3",
+    "score": 7,
+    "descendants": 0,
+    "time": 1783385230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813627",
+    "title": "The Socialist Temptation of Sam Altman",
+    "url": "https://www.wsj.com/opinion/openai-government-sam-altman-donald-trump-ai-5b2676a2",
+    "score": 6,
+    "descendants": 11,
+    "time": 1783398012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813855",
+    "title": "Why Gen Z is falling in love with film photography",
+    "url": "https://theconversation.com/why-gen-z-is-falling-in-love-with-film-photography-282454",
+    "score": 6,
+    "descendants": 0,
+    "time": 1783400809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814724",
+    "title": "The Clouds of Hiroshima",
+    "url": "https://doomsdaymachines.net/p/the-clouds-of-hiroshima",
+    "score": 5,
+    "descendants": 7,
+    "time": 1783409593,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815657",
+    "title": "Samsung profits jump 1,800% as AI chip sales soar",
+    "url": "https://www.bbc.com/news/articles/c1kyy8yrpxdo",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783418236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814981",
+    "title": "Why you should not have Managers in your class name",
+    "url": "https://karankurani.com/writing/post/170793461763/why-you-should-not-have-managers-in-your-class/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783412273,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814178",
+    "title": "Chinese proverb: If you want to be happy for an hour, take a nap",
+    "url": "https://economictimes.indiatimes.com/news/international/us/chinese-proverb-of-the-day-if-you-want-happiness-for-an-hour-take-a-nap-if-you-want-happiness-for-a-lifetime-life-lessons-on-human-nature-joy-kindness-and-why-helping-others-brings-real-peace/articleshow/130956000.cms?from=mdr",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783404460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813248",
+    "title": "Undertuber YouTube Underground Search Engine",
+    "url": "https://github.com/BooleanMuse/Undertuber-Underground-Youtube-Search-Engine",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783393502,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812208",
+    "title": "Show HN: Dedtxt is a quiet, cross-platform plain-text editor",
+    "url": "https://dedtxt.app/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783383685,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815076",
+    "title": "Collapse of AMOC ocean current may be locked in",
+    "url": "https://institutions.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783413242,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814909",
+    "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
+    "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783411459,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812134",
+    "title": "Apple's agent security skills updated for Xcode 27 beta 3",
+    "url": "https://mastodon.social/@PeteGoldsmith/116875450861776782",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783382974,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812760",
+    "title": "How Much Is AI Manipulating Us?",
+    "url": "https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us",
+    "score": 4,
+    "descendants": 8,
+    "time": 1783388608,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815183",
+    "title": "We're Living Through the AI Utopia and Can't See It",
+    "url": "https://twitter.com/christofsalis/status/2073375047939395671",
+    "score": 4,
+    "descendants": 5,
+    "time": 1783414324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814572",
+    "title": "Air pollution linked to DNA changes in sperm",
+    "url": "https://www.theguardian.com/science/2026/jul/07/air-pollution-dna-changes-sperm-men",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783408175,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813043",
+    "title": "OSS Local AI Workspace",
+    "url": "https://www.usestitch.ai/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783391580,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812878",
+    "title": "Windows 11 will soon be able to reinstall itself and drivers without a USB drive",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-soon-be-able-to-reinstall-itself-and-your-drivers-using-without-a-usb-key-via-new-cloud-rebuild-recovery-method",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783389926,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812268",
+    "title": "The healing power of watching the boys of 'Jackass' do stupid things",
+    "url": "https://www.yahoo.com/entertainment/general/article/the-healing-power-of-watching-the-boys-of-jackass-do-incredibly-stupid-things-130000792.html",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783384244,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814052",
+    "title": "200. milliseconds",
+    "url": "https://200ms.thenodebook.com",
+    "score": 4,
+    "descendants": 1,
+    "time": 1783402981,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812996",
+    "title": "Microsoft to cut 4,800 jobs in major Xbox and gaming division 'reset'",
+    "url": "https://www.fastcompany.com/91569769/xbox-layoffs-microsoft-sharma",
+    "score": 4,
+    "descendants": 1,
+    "time": 1783391032,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815620",
+    "title": "Google's exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783417912,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48815601",
+    "title": "Show HN: A Haskell programmable-CAD environment, in the browser with WASM",
+    "url": "https://doscienceto.it/waterpark/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783417736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814757",
+    "title": "New Mass GitHub dorking tool",
+    "url": "https://pypi.org/project/ghscan/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783409850,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814525",
+    "title": "When the Heat Steals Your Smile",
+    "url": "https://www.earthisland.org/journal/index.php/magazine/entry/Extreme-heat-is-rapidly-decaying-teeth-in-pakistan/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783407810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814478",
+    "title": "Efficiency focused \"Thinking CAP\" model series",
+    "url": "https://www.bottlecapai.com/thinkingcap-qwen3-6-27b",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783407292,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48814264",
+    "title": "The Making of Claude Code",
+    "url": "https://www.anthropic.com/features/making-of-claude-code",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783405160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48813255",
+    "title": "How to Design a Cancer Vaccine",
+    "url": "https://www.owlposting.com/p/how-to-design-a-cancer-vaccine-and",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783393542,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812378",
+    "title": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783385273,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812163",
+    "title": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at a Reduced Price (2026)",
+    "url": "https://lucasaguiar.xyz/en/posts/claude-sonnet-5-2026/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783383311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48812068",
+    "title": "Show HN: Capsule – E2E encrypted file sharing",
+    "url": "https://withcapsule.dev/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783382477,
+    "source": "hackernews"
+  }
+]
