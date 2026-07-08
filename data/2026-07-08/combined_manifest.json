@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48825749",
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 208,
+    "descendants": 63,
+    "time": 1783469331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827325",
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "score": 190,
+    "descendants": 110,
+    "time": 1783483175,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827402",
+    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+    "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+    "score": 189,
+    "descendants": 160,
+    "time": 1783483933,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827858",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 170,
+    "descendants": 63,
+    "time": 1783488335,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826703",
+    "title": "Is The Economist Always Wrong?",
+    "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "score": 127,
+    "descendants": 132,
+    "time": 1783477021,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826329",
+    "title": "LineageOS Statistics",
+    "url": "https://stats.lineageos.org",
+    "score": 89,
+    "descendants": 44,
+    "time": 1783474059,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827092",
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "url": "https://www.digipres.org/the-floppy-guide/",
+    "score": 73,
+    "descendants": 17,
+    "time": 1783480951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826094",
+    "title": "Show HN: Chiptune Radio",
+    "url": "https://chiptune-radio.alephvoid.com/",
+    "score": 47,
+    "descendants": 12,
+    "time": 1783472119,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826376",
+    "title": "Meta says it's facing $1.4T in penalties in teen mental health case",
+    "url": "https://nypost.com/2026/07/07/business/meta-says-its-facing-1-4t-in-penalties-in-teen-mental-health-case-sum-equal-to-tech-giants-valuation/",
+    "score": 47,
+    "descendants": 9,
+    "time": 1783474407,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825745",
+    "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+    "url": "https://github.com/tiliondev/fortress",
+    "score": 40,
+    "descendants": 54,
+    "time": 1783469301,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825694",
+    "title": "Honey, We Bought an AI Story",
+    "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+    "score": 34,
+    "descendants": 14,
+    "time": 1783468878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825816",
+    "title": "An interactive explorer for Benford's Law across real datasets",
+    "url": "https://vatsalbakshi.com/blog/benfords-law/",
+    "score": 33,
+    "descendants": 12,
+    "time": 1783469919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829312",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "score": 28,
+    "descendants": 5,
+    "time": 1783500366,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48828648",
+    "title": "The space bit of SpaceX is worth $8 a share, says Morgan Stanley",
+    "url": "https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388",
+    "score": 26,
+    "descendants": 19,
+    "time": 1783495106,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826311",
+    "title": "How did Windows 95 decide that a setup program ran?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508",
+    "score": 17,
+    "descendants": 0,
+    "time": 1783473847,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827094",
+    "title": "Maine librarians are helping patrons resist AI and Big Tech",
+    "url": "https://www.bangordailynews.com/2026/07/02/midcoast/midcoast-culture/maine-librarians-are-helping-patrons-resist-ai-joam40zk0w/",
+    "score": 16,
+    "descendants": 0,
+    "time": 1783481005,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827139",
+    "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
+    "url": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
+    "score": 14,
+    "descendants": 5,
+    "time": 1783481404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826330",
+    "title": "Show HN: Ghostmeet – Self-hosted meeting transcription and summaries",
+    "url": "https://ghostmeet.sshlab.dev/",
+    "score": 13,
+    "descendants": 6,
+    "time": 1783474071,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825695",
+    "title": "See What's Next for Firefox",
+    "url": "https://www.firefox.com/en-US/whatsnext/",
+    "score": 12,
+    "descendants": 0,
+    "time": 1783468904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829092",
+    "title": "Reform UK leader 'in real trouble' against Count Binface",
+    "url": "https://www.mirror.co.uk/news/uk-news/nigel-farage-resigns-clacton-live-37401478",
+    "score": 11,
+    "descendants": 8,
+    "time": 1783498621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826236",
+    "title": "ICE sent officers to a man's home over an email. Now he's suing",
+    "url": "https://apnews.com/article/ice-lawsuit-free-speech-first-amendment-immigration-7c02685c16e4b141bea4470c35133a36",
+    "score": 10,
+    "descendants": 0,
+    "time": 1783473232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826086",
+    "title": "Claude Fable extended to July 12",
+    "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1783472052,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825796",
+    "title": "Chicago Fed launches a new consumer sentiment composite index",
+    "url": "https://www.marketplace.org/story/2026/07/06/why-is-consumer-sentiment-disconnected-from-consumer-spending",
+    "score": 9,
+    "descendants": 1,
+    "time": 1783469757,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826666",
+    "title": "Defending OpenClaw against indirect prompt injection",
+    "url": "https://compsec.snu.ac.kr/blog/dualview",
+    "score": 9,
+    "descendants": 0,
+    "time": 1783476717,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826506",
+    "title": "Fagging",
+    "url": "https://en.wikipedia.org/wiki/Fagging",
+    "score": 9,
+    "descendants": 0,
+    "time": 1783475393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826404",
+    "title": "We won $92,337 bug bounty using a single kernel 0-day",
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1783474630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826804",
+    "title": "AI has taken over the stock market. The bond market is next",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783477958,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825817",
+    "title": "Harica: Issuance and refusal to revoke TLS certificates for sanctioned entities",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2049237",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783469922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827111",
+    "title": "Agent Data Injection Attacks",
+    "url": "https://arxiv.org/abs/2607.05120",
+    "score": 7,
+    "descendants": 2,
+    "time": 1783481136,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825906",
+    "title": "Rlm-Workflow",
+    "url": "https://try.works/projects#rlm-workflow",
+    "score": 7,
+    "descendants": 1,
+    "time": 1783470738,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827227",
+    "title": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
+    "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+    "score": 6,
+    "descendants": 4,
+    "time": 1783482159,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827003",
+    "title": "How America's Wealth Distribution Has Changed Since 1989",
+    "url": "https://www.visualcapitalist.com/americas-wealth-distribution-1989-2025/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1783480108,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829512",
+    "title": "Show HN: Tarit – Self-host sandbox cloud and hypervisor for AI agents",
+    "url": "https://github.com/instavm/tarit",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783501885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826422",
+    "title": "Show HN: FactIQ – a realtime econ+finance database for AI agents",
+    "url": "https://github.com/defog-ai/factiq-plugin",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783474746,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826857",
+    "title": "Egg producers will pay $3.3M and donate 53M eggs to settle price-fixing",
+    "url": "https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783478466,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826241",
+    "title": "Mushroom Management",
+    "url": "https://en.wikipedia.org/wiki/Mushroom_management",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783473278,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826226",
+    "title": "Using Linux tc to limit the outgoing bandwidth of a web server",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783473181,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825808",
+    "title": "Show HN: Turbo – An open-source, fast HTTP server with a real-time config GUI",
+    "url": "https://turbo.okzgn.com",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783469867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48828931",
+    "title": "15-year-old arrested for unsubscribing over 40k anime accounts",
+    "url": "https://mainichi.jp/english/articles/20260706/p2g/00m/0na/012000c",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783497393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48826753",
+    "title": "TackNote",
+    "url": "https://tacknote.app/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783477420,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829412",
+    "title": "ZML/LLMD alpha – cross platform LLM server",
+    "url": "https://zml.ai/posts/llmd/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783501128,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48827204",
+    "title": "Linus Torvalds Warned Everyone About Microsoft – Now It's Happening in RT",
+    "url": "https://www.youtube.com/watch?v=_Qo3gKdgvMs",
+    "score": 4,
+    "descendants": 2,
+    "time": 1783482002,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48828595",
+    "title": "Browser extension to filter out all unknown brands from Amazon search results",
+    "url": "https://chromewebstore.google.com/detail/amazonbrandfilter/mhfjchmiaocbleapojmgnmjfcmanihio",
+    "score": 4,
+    "descendants": 1,
+    "time": 1783494537,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48825869",
+    "title": "China Is About to Pop the AI Bubble [video]",
+    "url": "https://www.youtube.com/watch?v=siazPdsZHuI",
+    "score": 4,
+    "descendants": 1,
+    "time": 1783470389,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829323",
+    "title": "Claude bug report: Cross-session credential leakage",
+    "url": "https://github.com/anthropics/claude-code/issues/72274",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783500454,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48829322",
+    "title": "Flagship models are not always better",
+    "url": "https://tej.as/blog/note-app-ai-benchmark-apple-intelligence-sucks",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783500430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48828892",
+    "title": "NASA's exoplanet mission accidentally discovers a planet",
+    "url": "https://www.scientificamerican.com/article/nasas-exoplanet-mission-accidentally-discovers-a-world-it-was-never-meant-to-find/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783497173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48828084",
+    "title": "The Atari Jaguar Runs Linux",
+    "url": "https://hackaday.com/2026/07/07/the-atari-jaguar-runs-linux/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1783490366,
+    "source": "hackernews"
+  }
+]
