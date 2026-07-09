@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "48839984",
+    "title": "I think I have LLM burnout",
+    "url": "https://www.alecscollon.com/blog/llm-burnout/",
+    "score": 341,
+    "descendants": 280,
+    "time": 1783562188,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841676",
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "url": "https://github.com/malisper/pgrust",
+    "score": 142,
+    "descendants": 182,
+    "time": 1783577899,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841259",
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "score": 130,
+    "descendants": 60,
+    "time": 1783574085,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842611",
+    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "score": 121,
+    "descendants": 75,
+    "time": 1783585372,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839397",
+    "title": "Remote Attestation",
+    "url": "https://www.liamcvw.com/p/remote-attestation",
+    "score": 99,
+    "descendants": 87,
+    "time": 1783557153,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839355",
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "url": "https://mira-wm.com/",
+    "score": 80,
+    "descendants": 14,
+    "time": 1783556877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839434",
+    "title": "A software engineering interview question I like: computing the median",
+    "url": "https://krisshamloo.com/blog/007",
+    "score": 62,
+    "descendants": 78,
+    "time": 1783557482,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840194",
+    "title": "What Does a 13-Year-Old See on Snapchat in a Normal Week?",
+    "url": "https://www.afterbabel.com/p/snapchat-recommends-harmful-content-kids-brooke-istook-2026",
+    "score": 47,
+    "descendants": 14,
+    "time": 1783563738,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841446",
+    "title": "AI changes the economics of software rewrites",
+    "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+    "score": 38,
+    "descendants": 58,
+    "time": 1783576010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840620",
+    "title": "What's slowing down the AI buildout",
+    "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+    "score": 30,
+    "descendants": 55,
+    "time": 1783567562,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839751",
+    "title": "Rewriting Bun in Rust",
+    "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+    "score": 30,
+    "descendants": 7,
+    "time": 1783560144,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841385",
+    "title": "How Donkey Kong Toppled Atari",
+    "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "score": 25,
+    "descendants": 7,
+    "time": 1783575284,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841443",
+    "title": "Samsung chip division's 1-year profit beat past 40 years of profits, combined",
+    "url": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026",
+    "score": 25,
+    "descendants": 3,
+    "time": 1783575969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841568",
+    "title": "I co-founded Wikipedia, but an anonymous mob runs the show – and now I'm banned",
+    "url": "https://www.washingtonexaminer.com/op-eds/4638304/larry-sanger-wikipedia-co-founder-banned-anonymous-mob/",
+    "score": 23,
+    "descendants": 13,
+    "time": 1783576984,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840377",
+    "title": "Former Judge Hannah Dugan avoids prison, fined $5k in ICE obstruction case",
+    "url": "https://wisconsinexaminer.com/2026/07/08/former-judge-hannah-dugan-avoids-prison-fined-5000-in-ice-obstruction-case/",
+    "score": 22,
+    "descendants": 3,
+    "time": 1783565280,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48843352",
+    "title": "My Thoughts on the Bun Rust Rewrite",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "score": 17,
+    "descendants": 0,
+    "time": 1783590448,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840497",
+    "title": "Ergo: Long Form Philosophy Lectures",
+    "url": "https://ergo.org/",
+    "score": 16,
+    "descendants": 8,
+    "time": 1783566512,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841275",
+    "title": "AI software that generates 'rage bait' developed by Germany's far-right AfD",
+    "url": "https://www.irishtimes.com/world/europe/2026/07/08/ai-software-that-generates-rage-bait-developed-by-germanys-far-right-afd/",
+    "score": 16,
+    "descendants": 2,
+    "time": 1783574250,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840726",
+    "title": "Top Legal Adviser to Joint Chiefs Is Stepping Down a Year Before Completing Term",
+    "url": "https://www.propublica.org/article/eric-widmar-retiring-joint-chiefs-legal-adviser",
+    "score": 15,
+    "descendants": 0,
+    "time": 1783568587,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839719",
+    "title": "Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool",
+    "url": "https://openscreenshot.app",
+    "score": 13,
+    "descendants": 3,
+    "time": 1783559945,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840301",
+    "title": "Google Earth Pro desktop downloads will end in 2027",
+    "url": "https://support.google.com/earth/thread/448773864/update-on-google-earth-pro-desktop-app-downloads?hl=en",
+    "score": 13,
+    "descendants": 2,
+    "time": 1783564523,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840758",
+    "title": "Cancer cases worldwide are expected to soar in the coming decades",
+    "url": "https://www.washingtonpost.com/health/2026/07/08/why-who-is-warning-about-escalating-cancer-rates-by-2050/",
+    "score": 12,
+    "descendants": 11,
+    "time": 1783568892,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839285",
+    "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+    "score": 10,
+    "descendants": 0,
+    "time": 1783556358,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840474",
+    "title": "Neuromancer (TV Series) – IMDB",
+    "url": "https://www.imdb.com/title/tt31512174/",
+    "score": 9,
+    "descendants": 3,
+    "time": 1783566241,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841348",
+    "title": "Book: RISC-V System-on-Chip Design",
+    "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+    "score": 9,
+    "descendants": 2,
+    "time": 1783574922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839787",
+    "title": "Independent Labs Crack Google's Cryptography Work",
+    "url": "https://spectrum.ieee.org/google-quantum-cryptography-zero-knowledge",
+    "score": 9,
+    "descendants": 1,
+    "time": 1783560458,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839739",
+    "title": "Google Discontinues Google Earth Pro for Desktop",
+    "url": "https://pxlnv.com/linklog/google-earth-pro-sunset/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1783560054,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841928",
+    "title": "What Everyone Should Know About How Capital Works",
+    "url": "https://jacobin.com/2026/07/marx-capital-harvey-economics-contradiction",
+    "score": 8,
+    "descendants": 6,
+    "time": 1783580142,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842564",
+    "title": "EU's five regulations that will change how we live, drive, and use the internet",
+    "url": "https://twitter.com/dziki_zachod/status/2074795633442201804",
+    "score": 8,
+    "descendants": 2,
+    "time": 1783585008,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840597",
+    "title": "Researchers uncover possible cause of muscle pain from cholesterol medication",
+    "url": "https://medicalxpress.com/news/2026-07-uncover-muscle-pain-widely-cholesterol.html",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783567395,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840514",
+    "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+    "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1783566744,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839662",
+    "title": "Abnormal Response to Anthropic Lawsuit",
+    "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit",
+    "score": 7,
+    "descendants": 3,
+    "time": 1783559443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840090",
+    "title": "We Mapped Rural Data Center Development – and Opposition",
+    "url": "https://dailyyonder.com/we-mapped-rural-data-center-development-and-opposition-heres-what-we-found/2026/06/29/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1783562969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839684",
+    "title": "Decentralized, encrypted (E2EE), censorship-resistant messenger",
+    "url": "https://github.com/harpiabrasil/hydra",
+    "score": 7,
+    "descendants": 1,
+    "time": 1783559692,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842014",
+    "title": "1-in-2 phones sold in Africa exfiltrate whole-device activity to China",
+    "url": "https://www.nowsecure.com/blog/2026/07/08/what-the-transsion-telemetry-research-means-for-mobile-security/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1783580969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841294",
+    "title": "What Scientists Learned by Eavesdropping on Thousands of People",
+    "url": "https://www.newyorker.com/culture/annals-of-inquiry/what-scientists-learned-by-eavesdropping-on-thousands-of-people",
+    "score": 7,
+    "descendants": 0,
+    "time": 1783574436,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841396",
+    "title": "AI is creating economic winners, says IMF",
+    "url": "https://www.axios.com/2026/07/08/imf-ai-energy-iran",
+    "score": 6,
+    "descendants": 1,
+    "time": 1783575437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842862",
+    "title": "Decispher – System of record and action for engineering teams",
+    "url": "https://decispher.com",
+    "score": 6,
+    "descendants": 0,
+    "time": 1783586874,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841994",
+    "title": "Former GitHub CEO launches competitor designed for the age of vibe coding",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
+    "score": 6,
+    "descendants": 0,
+    "time": 1783580795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840035",
+    "title": "Nobel-winning chemist leaves US to direct AI materials lab in China",
+    "url": "https://www.nature.com/articles/d41586-026-02143-x",
+    "score": 5,
+    "descendants": 2,
+    "time": 1783562573,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842394",
+    "title": "The robotaxi law that could ban Tesla",
+    "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783583891,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839585",
+    "title": "Show HN: Cyrinx (36kbps Acoustic Transport)",
+    "url": "https://cyrinx.org/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783558762,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839395",
+    "title": "A terminal designed for ClaudeCode to replace Claude Desktop",
+    "url": "https://velaterm.com/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1783557136,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842836",
+    "title": "Mastodon, the Only Good Choice",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/07/05/Choose-Mastodon",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783586699,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842542",
+    "title": "Touchscreens in cars are getting worse, Swedish test finds",
+    "url": "https://www.vibilagare.se/touchscreens-cars-are-moving-wrong-direction",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783584860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48842276",
+    "title": "Another German state heads down the open source sovereignty road",
+    "url": "https://www.theregister.com/software/2026/07/08/another-german-state-heads-down-the-open-source-sovereignty-road/5268192",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783583001,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48841236",
+    "title": "Microsoft's gaming strategy has misfired badly",
+    "url": "https://www.economist.com/business/2026/07/08/microsofts-gaming-strategy-has-misfired-badly",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783573783,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48840287",
+    "title": "The DuckDB ADBC Extension",
+    "url": "https://columnar.tech/blog/announcing-duckdb-adbc-extension//",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783564431,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839756",
+    "title": "Meta to build its first $13B data centre in Canada",
+    "url": "https://www.ctvnews.ca/business/article/meta-to-build-its-first-13-billion-data-centre-in-canada/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783560163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48839718",
+    "title": "GitLab on FreeBSD",
+    "url": "https://vermaden.wordpress.com/2026/07/09/gitlab-on-freebsd/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1783559940,
+    "source": "hackernews"
+  }
+]
