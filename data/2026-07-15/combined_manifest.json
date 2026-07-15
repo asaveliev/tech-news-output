@@ -1,0 +1,416 @@
+[
+  {
+    "hn_id": "48915709",
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "score": 414,
+    "descendants": 101,
+    "time": 1784084267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914644",
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "score": 263,
+    "descendants": 104,
+    "time": 1784074553,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916975",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "score": 249,
+    "descendants": 111,
+    "time": 1784096880,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914683",
+    "title": "Data centers have hiked electricity prices on the public by $23B",
+    "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+    "score": 180,
+    "descendants": 107,
+    "time": 1784074831,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915004",
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "url": "https://tailscale.com/security-bulletins",
+    "score": 147,
+    "descendants": 71,
+    "time": 1784077706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914646",
+    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+    "url": "https://www.starfleetmath.com/",
+    "score": 132,
+    "descendants": 59,
+    "time": 1784074556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915244",
+    "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+    "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+    "score": 96,
+    "descendants": 130,
+    "time": 1784079829,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916805",
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "score": 52,
+    "descendants": 37,
+    "time": 1784095337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915953",
+    "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "score": 28,
+    "descendants": 13,
+    "time": 1784086365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914892",
+    "title": "Texas factory cost $469M using old equipment, makes zero artillery shells",
+    "url": "https://taskandpurpose.com/news/texas-ammo-factory-zero-shells/",
+    "score": 20,
+    "descendants": 7,
+    "time": 1784076757,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914917",
+    "title": "House Votes for Permanent Daylight Saving Time",
+    "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html",
+    "score": 19,
+    "descendants": 7,
+    "time": 1784076930,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916455",
+    "title": "Marco Rubio launches campaign to dismantle international criminal court",
+    "url": "https://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-international-criminal-court",
+    "score": 19,
+    "descendants": 3,
+    "time": 1784091589,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917055",
+    "title": "Who's running all those tiny RPKI servers?",
+    "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+    "score": 19,
+    "descendants": 0,
+    "time": 1784097536,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914880",
+    "title": "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
+    "url": "https://www.theregister.com/os-platforms/2026/07/13/microsoft-emails-windows-10-holdouts-fine-keep-your-old-pc-another-year/5270336",
+    "score": 10,
+    "descendants": 5,
+    "time": 1784076652,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916291",
+    "title": "Lobste.rs is now running on SQLite",
+    "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite",
+    "score": 10,
+    "descendants": 2,
+    "time": 1784089377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914549",
+    "title": "IBM stock drops the most since 1987",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
+    "score": 9,
+    "descendants": 2,
+    "time": 1784073718,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914562",
+    "title": "Russian Artists Imagined in 1914 What Moscow Would Look Like in 2259",
+    "url": "https://www.openculture.com/2026/07/russian-artists-imagined-what-moscow-would-look-like-in-2259.html",
+    "score": 9,
+    "descendants": 1,
+    "time": 1784073819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915312",
+    "title": "UEFI shims undermining Secure Boot",
+    "url": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1784080379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914799",
+    "title": "What If the Youth Crisis of Mental Health and Attention Never Happened?",
+    "url": "https://grimoiremanor.substack.com/p/what-if-the-youth-crisis-of-mental",
+    "score": 9,
+    "descendants": 0,
+    "time": 1784075809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915266",
+    "title": "Microsoft's Secure Boot has been broken for a decade and no one noticed",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "score": 8,
+    "descendants": 3,
+    "time": 1784080018,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916282",
+    "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+    "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+    "score": 8,
+    "descendants": 1,
+    "time": 1784089328,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914711",
+    "title": "Meta's AI Glasses Will Activate the Camera Without Indicator Light",
+    "url": "https://www.privacyguides.org/news/2026/07/13/the-next-version-of-metas-ai-glasses-will-activate-the-camera-without-the-camera-indicator-light/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1784075125,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916497",
+    "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+    "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784092010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915842",
+    "title": "Data Showing Palantir's Positive Impact on NHS Riddled with Errors",
+    "url": "https://novaramedia.com/2026/07/13/data-showing-palantirs-positive-impact-on-nhs-riddled-with-errors/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784085504,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914855",
+    "title": "I Use HTML with Java",
+    "url": "https://frequal.com/Flavour/book.html",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784076442,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917518",
+    "title": "Why Are Japanese Retail Traders Shorting the US Dollar?",
+    "url": "https://www.disruptionbanking.com/2026/07/15/why-are-japanese-retail-traders-shorting-the-us-dollar/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784101408,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915561",
+    "title": "Show HN: Samosa Chat - Run Qwen3.6-35B-A3B Locally on a 16 GB Mac",
+    "url": "https://github.com/deepanwadhwa/samosa-chat",
+    "score": 6,
+    "descendants": 4,
+    "time": 1784082715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915394",
+    "title": "Midnight social media curfew proposed for older UK teens",
+    "url": "https://www.bbc.com/news/articles/c982857nlrlo",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784081053,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914596",
+    "title": "Why Huge Pages matter for Postgres",
+    "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784074172,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917196",
+    "title": "Show HN: Multi-player poker on SSH – ssh cli.poker",
+    "url": "https://www.cli.poker/",
+    "score": 5,
+    "descendants": 3,
+    "time": 1784098736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914872",
+    "title": "Welsh Doxbin admin jailed for egging on swatters from behind a screen",
+    "url": "https://www.theregister.com/security/2026/07/14/welsh-doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/5271281",
+    "score": 5,
+    "descendants": 2,
+    "time": 1784076569,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914684",
+    "title": "Library Catalog (Card Catalog)",
+    "url": "https://en.wikipedia.org/wiki/Library_catalog",
+    "score": 5,
+    "descendants": 2,
+    "time": 1784074831,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917214",
+    "title": "UK teens report sleep, wellbeing gains under social media restrictions, study",
+    "url": "https://www.reuters.com/legal/litigation/uk-teens-report-sleep-wellbeing-gains-under-social-media-restrictions-study-2026-07-14/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784098948,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917995",
+    "title": "Be using a meta harness for agents",
+    "url": "https://garrit.xyz/posts/2026-07-15-you-should-be-using-a-meta-harness-for-agents",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784105149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915098",
+    "title": "URLs: Uniform Resource Locators or Unreliable Resource Locators [pdf]",
+    "url": "https://pdfs.semanticscholar.org/1d77/079f91137a83e6d81d9aa1170161f910664d.pdf",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784078548,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48918019",
+    "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+    "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784105390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915985",
+    "title": "AgentCall – turn any coding agent into a live meeting participant",
+    "url": "https://agentcall.dev",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784086594,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48915624",
+    "title": "Starlink V5",
+    "url": "https://starlink.com/specifications/10",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784083416,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48918078",
+    "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
+    "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784105897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917607",
+    "title": "FreeBSD 16 Retires the Last GPL Code from Its Base System",
+    "url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784102174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917305",
+    "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+    "url": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784099717,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48917145",
+    "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+    "url": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784098377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916999",
+    "title": "Musk: \"All user data that was uploaded to SpaceXAI before now will be deleted\"",
+    "url": "https://twitter.com/elonmusk/status/2076739687658496209",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784097049,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916989",
+    "title": "German media regulator says Google's AI Overviews subject to German media law",
+    "url": "https://www.reuters.com/legal/government/german-media-regulator-says-googles-ai-overviews-subject-german-media-law-2026-07-14/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784096984,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48916250",
+    "title": "Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784088917,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48914958",
+    "title": "The Logistics of Funding North Korean E-Wallets",
+    "url": "https://www.38north.org/2026/07/the-logistics-of-funding-north-korean-e-wallets/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784077275,
+    "source": "hackernews"
+  }
+]
