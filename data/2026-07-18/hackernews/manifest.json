@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "48954851",
+    "title": "Regressive JPEGs",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "score": 283,
+    "descendants": 19,
+    "time": 1784344460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954149",
+    "title": "I started a “dirt notebook”",
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "score": 60,
+    "descendants": 49,
+    "time": 1784337133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953924",
+    "title": "A grumpy screed about AI in software engineering",
+    "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+    "score": 56,
+    "descendants": 63,
+    "time": 1784335208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954175",
+    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "url": "https://moonstone.sh/",
+    "score": 54,
+    "descendants": 14,
+    "time": 1784337495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953981",
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "url": "https://www.stenchill.com/en/",
+    "score": 47,
+    "descendants": 10,
+    "time": 1784335717,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955159",
+    "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
+    "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
+    "score": 46,
+    "descendants": 54,
+    "time": 1784347980,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953734",
+    "title": "Credit Card Points Are a Transfer from the Broke to the Comfortable",
+    "url": "https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer",
+    "score": 34,
+    "descendants": 21,
+    "time": 1784333170,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953719",
+    "title": "PSA about abuse of cat(1) command. Don't abuse cats",
+    "url": "https://www.abuseofcats.com",
+    "score": 29,
+    "descendants": 49,
+    "time": 1784333021,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953857",
+    "title": "Nadella Blasts AI Industry's Double Standard",
+    "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+    "score": 26,
+    "descendants": 7,
+    "time": 1784334526,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954115",
+    "title": "Newly retired couples may lose $16,900/year in Social Security in 2033",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/16/social-security-cut-2033/90941392007/",
+    "score": 22,
+    "descendants": 54,
+    "time": 1784336841,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954522",
+    "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
+    "url": "https://twitter.com/claudeai/status/2078302415804379218",
+    "score": 22,
+    "descendants": 4,
+    "time": 1784340936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955042",
+    "title": "Show HN: IKEA Complexity Index",
+    "url": "https://ikea.greg.technology/",
+    "score": 20,
+    "descendants": 13,
+    "time": 1784346702,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953733",
+    "title": "Why X Is Not Our Ideal Window System",
+    "url": "https://people.freedesktop.org/~ajax/WhyX.pdf?__goaway_challenge=meta-refresh&__goaway_id=c287e9be33122e4fedfedef2cc9493bb&__goaway_referer=https%3A%2F%2Fold.reddit.com%2Fr%2Flinux%2Fcomments%2F1uz02cz%2Fwhy_x_is_not_our_ideal_window_system_1990%2F",
+    "score": 13,
+    "descendants": 4,
+    "time": 1784333158,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954188",
+    "title": "LoRa radio communication devices for Raspberry Pi",
+    "url": "https://www.raspberrypi.com/news/lora-radio-communication-devices-for-raspberry-pi/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1784337620,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953893",
+    "title": "Open Source is not immune to monopoly",
+    "url": "https://humancode.us/2026/07/17/open-source-monopoly",
+    "score": 10,
+    "descendants": 7,
+    "time": 1784334904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954024",
+    "title": "Open Source Parametric DIY Air Purifier Builder",
+    "url": "https://www.filterboxbuilder.com/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1784336040,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954103",
+    "title": "Alien world chemistry found inside meteorite that struck New Jersey home",
+    "url": "https://phys.org/news/2026-07-alien-world-chemistry-meteorite-struck.html",
+    "score": 10,
+    "descendants": 0,
+    "time": 1784336704,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954941",
+    "title": "Japan now has human refrigerators inspired by Japanese vending machines",
+    "url": "https://soranews24.com/2026/07/18/japan-now-has-human-refrigerators-aims-to-help-save-lives-in-summer/",
+    "score": 9,
+    "descendants": 8,
+    "time": 1784345459,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48956192",
+    "title": "Israeli ministers announce plans for illegal settlements in Gaza and West Bank",
+    "url": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine",
+    "score": 9,
+    "descendants": 3,
+    "time": 1784363017,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954326",
+    "title": "Recreating the Bell Labs Cafeteria",
+    "url": "https://danielmiessler.com/blog/recreating-the-bell-labs-cafeteria",
+    "score": 9,
+    "descendants": 1,
+    "time": 1784339269,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954473",
+    "title": "Nvidia CEO Jensen Huang's jacket has sold at Sotheby's for $960k",
+    "url": "https://twitter.com/darrenrovell/status/2078207366625964058",
+    "score": 8,
+    "descendants": 2,
+    "time": 1784340598,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955611",
+    "title": "An Open Letter to A24 about Backrooms Copyright",
+    "url": "https://backroomsmovie.com/2026/07/an-open-letter-to-a24-about-backrooms-copyright/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1784354588,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955979",
+    "title": "Find What SaaS Tools Competitors Use via Sub-Processors",
+    "url": "https://ashishb.net/tech/sub-processors-leak-saas-stack/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1784359941,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954209",
+    "title": "Anthropic in early talks with Meta to acquire compute power",
+    "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+    "score": 7,
+    "descendants": 2,
+    "time": 1784337888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953830",
+    "title": "Native C# CEL Implementation",
+    "url": "https://www.nuget.org/packages/Celly",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784334153,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954189",
+    "title": "AI hasn't shifted the bottleneck from coding to code review",
+    "url": "https://thenewstack.io/ai-code-bottleneck-myth/",
+    "score": 6,
+    "descendants": 2,
+    "time": 1784337644,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955089",
+    "title": "How Does Pangram Work?",
+    "url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "score": 5,
+    "descendants": 2,
+    "time": 1784347187,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48956052",
+    "title": "Vikram-1, India's first private orbital rocket, aces debut launch",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784361157,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953821",
+    "title": "New Jersey Couple Aids Meteorite Discovery After It Crashes Through Their Roof",
+    "url": "https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784334073,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954996",
+    "title": "Certificate Expiry for Hacker News.com",
+    "url": "https://news.ycombinator.com/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784346096,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954710",
+    "title": "Tokyo Technarch Izakaya Night: Jensen like postwar industry captain",
+    "url": "https://www.youtube.com/watch?v=X7ffSOzcYBc",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784342688,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953756",
+    "title": "Open Problems Solved by LLMs? A Survey of Verifiable Mathematical Discovery [pdf]",
+    "url": "https://aclanthology.org/2026.bigpicture-main.2.pdf",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784333439,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48956153",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784362445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955740",
+    "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
+    "url": "https://github.com/skorotkiewicz/signal-in-the-dark",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784356344,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955484",
+    "title": "A little experiment in evading AI detection",
+    "url": "https://thegustafson.com/blog/evading-ai-detection",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784352541,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955403",
+    "title": "Martin Picard's Mitochondrial Theory of Mind",
+    "url": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784351434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954859",
+    "title": "ASCII Art",
+    "url": "https://github.com/doctorfree/Asciiville",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784344620,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954233",
+    "title": "We Are Changing Our Developer Productivity Experiment Design",
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/#other-means-of-measuring-productivity",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784338253,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954878",
+    "title": "Show HN: NS6 – Find your perfect domain",
+    "url": "https://www.ns6.com/",
+    "score": 3,
+    "descendants": 6,
+    "time": 1784344751,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954639",
+    "title": "A Test Isn't Racist. Assumptions About Black Kids Can Be",
+    "url": "https://www.nytimes.com/2026/07/16/opinion/new-york-high-school-test-racism.html",
+    "score": 3,
+    "descendants": 5,
+    "time": 1784341940,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954969",
+    "title": "Kimi K3 vs. Meta: Muse Spark 1.1",
+    "url": "https://runtimewire.com/article/head-to-head-kimi-k3-vs-meta-muse-spark-1-1",
+    "score": 3,
+    "descendants": 2,
+    "time": 1784345721,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48954397",
+    "title": "Animal Crossing Decompilation has hit 100% matching",
+    "url": "https://github.com/ACreTeam/ac-decomp",
+    "score": 3,
+    "descendants": 1,
+    "time": 1784339983,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48953907",
+    "title": "Idea would turn the Earth into a giant space telescope",
+    "url": "https://www.snexplores.org/article/idea-would-turn-earth-giant-space-telescope",
+    "score": 3,
+    "descendants": 1,
+    "time": 1784335066,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955973",
+    "title": "How Reddit Detects Ban Evasion – and Why a New Account Isn't Enough",
+    "url": "https://medium.com/@thesuperrepemail/how-reddit-detects-ban-evasion-and-why-a-new-account-isnt-enough-b9cedcbf33ac",
+    "score": 3,
+    "descendants": 0,
+    "time": 1784359827,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955929",
+    "title": "AI Mania Is Eviscerating Global Decisionmaking",
+    "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+    "score": 3,
+    "descendants": 0,
+    "time": 1784359273,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955633",
+    "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+    "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+    "score": 3,
+    "descendants": 0,
+    "time": 1784354837,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955629",
+    "title": "SpaceX stock has cratered nearly 23% since the company joined the Nasdaq-100",
+    "url": "https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
+    "score": 3,
+    "descendants": 0,
+    "time": 1784354772,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48955618",
+    "title": "The Java Story – The Official Documentary [video]",
+    "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
+    "score": 3,
+    "descendants": 0,
+    "time": 1784354665,
+    "source": "hackernews"
+  }
+]
