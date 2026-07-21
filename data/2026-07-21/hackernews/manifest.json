@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "48986731",
+    "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+    "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+    "score": 402,
+    "descendants": 125,
+    "time": 1784594033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987863",
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "score": 280,
+    "descendants": 159,
+    "time": 1784606163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987822",
+    "title": "Incremental – A library for incremental computations",
+    "url": "https://github.com/janestreet/incremental",
+    "score": 192,
+    "descendants": 32,
+    "time": 1784605853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987846",
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "score": 67,
+    "descendants": 13,
+    "time": 1784606056,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988196",
+    "title": "Do we just want slaves?",
+    "url": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
+    "score": 45,
+    "descendants": 69,
+    "time": 1784609778,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989701",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "score": 41,
+    "descendants": 20,
+    "time": 1784623463,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988793",
+    "title": "Linux kernel will support $ORIGIN, sort of",
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "score": 41,
+    "descendants": 18,
+    "time": 1784615362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987831",
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "score": 35,
+    "descendants": 28,
+    "time": 1784605925,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988158",
+    "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+    "url": "https://exsitu.app/map",
+    "score": 33,
+    "descendants": 19,
+    "time": 1784609312,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988265",
+    "title": "Reverse-engineering is cheap now",
+    "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+    "score": 30,
+    "descendants": 29,
+    "time": 1784610646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987775",
+    "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+    "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+    "score": 27,
+    "descendants": 10,
+    "time": 1784605367,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987347",
+    "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
+    "url": "https://github.com/Qbix/webserver/blob/main/README.md",
+    "score": 25,
+    "descendants": 8,
+    "time": 1784600736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987373",
+    "title": "New York blocks large data centers for a year",
+    "url": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
+    "score": 22,
+    "descendants": 1,
+    "time": 1784601063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988189",
+    "title": "Zoom is now Chrome only",
+    "url": "https://zoom.us/test",
+    "score": 17,
+    "descendants": 16,
+    "time": 1784609706,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987253",
+    "title": "Ramp Router",
+    "url": "https://ramp.com/router/",
+    "score": 16,
+    "descendants": 9,
+    "time": 1784599767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986648",
+    "title": "OpenCircuitX",
+    "url": "https://github.com/openlab-x/OpenCircuitX",
+    "score": 12,
+    "descendants": 1,
+    "time": 1784593200,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986668",
+    "title": "Best Coding Fonts for Developers in 2026",
+    "url": "https://www.jstools.space/blog/best-coding-fonts/",
+    "score": 11,
+    "descendants": 3,
+    "time": 1784593337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987979",
+    "title": "X (Formerly Twitter) Is Going Open Source",
+    "url": "https://twitter.com/elonmusk/status/2077361679034118271",
+    "score": 11,
+    "descendants": 0,
+    "time": 1784607265,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987114",
+    "title": "Eye Tracking on Your Cellphone",
+    "url": "https://gazecapture.csail.mit.edu/",
+    "score": 10,
+    "descendants": 3,
+    "time": 1784598159,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989518",
+    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1784621821,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987214",
+    "title": "Ten-year-old butterfly researcher finds memories can be inherited",
+    "url": "https://www.upworthy.com/ten-year-old-butterfly-researcher-discovers-that-memories-an-be-passed-down-through-generations/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1784599386,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986787",
+    "title": "Flathub's AI slop ban looks like it was the right call",
+    "url": "https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data",
+    "score": 10,
+    "descendants": 0,
+    "time": 1784594673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988634",
+    "title": "'Made in EU' password manager shares codebase with Russian State-certified firm",
+    "url": "https://brusselssignal.eu/2026/07/made-in-eu-password-manager-shares-codebase-with-russian-state-certified-firm/",
+    "score": 9,
+    "descendants": 3,
+    "time": 1784614012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986762",
+    "title": "Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
+    "url": "https://useekko.app/",
+    "score": 9,
+    "descendants": 3,
+    "time": 1784594362,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988357",
+    "title": "China weighs tighter export controls on AI models and chips",
+    "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a",
+    "score": 9,
+    "descendants": 0,
+    "time": 1784611482,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987021",
+    "title": "Anthropic's Landmark $1.5B Copyright Settlement Is Approved",
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "score": 8,
+    "descendants": 3,
+    "time": 1784596971,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987124",
+    "title": "Homeric Question",
+    "url": "https://en.wikipedia.org/wiki/Homeric_Question",
+    "score": 8,
+    "descendants": 1,
+    "time": 1784598212,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988093",
+    "title": "Show HN: UEFI Bootloader for TempleOS",
+    "url": "https://codeberg.org/0x2f22d23e/UwUEFI",
+    "score": 8,
+    "descendants": 0,
+    "time": 1784608585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987618",
+    "title": "Show HN: Turn casual photos into professional headshots with AI",
+    "url": "https://portraify.app",
+    "score": 7,
+    "descendants": 11,
+    "time": 1784603597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987379",
+    "title": "IEA Predicts First Decrease in Global Oil Demand Since 2020",
+    "url": "https://oilprice.com/Energy/Crude-Oil/IEA-Predicts-First-Decrease-in-Global-Oil-Demand-Since-2020.html",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784601124,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987723",
+    "title": "Writers need new strategies to stand up to AI",
+    "url": "https://www.thedial.world/articles/news/copyright-law-ai-intellectual-property",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784604804,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987577",
+    "title": "Hugging Face warns an autonomous AI agent hacked its network",
+    "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784603226,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987489",
+    "title": "MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical",
+    "url": "https://twitter.com/omarsar0/status/2074494774292148726",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784602303,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986700",
+    "title": "The Networking Wars: How Microsoft Crushed Novell",
+    "url": "https://www.youtube.com/watch?v=5GAYaBU1SLQ",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784593655,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986912",
+    "title": "Show HN: I made email signatures less boring",
+    "url": "https://esigna.app",
+    "score": 6,
+    "descendants": 13,
+    "time": 1784595980,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986773",
+    "title": "Huawei Just Built an Impossible Chip [video]",
+    "url": "https://www.youtube.com/watch?v=8ekndZwyOzo",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784594529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988287",
+    "title": "AI's Next Big Breakthrough Is Looking Pretty Scary",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-07-21/self-improving-ai-models-look-genuinely-scary",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784610901,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987713",
+    "title": "Gary Marcus: US won't \"win\" AI war with China. What we should do instead.",
+    "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784604627,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986885",
+    "title": "How To Choose A Subproblem",
+    "url": "https://millicosm.substack.com/p/how-to-choose-a-subproblem",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784595759,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986810",
+    "title": "With the Help of Codex: A Reproducible Proof Against the Jacobian Conjecture",
+    "url": "https://blog.clidey.com/a-reproducible-proof-against-the-jacobian-conjecture/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784594865,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989858",
+    "title": "Burnham is fifth UK PM in four years, now he'll try to buck the trend",
+    "url": "https://www.bbc.com/news/articles/cr7knml2y99o",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784624996,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989811",
+    "title": "IPv8: The Draft of a New Internet",
+    "url": "https://transitai.app/blog/ipv8-draft-zone-server-math/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784624560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988630",
+    "title": "China's Z.ai Completes 1-Gigawatt AI Data Center Using Only Chinese-Made Chips",
+    "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784613988,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48988470",
+    "title": "\"Fork it or leave\": Linus Torvalds fires back at Linux's anti-AI crowd",
+    "url": "https://www.neowin.net/news/fork-it-or-leave-linus-torvalds-riles-up-linuxs-ai-luddites/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784612432,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48987258",
+    "title": "Sakana Fugu-Cyber",
+    "url": "https://sakana.ai/fugu-cyber-release/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784599807,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986882",
+    "title": "On Being a Conservative",
+    "url": "https://casssunstein.substack.com/p/on-being-a-conservative",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784595737,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48986639",
+    "title": "OpenAI Says Model Broke Out of Sandbox",
+    "url": "https://twitter.com/kimmonismus/status/2079276434586210745",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784593122,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989887",
+    "title": "Google Is Building an A.I. Fence Around the Internet It Once Championed",
+    "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784625286,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "48989504",
+    "title": "Did China just beat Intel?",
+    "url": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784621581,
+    "source": "hackernews"
+  }
+]
