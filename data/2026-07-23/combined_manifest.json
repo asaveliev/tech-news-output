@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "49015588",
+    "title": "Codeberg Bans Cryptocurrency Projects",
+    "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+    "score": 286,
+    "descendants": 429,
+    "time": 1784768816,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015735",
+    "title": "Petals: Run LLMs at home, BitTorrent-style",
+    "url": "https://petals.dev/",
+    "score": 114,
+    "descendants": 35,
+    "time": 1784770392,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015639",
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "score": 106,
+    "descendants": 98,
+    "time": 1784769374,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017265",
+    "title": "Amiga 1000: Ten years ahead of its time",
+    "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "score": 75,
+    "descendants": 47,
+    "time": 1784784257,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015635",
+    "title": "Protecting our FLOSS commons from LLMs",
+    "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+    "score": 49,
+    "descendants": 6,
+    "time": 1784769293,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017344",
+    "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+    "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+    "score": 48,
+    "descendants": 18,
+    "time": 1784785220,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016099",
+    "title": "Restructuring GitHub's bug bounty program",
+    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "score": 45,
+    "descendants": 18,
+    "time": 1784773703,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017277",
+    "title": "French President Macron backs effort to ban kids under 15 from social media",
+    "url": "https://fortune.com/2026/07/20/french-president-social-media-ban-lawmakers/",
+    "score": 19,
+    "descendants": 13,
+    "time": 1784784403,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015878",
+    "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+    "url": "https://arxiv.org/abs/2607.20386",
+    "score": 18,
+    "descendants": 0,
+    "time": 1784771898,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015139",
+    "title": "What Happened When Flock Came to My Town",
+    "url": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
+    "score": 13,
+    "descendants": 2,
+    "time": 1784764910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017118",
+    "title": "Stop pretending billionaires built the future",
+    "url": "https://www.elysian.press/p/billionaires-didnt-create-innovation",
+    "score": 13,
+    "descendants": 1,
+    "time": 1784782695,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015866",
+    "title": "Map of Every Clean Water Act (Npdes) Discharge Violation in the US",
+    "url": "https://www.speakforthetrees.com/facilities",
+    "score": 13,
+    "descendants": 1,
+    "time": 1784771800,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015852",
+    "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+    "url": "https://github.com/mihirahuja1/agentnestOSS",
+    "score": 10,
+    "descendants": 2,
+    "time": 1784771646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016657",
+    "title": "Each Day the US Weakens Itself",
+    "url": "https://phillipspobrien.substack.com/p/midweek-update-20-each-day-the-us",
+    "score": 9,
+    "descendants": 4,
+    "time": 1784778162,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015534",
+    "title": "Mage-Flow: Efficient Native-Resolution Foundation Model for Image Generation",
+    "url": "https://microsoft.github.io/Mage/flow/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1784768307,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015927",
+    "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+    "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1784772436,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015650",
+    "title": "House passes NDAA 216–212 to integrate Israel and US militaries",
+    "url": "https://twitter.com/DropSiteNews/status/2080043694804312106",
+    "score": 9,
+    "descendants": 0,
+    "time": 1784769529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017706",
+    "title": "The U.S. wants to contain China's AI. Silicon Valley keeps using it",
+    "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1784788821,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015716",
+    "title": "Why Stanford Students Walked Out on Sundar Pichai's Commencement Speech",
+    "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1784770174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016352",
+    "title": "Taxfloridabillionaires.com",
+    "url": "https://taxfloridabillionaires.com",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784775791,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016869",
+    "title": "Testty: E2E Testing for TUI Apps",
+    "url": "https://github.com/agentty-xyz/agentty/tree/main/crates/testty",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784780239,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49018380",
+    "title": "AI Slop: Why Philosophy Journals Should Reject AI-Written Prose",
+    "url": "http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784794680,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017039",
+    "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784781826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015614",
+    "title": "China advances plans for single-stack IPv6 network, and surveillance version",
+    "url": "https://www.theregister.com/networks/2026/07/22/china-advances-plans-for-national-single-stack-ipv6-network-and-its-own-surveillance-friendly-version-of-the-protocol/5275984",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784769034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015255",
+    "title": "Creating your own RISC-V processor, SoC and board with Claude",
+    "url": "https://cimons.com/article/developing-a-risc-v-processor-soc-and-board-with-claude",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784765839,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015654",
+    "title": "De-complect: Skill to remove braided complexity from projects",
+    "url": "https://github.com/danverbraganza/de-complect",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784769574,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015152",
+    "title": "You've Been Pressing That Button Your Whole Life",
+    "url": "https://arram.substack.com/p/youve-been-pressing-that-button-your",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784764959,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016378",
+    "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+    "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
+    "score": 5,
+    "descendants": 3,
+    "time": 1784776026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017505",
+    "title": "I solved 6 open Erdős problems in 5 days, using OpenAI GPT-5.6 Sol",
+    "url": "https://twitter.com/Qiaoqiao2001/status/2080003441821163958",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784786975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016152",
+    "title": "Ukraine hits more warehouses of Russia's top online retailer Wildberries",
+    "url": "https://www.reuters.com/world/europe/russias-largest-online-retailer-says-warehouses-attacked-again-several-injured-2026-07-22/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784774031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015184",
+    "title": "Substack's new tool tells you who's been writing their newsletters with AI",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784765208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49016874",
+    "title": "Gen Z-Ers Are Ditching Sex. They Might Be onto Something",
+    "url": "https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784780282,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015892",
+    "title": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
+    "url": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784772018,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015598",
+    "title": "Programming experience is no longer a moat",
+    "url": "https://kyrylo.org/software/2026/07/22/programming-experience-is-no-longer-a-moat.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784768883,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015583",
+    "title": "The Microsoft Agent Framework Harness is now released",
+    "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784768769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015218",
+    "title": "Thoughts on the \"Netflix Analogy\"",
+    "url": "https://www.science.org/content/blog-post/thoughts-netflix-analogy",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784765455,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015166",
+    "title": "Show HN: KageOps – An open-source, local-first alternative to Devin",
+    "url": "https://github.com/hmanoor/kageops-core",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784765061,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015764",
+    "title": "Dune II, RTS on C64 [video]",
+    "url": "https://www.youtube.com/watch?v=smiQnlbqpKw",
+    "score": 4,
+    "descendants": 3,
+    "time": 1784770689,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49018401",
+    "title": "Does code quality still matter?",
+    "url": "https://blog.ploeh.dk/2026/07/23/does-code-quality-still-matter/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784794857,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015514",
+    "title": "The U.S. Thinks of Itself as Entrepreneurial. But It's Slipping",
+    "url": "https://www.forbes.com/sites/elizabethmacbride/2026/02/28/the-us-thinks-of-itself-as-entrepreneurial-but-its-slipping/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784768062,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49018305",
+    "title": "Microsoft Teams will be blocked in China from July 28th 2026",
+    "url": "https://support.microsoft.com/en-us/teams/free/settings/teams-free-availability-china",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784794036,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017188",
+    "title": "Why care about programming languages",
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784783346,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017170",
+    "title": "Local AI that finds sensitive files on your Mac before attackers do",
+    "url": "https://www.vaultsort.com/guardian",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784783172,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015868",
+    "title": "Tell HN: Cursor Auto is no longer \"Auto\"! Let's welcome Auto Cost",
+    "url": "https://forum.cursor.com/t/introducing-cursor-router/166386",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784771817,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015658",
+    "title": "Supply chain will eventually be cyberattacked",
+    "url": "https://medium.com/@vektormemory/your-supply-chain-will-eventually-be-cyberattacked-fb556d7d5008",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784769637,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015572",
+    "title": "Curl Noise",
+    "url": "https://emildziewanowski.com/curl-noise/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784768663,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49015336",
+    "title": "4th Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Required",
+    "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784766495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49017969",
+    "title": "New quantum gravity theory links entropy, dark energy, and life",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784791102,
+    "source": "hackernews"
+  }
+]
