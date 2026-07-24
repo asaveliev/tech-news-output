@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "49031796",
+    "title": "Flux 3",
+    "url": "https://bfl.ai/blog/flux-3",
+    "score": 231,
+    "descendants": 56,
+    "time": 1784873828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030474",
+    "title": "Police removed prominent scientists from American Diabetes Association meeting",
+    "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+    "score": 65,
+    "descendants": 29,
+    "time": 1784858791,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030547",
+    "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+    "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+    "score": 59,
+    "descendants": 69,
+    "time": 1784859503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031917",
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "url": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
+    "score": 47,
+    "descendants": 72,
+    "time": 1784875010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031262",
+    "title": "Zitron: The Subprime Datacenter Crisis",
+    "url": "https://www.wheresyoured.at/the-subprime-data-center-crisis/",
+    "score": 45,
+    "descendants": 36,
+    "time": 1784867690,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032095",
+    "title": "The PImpl idiom and the C++26 std:indirect type",
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "score": 40,
+    "descendants": 37,
+    "time": 1784876563,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031409",
+    "title": "Claude Cookbook",
+    "url": "https://platform.claude.com/cookbook/",
+    "score": 40,
+    "descendants": 7,
+    "time": 1784869755,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031561",
+    "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+    "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+    "score": 26,
+    "descendants": 34,
+    "time": 1784871330,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029771",
+    "title": "Australia to AI: Produce More Power Than You Burn, Stop Content 'Theft'",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
+    "score": 26,
+    "descendants": 0,
+    "time": 1784851922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030117",
+    "title": "Technology is a slippery slope to the bottom",
+    "url": "https://danielc.dev/blog/slipperyslope/",
+    "score": 15,
+    "descendants": 1,
+    "time": 1784854969,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030100",
+    "title": "Show HN: A factory simulator game built on Spreadsheets",
+    "url": "https://www.logisheets.com/?craft=factory-simulator",
+    "score": 14,
+    "descendants": 2,
+    "time": 1784854774,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030986",
+    "title": "Elon Musk Melts Down over Perfectly Normal Questions in Wild New Interview",
+    "url": "https://gizmodo.com/elon-musk-economist-interview-2000790016",
+    "score": 10,
+    "descendants": 3,
+    "time": 1784864437,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030521",
+    "title": "Asthma Control Before and After Changing Gas Stoves to Electric Stoves",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2213219826005374",
+    "score": 10,
+    "descendants": 2,
+    "time": 1784859275,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031791",
+    "title": "It's an Apple Lisa, on a FPGA",
+    "url": "https://hackaday.com/2026/05/09/its-an-apple-lisa-on-a-fpga/",
+    "score": 9,
+    "descendants": 2,
+    "time": 1784873767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030207",
+    "title": "EU fines Alphabet $1B US for Google Play, search infractions",
+    "url": "https://www.cbc.ca/news/business/eu-fines-alphabet-google-9.7280498",
+    "score": 9,
+    "descendants": 2,
+    "time": 1784855890,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031416",
+    "title": "Tech workers fear they're sinking fast",
+    "url": "https://www.washingtonpost.com/technology/2026/07/19/tech-has-never-been-richer-its-workers-have-never-felt-less-secure/",
+    "score": 8,
+    "descendants": 6,
+    "time": 1784869805,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030047",
+    "title": "Splink – Fast, accurate and scalable probabilistic data linkage",
+    "url": "https://moj-analytical-services.github.io/splink/index.html",
+    "score": 8,
+    "descendants": 0,
+    "time": 1784854386,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029788",
+    "title": "Show HN: Life Tile – Passive time tracker that shows your day as a Mondrian grid",
+    "url": "https://apps.apple.com/us/app/life-tile-auto-tracker/id6767332648",
+    "score": 7,
+    "descendants": 1,
+    "time": 1784852020,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029912",
+    "title": "The model didn't escape. OpenAI ran the attack",
+    "url": "https://adi2025.substack.com/p/the-model-didnt-escape-openai-ran",
+    "score": 7,
+    "descendants": 0,
+    "time": 1784853065,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031468",
+    "title": "Hot take: Success in life is mostly due to luck (2023)",
+    "url": "https://www.wallstreetoasis.com/forum/off-topic/hot-take-success-in-life-is-mostly-due-to-luck",
+    "score": 6,
+    "descendants": 7,
+    "time": 1784870322,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032320",
+    "title": "Computer science enrollment fell for the first time in 20 years",
+    "url": "https://www.businessinsider.com/computer-science-enrollment-fell-after-chatgpts-rise-economist-says-2026-7",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784878504,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031989",
+    "title": "SodaSlim Releases Updated 2026 Highlights Soda Slim Capsules Ingredient",
+    "url": "https://finance.yahoo.com/healthcare/articles/sodaslim-releases-updated-2026-highlights-122400710.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784875651,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031489",
+    "title": "EU fines Google €890M in test of US threats to protect Big Tech",
+    "url": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784870492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031481",
+    "title": "Google Hit with $1B Fine for Abusing Its Power in Europe",
+    "url": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1784870408,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49033001",
+    "title": "The day Steve Jobs dissed me in a keynote (2010)",
+    "url": "https://sive.rs/itunes",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784884064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030161",
+    "title": "Open Problems: Why Reading Every Herculaneum Scroll Is Still a Challenge",
+    "url": "https://scrollprize.org/2026_open_problems",
+    "score": 6,
+    "descendants": 0,
+    "time": 1784855404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032246",
+    "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
+    "url": "https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1784877996,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029710",
+    "title": "If AI companies avoid AI slop, shouldn't we?",
+    "url": "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
+    "score": 5,
+    "descendants": 2,
+    "time": 1784851475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032814",
+    "title": "Euro Banknotes Design Proposals",
+    "url": "https://surveys.ecb.europa.eu/10b/neweuro/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784882139,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030851",
+    "title": "U of T mathematician Jacob Tsimerman awarded prestigious Fields Medal",
+    "url": "https://www.utoronto.ca/news/nobel-prize-mathematics-u-t-mathematician-jacob-tsimerman-awarded-prestigious-fields-medal",
+    "score": 5,
+    "descendants": 1,
+    "time": 1784862866,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031252",
+    "title": "Racy short story by Alan Turing offers glimpse of 'playful, funny, cheeky' side",
+    "url": "https://www.theguardian.com/science/2026/jul/24/alan-turing-short-story",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784867547,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030876",
+    "title": "Tesla Sinks on Investor Angst over AI Spending, Profit Drop",
+    "url": "https://news.bloomberglaw.com/texas-brief/tesla-profit-falls-well-short-of-expectations-as-costs-rise-3",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784863174,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030375",
+    "title": "China's Electric Trucks, Diesel's Peak, and What Western Planners Still Dont See",
+    "url": "https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1784857686,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031973",
+    "title": "The Effect of AI on Dunning Kruger",
+    "url": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784875526,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031391",
+    "title": "Uncle Bob: My current strategy is to not read any code written by my agents",
+    "url": "https://xcancel.com/unclebobmartin/status/2080257779395154409",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784869483,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030561",
+    "title": "2026 western US snow drought was about 4x more likely due to climate change",
+    "url": "https://www.pnas.org/doi/full/10.1073/pnas.2612961123",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784859700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029919",
+    "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+    "url": "https://github.com/kdeps/turo",
+    "score": 4,
+    "descendants": 2,
+    "time": 1784853132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031493",
+    "title": "Microsoft is losing the battle to protect license lucre",
+    "url": "https://www.theregister.com/columnists/2026/07/13/microsoft-is-losing-the-battle-to-protect-license-lucre-it-better-get-used-to-the-feeling/5269709",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784870567,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031221",
+    "title": "EU hits Google with $1B fine over its Play app store and search",
+    "url": "https://apnews.com/article/google-eu-competition-fine-antitrust-play-search-199c77e09d3829ebfc3d9e51281a369a",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784867273,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030093",
+    "title": "Letterpaths: Or how LLMs can be good even when they're bad",
+    "url": "https://www.robinlinacre.com/letterpaths_llms_good_even_when_bad/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784854715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030080",
+    "title": "The $100M Market of Popcorn Buckets",
+    "url": "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784854659,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49029986",
+    "title": "Million Dollar Homepage",
+    "url": "https://milliondollarhomepage.com/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1784853642,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032630",
+    "title": "iOS and Mac app development is constant churn",
+    "url": "https://inessential.com/2026/07/23/ios-27-nnw-crash.html",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784880923,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032309",
+    "title": "Show HN: 100% Free, private meeting notes that never leave your Mac",
+    "url": "https://oatsnote.com/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784878438,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49032076",
+    "title": "A Pragmatic Approach to LLMs",
+    "url": "https://gracefulliberty.com/articles/pragmatic-llms/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784876401,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49031080",
+    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784865582,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030980",
+    "title": "just surf",
+    "url": "https://ben.page/surf",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784864365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030916",
+    "title": "MLFlow Alternative Written in Go",
+    "url": "https://github.com/zeddo123/mlsolid",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784863638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49030636",
+    "title": "The cost of GPUs goes far beyond AI data centers",
+    "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+    "score": 4,
+    "descendants": 0,
+    "time": 1784860523,
+    "source": "hackernews"
+  }
+]
