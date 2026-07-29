@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "49093434",
+    "title": "User Interfaces of the Demo Scene",
+    "url": "https://www.datagubbe.se/scenegui/",
+    "score": 184,
+    "descendants": 29,
+    "time": 1785299436,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092499",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "url": "https://learnvector.ai/",
+    "score": 183,
+    "descendants": 109,
+    "time": 1785289759,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093569",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "score": 176,
+    "descendants": 58,
+    "time": 1785301126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092112",
+    "title": "Multiple Mouse Cursors in Wayland",
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "score": 129,
+    "descendants": 89,
+    "time": 1785286777,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091730",
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "url": "https://www.hubble.md/",
+    "score": 111,
+    "descendants": 41,
+    "time": 1785283883,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091738",
+    "title": "The Difference Between a Button and a Link",
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "score": 62,
+    "descendants": 48,
+    "time": 1785283934,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092549",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "score": 57,
+    "descendants": 38,
+    "time": 1785290160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093232",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "url": "https://transformer-transformer.github.io/",
+    "score": 52,
+    "descendants": 3,
+    "time": 1785297149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091703",
+    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "url": "https://studio.academa.ai/",
+    "score": 48,
+    "descendants": 27,
+    "time": 1785283663,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49094346",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "score": 45,
+    "descendants": 10,
+    "time": 1785309504,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093435",
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "score": 44,
+    "descendants": 13,
+    "time": 1785299447,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093119",
+    "title": "FCC bans foreign-produced solar inverters, grid lockout begins today",
+    "url": "https://pv-magazine-usa.com/2026/07/28/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/",
+    "score": 43,
+    "descendants": 19,
+    "time": 1785296015,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093509",
+    "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
+    "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+    "score": 39,
+    "descendants": 9,
+    "time": 1785300413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092754",
+    "title": "Hooray for the Sockets Interface",
+    "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "score": 38,
+    "descendants": 19,
+    "time": 1785291929,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092404",
+    "title": "LeanScreen: Lean Verification",
+    "url": "https://www.millenniumresearch.ai/leanscreen.html",
+    "score": 30,
+    "descendants": 3,
+    "time": 1785289126,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091895",
+    "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+    "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+    "score": 28,
+    "descendants": 3,
+    "time": 1785285128,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091912",
+    "title": "A U.S. Citizen Deleted His Phone's Data. Now He Faces a Felony Charge",
+    "url": "https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html",
+    "score": 23,
+    "descendants": 1,
+    "time": 1785285300,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092852",
+    "title": "You don't have to be smart if you can think clearly",
+    "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+    "score": 21,
+    "descendants": 3,
+    "time": 1785292973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091792",
+    "title": "Most Americans favor political changes that require amending the Constitution",
+    "url": "https://www.pewresearch.org/short-reads/2026/07/28/most-americans-favor-big-changes-to-the-political-system-that-likely-would-require-amending-the-constitution/",
+    "score": 21,
+    "descendants": 0,
+    "time": 1785284331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092538",
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo",
+    "score": 20,
+    "descendants": 10,
+    "time": 1785290047,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49094320",
+    "title": "eBay agrees $56M settlement with bloggers over harassment case",
+    "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o",
+    "score": 20,
+    "descendants": 3,
+    "time": 1785309179,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092151",
+    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+    "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "score": 20,
+    "descendants": 3,
+    "time": 1785287070,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093608",
+    "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+    "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+    "score": 16,
+    "descendants": 4,
+    "time": 1785301513,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093163",
+    "title": "Good CLI Design Is Mostly Silence",
+    "url": "https://yarlson.dev/blog/good-cli-design-is-mostly-silence/",
+    "score": 16,
+    "descendants": 4,
+    "time": 1785296417,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092730",
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "score": 14,
+    "descendants": 2,
+    "time": 1785291724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093429",
+    "title": "Kospi Plunges After Nvidia CEO's Visits Spark 'Huang Curse' Fears",
+    "url": "https://www.chosun.com/english/market-money-en/2026/07/29/6FEUZWQT5BG3HMJ3G2RZPHROGM/",
+    "score": 13,
+    "descendants": 0,
+    "time": 1785299398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49094061",
+    "title": "Sam Altman says people don't want an AI to act as CEO",
+    "url": "https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7",
+    "score": 12,
+    "descendants": 10,
+    "time": 1785306703,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093448",
+    "title": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift",
+    "url": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33",
+    "score": 12,
+    "descendants": 2,
+    "time": 1785299621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092781",
+    "title": "Does every question mark deserve a Betteridge?",
+    "url": "https://dynomight.net/betteridge/",
+    "score": 11,
+    "descendants": 9,
+    "time": 1785292152,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091994",
+    "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+    "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+    "score": 11,
+    "descendants": 3,
+    "time": 1785285866,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092850",
+    "title": "GrapheneOS Statement on Hidden Profiles",
+    "url": "https://xcancel.com/GrapheneOS/status/2082153517234676150#m",
+    "score": 11,
+    "descendants": 0,
+    "time": 1785292959,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092252",
+    "title": "Trump's diversity crackdown reverberates through US boardrooms",
+    "url": "https://www.reuters.com/legal/government/trumps-diversity-crackdown-reverberates-through-us-boardrooms-2026-07-28/",
+    "score": 10,
+    "descendants": 4,
+    "time": 1785287919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092746",
+    "title": "The BBC Tetris Companion",
+    "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+    "score": 10,
+    "descendants": 2,
+    "time": 1785291878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091801",
+    "title": "\"Google and Reddit do not own the Internet,\" web scraper says after court win",
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1785284397,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092741",
+    "title": "SpaceXAI sues Minnesota AG over ban on nudifying apps",
+    "url": "https://gizmodo.com/grok-creator-spacexai-sues-minnesota-ag-to-stop-ban-on-nudification-2000792143",
+    "score": 10,
+    "descendants": 0,
+    "time": 1785291812,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092923",
+    "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+    "score": 9,
+    "descendants": 2,
+    "time": 1785293806,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093686",
+    "title": "Google reported its first negative quarter since going public",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-spent-490-million-day-163000234.html",
+    "score": 8,
+    "descendants": 3,
+    "time": 1785302525,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093528",
+    "title": "Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT",
+    "url": "https://firemapsspain.online/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1785300606,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49091991",
+    "title": "Tesla sues Cybertruck supplier Angstrom amid standoff keeping production hostage",
+    "url": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1785285821,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49094901",
+    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+    "url": "https://www.reuters.com/world/russias-fsb-charges-telegram-founder-durov-with-facilitating-terrorism-ifax-says-2026-07-29/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785314930,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093747",
+    "title": "eBay pays $46M to journalists it targeted in harassment campaign",
+    "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1785303113,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092471",
+    "title": "Autoclaw",
+    "url": "https://autoclaw.z.ai/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1785289592,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092595",
+    "title": "Revealed: The Authors Whose Pirated Books Are Powering Generative AI (2023)",
+    "url": "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785290486,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092555",
+    "title": "The tired you can't explain",
+    "url": "https://nathanielfishel.substack.com/p/the-tiredness-you-cant-explain-to",
+    "score": 6,
+    "descendants": 6,
+    "time": 1785290238,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092000",
+    "title": "Sam Altman is ready to decelerate",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "score": 6,
+    "descendants": 4,
+    "time": 1785285921,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093728",
+    "title": "Kids who own phones have poorer reading comprehension scores than those who dont",
+    "url": "https://newsroom.ucla.edu/releases/owning-a-cell-phone-associated-with-poorer-reading-comprehension-schoolchildren",
+    "score": 6,
+    "descendants": 3,
+    "time": 1785302927,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092550",
+    "title": "Satyress \"Threehalves Superhumanoid General Purpose Robot\"",
+    "url": "https://www.satyress.com/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1785290162,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49092963",
+    "title": "Elon Musk's company sues MN over law to bar manipulated images to fake nudity",
+    "url": "https://www.mprnews.org/story/2026/07/28/elon-musks-company-x-ai-sues-minnesota-over-new-law-to-bar-manipulated-images-to-fake-nudity",
+    "score": 6,
+    "descendants": 2,
+    "time": 1785294208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49093570",
+    "title": "China tests largest superconducting fusion magnets ever built",
+    "url": "https://theprint.in/india/breakthrough-china-artificial-sun-project-6-5-tesla-magnet/2999321/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785301130,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49094095",
+    "title": "Equities surpass real estate as top US wealth driver for first time since WW2",
+    "url": "https://www.reuters.com/business/finance/equities-surpass-real-estate-top-us-wealth-driver-first-time-since-ww2-goldman-2026-07-23/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785306996,
+    "source": "hackernews"
+  }
+]
