@@ -1,0 +1,416 @@
+[
+  {
+    "hn_id": "49106384",
+    "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+    "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+    "score": 131,
+    "descendants": 67,
+    "time": 1785389610,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104937",
+    "title": "Logic for Programmers",
+    "url": "https://logicforprogrammers.com/",
+    "score": 121,
+    "descendants": 22,
+    "time": 1785372699,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105642",
+    "title": "NSF pilots 4-year PhDs with industry research placements",
+    "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+    "score": 70,
+    "descendants": 75,
+    "time": 1785380121,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106643",
+    "title": "EU now fears US interference in European elections",
+    "url": "https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/",
+    "score": 59,
+    "descendants": 33,
+    "time": 1785392641,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104759",
+    "title": "There's never been a better time to commit financial fraud",
+    "url": "https://www.economist.com/business/2026/07/29/theres-never-been-a-better-time-to-commit-financial-fraud",
+    "score": 51,
+    "descendants": 8,
+    "time": 1785370936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49107145",
+    "title": "I Have Thoughts on the iPhone Air",
+    "url": "https://christianselig.com/2026/07/iphone-air-review/",
+    "score": 39,
+    "descendants": 50,
+    "time": 1785398053,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104747",
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "score": 36,
+    "descendants": 12,
+    "time": 1785370816,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105190",
+    "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+    "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+    "score": 35,
+    "descendants": 48,
+    "time": 1785375310,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105563",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+    "url": "https://noelo.org/blog/kuna-release/",
+    "score": 34,
+    "descendants": 9,
+    "time": 1785379276,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105136",
+    "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+    "url": "https://waveformsecurity.com/blog/flume/",
+    "score": 31,
+    "descendants": 20,
+    "time": 1785374832,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105924",
+    "title": "Why the future is local app",
+    "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+    "score": 24,
+    "descendants": 21,
+    "time": 1785383078,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104996",
+    "title": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+    "url": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
+    "score": 19,
+    "descendants": 8,
+    "time": 1785373402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104608",
+    "title": "Kimi K3's Design Secret May Be in Its Thinking Traces",
+    "url": "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/",
+    "score": 19,
+    "descendants": 4,
+    "time": 1785369650,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105576",
+    "title": "Scientists find a simple way to stop cavities without drilling",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
+    "score": 17,
+    "descendants": 1,
+    "time": 1785379379,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105714",
+    "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+    "url": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
+    "score": 16,
+    "descendants": 3,
+    "time": 1785380798,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106568",
+    "title": "Claude is down for 2nd consecutive day",
+    "url": "https://status.claude.com/incidents/fsh2zzzl2c4l",
+    "score": 14,
+    "descendants": 1,
+    "time": 1785391775,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105076",
+    "title": "Overengineered Calculator: Zig and QBE",
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "score": 14,
+    "descendants": 0,
+    "time": 1785374157,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105411",
+    "title": "xAI sues Minnesota over its law banning 'nudification' technology",
+    "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16",
+    "score": 12,
+    "descendants": 5,
+    "time": 1785377591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104832",
+    "title": "Show HN: Full stack development from one codebase web, Android, and iOS",
+    "url": "https://github.com/usedowe/dowe-lang",
+    "score": 10,
+    "descendants": 1,
+    "time": 1785371659,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49107232",
+    "title": "Sam Altman is now talking to the White House about decelerating AI",
+    "url": "https://twitter.com/AISafetyMemes/status/2082569026929394008",
+    "score": 9,
+    "descendants": 7,
+    "time": 1785398885,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106176",
+    "title": "Couple Stalked by eBay Settle for $56M",
+    "url": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+    "score": 9,
+    "descendants": 5,
+    "time": 1785386497,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106523",
+    "title": "Why Do We Tolerate Elon Musk's Racist Commentary?",
+    "url": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
+    "score": 9,
+    "descendants": 3,
+    "time": 1785391340,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104611",
+    "title": "Why you should sell your AI Skills?",
+    "url": "https://capabase.ai/learn/sell-your-ai-skills",
+    "score": 8,
+    "descendants": 5,
+    "time": 1785369686,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104686",
+    "title": "If Claude/Codex can connect via MCP, what do we need a context layer for?",
+    "url": "https://getunblocked.com/blog/mcp-connectors-are-not-a-context-engine/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785370294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104673",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785370191,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106591",
+    "title": "Show HN: Run Full Kimi K3 with 29 GB of RAM",
+    "url": "https://github.com/sqliteai/waste/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1785391975,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106286",
+    "title": "Star Trek the Next Generation Series Bible (Season One) (1987)",
+    "url": "https://archive.org/details/star-trek-the-next-generation-bible",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785387915,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104642",
+    "title": "Show HN: Mousecrack – Bypass bot detection with deep learning",
+    "url": "https://github.com/puffinsoft/mousecrack",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785369938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106983",
+    "title": "Show HN: An app that logs your meal's calories from a photo",
+    "url": "https://btrapp.com/",
+    "score": 6,
+    "descendants": 2,
+    "time": 1785396308,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104841",
+    "title": "Milvus 3.0: Lake-Native Vector Search, S3-Based Storage, Offline/Batch Workflows",
+    "url": "https://milvus.io/blog/announcing-milvus-3-lake-native-vector-search-and-a-more-powerful-retrieval-engine.md",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785371749,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49107336",
+    "title": "New microwave frying method could make French fries much healthier",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785399879,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106867",
+    "title": "Elon Musk's xAI is trying to sue its way out of a Grok reckoning",
+    "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785395064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104807",
+    "title": "A GPU-Hour Isn't a Commodity If You Need Four of Them",
+    "url": "https://davefriedman.substack.com/p/a-gpu-hour-isnt-a-commodity-if-you",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785371422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104774",
+    "title": "All Soda Yearns to Be Red",
+    "url": "https://haterade.substack.com/p/all-soda-yearns-to-be-red",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785371089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106529",
+    "title": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+    "url": "https://github.com/Deepender25/Edge-Drop",
+    "score": 5,
+    "descendants": 10,
+    "time": 1785391406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105196",
+    "title": "Google AI Studio \"Delete\" doesn't delete – server chat persists (3 videos)",
+    "url": "https://www.youtube.com/watch?v=LBQfNbPCxQw",
+    "score": 5,
+    "descendants": 4,
+    "time": 1785375363,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106579",
+    "title": "Show HN: Emboss – a Python PDF engine that keeps documents as structured data",
+    "url": "https://github.com/GGChamp85/Emboss",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785391875,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104725",
+    "title": "A future where software self-improves and interacts with the physical world",
+    "url": "https://3reate.com/podcast/everyones-a-billionaire-now-what/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785370608,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106136",
+    "title": "The Rise of Million-Dollar Companies with Just One Employee",
+    "url": "https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785385953,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105252",
+    "title": "Encryption in the 1790s",
+    "url": "https://hackaday.com/2026/07/23/encryption-in-the-1790s/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785375847,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104680",
+    "title": "Show HN: Karrouet – Dots and Boxes game we used to play as kids in Tunisia",
+    "url": "https://www.reddit.com/r/karrouet/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785370251,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49104641",
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785369938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49105273",
+    "title": "What Silicon Valley gets wrong about AI",
+    "url": "https://sfstandard.com/2026/07/29/myth-ai-intelligence-medicine-regulation/",
+    "score": 4,
+    "descendants": 3,
+    "time": 1785376064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106609",
+    "title": "The Computer and the Brain: John von Neumann",
+    "url": "https://en.wikipedia.org/wiki/The_Computer_and_the_Brain",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785392213,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106589",
+    "title": "Subsurface Confinement: Evidence from Submariners of the Benefits of Mindfulness",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8267514/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785391966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49106512",
+    "title": "Elon Musk's xAI sues Minnesota over law banning 'nudification' technology",
+    "url": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785391186,
+    "source": "hackernews"
+  }
+]
