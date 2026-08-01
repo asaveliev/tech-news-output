@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "49129990",
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 190,
+    "descendants": 105,
+    "time": 1785543900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130756",
+    "title": "BMW Spider-Man in-car advertising",
+    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+    "score": 189,
+    "descendants": 128,
+    "time": 1785554712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130604",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 112,
+    "descendants": 36,
+    "time": 1785552309,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132058",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "score": 81,
+    "descendants": 65,
+    "time": 1785569864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131367",
+    "title": "Ten Ways NAS Is Getting Enshitified",
+    "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+    "score": 80,
+    "descendants": 69,
+    "time": 1785562696,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130726",
+    "title": "The development pipeline is a production system",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "score": 78,
+    "descendants": 29,
+    "time": 1785554169,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130295",
+    "title": "A week in Matrix",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "score": 69,
+    "descendants": 35,
+    "time": 1785548153,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131034",
+    "title": "What liberal arts education is for (2024)",
+    "url": "https://innig.net/teaching/liberal-arts-manifesto",
+    "score": 41,
+    "descendants": 45,
+    "time": 1785558493,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130853",
+    "title": "Firefighter arson a long-standing issue – expert",
+    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
+    "score": 32,
+    "descendants": 48,
+    "time": 1785556230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130583",
+    "title": "Firefox Local Mode for Web Developers",
+    "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+    "score": 25,
+    "descendants": 1,
+    "time": 1785552016,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131860",
+    "title": "A migrant surge tests Spain's open policies",
+    "url": "https://economist.com/europe/2026/07/31/a-migrant-surge-tests-spains-open-policies",
+    "score": 24,
+    "descendants": 56,
+    "time": 1785567799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132460",
+    "title": "RamenHaus",
+    "url": "https://ramen.haus/",
+    "score": 22,
+    "descendants": 3,
+    "time": 1785574138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49129884",
+    "title": "Can I vibe code it?",
+    "url": "https://canivibecodeit.com/",
+    "score": 12,
+    "descendants": 4,
+    "time": 1785542727,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130123",
+    "title": "Explorative Modeling – A new axis for pre-training",
+    "url": "https://arxiv.org/abs/2607.27372",
+    "score": 10,
+    "descendants": 4,
+    "time": 1785545689,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130117",
+    "title": "Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)",
+    "url": "https://www.righto.com/2019/07/looking-inside-1970s-prom-chip-that.html",
+    "score": 10,
+    "descendants": 4,
+    "time": 1785545622,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132468",
+    "title": "Simon Willison on DeepSeek-V4-Flash-0731",
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+    "score": 9,
+    "descendants": 3,
+    "time": 1785574190,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49129897",
+    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1785542826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131855",
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1785567723,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49129925",
+    "title": "Global temperature changes from 12,000 weather stations (1850-2026)",
+    "url": "https://github.com/reflex-dev/xy/discussions/419",
+    "score": 9,
+    "descendants": 0,
+    "time": 1785543167,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130703",
+    "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+    "score": 8,
+    "descendants": 4,
+    "time": 1785553867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130386",
+    "title": "Google is actively hiring someone to save the world from AGI/ASI",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95635593379095238",
+    "score": 8,
+    "descendants": 4,
+    "time": 1785549378,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132130",
+    "title": "AI doesn't generate working products, that's still your job",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "score": 8,
+    "descendants": 3,
+    "time": 1785570730,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130644",
+    "title": "AI broke writing as proof-of-thought",
+    "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
+    "score": 8,
+    "descendants": 2,
+    "time": 1785552900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130973",
+    "title": "Mastodon new TOS: we may restore your self-deleted content from backup",
+    "url": "https://mastodon.social/terms-of-service/2026-08-31",
+    "score": 8,
+    "descendants": 1,
+    "time": 1785557759,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130134",
+    "title": "Salmon Hat",
+    "url": "https://en.wikipedia.org/wiki/Salmon_hat",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785545852,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130576",
+    "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
+    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "score": 7,
+    "descendants": 2,
+    "time": 1785551973,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130039",
+    "title": "Texas bans THC cannabinoids except delta-9, except edibles and drinks",
+    "url": "https://www.khou.com/article/news/local/texas/texas-thc-ban-2026-delta-8-delta-10-hemp-products-law/285-d8d84397-6156-4133-a0a5-9d32e9911d34",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785544549,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130047",
+    "title": "Show HN: SmokeVPN – All-in-One WireGuard VPN Hub – Switch Exits in Realtime",
+    "url": "https://smokevpn.com",
+    "score": 6,
+    "descendants": 3,
+    "time": 1785544626,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131553",
+    "title": "The Screen Act Threatens Privacy Far Beyond Adult Websites",
+    "url": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785564555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131361",
+    "title": "Thomson Reuters Built Its Own AI Model That Now Ranks Among the Best",
+    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785562636,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131244",
+    "title": "EU considers emergncy meeting as nuclear shutdown leaves HU facing energy crisis",
+    "url": "https://www.euronews.com/my-europe/2026/07/31/eu-considers-emergency-meeting-as-nuclear-shutdown-leaves-hungary-facing-energy-crisis",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785561232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49129946",
+    "title": "US Treasury undertakes historic intervention in yen market",
+    "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785543513,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132083",
+    "title": "Solid Queue 1.6.0 now supports fiber workers",
+    "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785570128,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131791",
+    "title": "GPT has proved nonsofic groups are exist",
+    "url": "https://twitter.com/iron_redux/status/2083360414037938609",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785567085,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131579",
+    "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+    "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785564737,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130745",
+    "title": "The Cost of China's Free A.I",
+    "url": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
+    "score": 5,
+    "descendants": 3,
+    "time": 1785554559,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132212",
+    "title": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then It Melted Down",
+    "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
+    "score": 5,
+    "descendants": 2,
+    "time": 1785571626,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49129999",
+    "title": "A Safe Path to Open Weights",
+    "url": "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1785544015,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132306",
+    "title": "FBI gets voter's IP address in new fraud probe tactic",
+    "url": "https://www.axios.com/2026/07/31/fbi-voter-ip-address-investigation",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785572551,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131626",
+    "title": "My PM agent suggests firing my coding agents and creating a replacement",
+    "url": "https://twitter.com/samliuhappy/status/2083437451729949004",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785565310,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130131",
+    "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+    "url": "https://www.richresults.ai/evidence.html",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785545795,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131737",
+    "title": "OpenAI's work on Git for large repositories",
+    "url": "https://openai-git-upstream.openai.chatgpt.site/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785566472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49131364",
+    "title": "LLMs can't trade and higher reasoning doesn't help",
+    "url": "https://twitter.com/RRicefan/status/2082513323489202664",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785562668,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130907",
+    "title": "BMW Is Showing Commercials on Their Car's Dash Screens",
+    "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785556852,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130385",
+    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+    "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785549341,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130270",
+    "title": "Overactive Neurons Cause Excessive Sweating",
+    "url": "https://www.the-scientist.com/overactive-neurons-cause-excessive-sweating-74787",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785547895,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49132205",
+    "title": "Google Just Ruined One of Its Most Important Tools",
+    "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785571597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49130425",
+    "title": "Show HN: Random OS I made using C",
+    "url": "https://github.com/NoTheIdiot/WindogeOS",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785549732,
+    "source": "hackernews"
+  }
+]
