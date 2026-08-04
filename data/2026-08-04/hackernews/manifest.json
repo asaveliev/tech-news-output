@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "49164649",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+    "score": 190,
+    "descendants": 186,
+    "time": 1785821533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165775",
+    "title": "NHS apologises and admits Palantir have access to identifiable patient data",
+    "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+    "score": 101,
+    "descendants": 15,
+    "time": 1785832022,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164775",
+    "title": "Denmark: EVs Make Up 97% of New Private Car Sales in July",
+    "url": "https://ing.dk/artikel/ny-rekord-maaned-elbilsalget-private-koeb-ligger-paa-97-procent",
+    "score": 46,
+    "descendants": 56,
+    "time": 1785823122,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164896",
+    "title": "Harness Engineering for Self-Improvement",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "score": 42,
+    "descendants": 2,
+    "time": 1785824274,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163286",
+    "title": "Native Apps Should Be Avoided Whenever Possible",
+    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+    "score": 35,
+    "descendants": 22,
+    "time": 1785805596,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165798",
+    "title": "Bending Spoons entered definitive agreement to acquire Airtable for $1.28B",
+    "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-%241.285-billion",
+    "score": 18,
+    "descendants": 5,
+    "time": 1785832221,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163380",
+    "title": "The Myth, the Mythos, and the Man",
+    "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+    "score": 17,
+    "descendants": 6,
+    "time": 1785806555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163532",
+    "title": "Telegram Removed from App Store",
+    "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
+    "score": 15,
+    "descendants": 6,
+    "time": 1785808105,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49166202",
+    "title": "FFmpeg 9.0",
+    "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+    "score": 14,
+    "descendants": 1,
+    "time": 1785835833,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163687",
+    "title": "Telegram says app restored on Apple's App Store",
+    "url": "https://www.reuters.com/business/retail-consumer/telegram-says-app-restored-apples-app-store-2026-08-04/",
+    "score": 13,
+    "descendants": 0,
+    "time": 1785809724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163219",
+    "title": "Used EV Prices Are Now Going Up in America",
+    "url": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+    "score": 13,
+    "descendants": 0,
+    "time": 1785804963,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165665",
+    "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+    "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+    "score": 11,
+    "descendants": 0,
+    "time": 1785831062,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49162898",
+    "title": "Show HN: LarpIn – LinkedIn, but everyone admits they're larping, one global feed",
+    "url": "https://larpin.io",
+    "score": 10,
+    "descendants": 5,
+    "time": 1785801645,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163466",
+    "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
+    "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+    "score": 9,
+    "descendants": 0,
+    "time": 1785807460,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49162997",
+    "title": "The Invariant Is Hiding",
+    "url": "https://yusufaytas.com/the-invariant-is-hiding",
+    "score": 9,
+    "descendants": 0,
+    "time": 1785802661,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165323",
+    "title": "A Norwegian government agency made a parody of the enshittification phenomenon [video]",
+    "url": "https://www.youtube.com/watch?v=T4Upf_B9RLQ",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785828010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163459",
+    "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+    "url": "https://byocanywhere.org/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785807424,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164296",
+    "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
+    "score": 7,
+    "descendants": 3,
+    "time": 1785816698,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163580",
+    "title": "Palantir Shares Jump on 'Otherworldly' Sales, Improved Forecast",
+    "url": "https://www.wsj.com/business/earnings/palantir-lifts-guidance-as-revenue-nearly-doubles-f4d79fa7",
+    "score": 7,
+    "descendants": 2,
+    "time": 1785808644,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163599",
+    "title": "George Orwell's 1984 (Hinge Dating App)",
+    "url": "https://www.spectator.com.au/2026/07/the-dark-truth-about-dating-apps-and-ai/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1785808842,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163092",
+    "title": "Porn addicts tried to rescue teen camgirls they worshipped from webcam pimp",
+    "url": "https://www.thecut.com/article/cam-girls-webcam-pimp.html",
+    "score": 6,
+    "descendants": 2,
+    "time": 1785803686,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164184",
+    "title": "As a Windows user, it's a surreal way to install a program",
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1785815209,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164067",
+    "title": "The AI Boom Is Transforming the American Economy Beyond Recognition",
+    "url": "https://www.wsj.com/economy/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-c7825b31",
+    "score": 5,
+    "descendants": 2,
+    "time": 1785813758,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164545",
+    "title": "China has changed its legal definition of semiconductors",
+    "url": "https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785820265,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163207",
+    "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
+    "url": "https://marksmayo.github.io/matrix/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785804829,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164576",
+    "title": "Cyberattack hits Liechtenstein's anti-money laundering data register",
+    "url": "https://www.euronews.com/my-europe/2026/08/03/cyberattack-hits-liechtensteins-anti-money-laundering-data-register-vaduz-says",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785820587,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164295",
+    "title": "Headlights got brighter, whiter, and more blinding after dark",
+    "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785816691,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163651",
+    "title": "Billion-dollar property collapse highlights private credit danger",
+    "url": "https://www.abc.net.au/news/2026-08-04/property-collapse-highlights-private-credit-danger-jon-adgemis/106992190",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785809348,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163022",
+    "title": "SK Hynix and SanDisk Unveil First High Bandwidth Flash Standard Specifications",
+    "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785802875,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163345",
+    "title": "Why Airplanes Use 400 Hz Power",
+    "url": "https://blog.monroeaerospace.com/why-airplanes-use-400-hz-power/",
+    "score": 4,
+    "descendants": 5,
+    "time": 1785806262,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163870",
+    "title": "I asked Claude Opus to recreate The Matrix opening scene in Lego",
+    "url": "https://marksmayo.github.io/lego-matrix/",
+    "score": 4,
+    "descendants": 4,
+    "time": 1785811723,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165610",
+    "title": "The tax strategy used by the rich to pay 0% income tax",
+    "url": "https://www.bloomberg.com/features/2026-aqr-tax-loss-harvesting-billionaires/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785830530,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165238",
+    "title": "Apple says MacBook Neo is pulling schools away from Windows and Chromebooks",
+    "url": "https://9to5mac.com/2026/08/01/apple-says-macbook-neo-is-pulling-schools-away-from-windows-and-chromebooks/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785827410,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164353",
+    "title": "What should go in your Claude.md?",
+    "url": "https://zander.wtf/blog/claude-md-agents-md/",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785817558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165907",
+    "title": "The Future of Gnome Boxes",
+    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785833319,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165164",
+    "title": "Show HN: lde – LuaJIT written, all in one, package manager and runtime",
+    "url": "https://lde.sh/blog/lde-0.10.0/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785826811,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164003",
+    "title": "Real-time LuaTeX: Recompiling large documents in 1ms [video]",
+    "url": "https://www.youtube.com/watch?v=C1gpjPm-Rns",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785812995,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163557",
+    "title": "Telegram Removed from AppStore?",
+    "url": "https://www.reddit.com/r/ios/s/RYlp8LKNdD",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785808402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163541",
+    "title": "Birth order and disease risk across the human phenome",
+    "url": "https://www.nature.com/articles/s44360-026-00177-z",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785808200,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163145",
+    "title": "Whimsical DMG screens are a dying art",
+    "url": "https://mastodon.social/@BasicAppleGuy/117032230874235692",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785804172,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49162983",
+    "title": "Ancient, never-before-seen 'earthworks' discovered in the Amazon",
+    "url": "https://www.scientificamerican.com/article/hundreds-of-ancient-never-before-seen-earthworks-discovered-in-the-amazon/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1785802547,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165871",
+    "title": "The Tungsten Market Is Warning of an Upcoming War",
+    "url": "https://www.bloomberg.com/news/audio/2026-08-03/odd-lots-tungsten-market-is-warning-of-upcoming-war-podcast",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785833030,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165790",
+    "title": "Runaway online rumors sparked frantic rush by migrants to Ceuta",
+    "url": "https://apnews.com/article/ceuta-spain-morocco-migration-f3a7f514a7792c39d8b8d5d814fa5158",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785832146,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49165733",
+    "title": "AGs have instructed OpenAI to keep everything related to the Hugging Face hack",
+    "url": "https://www.businessinsider.com/openai-attorney-general-preserve-hugging-face-evidence-2026-8",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785831678,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164613",
+    "title": "Korean stock market crash threatening to upset tech boom",
+    "url": "https://www.abc.net.au/news/2026-08-03/korean-markets-threatening-upset-tech-boom/106981956",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785821012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49164516",
+    "title": "TikTok creator who documented her life with young-onset Alzheimer's dies by MAID",
+    "url": "https://www.theglobeandmail.com/canada/article-tiktok-creator-rebecca-luna-young-onset-alzheimers-dies-maid/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785819924,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163657",
+    "title": "Socket.dev warns about Rust Tokio library obfuscation",
+    "url": "https://socket.dev/cargo/package/tokio",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785809393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49163332",
+    "title": "The Next Five Years – Economics of AI – Patrick Collison",
+    "url": "https://next-five-years.vercel.app/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1785806113,
+    "source": "hackernews"
+  }
+]
