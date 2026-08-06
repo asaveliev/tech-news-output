@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "49191624",
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "score": 235,
+    "descendants": 294,
+    "time": 1785982514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192566",
+    "title": "Crime Pays but Botany Doesn't",
+    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "score": 196,
+    "descendants": 80,
+    "time": 1785991595,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191365",
+    "title": "LLMs won't break symmetric crypto",
+    "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+    "score": 68,
+    "descendants": 76,
+    "time": 1785980346,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193673",
+    "title": "What I love about Django",
+    "url": "https://buttondown.com/blog/what-i-love-about-django",
+    "score": 58,
+    "descendants": 28,
+    "time": 1786001646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192160",
+    "title": "Governments are making a dangerous bet on the AI boom",
+    "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
+    "score": 47,
+    "descendants": 30,
+    "time": 1785987651,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193314",
+    "title": "Let's all meet up in the Y2K",
+    "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+    "score": 37,
+    "descendants": 20,
+    "time": 1785998618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192829",
+    "title": "France is banning unsolicited telemarketing calls starting next week",
+    "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
+    "score": 36,
+    "descendants": 5,
+    "time": 1785994091,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191455",
+    "title": "Virginia orders data centers to pay for dedicated new electric infrastructure",
+    "url": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
+    "score": 33,
+    "descendants": 13,
+    "time": 1785981018,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191718",
+    "title": "Thomson Reuters Employees Demand That ICE \"Leave Our Cities\"",
+    "url": "https://www.thenation.com/article/politics/thomson-reuters-ice-immigration-voting-data/",
+    "score": 29,
+    "descendants": 7,
+    "time": 1785983354,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191690",
+    "title": "Investors are having doubts about Elon Musk's grandiose ambitions",
+    "url": "https://economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions",
+    "score": 24,
+    "descendants": 18,
+    "time": 1785983042,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49190753",
+    "title": "DHS Wants Protesters' Signal Group Chats",
+    "url": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+    "score": 23,
+    "descendants": 2,
+    "time": 1785974828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192219",
+    "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+    "url": "https://github.com/pradipta/wallfacer",
+    "score": 20,
+    "descendants": 12,
+    "time": 1785988376,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49190805",
+    "title": "Symbolics Genera now available free for non-commercial use (inv-only early beta)",
+    "url": "https://hachyderm.io/@gmpalter/117044268951603975",
+    "score": 16,
+    "descendants": 2,
+    "time": 1785975419,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193019",
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
+    "score": 15,
+    "descendants": 6,
+    "time": 1785996248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191847",
+    "title": "Black lung rates in Appalachia are high as the 1970s, thousands of miners sick",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+    "score": 13,
+    "descendants": 4,
+    "time": 1785984826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193101",
+    "title": "Reddit signals ominous upcoming \"changes\" for old.reddit.com",
+    "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "score": 13,
+    "descendants": 0,
+    "time": 1785996936,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191731",
+    "title": "The Once-Shameless President Is Deeply Embarrassed",
+    "url": "https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/688184/",
+    "score": 11,
+    "descendants": 1,
+    "time": 1785983486,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191463",
+    "title": "You won't believe the stupid shit the Pentagon puts in diplomats' system prompts",
+    "url": "https://www.youtube.com/watch?v=5HBTCT4FmAc",
+    "score": 10,
+    "descendants": 3,
+    "time": 1785981095,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191306",
+    "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "score": 10,
+    "descendants": 2,
+    "time": 1785979860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193439",
+    "title": "Servers can be backdoored by exploiting buggy motherboard controll",
+    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "score": 9,
+    "descendants": 2,
+    "time": 1785999712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191809",
+    "title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
+    "url": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174",
+    "score": 9,
+    "descendants": 0,
+    "time": 1785984413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191334",
+    "title": "I Built a Blog and Forgot to Write",
+    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1785980034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191136",
+    "title": "The Aviation Herald was sued",
+    "url": "https://avherald.com/h?article=53c8958a&opt=0",
+    "score": 8,
+    "descendants": 0,
+    "time": 1785978357,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192101",
+    "title": "FDA approves first mRNA flu shot, from Moderna",
+    "url": "https://www.nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599",
+    "score": 7,
+    "descendants": 2,
+    "time": 1785987119,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192622",
+    "title": "Smalltalk Report from 1991 to 1996",
+    "url": "https://github.com/Ducasse/SmalltalkReportPDFArchive",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785992255,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192159",
+    "title": "DeepSeek Plans 'Significant' Price Increase for Its AI Services",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785987641,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191438",
+    "title": "A Universal Theory of Brain Function [video]",
+    "url": "https://www.youtube.com/watch?v=iPj9D9LgK2A",
+    "score": 7,
+    "descendants": 0,
+    "time": 1785980888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192286",
+    "title": "I've spent 4 years building an offline first FOSS novel writing app: Hammer",
+    "url": "https://hammer.ink/",
+    "score": 6,
+    "descendants": 5,
+    "time": 1785988983,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191493",
+    "title": "I Didn't Realize How Addicted I Was to My Phone–Until I Went to Prison",
+    "url": "https://www.wsj.com/lifestyle/phone-screen-time-prison-pg-sittenfeld-8c3b186b",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785981373,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191331",
+    "title": "The Most Arrogant Science Book Ever Written [video]",
+    "url": "https://www.youtube.com/watch?v=fO9iRDPXvT4",
+    "score": 6,
+    "descendants": 1,
+    "time": 1785980015,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193666",
+    "title": "The German Mittelstand",
+    "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
+    "score": 6,
+    "descendants": 0,
+    "time": 1786001574,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191695",
+    "title": "Unprecedented images may explain one of greatest mysteries of the sun",
+    "url": "https://www.theguardian.com/science/2026/aug/05/unprecedented-images-may-explain-one-of-greatest-mysteries-of-the-sun",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785983150,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191651",
+    "title": "President Donald J. Trump, an individual, Plaintiff, vs. BBC [pdf]",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.106.0.pdf",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785982767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191307",
+    "title": "Show HN: Hacker News with reduced priority for AI driven content",
+    "url": "https://hn-without-ai.vercel.app/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1785979867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192277",
+    "title": "Ship Safe, an open source security scanner for coding agents",
+    "url": "https://github.com/asamassekou10/ship-safe",
+    "score": 5,
+    "descendants": 7,
+    "time": 1785988948,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49190898",
+    "title": "OpenAI gives first detailed debrief of the Hugging Face incident at Black Hat",
+    "url": "https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief",
+    "score": 5,
+    "descendants": 2,
+    "time": 1785976324,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193173",
+    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785997482,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193166",
+    "title": "OpenAI Didn't Notice Its AI Agents Using Message Board to Plan Hacking Spree",
+    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785997418,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192556",
+    "title": "Python string literals are kinda funny",
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785991494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191854",
+    "title": "LinuxViz – 3D Linux Kernel Architecture Explorer",
+    "url": "https://tomasantunes.github.io/LinuxViz/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785984889,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49191195",
+    "title": "Trump Has Called Warsh Repeatedly Since He Became Fed Chair",
+    "url": "https://www.wsj.com/politics/policy/trump-has-called-warsh-repeatedly-since-he-became-fed-chair-32804cf7",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785978767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49190853",
+    "title": "The Mentor: How Roy Cohn Taught Donald Trump Everything",
+    "url": "https://www.newyorker.com/magazine/2026/08/10/roy-cohn-profile",
+    "score": 5,
+    "descendants": 1,
+    "time": 1785975803,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193445",
+    "title": "Grokipedia stopped updating three months ago",
+    "url": "https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785999788,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192729",
+    "title": "Voice Commanding the PRETTY Spacecraft over Amateur Radio (To Play Doom)",
+    "url": "https://doom.lb6aj.net/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1785993155,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49192519",
+    "title": "I Am Once Again Asking for Your Support",
+    "url": "https://joinhandshake.com/ai/opportunities/software-engineer/",
+    "score": 4,
+    "descendants": 4,
+    "time": 1785991183,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49190774",
+    "title": "Liberals Are Now Fighting a Two-Front War",
+    "url": "https://www.theatlantic.com/ideas/2026/08/michigan-abdul-el-sayed-election/688181/",
+    "score": 4,
+    "descendants": 3,
+    "time": 1785975116,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193915",
+    "title": "Self-driving taxis cleared for London streets 'later this summer'",
+    "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
+    "score": 4,
+    "descendants": 2,
+    "time": 1786003896,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49193061",
+    "title": "A Teenager Exposed the Truth Behind Israel's Gaza 'Voluntary Emigration' Plan",
+    "url": "https://www.haaretz.com/opinion/2026-08-06/ty-article-opinion/.premium/a-teenager-exposed-the-truth-behind-israels-gaza-voluntary-emigration-plan/0000019f-d2f5-d310-a3df-d6f79c8a0000",
+    "score": 4,
+    "descendants": 2,
+    "time": 1785996551,
+    "source": "hackernews"
+  }
+]
