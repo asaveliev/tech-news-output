@@ -1,444 +1,492 @@
 [
   {
+    "title": "Firefox stunts on Edge as Microsoft gears up to neuter adblockers: 'uBlock Origin isn't going anywhere",
+    "url": "https://www.pcgamer.com/software/browsers/firefox-stunts-on-edge-as-microsoft-gears-up-to-neuter-adblockers-ublock-origin-isnt-going-anywhere/",
+    "reddit_id": "1voaj0n",
+    "score": 1417,
+    "num_comments": 98,
+    "date": "2026-08-14T15:33:05",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49299605",
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1088,
+    "descendants": 676,
+    "time": 1786719600,
+    "source": "hackernews"
+  },
+  {
     "hn_id": "49294997",
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
     "url": "https://z.ai/blog/glm-5.3",
-    "score": 366,
-    "descendants": 140,
+    "score": 1083,
+    "descendants": 526,
     "time": 1786684799,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49303202",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 859,
+    "descendants": 315,
+    "time": 1786734200,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49296740",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 851,
+    "descendants": 768,
+    "time": 1786702368,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299222",
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "score": 784,
+    "descendants": 457,
+    "time": 1786717868,
     "source": "hackernews"
   },
   {
     "title": "Drug-carrying nanoparticles shrink venous malformations by 70% in mice",
     "url": "https://phys.org/news/2026-08-drug-nanoparticles-venous-malformations-mice.html",
     "reddit_id": "1vntrhu",
-    "score": 233,
-    "num_comments": 5,
+    "score": 543,
+    "num_comments": 6,
     "date": "2026-08-14T01:39:45",
     "subreddit": "technews",
     "source": "reddit-technews"
   },
   {
+    "hn_id": "49301260",
+    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "score": 440,
+    "descendants": 355,
+    "time": 1786725949,
+    "source": "hackernews"
+  },
+  {
+    "title": "JCB's hydrogen car Hydromax hits 406 mph record at Bonneville",
+    "url": "https://www.techspot.com/news/113471-jcb-hydrogen-powered-hydromax-hits-record-406-mph.html",
+    "reddit_id": "1vo5w12",
+    "score": 372,
+    "num_comments": 20,
+    "date": "2026-08-14T12:27:20",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49300314",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 365,
+    "descendants": 214,
+    "time": 1786722190,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299675",
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "score": 344,
+    "descendants": 157,
+    "time": 1786719806,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49298910",
+    "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+    "url": "https://e360.yale.edu/digest/australia-home-batteries",
+    "score": 333,
+    "descendants": 283,
+    "time": 1786716472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49304447",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 315,
+    "descendants": 142,
+    "time": 1786740764,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299684",
+    "title": "Qwen3.8-27B",
+    "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+    "score": 297,
+    "descendants": 3,
+    "time": 1786719834,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49300568",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "score": 283,
+    "descendants": 20,
+    "time": 1786723139,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49300759",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "score": 275,
+    "descendants": 114,
+    "time": 1786723972,
+    "source": "hackernews"
+  },
+  {
     "hn_id": "49294199",
     "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
     "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-    "score": 182,
-    "descendants": 50,
+    "score": 253,
+    "descendants": 90,
     "time": 1786675150,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49296627",
+    "title": "DeepSeek peak/off-peak pricing update",
+    "url": "https://api-docs.deepseek.com/news/news260813/",
+    "score": 237,
+    "descendants": 3,
+    "time": 1786701333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49300671",
+    "title": "France's top court blocks social media ban for under-15s",
+    "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "score": 218,
+    "descendants": 158,
+    "time": 1786723609,
     "source": "hackernews"
   },
   {
     "hn_id": "49293324",
     "title": "Bluesky Protocol Services",
     "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "score": 158,
-    "descendants": 28,
+    "score": 206,
+    "descendants": 66,
     "time": 1786666468,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49297801",
+    "title": "Dear people who work at the airport",
+    "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+    "score": 200,
+    "descendants": 250,
+    "time": 1786710202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49300800",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "score": 197,
+    "descendants": 117,
+    "time": 1786724121,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299746",
+    "title": "Introducing Toast 1",
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "score": 197,
+    "descendants": 61,
+    "time": 1786720077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299081",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "score": 177,
+    "descendants": 72,
+    "time": 1786717278,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299282",
+    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "score": 172,
+    "descendants": 192,
+    "time": 1786718089,
     "source": "hackernews"
   },
   {
     "hn_id": "49293294",
     "title": "SparrowMap – Cameras that watch government vehicles",
     "url": "https://sparrowmap.com/",
-    "score": 150,
-    "descendants": 34,
+    "score": 164,
+    "descendants": 39,
     "time": 1786666204,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49305492",
+    "title": "RISC-V: They should have known better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "score": 161,
+    "descendants": 154,
+    "time": 1786747114,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49297637",
+    "title": "The TEMU-Fication of Software, Digital Goods and Services",
+    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "score": 159,
+    "descendants": 109,
+    "time": 1786708851,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49305250",
+    "title": "eigendrum",
+    "url": "https://eigendrum.com/#p=circle",
+    "score": 130,
+    "descendants": 26,
+    "time": 1786745712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49305927",
+    "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+    "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+    "score": 117,
+    "descendants": 91,
+    "time": 1786750837,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49305558",
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "score": 110,
+    "descendants": 81,
+    "time": 1786747695,
     "source": "hackernews"
   },
   {
     "hn_id": "49294025",
     "title": "'Not acceptable': Judge orders Google to make rival app store installs easier",
     "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-    "score": 53,
-    "descendants": 13,
+    "score": 109,
+    "descendants": 46,
     "time": 1786673364,
     "source": "hackernews"
   },
   {
-    "hn_id": "49293984",
-    "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
-    "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
-    "score": 41,
-    "descendants": 9,
-    "time": 1786672919,
+    "hn_id": "49303592",
+    "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+    "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+    "score": 101,
+    "descendants": 82,
+    "time": 1786736178,
     "source": "hackernews"
   },
   {
-    "hn_id": "49294219",
-    "title": "Dario's wife tried to raise money from Epstein for a porn studio",
-    "url": "https://twitter.com/atreides_sf/status/2088044874503524469",
-    "score": 23,
+    "hn_id": "49298211",
+    "title": "Cursor is now a part of SpaceX",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "score": 98,
+    "descendants": 109,
+    "time": 1786713012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49297469",
+    "title": "WhatCable: Know what your USB-C cable can do",
+    "url": "https://www.whatcable.uk/",
+    "score": 94,
+    "descendants": 65,
+    "time": 1786707694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49301215",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "url": "https://luacad.ad-si.com",
+    "score": 91,
+    "descendants": 17,
+    "time": 1786725802,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49296902",
+    "title": "Ntfy – open-source Push to Mobile",
+    "url": "https://ntfy.sh/",
+    "score": 90,
+    "descendants": 42,
+    "time": 1786703743,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49295515",
+    "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+    "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+    "score": 85,
+    "descendants": 80,
+    "time": 1786691036,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49303774",
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+    "score": 81,
+    "descendants": 62,
+    "time": 1786737109,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299364",
+    "title": "Earth.nullschool.net",
+    "url": "https://earth.nullschool.net/",
+    "score": 76,
+    "descendants": 23,
+    "time": 1786718543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49302562",
+    "title": "Racket v9.3",
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "score": 76,
     "descendants": 3,
-    "time": 1786675327,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294362",
-    "title": "Even Claude Is in the Dark About Dario Amodei's Wife",
-    "url": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
-    "score": 21,
-    "descendants": 4,
-    "time": 1786676764,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293292",
-    "title": "How Obama's BlackBerry got secured (2023)",
-    "url": "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html",
-    "score": 19,
-    "descendants": 9,
-    "time": 1786666202,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294502",
-    "title": "Qwen3.8 27B",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "score": 19,
-    "descendants": 3,
-    "time": 1786678741,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294233",
-    "title": "Rsync 3.5.0: a huge number of security fixes",
-    "url": "https://download.samba.org/pub/rsync/NEWS#SECURITY_FIXES-3.5.0",
-    "score": 18,
-    "descendants": 1,
-    "time": 1786675468,
+    "time": 1786731288,
     "source": "hackernews"
   },
   {
     "hn_id": "49295238",
     "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
     "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "score": 17,
-    "descendants": 1,
+    "score": 74,
+    "descendants": 22,
     "time": 1786687744,
     "source": "hackernews"
   },
   {
-    "hn_id": "49294674",
-    "title": "Border blaster",
-    "url": "https://en.wikipedia.org/wiki/Border_blaster",
-    "score": 12,
-    "descendants": 0,
-    "time": 1786680795,
+    "hn_id": "49299870",
+    "title": "Private prisons announce $1.4B in revenue as immigration detentions climb",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+    "score": 72,
+    "descendants": 65,
+    "time": 1786720560,
     "source": "hackernews"
   },
   {
-    "hn_id": "49293261",
-    "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
-    "url": "https://github.com/bshichman/trs80-coco-basic",
-    "score": 12,
-    "descendants": 0,
-    "time": 1786665897,
+    "hn_id": "49297996",
+    "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "score": 69,
+    "descendants": 62,
+    "time": 1786711537,
     "source": "hackernews"
   },
   {
-    "hn_id": "49295895",
-    "title": "Phones should have a 'guest lock' feature",
-    "url": "https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/",
-    "score": 10,
+    "hn_id": "49302468",
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "score": 69,
+    "descendants": 52,
+    "time": 1786730826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49302943",
+    "title": "The American sports plutocracy",
+    "url": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+    "score": 69,
+    "descendants": 47,
+    "time": 1786733029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49302737",
+    "title": "Every fucking website: 2026 edition",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "score": 69,
+    "descendants": 19,
+    "time": 1786732034,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49304368",
+    "title": "Study links coffee consumption to metabolic health and sex hormones",
+    "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+    "score": 67,
+    "descendants": 63,
+    "time": 1786740364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49303046",
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "url": "https://github.com/lajosdeme/mole",
+    "score": 67,
+    "descendants": 10,
+    "time": 1786733568,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49299667",
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "url": "https://kukuroo.cc/",
+    "score": 66,
     "descendants": 15,
-    "time": 1786694921,
+    "time": 1786719792,
     "source": "hackernews"
   },
   {
-    "hn_id": "49294383",
-    "title": "Why Our Memory Slips After Age 50",
-    "url": "https://erictopol.substack.com/p/why-our-memory-slips-after-age-50",
-    "score": 10,
-    "descendants": 2,
-    "time": 1786676966,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49295666",
-    "title": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
-    "url": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
-    "score": 9,
-    "descendants": 3,
-    "time": 1786692661,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293908",
-    "title": "America's Loneliness Trap",
-    "url": "https://slate.com/life/2026/08/men-lonely-social-skills-therapy-economy-crisis.html",
-    "score": 9,
-    "descendants": 1,
-    "time": 1786672275,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293828",
-    "title": "Apple Wants to Charge Developers Up to 15% for Linking Outside the App Store",
-    "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
-    "score": 9,
-    "descendants": 1,
-    "time": 1786671362,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293937",
-    "title": "Evaluating the impact of USAID defunding on mortality up to 2030",
-    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01186-9/fulltext",
-    "score": 9,
-    "descendants": 0,
-    "time": 1786672570,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294846",
-    "title": "Trump order lets US firms hack overseas groups under certain conditions",
-    "url": "https://www.cnn.com/2026/08/13/politics/cyber-privateers-trump-order-overseas-groups-hacking",
-    "score": 8,
-    "descendants": 0,
-    "time": 1786682889,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294370",
-    "title": "Female assassin kills Ukraine submarine commander who defected to Russia",
-    "url": "https://www.yahoo.com/news/world/articles/woman-assassinates-ukrainian-submarine-commander-143742712.html",
-    "score": 8,
-    "descendants": 0,
-    "time": 1786676837,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294887",
-    "title": "Show HN: VeerHost – $1/month web hosting, limited spots",
-    "url": "https://veerhost.com/1-dollar-web-hosting/",
-    "score": 7,
-    "descendants": 0,
-    "time": 1786683404,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294778",
-    "title": "Definium says LSD-based pill reduces anxiety in late-stage study",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/definium-says-lsd-based-pill-reduces-anxiety-late-stage-study-2026-08-12/",
-    "score": 7,
-    "descendants": 0,
-    "time": 1786682033,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293654",
-    "title": "Life without vaccines: Americans need to understand what they save us from",
-    "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/",
-    "score": 7,
-    "descendants": 0,
-    "time": 1786669693,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293523",
-    "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-    "url": "https://github.com/JustVugg/lumabri",
-    "score": 7,
-    "descendants": 0,
-    "time": 1786668424,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293277",
-    "title": "Kennedy Center Board Decides to Inscribe Trump's Name on Building",
-    "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-    "score": 7,
-    "descendants": 0,
-    "time": 1786666004,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294801",
-    "title": "Trump orders aircraft carrier redesign to use steam catapults to launch jets",
-    "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
-    "score": 6,
-    "descendants": 1,
-    "time": 1786682305,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294441",
-    "title": "Error by AI scribe during medical appointment leaves patient devastated",
-    "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-    "score": 6,
-    "descendants": 1,
-    "time": 1786677850,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293367",
-    "title": "Foothills of the Bay Area house party",
-    "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
-    "score": 6,
-    "descendants": 1,
-    "time": 1786666872,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49295816",
-    "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
-    "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786694004,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49295419",
-    "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
-    "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786690108,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294884",
-    "title": "Phoebe Gates' startup Phia faces cookie stuffing allegations",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/phia-app-co-founders-pushed-for-features-taking-credit-for-sales-it-didn-t-drive",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786683336,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294844",
-    "title": "Apple trains its own AI model for China market with Alibaba's support",
-    "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786682871,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294835",
-    "title": "Trump's Gift to the Money Launderers",
-    "url": "https://www.thebulwark.com/p/trumps-gift-to-the-money-launderers-database-treasury",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786682780,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294784",
-    "title": "Users of psychedelics narratively turn bad trips into valuable experiences",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0955395920303352#bib0056",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786682135,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294666",
-    "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
-    "url": "https://www.sfchronicle.com/opinion/openforum/article/ai-data-law-california-22382698.php",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786680711,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294546",
-    "title": "The Jobless Boom Has Arrived",
-    "url": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786679378,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294058",
-    "title": "Trump's vaccine plan requires individual shots last used decades ago",
-    "url": "https://apnews.com/article/vaccines-trump-mmr-drugmakers-5a1d91e149feab99b18dd916412523ee",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786673725,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293492",
-    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-    "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
-    "score": 6,
-    "descendants": 0,
-    "time": 1786668056,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293980",
-    "title": "Show HN: Why – a deterministic curiosity graph built on probabilistic model",
-    "url": "https://why.com",
-    "score": 5,
+    "hn_id": "49299688",
+    "title": "Unsloth Qwen3.8-27B GGUF files",
+    "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "score": 66,
     "descendants": 4,
-    "time": 1786672888,
+    "time": 1786719857,
     "source": "hackernews"
   },
   {
-    "hn_id": "49294049",
-    "title": "Trump Admin Lets Loose the Cyber Pirates",
-    "url": "https://gizmodo.com/trump-admin-lets-loose-the-cyber-pirates-2000798523",
-    "score": 5,
-    "descendants": 2,
-    "time": 1786673633,
+    "hn_id": "49300884",
+    "title": "Taxpayers Funded a $533M Artillery Plant That Made Nothing",
+    "url": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
+    "score": 65,
+    "descendants": 14,
+    "time": 1786724479,
     "source": "hackernews"
   },
   {
-    "hn_id": "49295508",
-    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-    "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-    "score": 5,
-    "descendants": 1,
-    "time": 1786690947,
+    "hn_id": "49294502",
+    "title": "Qwen3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "score": 63,
+    "descendants": 13,
+    "time": 1786678741,
     "source": "hackernews"
   },
   {
-    "hn_id": "49293331",
-    "title": "Sailor went overboard on USS Lincoln; report of worsening mental health for crew",
-    "url": "https://www.cnn.com/2026/08/13/politics/uss-abraham-lincoln-conditions-extended-deployment-hnk",
-    "score": 5,
-    "descendants": 1,
-    "time": 1786666497,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49295369",
-    "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
-    "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-    "score": 5,
-    "descendants": 0,
-    "time": 1786689370,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49293837",
-    "title": "A hurricane has never crossed the equator. Here's why",
-    "url": "https://www.accuweather.com/en/hurricane/a-hurricane-has-never-crossed-the-equator-heres-why/1783017",
-    "score": 5,
-    "descendants": 0,
-    "time": 1786671510,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294569",
-    "title": "Flock puts new 'guardrails' on license-plate cameras. Critics skeptical",
-    "url": "https://www.sfchronicle.com/crime/article/flock-cameras-ceo-surveillance-policy-22384139.php",
-    "score": 4,
-    "descendants": 1,
-    "time": 1786679583,
-    "source": "hackernews"
-  },
-  {
-    "hn_id": "49294511",
-    "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
-    "url": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
-    "score": 4,
-    "descendants": 1,
-    "time": 1786678882,
-    "source": "hackernews"
+    "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+    "reddit_id": "1volx2a",
+    "score": 21,
+    "num_comments": 1,
+    "date": "2026-08-14T22:43:55",
+    "subreddit": "technews",
+    "source": "reddit-technews"
   }
 ]
