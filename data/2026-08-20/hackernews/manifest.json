@@ -1,0 +1,452 @@
+[
+  {
+    "hn_id": "49379550",
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "score": 1407,
+    "descendants": 307,
+    "time": 1787256446,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49371857",
+    "title": "Don't paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "score": 1010,
+    "descendants": 555,
+    "time": 1787214044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49372583",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "score": 954,
+    "descendants": 298,
+    "time": 1787220532,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373456",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "score": 549,
+    "descendants": 113,
+    "time": 1787227478,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378957",
+    "title": "The August 17 outage",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "score": 480,
+    "descendants": 549,
+    "time": 1787253744,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374269",
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "score": 478,
+    "descendants": 408,
+    "time": 1787232192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49368886",
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "score": 392,
+    "descendants": 234,
+    "time": 1787184901,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49371006",
+    "title": "Windows brings out the Rorschach test in everyone (2003)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "score": 345,
+    "descendants": 134,
+    "time": 1787206600,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49369408",
+    "title": "Turns are Better than Radians (2022)",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "score": 340,
+    "descendants": 202,
+    "time": 1787189352,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378630",
+    "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "score": 330,
+    "descendants": 115,
+    "time": 1787252072,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378768",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "score": 289,
+    "descendants": 154,
+    "time": 1787252736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378243",
+    "title": "Consumer Rights Wiki",
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "score": 272,
+    "descendants": 52,
+    "time": 1787249991,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49377853",
+    "title": "I should have loved biology (2020)",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "score": 262,
+    "descendants": 100,
+    "time": 1787248202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49375996",
+    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+    "url": "https://github.com/zachahn/vomit",
+    "score": 243,
+    "descendants": 241,
+    "time": 1787239562,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49376265",
+    "title": "Linux 7.2",
+    "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "score": 243,
+    "descendants": 89,
+    "time": 1787240778,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374797",
+    "title": "Bun 1.4",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "score": 239,
+    "descendants": 142,
+    "time": 1787235012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374738",
+    "title": "Stwipe Acquires OpenWouter",
+    "url": "https://stwipe.com/",
+    "score": 213,
+    "descendants": 26,
+    "time": 1787234686,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49379253",
+    "title": "Stop eating Lady Gaga's Oreos",
+    "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+    "score": 190,
+    "descendants": 120,
+    "time": 1787255166,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378446",
+    "title": "Why aren't smart people happier? (2022)",
+    "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+    "score": 158,
+    "descendants": 217,
+    "time": 1787251127,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49376332",
+    "title": "How to compromise your system with a job interview",
+    "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+    "score": 153,
+    "descendants": 132,
+    "time": 1787241057,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49375719",
+    "title": "Anti-AI fonts are useless and harmful",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "score": 152,
+    "descendants": 110,
+    "time": 1787238413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374287",
+    "title": "DiffusionGemma Technical Report",
+    "url": "https://arxiv.org/abs/2608.00146",
+    "score": 152,
+    "descendants": 36,
+    "time": 1787232272,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49381896",
+    "title": "Ox Alpha",
+    "url": "https://openrouter.ai/stealth/ox-alpha",
+    "score": 123,
+    "descendants": 93,
+    "time": 1787270195,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373932",
+    "title": "Xorg-server 26.1.0 rc1",
+    "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+    "score": 121,
+    "descendants": 104,
+    "time": 1787230216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374920",
+    "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+    "url": "https://www.bbc.com/news/articles/clyq011414eo",
+    "score": 110,
+    "descendants": 108,
+    "time": 1787235496,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374635",
+    "title": "Every Model Cheats",
+    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "score": 99,
+    "descendants": 77,
+    "time": 1787234219,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374772",
+    "title": "Hacking with Claude on a $27 smart watch",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "score": 94,
+    "descendants": 50,
+    "time": 1787234889,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374873",
+    "title": "An elliptic curve of rank ≥ 30",
+    "url": "https://elliptic-rank.icarm.cloud/curve/273",
+    "score": 94,
+    "descendants": 29,
+    "time": 1787235279,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374036",
+    "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
+    "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+    "score": 92,
+    "descendants": 83,
+    "time": 1787230711,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378933",
+    "title": "SpacetimeDB: a short technical review",
+    "url": "https://strn.cat/posts/spacetime/",
+    "score": 88,
+    "descendants": 17,
+    "time": 1787253593,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49370083",
+    "title": "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+    "url": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
+    "score": 87,
+    "descendants": 21,
+    "time": 1787196716,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373269",
+    "title": "AI didn't erase the junior engineer's value, it increased it it",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "score": 84,
+    "descendants": 138,
+    "time": 1787226140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374031",
+    "title": "Netherlands lists Israel as a threat to its national security for the first time",
+    "url": "https://www.trtworld.com/article/911b7ff6c075",
+    "score": 81,
+    "descendants": 11,
+    "time": 1787230694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49370440",
+    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+    "score": 77,
+    "descendants": 51,
+    "time": 1787200922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49372661",
+    "title": "Risk Engineering",
+    "url": "https://risk-engineering.org/",
+    "score": 75,
+    "descendants": 15,
+    "time": 1787221138,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49375237",
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "url": "https://pub.doub.ly/",
+    "score": 73,
+    "descendants": 37,
+    "time": 1787236708,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49375244",
+    "title": "Show HN: Open-source Stripe Connect alternative",
+    "url": "https://zoneless.com",
+    "score": 71,
+    "descendants": 32,
+    "time": 1787236725,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374965",
+    "title": "Slack Code",
+    "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+    "score": 69,
+    "descendants": 98,
+    "time": 1787235685,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374437",
+    "title": "I spent twenty years becoming good at the wrong game",
+    "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+    "score": 64,
+    "descendants": 98,
+    "time": 1787233158,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49376211",
+    "title": "Generic Methods in Go 1.27",
+    "url": "https://dominik.info/blog/go-generic-methods",
+    "score": 63,
+    "descendants": 35,
+    "time": 1787240508,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49378950",
+    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+    "url": "https://tidalcycles.org/",
+    "score": 63,
+    "descendants": 10,
+    "time": 1787253705,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49377739",
+    "title": "Project Cybersyn (2022)",
+    "url": "https://bactra.org/notebooks/cybersyn.html",
+    "score": 59,
+    "descendants": 45,
+    "time": 1787247649,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373616",
+    "title": "Browser De-Slop",
+    "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+    "score": 58,
+    "descendants": 45,
+    "time": 1787228377,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374067",
+    "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+    "url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+    "score": 56,
+    "descendants": 61,
+    "time": 1787230900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49377660",
+    "title": "Show HN: We chased a weather balloon across Montana and never found it",
+    "url": "https://radi8.dev/blog/uplink/",
+    "score": 55,
+    "descendants": 24,
+    "time": 1787247212,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49380491",
+    "title": "The Citizen Developer",
+    "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+    "score": 53,
+    "descendants": 74,
+    "time": 1787261148,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373123",
+    "title": "Australia passes law to levy tech giants that fail to pay for local news",
+    "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+    "score": 53,
+    "descendants": 53,
+    "time": 1787225023,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49374830",
+    "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+    "url": "https://github.com/paulsp94/omacosy",
+    "score": 53,
+    "descendants": 40,
+    "time": 1787235128,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49372994",
+    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+    "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "score": 52,
+    "descendants": 31,
+    "time": 1787223809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49373884",
+    "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+    "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+    "score": 52,
+    "descendants": 23,
+    "time": 1787229944,
+    "source": "hackernews"
+  }
+]
