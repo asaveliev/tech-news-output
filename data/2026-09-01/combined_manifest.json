@@ -1,0 +1,502 @@
+[
+  {
+    "hn_id": "49517448",
+    "title": "Fastpotify",
+    "url": "https://fastpotify.rocks/",
+    "score": 507,
+    "descendants": 296,
+    "time": 1788231134,
+    "source": "hackernews"
+  },
+  {
+    "title": "Motorless solid-state cooler uses heat to cool itself; could recycle processor heat into cooling; shape-memory alloy films could turn data center exhaust into refrigeration",
+    "url": "https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration",
+    "reddit_id": "1w3x67i",
+    "score": 346,
+    "num_comments": 28,
+    "date": "2026-09-01T01:06:06",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49517584",
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "score": 284,
+    "descendants": 162,
+    "time": 1788232596,
+    "source": "hackernews"
+  },
+  {
+    "title": "Proposed London datacentre 'incompatible' with net zero with 1m-tonne carbon footprint",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+    "reddit_id": "1w4415t",
+    "score": 254,
+    "num_comments": 17,
+    "date": "2026-09-01T06:45:57",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49520022",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "score": 246,
+    "descendants": 40,
+    "time": 1788257462,
+    "source": "hackernews"
+  },
+  {
+    "title": "Flock Planned to Turn 350,000 Uber and Lyft Cars Into Rolling Surveillance Cameras",
+    "url": "https://www.yahoo.com/news/us/articles/flock-planned-turn-350-000-120005534.html",
+    "reddit_id": "1w47xgs",
+    "score": 222,
+    "num_comments": 9,
+    "date": "2026-09-01T10:25:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49517624",
+    "title": "Restroom Archive",
+    "url": "https://restroomarchive.com",
+    "score": 170,
+    "descendants": 40,
+    "time": 1788233028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516699",
+    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "score": 120,
+    "descendants": 70,
+    "time": 1788224468,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519939",
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "score": 111,
+    "descendants": 32,
+    "time": 1788256365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518316",
+    "title": "AI Can Make You Suck Faster Too",
+    "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+    "score": 103,
+    "descendants": 114,
+    "time": 1788240776,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517297",
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+    "url": "https://github.com/fregacmols/RotaryCell",
+    "score": 89,
+    "descendants": 13,
+    "time": 1788229763,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517377",
+    "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+    "url": "https://www.bbc.com/news/articles/c24j5192j7jo",
+    "score": 85,
+    "descendants": 35,
+    "time": 1788230413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517537",
+    "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+    "url": "https://antigravity.google/docs/boost/",
+    "score": 71,
+    "descendants": 51,
+    "time": 1788231955,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517420",
+    "title": "Tailcat: Tailscale Without Tailscale, by Tailscale",
+    "url": "https://tailscale.com/blog/tailcat",
+    "score": 66,
+    "descendants": 4,
+    "time": 1788230878,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516848",
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+    "score": 57,
+    "descendants": 40,
+    "time": 1788225940,
+    "source": "hackernews"
+  },
+  {
+    "title": "Manifest V2 Is Dead as Chrome Web Store Permanently Purges Legacy Extensions",
+    "url": "https://www.ghacks.net/2026/09/01/manifest-v2-is-dead-as-chrome-web-store-permanently-purges-legacy-extensions/",
+    "reddit_id": "1w46sej",
+    "score": 56,
+    "num_comments": 16,
+    "date": "2026-09-01T09:23:47",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49520270",
+    "title": "Lake Ontario (\"Lake America\")",
+    "url": "https://community.openstreetmap.org/t/lake-ontario-lake-america/146975",
+    "score": 37,
+    "descendants": 51,
+    "time": 1788260163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519902",
+    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+    "score": 33,
+    "descendants": 30,
+    "time": 1788255999,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517492",
+    "title": "California Lawmakers Pass Plug-In Solar Bill",
+    "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
+    "score": 30,
+    "descendants": 2,
+    "time": 1788231446,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516496",
+    "title": "Linus Torvalds' uEmacs – the editor he has used since the 1980s",
+    "url": "https://github.com/torvalds/uemacs",
+    "score": 29,
+    "descendants": 0,
+    "time": 1788222495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516354",
+    "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+    "score": 29,
+    "descendants": 0,
+    "time": 1788221228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517472",
+    "title": "Not Becoming a Cyborg",
+    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+    "score": 28,
+    "descendants": 4,
+    "time": 1788231315,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519641",
+    "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" faster than US Government",
+    "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+    "score": 26,
+    "descendants": 12,
+    "time": 1788253160,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517727",
+    "title": "Paint.NET Adds Experimental Wine/Linux Support",
+    "url": "https://forums.paint.net/topic/134563-%F0%9F%8D%B7-extremely-experimental-winelinux-support-how-to-get-started/",
+    "score": 24,
+    "descendants": 4,
+    "time": 1788234192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517483",
+    "title": "Is MCP Good Yet?",
+    "url": "https://ismcpgoodyet.com",
+    "score": 24,
+    "descendants": 1,
+    "time": 1788231375,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517928",
+    "title": "ArXiv has almost 600 submissions today and most are AI slop",
+    "url": "https://arxiv.org/list/math/new",
+    "score": 23,
+    "descendants": 15,
+    "time": 1788236641,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49520896",
+    "title": "Tim Cook Sold Out Steve Jobs",
+    "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+    "score": 22,
+    "descendants": 1,
+    "time": 1788264750,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518121",
+    "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+    "url": "https://github.com/vermellcc/vermell",
+    "score": 21,
+    "descendants": 11,
+    "time": 1788238571,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49520388",
+    "title": "Self-Hosting on the Dark Web",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "score": 14,
+    "descendants": 4,
+    "time": 1788261008,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518073",
+    "title": "Building Without Predicting",
+    "url": "https://sive.rs/fit",
+    "score": 14,
+    "descendants": 3,
+    "time": 1788237993,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518038",
+    "title": "What Happened to Yoga?",
+    "url": "https://www.theatlantic.com/culture/2026/08/yoga-america-culture-decline/688461/",
+    "score": 12,
+    "descendants": 5,
+    "time": 1788237693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517018",
+    "title": "Wendell Berry has died, age 92",
+    "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+    "score": 11,
+    "descendants": 5,
+    "time": 1788227398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517087",
+    "title": "\"Dagon\" by H. P. Lovecraft",
+    "url": "https://www.hplovecraft.com/writings/texts/fiction/d.aspx",
+    "score": 11,
+    "descendants": 0,
+    "time": 1788227902,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519063",
+    "title": "1Password Supports the Ethnic Cleansing of Europe",
+    "url": "https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/",
+    "score": 10,
+    "descendants": 9,
+    "time": 1788247559,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519588",
+    "title": "Stanisław Lem foretold the current LLM mania in 1964",
+    "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788252657,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517565",
+    "title": "OpenTS is a new open-source reconstruction of Command and Conquer: Tiberian Sun",
+    "url": "https://www.gamingonlinux.com/2026/08/opents-is-a-new-open-source-reconstruction-of-command-conquer-tiberian-sun/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788232359,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518138",
+    "title": "Dissociation Isn't Always a Trauma Response",
+    "url": "https://www.psychologytoday.com/us/blog/the-neurodivergent-psychologist/202608/dissociation-isnt-always-a-trauma-response",
+    "score": 9,
+    "descendants": 0,
+    "time": 1788238756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519237",
+    "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+    "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+    "score": 8,
+    "descendants": 10,
+    "time": 1788249145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516929",
+    "title": "Florida revokes permits for license plate readers on state highways",
+    "url": "https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads",
+    "score": 8,
+    "descendants": 0,
+    "time": 1788226697,
+    "source": "hackernews"
+  },
+  {
+    "title": "NASA launched a space telescope on Sunday that will give astronomers a much wider view of the universe",
+    "url": "https://www.techspot.com/news/113666-nasa-launched-space-telescope-sunday-give-astronomers-much.html",
+    "reddit_id": "1w49xaq",
+    "score": 8,
+    "num_comments": 0,
+    "date": "2026-09-01T12:01:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49519510",
+    "title": "Palmer Luckey's heated exchange with Paul Graham",
+    "url": "https://twitter.com/PalmerLuckey/status/2094125479813070877",
+    "score": 7,
+    "descendants": 7,
+    "time": 1788251971,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519431",
+    "title": "Trump Mocks Data-Center Opponents as Wanting to Stay 'Backwards and Poor'",
+    "url": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
+    "score": 7,
+    "descendants": 4,
+    "time": 1788251077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49519193",
+    "title": "Indictments against a top extremism researcher and the SPLC",
+    "url": "https://theconversation.com/indictments-against-a-top-extremism-researcher-and-the-splc-force-a-reckoning-on-research-ethics-an-extremism-scholar-reflects-on-the-fields-challenges-290384",
+    "score": 7,
+    "descendants": 1,
+    "time": 1788248755,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517398",
+    "title": "FTC, States Sue Amazon over Secret Ad Surcharge Scheme",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+    "score": 7,
+    "descendants": 1,
+    "time": 1788230650,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518246",
+    "title": "Celeris-1 Magnus: Fast hybrid diffusion model for agentic work",
+    "url": "https://celeris.ai/celeris-1-magnus",
+    "score": 7,
+    "descendants": 0,
+    "time": 1788240008,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516959",
+    "title": "Weird Little Guys of FOSS",
+    "url": "https://drewdevault.com/weird-guys/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1788226920,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516701",
+    "title": "Retatrutide – people risk the gray market for the newest weight-loss drug",
+    "url": "https://www.theguardian.com/science/2026/aug/31/retatrutide-weight-loss-drug-gray-market",
+    "score": 6,
+    "descendants": 2,
+    "time": 1788224473,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517459",
+    "title": "Retiring from the Project (Vv221)",
+    "url": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1788231209,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49518404",
+    "title": "Chinese court freezes $300M of Dutch chipmaker Nexperia assets in Wingtech case",
+    "url": "https://www.reuters.com/world/asia-pacific/chinese-court-freezes-dutch-chipmaker-nexperia-bvs-stakes-four-china-units-2026-08-31/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788241760,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517644",
+    "title": "Yiddish's 'revival' points to its resilience as a portable homeland",
+    "url": "https://theconversation.com/yiddishs-revival-points-to-its-resilience-as-a-portable-homeland-and-a-global-reach-from-russia-to-mexico-to-the-us-287743",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788233314,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517597",
+    "title": "CISA confirms hackers targeted over 100 US water systems during July",
+    "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788232666,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517439",
+    "title": "Astronomers detect fastest known star in Milky Way",
+    "url": "https://www.theguardian.com/science/2026/aug/19/astronomers-detect-fastest-known-star-in-milky-way-s301",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788231091,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49517157",
+    "title": "Ex-Congressman George Santos Receives Kalshi's First-Ever Lifetime Ban",
+    "url": "https://www.wsj.com/business/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-b50eeaf1",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788228495,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516486",
+    "title": "Inworld TTS Open Evaluation Toolkit: Reproducible TTS Evals",
+    "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788222397,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49516341",
+    "title": "Janet Verison 1.42.0 Out",
+    "url": "https://github.com/janet-lang/janet/releases/tag/v1.42.0",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788221150,
+    "source": "hackernews"
+  }
+]
