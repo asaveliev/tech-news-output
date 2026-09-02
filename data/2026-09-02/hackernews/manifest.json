@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "49530989",
+    "title": "True Rate of Unemployment",
+    "url": "https://www.lisep.org/tru",
+    "score": 258,
+    "descendants": 227,
+    "time": 1788315670,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531651",
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "score": 180,
+    "descendants": 62,
+    "time": 1788322556,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533497",
+    "title": "Commodore 64 released September 1, 1982",
+    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+    "score": 132,
+    "descendants": 45,
+    "time": 1788338203,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531525",
+    "title": "WebFPGA (2019)",
+    "url": "https://webfpga.io/",
+    "score": 92,
+    "descendants": 32,
+    "time": 1788321298,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530972",
+    "title": "'Idiocracy' Predicted All of This",
+    "url": "https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/",
+    "score": 79,
+    "descendants": 58,
+    "time": 1788315522,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530472",
+    "title": "Claude Fable 5.1 made me a nice animated pelican",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "score": 61,
+    "descendants": 17,
+    "time": 1788311152,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530298",
+    "title": "Anthropic banned me for \"suspicious signals\"",
+    "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+    "score": 39,
+    "descendants": 36,
+    "time": 1788309529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533132",
+    "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+    "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+    "score": 27,
+    "descendants": 14,
+    "time": 1788335446,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533809",
+    "title": "Sweden pauses Denmark power cable over EU grid rules",
+    "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+    "score": 25,
+    "descendants": 6,
+    "time": 1788340834,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532948",
+    "title": "Enough! Open Letter from Jewish Pros in Defense of Mark Ruffalo [on Ellison]",
+    "url": "https://lithub.com/enough-an-open-letter-from-jewish-creatives-and-thinkers-in-defense-of-mark-ruffalo/",
+    "score": 23,
+    "descendants": 1,
+    "time": 1788334136,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532579",
+    "title": "Emily Wilson to retranslate the Odyssey from scratch",
+    "url": "https://www.theguardian.com/books/2026/sep/01/emily-wilson-to-retranslate-the-odyssey-from-scratch-christopher-nolan",
+    "score": 20,
+    "descendants": 15,
+    "time": 1788331450,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533216",
+    "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
+    "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
+    "score": 17,
+    "descendants": 8,
+    "time": 1788336063,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534583",
+    "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+    "url": "https://arxiv.org/abs/2608.31016",
+    "score": 16,
+    "descendants": 6,
+    "time": 1788347227,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532773",
+    "title": "Google Pics is generally available starting today",
+    "url": "https://workspace.google.com/products/pics/",
+    "score": 14,
+    "descendants": 9,
+    "time": 1788332910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531265",
+    "title": "Aviation Herald sued; editor forced to sell home of 40y and move into his office",
+    "url": "https://avherald.com/h?article=53c8958a",
+    "score": 14,
+    "descendants": 1,
+    "time": 1788318492,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530030",
+    "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
+    "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
+    "score": 13,
+    "descendants": 6,
+    "time": 1788307351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534396",
+    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1788345542,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532830",
+    "title": "Swiss E-ID: Justice Minister Jans prevents secret Amazon deal",
+    "url": "https://www.heise.de/en/news/Swiss-E-ID-Justice-Minister-Jans-prevents-secret-Amazon-deal-11437456.html",
+    "score": 11,
+    "descendants": 0,
+    "time": 1788333349,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531306",
+    "title": "Another Tesla on Autopilot Stopped on Freeway, Driver Died: Report",
+    "url": "https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-report-2000805742",
+    "score": 10,
+    "descendants": 4,
+    "time": 1788319010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532083",
+    "title": "Show HN: I Have Been Clawed – Index of coding agent incidents",
+    "url": "https://ihavebeenclawed.com/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1788326623,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531107",
+    "title": "A Hedge-Fund Titan's Divorce Is Putting Wall Street's Staggering Wealth on Publi",
+    "url": "https://www.wsj.com/personal-finance/a-hedge-fund-titans-divorce-is-putting-wall-streets-staggering-wealth-on-public-view-6c419f4c",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788316864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532603",
+    "title": "Qwen3.8-Max",
+    "url": "https://www.qwencloud.com/models/qwen3.8-max-0902",
+    "score": 9,
+    "descendants": 7,
+    "time": 1788331615,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530849",
+    "title": "US may ask parents to prove citizenship to get passports for their children",
+    "url": "https://www.reuters.com/legal/government/trump-birthright-curbs-may-prompt-us-passport-checks-parents-2026-09-01/",
+    "score": 9,
+    "descendants": 4,
+    "time": 1788314282,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532560",
+    "title": "How Trump Plans to Steal the Midterm Elections, According to a Whistleblower",
+    "url": "https://gizmodo.com/heres-how-trump-plans-to-steal-the-midterm-elections-according-to-a-whistleblower-2000805711",
+    "score": 9,
+    "descendants": 3,
+    "time": 1788331289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533056",
+    "title": "AI Billionaires Are Spending Millions to Change Your Mind About Data Centers",
+    "url": "https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers",
+    "score": 9,
+    "descendants": 0,
+    "time": 1788334900,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533664",
+    "title": "AI Isn't Making Everyone a Creator",
+    "url": "https://story.vjy.me/83",
+    "score": 8,
+    "descendants": 4,
+    "time": 1788339576,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530429",
+    "title": "Apple Maps Changes Lake Ontario to Lake America After Trump Order",
+    "url": "https://www.bbc.com/news/articles/cddvyyz0e47o",
+    "score": 8,
+    "descendants": 4,
+    "time": 1788310775,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530627",
+    "title": "Bazel's UX is really, really, really bad",
+    "url": "https://blog.appliedcomputing.io/p/bazels-ux-is-really-really-really",
+    "score": 8,
+    "descendants": 1,
+    "time": 1788312391,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534524",
+    "title": "It's OK to hardcode feature flags (2025)",
+    "url": "https://code.mendhak.com/hardcode-feature-flags/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1788346820,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534782",
+    "title": "Apple Joins Google in Renaming Lake Ontario to \"Lake America\"",
+    "url": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
+    "score": 6,
+    "descendants": 4,
+    "time": 1788348953,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531524",
+    "title": "Games look real now. We're in the future",
+    "url": "https://twitter.com/r00t404t/status/2094871766304751799",
+    "score": 6,
+    "descendants": 4,
+    "time": 1788321282,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533266",
+    "title": "Study reveals substantial misdirection in EU automotive regulation",
+    "url": "https://techxplore.com/news/2026-09-reveals-substantial-misdirection-eu-automotive.html",
+    "score": 6,
+    "descendants": 3,
+    "time": 1788336398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531021",
+    "title": "Firefox's new native iOS ad blocker won't block all ads",
+    "url": "https://www.neowin.net/news/you-can-now-block-some-ads-in-firefox-on-ios/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1788315992,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530188",
+    "title": "The ZX Spectrum sound chip hidden in a 1992 DOS game's Tandy driver",
+    "url": "https://utopia.platesteel.net/phantom/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1788308570,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534940",
+    "title": "Normalized Fascism in Open Source: $12M Given to DHH",
+    "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788350090,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534219",
+    "title": "NATO DIANA announces 15 innovators to move forward to Mission Track",
+    "url": "https://foxandlion.pub/news/nato-diana-announces-full-cohort-of-15-innovators-to-move-forward-to-mission-track",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788343957,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533549",
+    "title": "How to Protect Yourself from Workslop",
+    "url": "https://www.seangoedecke.com/how-to-protect-yourself-from-workslop/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788338553,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531207",
+    "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
+    "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788317943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530089",
+    "title": "How an MIT research project became a global programming language",
+    "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788307785,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49533149",
+    "title": "Show HN: I ranked every Paris bakery's pain au chocolat using an LLM",
+    "url": "https://www.painauchoc.com/",
+    "score": 5,
+    "descendants": 6,
+    "time": 1788335558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532474",
+    "title": "Qwen3.8-Max just got upgraded",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2094968708288680276",
+    "score": 5,
+    "descendants": 2,
+    "time": 1788330528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530024",
+    "title": "California lawmakers pass bill governing lawyers' use of AI",
+    "url": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1788307299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49534331",
+    "title": "Deployah v0.8.0: tasks, CronJobs, and an init wizard",
+    "url": "https://deployah.dev/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788344918,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49532202",
+    "title": "GoPro Is Being Bought for $285M and Pivoting to AI and Defense Optics",
+    "url": "https://fstoppers.com/gear/gopro-being-bought-285-million-and-pivoting-ai-and-defense-optics-904434",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788327829,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531898",
+    "title": "Meet the People Taking over Hacker News (2014)",
+    "url": "https://www.ycombinator.com/blog/meet-the-people-taking-over-hacker-news",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788325067,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531408",
+    "title": "B.C. boaters warned to avoid mysterious floating island",
+    "url": "https://cheknews.ca/b-c-boaters-warned-to-avoid-mysterious-floating-island-1345202/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788320082,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530807",
+    "title": "New type of dice guarantees no tie when deciding who goes first",
+    "url": "https://www.cbc.ca/lite/story/9.7328614",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788313811,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49531606",
+    "title": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds",
+    "url": "https://www.theguardian.com/science/2026/aug/26/shingles-vaccine-lower-risk-heart-attack-stroke-study",
+    "score": 5,
+    "descendants": 0,
+    "time": 1788322082,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49530968",
+    "title": "Poop-maxxing: How a 30-year-old chart became a hot gut health trend",
+    "url": "https://www.nbcnews.com/health/health-news/poop-maxxing-bowel-movement-track-fiber-bristol-chart-young-people-rcna592219",
+    "score": 5,
+    "descendants": 0,
+    "time": 1788315460,
+    "source": "hackernews"
+  }
+]
