@@ -1,0 +1,444 @@
+[
+  {
+    "hn_id": "49605767",
+    "title": "Mistral raises €3B",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "score": 564,
+    "descendants": 393,
+    "time": 1788843983,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604861",
+    "title": "Jellyfin 12.0",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "score": 423,
+    "descendants": 183,
+    "time": 1788832595,
+    "source": "hackernews"
+  },
+  {
+    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+    "reddit_id": "1waa2ap",
+    "score": 386,
+    "num_comments": 63,
+    "date": "2026-09-08T01:04:01",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49604637",
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 368,
+    "descendants": 62,
+    "time": 1788830219,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605915",
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 317,
+    "descendants": 177,
+    "time": 1788846148,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605691",
+    "title": "We have a year to fix security everywhere",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "score": 261,
+    "descendants": 252,
+    "time": 1788842890,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604870",
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "score": 227,
+    "descendants": 78,
+    "time": 1788832643,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49607443",
+    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+    "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+    "score": 184,
+    "descendants": 162,
+    "time": 1788856976,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605782",
+    "title": "My Feed, My Way",
+    "url": "https://www.pm.gov.au/media/my-feed-my-way",
+    "score": 135,
+    "descendants": 112,
+    "time": 1788844236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605246",
+    "title": "How well do agents use test/verification techniques?",
+    "url": "https://danluu.com/agentic-testing/",
+    "score": 107,
+    "descendants": 38,
+    "time": 1788836296,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604537",
+    "title": "Disconnect your LG television from the internet, now",
+    "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
+    "score": 106,
+    "descendants": 2,
+    "time": 1788829248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605433",
+    "title": "I tested 10 model/harness combinations on the same Three.js task",
+    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "score": 95,
+    "descendants": 53,
+    "time": 1788838945,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605424",
+    "title": "GamersNexus and LG: Or why rooting your TV is a bad idea",
+    "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+    "score": 92,
+    "descendants": 115,
+    "time": 1788838824,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605822",
+    "title": "Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "score": 70,
+    "descendants": 47,
+    "time": 1788844823,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49608023",
+    "title": "Why getting your hands dirty is good for you",
+    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "score": 65,
+    "descendants": 39,
+    "time": 1788860904,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49607991",
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "score": 65,
+    "descendants": 11,
+    "time": 1788860594,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605511",
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "score": 54,
+    "descendants": 38,
+    "time": 1788840380,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604816",
+    "title": "My business partner sent a 5K vibe-coded PR that he didn't even test",
+    "url": "https://ycj.bearblog.dev/ai-again/",
+    "score": 46,
+    "descendants": 70,
+    "time": 1788832098,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605356",
+    "title": "A Screensaver for LG's Spying Smart TVs",
+    "url": "https://weowntheglass.com",
+    "score": 41,
+    "descendants": 12,
+    "time": 1788837644,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605644",
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "score": 39,
+    "descendants": 8,
+    "time": 1788842186,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605611",
+    "title": "Canada's counter-tariffs take effect on various US goods",
+    "url": "https://www.france24.com/en/live-news/20260908-canada-s-counter-tariffs-take-effect-on-various-us-goods",
+    "score": 34,
+    "descendants": 0,
+    "time": 1788841585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604405",
+    "title": "Githack: A Persistent Object Store for Lisp Based on Git",
+    "url": "http://funcall.blogspot.com/2026/09/githack-persistent-object-store-for.html",
+    "score": 31,
+    "descendants": 1,
+    "time": 1788828029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605874",
+    "title": "'Global reckoning for big tech': Australia to force opt-out of social algs",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+    "score": 24,
+    "descendants": 3,
+    "time": 1788845573,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606339",
+    "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+    "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+    "score": 23,
+    "descendants": 22,
+    "time": 1788849560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606010",
+    "title": "Do tech billionaires dream of shared abundance? We should probably just tax them",
+    "url": "https://theconversation.com/do-tech-billionaires-dream-of-shared-abundance-we-should-probably-just-tax-them-286658",
+    "score": 23,
+    "descendants": 0,
+    "time": 1788847006,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605222",
+    "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+    "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+    "score": 19,
+    "descendants": 24,
+    "time": 1788836031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604410",
+    "title": "September 2026 Emacs meetup recap [video]",
+    "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
+    "score": 18,
+    "descendants": 1,
+    "time": 1788828045,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49607196",
+    "title": "Please consider running a NTP server in the NTP Pool",
+    "url": "https://dreamstation.systems/personal/ntppool.html",
+    "score": 17,
+    "descendants": 0,
+    "time": 1788855304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605770",
+    "title": "KDE's new Photos app offers a sleek alternative to Gwenview",
+    "url": "https://www.omgubuntu.co.uk/2026/09/kde-photos-app-replace-gwenview",
+    "score": 15,
+    "descendants": 13,
+    "time": 1788844033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604312",
+    "title": "Europe's largest carbon capture facility opens in the Netherlands",
+    "url": "https://www.yara.com/corporate-releases/europes-largest-carbon-capture-facility-officially-inaugurated-at-yara-sluiskil-in-the-netherlands/",
+    "score": 15,
+    "descendants": 9,
+    "time": 1788825985,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605046",
+    "title": "Canada holds first defense talks with China in more than 8 years",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure",
+    "score": 15,
+    "descendants": 5,
+    "time": 1788834305,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604956",
+    "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+    "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+    "score": 14,
+    "descendants": 13,
+    "time": 1788833533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605574",
+    "title": "Australia to opt out of social media algorithms, Albanese confirms",
+    "url": "https://www.smh.com.au/politics/federal/australia-to-opt-out-of-social-media-algorithms-albanese-confirms-20260908-p60vf4.html",
+    "score": 14,
+    "descendants": 9,
+    "time": 1788841224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605122",
+    "title": "Show HN: NYC MapTap – Learn NYC neighborhoods",
+    "url": "https://albertjoseph0.github.io/nyc-maptap/",
+    "score": 12,
+    "descendants": 11,
+    "time": 1788835007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604454",
+    "title": "Super Smash Bros. Melee is 100.00% decompiled",
+    "url": "https://decomp.dev/doldecomp/melee",
+    "score": 11,
+    "descendants": 2,
+    "time": 1788828488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606037",
+    "title": "Magic-mushroom compound blocks a side effect of chemotherapy in mice",
+    "url": "https://www.nature.com/articles/d41586-026-02744-6",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788847192,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605324",
+    "title": "Denzel Explains AI \"Slop\"",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788837293,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605182",
+    "title": "Run an ArchiveTeam Warrior on your computer",
+    "url": "https://tracker.archiveteam.org/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1788835653,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605207",
+    "title": "China Planted 78 Billion New Trees—and Seriously Messed Up Its Water Cycle",
+    "url": "https://www.popularmechanics.com/science/environment/a73385264/china-reforesting-changes-hydrology-study/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1788835888,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606046",
+    "title": "Eiffel Tower employees strike after female staff removed",
+    "url": "https://www.google.com/url?q=https://amp.dw.com/en/eiffel-tower-closed-strike-women-hindu/a-79152603ste-ferme-ce-lundi_64758503.html",
+    "score": 7,
+    "descendants": 4,
+    "time": 1788847294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606122",
+    "title": "Major Math Breakthrough by AI",
+    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+    "score": 7,
+    "descendants": 2,
+    "time": 1788847986,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605503",
+    "title": "Why the Harness Matters More Than the Model [video]",
+    "url": "https://www.youtube.com/watch?v=n9xKblqyQ28",
+    "score": 7,
+    "descendants": 2,
+    "time": 1788840225,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604837",
+    "title": "Vagrant is approaching EOL. No more \"Docker for VMs\"",
+    "url": "https://developer.hashicorp.com/hcp/docs/vagrant/hcp-vagrant-eol",
+    "score": 7,
+    "descendants": 2,
+    "time": 1788832287,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604408",
+    "title": "Why Did Trump Order Up 660M Pounds of Mystery Meat?",
+    "url": "https://www.nytimes.com/2026/09/07/opinion/trump-meat-import.html",
+    "score": 7,
+    "descendants": 2,
+    "time": 1788828035,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606781",
+    "title": "Recursion into Madness",
+    "url": "https://blog.coredump.cx/p/recursion-into-madness",
+    "score": 7,
+    "descendants": 1,
+    "time": 1788852645,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49604319",
+    "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+    "url": "https://www.nature.com/articles/d41586-026-02822-9",
+    "score": 6,
+    "descendants": 1,
+    "time": 1788826027,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49605072",
+    "title": "Show HN: Caveat, a self-hosted publishing and newsletter tool",
+    "url": "https://github.com/CaveatJS",
+    "score": 6,
+    "descendants": 0,
+    "time": 1788834503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49606876",
+    "title": "US attacks UK plans to boost traditional media on social platforms",
+    "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+    "score": 5,
+    "descendants": 2,
+    "time": 1788853274,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49608196",
+    "title": "Be Easy to Leave",
+    "url": "https://codebahn.net/blog/be-easy-to-leave/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1788862227,
+    "source": "hackernews"
+  }
+]
