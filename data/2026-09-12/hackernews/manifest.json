@@ -1,0 +1,398 @@
+[
+  {
+    "hn_id": "49668386",
+    "title": "google.com/goto: Google's anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "score": 464,
+    "descendants": 364,
+    "time": 1789182860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668706",
+    "title": "Navier-Stokes Announcement",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "score": 191,
+    "descendants": 126,
+    "time": 1789186183,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668198",
+    "title": "Pandas Should Go Extinct",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "score": 170,
+    "descendants": 89,
+    "time": 1789180928,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668181",
+    "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+    "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+    "score": 124,
+    "descendants": 23,
+    "time": 1789180779,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667375",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "score": 115,
+    "descendants": 69,
+    "time": 1789173632,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670032",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "score": 108,
+    "descendants": 13,
+    "time": 1789199643,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667762",
+    "title": "How to buy a good car for $1000",
+    "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+    "score": 97,
+    "descendants": 113,
+    "time": 1789177026,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668777",
+    "title": "Usenet rewind archive search engine",
+    "url": "https://www.usenet-rewind.com/",
+    "score": 72,
+    "descendants": 21,
+    "time": 1789186792,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667253",
+    "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+    "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+    "score": 56,
+    "descendants": 41,
+    "time": 1789172676,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667188",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "url": "https://github.com/zachsaw/graphify-csharp",
+    "score": 36,
+    "descendants": 21,
+    "time": 1789172170,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668914",
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "score": 34,
+    "descendants": 1,
+    "time": 1789188403,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669276",
+    "title": "WeWorm: Zero-Click WeChat Worm",
+    "url": "https://calif.io/research/weworm",
+    "score": 29,
+    "descendants": 1,
+    "time": 1789192150,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669001",
+    "title": "macOS defaults list: Incomplete list of macOS defaults commands with demos",
+    "url": "https://macos-defaults.com",
+    "score": 24,
+    "descendants": 0,
+    "time": 1789189443,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667846",
+    "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
+    "url": "https://twitter.com/markchen90/status/2097400166554993041",
+    "score": 20,
+    "descendants": 8,
+    "time": 1789177853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668224",
+    "title": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+    "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
+    "score": 20,
+    "descendants": 6,
+    "time": 1789181191,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670493",
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "score": 19,
+    "descendants": 6,
+    "time": 1789204134,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667360",
+    "title": "A Decade of Hype, 3k Roofs, and One Redirect URL: Tesla Kills the Solar Roof",
+    "url": "https://www.gadgetreview.com/a-decade-of-hype-3000-roofs-and-one-redirect-url-tesla-kills-the-solar-roof",
+    "score": 16,
+    "descendants": 5,
+    "time": 1789173503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667981",
+    "title": "Oracle to Spend an Additional $700M on More Job Cuts",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+    "score": 12,
+    "descendants": 1,
+    "time": 1789179055,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49671135",
+    "title": "Naomi Klein: Extreme wealth has a deranging effect. Turns you into a supremacist",
+    "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
+    "score": 12,
+    "descendants": 0,
+    "time": 1789211338,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669314",
+    "title": "Planck Scale",
+    "url": "https://en.wikipedia.org/wiki/Planck_units",
+    "score": 10,
+    "descendants": 0,
+    "time": 1789192573,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669404",
+    "title": "White House weighs Defense Production Act to expand US oil refining capacity",
+    "url": "https://www.reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1789193551,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667656",
+    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+    "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1789176173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49671043",
+    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+    "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "score": 7,
+    "descendants": 11,
+    "time": 1789210162,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670981",
+    "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+    "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+    "score": 7,
+    "descendants": 2,
+    "time": 1789209543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667990",
+    "title": "Senior Russian banker fired after scathing speech on wartime economy",
+    "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
+    "score": 7,
+    "descendants": 2,
+    "time": 1789179111,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667871",
+    "title": "Mini PC Database",
+    "url": "https://awesomeminipc.com/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1789178039,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670938",
+    "title": "OpenAI 20x Pro subscription plans temporarily unavabilable",
+    "url": "https://twitter.com/marindedix/status/2098721309593120924",
+    "score": 7,
+    "descendants": 1,
+    "time": 1789209204,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669350",
+    "title": "Russian developers used Claude to build 'kamikaze' attack drone software",
+    "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+    "score": 7,
+    "descendants": 1,
+    "time": 1789192977,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668002",
+    "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "score": 7,
+    "descendants": 0,
+    "time": 1789179230,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669161",
+    "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+    "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+    "score": 6,
+    "descendants": 5,
+    "time": 1789191068,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670181",
+    "title": "Why This Author Doesn't Publish Technical Articles Anymore",
+    "url": "https://galratner.substack.com/p/why-i-dont-publish-technical-articles",
+    "score": 6,
+    "descendants": 2,
+    "time": 1789200956,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667957",
+    "title": "Rapidly scaling online storage to serve over 1B ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789178820,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669339",
+    "title": "Show HN: A high-performance, all-in-one extension for managing tabs",
+    "url": "https://chromewebstore.google.com/detail/leotabs-â-tab-manager-swi/heolckkdeandgagkiefggcneodniojhb",
+    "score": 5,
+    "descendants": 3,
+    "time": 1789192891,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49669650",
+    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+    "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1789196236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670699",
+    "title": "Optimizing a Spin-Lock",
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1789206224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670170",
+    "title": "Isaac Asimov's \"Profession\"",
+    "url": "https://en.wikipedia.org/wiki/Profession_(novella)",
+    "score": 5,
+    "descendants": 1,
+    "time": 1789200903,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670587",
+    "title": "Show HN: We built a local-first Android agent. Then Meta launched Muse",
+    "url": "https://creepy.im/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789205163,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49670299",
+    "title": "UAE revises 5GW AI data center plan after Iranian attacks, sources say",
+    "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789202102,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49668364",
+    "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+    "url": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789182617,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667822",
+    "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
+    "url": "https://gwern.net/blog/2024/sydney",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789177605,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667760",
+    "title": "Dopamine Sites Sell Nothing, and People Cannot Get Enough",
+    "url": "https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789177012,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667606",
+    "title": "Mathematicians Confront the AI Apocalypse",
+    "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789175725,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667524",
+    "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+    "url": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789174939,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49667404",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1789173831,
+    "source": "hackernews"
+  }
+]
