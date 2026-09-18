@@ -1,0 +1,444 @@
+[
+  {
+    "hn_id": "49749656",
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "score": 373,
+    "descendants": 159,
+    "time": 1789699644,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49752056",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "score": 268,
+    "descendants": 199,
+    "time": 1789724707,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750152",
+    "title": "Jemalloc 5.4.0",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "score": 196,
+    "descendants": 54,
+    "time": 1789705224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49752041",
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "score": 183,
+    "descendants": 102,
+    "time": 1789724542,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750094",
+    "title": "The scourge of x86 emulation",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "score": 179,
+    "descendants": 36,
+    "time": 1789704588,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749981",
+    "title": "Waymo in Singapore",
+    "url": "https://waymo.com/waymo-in-singapore/",
+    "score": 112,
+    "descendants": 129,
+    "time": 1789703364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749771",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "score": 99,
+    "descendants": 43,
+    "time": 1789700678,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49752422",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "score": 88,
+    "descendants": 15,
+    "time": 1789727728,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749393",
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+    "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "score": 77,
+    "descendants": 17,
+    "time": 1789697059,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748957",
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "score": 68,
+    "descendants": 29,
+    "time": 1789693503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749369",
+    "title": "Minimal Phone 2",
+    "url": "https://minimalcompany.com/",
+    "score": 56,
+    "descendants": 51,
+    "time": 1789696825,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749462",
+    "title": "Pentagon weighs pulling nearly a third of U.S. forces from Europe",
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-weighs-pulling-nearly-third-us-forces-europe-rcna597722",
+    "score": 55,
+    "descendants": 42,
+    "time": 1789697687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748954",
+    "title": "Goose Programming Language",
+    "url": "https://github.com/aardappel/goose/tree/master",
+    "score": 51,
+    "descendants": 63,
+    "time": 1789693494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749171",
+    "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+    "url": "https://askamonk.online",
+    "score": 49,
+    "descendants": 27,
+    "time": 1789695248,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49752279",
+    "title": "Google illegally retains customer data,and I am taking legal action against them",
+    "url": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+    "score": 42,
+    "descendants": 9,
+    "time": 1789726700,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749616",
+    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+    "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+    "score": 41,
+    "descendants": 10,
+    "time": 1789699113,
+    "source": "hackernews"
+  },
+  {
+    "title": "Thinking outside the binding site: Drug molecule makes a square peg fit a round hole",
+    "url": "https://phys.org/news/2026-09-site-drug-molecule-square-peg.html",
+    "reddit_id": "1wjbckv",
+    "score": 38,
+    "num_comments": 1,
+    "date": "2026-09-18T00:35:46",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49752614",
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "score": 37,
+    "descendants": 14,
+    "time": 1789729304,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750694",
+    "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "score": 37,
+    "descendants": 3,
+    "time": 1789711877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749724",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy Culture",
+    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "score": 26,
+    "descendants": 2,
+    "time": 1789700208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749744",
+    "title": "Code Scans",
+    "url": "https://devin.ai/blog/introducing-code-scans",
+    "score": 23,
+    "descendants": 6,
+    "time": 1789700440,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749363",
+    "title": "Ubuntu 26.10 Moves cp, mv and rm Over To Rust Coreutils For 100% Transition",
+    "url": "https://www.phoronix.com/news/Ubuntu-Completes-Rust-Coreutils",
+    "score": 23,
+    "descendants": 1,
+    "time": 1789696782,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749357",
+    "title": "AWS now supports spend limits",
+    "url": "https://docs.aws.amazon.com/accounts/latest/reference/create-spend-limit.html",
+    "score": 18,
+    "descendants": 2,
+    "time": 1789696756,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749019",
+    "title": "Claude Code from Source",
+    "url": "https://claude-code-from-source.com/",
+    "score": 17,
+    "descendants": 4,
+    "time": 1789694044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748684",
+    "title": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
+    "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+    "score": 16,
+    "descendants": 1,
+    "time": 1789691177,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749003",
+    "title": "Hackers Used Anthropic's Claude to Break into OpenAI",
+    "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
+    "score": 15,
+    "descendants": 3,
+    "time": 1789693908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749231",
+    "title": "Unix Was Right. We Made Linux Too Complicated [video]",
+    "url": "https://www.youtube.com/watch?v=wmmsdT93ils",
+    "score": 13,
+    "descendants": 3,
+    "time": 1789695574,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748997",
+    "title": "Jev means structured output is interesting again",
+    "url": "https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again/",
+    "score": 12,
+    "descendants": 0,
+    "time": 1789693859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750806",
+    "title": "I'm an American raising 2 kids in Italy. Parenting here is completely different",
+    "url": "https://www.businessinsider.com/american-raising-kids-in-italy-differences-parenting-abroad-2026-9",
+    "score": 10,
+    "descendants": 3,
+    "time": 1789713162,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750697",
+    "title": "Australia and New Zealand could follow Canada into associated EU membership",
+    "url": "https://www.euronews.com/my-europe/2026/09/17/australia-and-new-zealand-could-follow-canada-into-associated-eu-membership-metsola-tells-",
+    "score": 8,
+    "descendants": 4,
+    "time": 1789711894,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750082",
+    "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
+    "url": "https://arxiv.org/abs/2609.17817",
+    "score": 8,
+    "descendants": 1,
+    "time": 1789704428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748669",
+    "title": "Apprentice: A Slim, Extensible Coding Harness (Written in Common Lisp)",
+    "url": "https://github.com/skarnati20/apprentice",
+    "score": 7,
+    "descendants": 3,
+    "time": 1789691110,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749997",
+    "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "score": 7,
+    "descendants": 1,
+    "time": 1789703631,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749680",
+    "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+    "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1789699834,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749666",
+    "title": "Be alert: targeted attacks on prominent Rustaceans",
+    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1789699726,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49751371",
+    "title": "Has World War III Already Started?",
+    "url": "https://www.nytimes.com/2026/08/25/opinion/has-world-war-iii-already-started.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1789718199,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749454",
+    "title": "Essays of Dario Amodei are why people are worried about artificial intelligence",
+    "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+    "score": 6,
+    "descendants": 1,
+    "time": 1789697589,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749014",
+    "title": "SEC Issues \"Innovation Exemption\" to Facilitate Trading of Tokenized NMS Stock",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+    "score": 6,
+    "descendants": 1,
+    "time": 1789693993,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49751222",
+    "title": "New wild cat species discovered – with only one known living member",
+    "url": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789716770,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750843",
+    "title": "Researchers find way to listen in on headphones from afar",
+    "url": "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789713470,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750788",
+    "title": "'Doom Loop': OpenAI and Microsoft Admits LLMs Are Destroying the Web",
+    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789712928,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750248",
+    "title": "Early Bowie music available to stream for first time",
+    "url": "https://www.bbc.com/news/articles/cm4gj5z9xvnqo",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789706332,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750166",
+    "title": "Liquid Glass adoptions over and100 apps",
+    "url": "https://liquidglassradar.com",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789705404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749634",
+    "title": "Great Tea Race of 1866",
+    "url": "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789699267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49749282",
+    "title": "Tiny e-readers aren't small Kindles. They're a different bet",
+    "url": "https://www.readme.club/news/tiny-e-readers-aren-t-just-small-kindles",
+    "score": 6,
+    "descendants": 0,
+    "time": 1789696021,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49751322",
+    "title": "Altman, Huang: \"trust me; gonna b fine\"; Sanders: \"AI more dangerous than nukes\"",
+    "url": "https://garymarcus.substack.com/p/sam-altman-says-trust-me-jensen-huang",
+    "score": 5,
+    "descendants": 3,
+    "time": 1789717745,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49750505",
+    "title": "How can AI help PDF?",
+    "url": "https://pdf4wcag.com/blog-news/how-can-ai-help-pdf",
+    "score": 5,
+    "descendants": 3,
+    "time": 1789709625,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49748596",
+    "title": "Talk to JEV",
+    "url": "https://jev-grug-chat.mkotlikov.chatgpt.site",
+    "score": 5,
+    "descendants": 3,
+    "time": 1789690591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49751665",
+    "title": "War may be coming. Are we psychologically ready?",
+    "url": "https://www.bbc.com/news/articles/cmn0jke547r5o",
+    "score": 5,
+    "descendants": 2,
+    "time": 1789720740,
+    "source": "hackernews"
+  }
+]
