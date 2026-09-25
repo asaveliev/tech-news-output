@@ -1,0 +1,444 @@
+[
+  {
+    "hn_id": "49841563",
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "url": "https://www.dawo.community/en/",
+    "score": 430,
+    "descendants": 200,
+    "time": 1790323609,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840314",
+    "title": "Goodbye Google",
+    "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+    "score": 206,
+    "descendants": 250,
+    "time": 1790311922,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841285",
+    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "score": 110,
+    "descendants": 41,
+    "time": 1790321265,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839664",
+    "title": "What About Rails?",
+    "url": "https://jardo.dev/what-about-rails",
+    "score": 108,
+    "descendants": 60,
+    "time": 1790304616,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842487",
+    "title": "The Mafia may be keeping fentanyl out of Italy",
+    "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+    "score": 102,
+    "descendants": 110,
+    "time": 1790331620,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842127",
+    "title": "Tech Needs Humanists More",
+    "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+    "score": 71,
+    "descendants": 121,
+    "time": 1790328694,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841115",
+    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "score": 68,
+    "descendants": 16,
+    "time": 1790319826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842270",
+    "title": "Ink and Switch Interactive Homepage",
+    "url": "https://www.inkandswitch.com/",
+    "score": 67,
+    "descendants": 12,
+    "time": 1790329825,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842483",
+    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+    "score": 65,
+    "descendants": 43,
+    "time": 1790331576,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840300",
+    "title": "Jev Based Code Review",
+    "url": "https://github.com/egma-ai/jev-code-reviewer",
+    "score": 42,
+    "descendants": 49,
+    "time": 1790311763,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841893",
+    "title": "Special Projects (2016)",
+    "url": "https://openai.com/index/special-projects/",
+    "score": 38,
+    "descendants": 21,
+    "time": 1790326543,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842707",
+    "title": "Uproar in France over award-winning author accused of using AI",
+    "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+    "score": 30,
+    "descendants": 66,
+    "time": 1790333312,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841309",
+    "title": "Amiga Screens: A Primer",
+    "url": "https://www.datagubbe.se/amscr/",
+    "score": 28,
+    "descendants": 4,
+    "time": 1790321472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49843174",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "score": 26,
+    "descendants": 3,
+    "time": 1790336311,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842788",
+    "title": "Anthropic: The Situation Report",
+    "url": "https://www.anthropic.com/features/ebola-response",
+    "score": 24,
+    "descendants": 9,
+    "time": 1790333948,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49843269",
+    "title": "Platform-Independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "score": 23,
+    "descendants": 3,
+    "time": 1790336826,
+    "source": "hackernews"
+  },
+  {
+    "title": "Mercedes-Benz gets first dibs on ProLogium&amp;#8217;s Gen4 solid-state EV battery cells",
+    "url": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
+    "reddit_id": "1wpmpu2",
+    "score": 23,
+    "num_comments": 2,
+    "date": "2026-09-25T04:15:58",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "49842332",
+    "title": "Topcoat is pushing the boundary of server applications with Rust",
+    "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+    "score": 17,
+    "descendants": 11,
+    "time": 1790330380,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841912",
+    "title": "Show HN: The last day of the dinosaurs, as an interactive painting",
+    "url": "https://www.echohive.ai/experiments/dinosaurs",
+    "score": 16,
+    "descendants": 12,
+    "time": 1790326693,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842596",
+    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "score": 16,
+    "descendants": 0,
+    "time": 1790332378,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842144",
+    "title": "Netanyahu calls Israel's war in Gaza 'opposite of genocide' in UN speech",
+    "url": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+    "score": 15,
+    "descendants": 4,
+    "time": 1790328853,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839672",
+    "title": "Show HN: Avoid smooth spinners, use low-FPS spinners",
+    "url": "https://nh2.me/low-fps-spinners/low-fps-spinners.html",
+    "score": 14,
+    "descendants": 13,
+    "time": 1790304732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839510",
+    "title": "Jev and System One Models: Calibration Beats Accuracy",
+    "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+    "score": 13,
+    "descendants": 11,
+    "time": 1790303061,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839401",
+    "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+    "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
+    "score": 12,
+    "descendants": 3,
+    "time": 1790301884,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49838642",
+    "title": "OpenAI attacked Australia's health system and doubled down. Time to act",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over",
+    "score": 11,
+    "descendants": 1,
+    "time": 1790296033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842084",
+    "title": "Boards of Casio",
+    "url": "https://www.ambionix.com/blog/boards-of-casio/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1790328361,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842394",
+    "title": "Theranos founder reportedly to be transferred to halfway home next year",
+    "url": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
+    "score": 10,
+    "descendants": 0,
+    "time": 1790330822,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839438",
+    "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+    "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1790302267,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49838788",
+    "title": "Paul Graham on LLMs 'Thinking'",
+    "url": "https://twitter.com/paulg/status/2103135915195371973",
+    "score": 8,
+    "descendants": 14,
+    "time": 1790296923,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839546",
+    "title": "Finding bugs you didn't think to test for",
+    "url": "https://www.firezone.dev/blog/finding-bugs-you-didnt-think-to-test-for",
+    "score": 8,
+    "descendants": 2,
+    "time": 1790303398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841704",
+    "title": "Unexplained objects in 1950s sky correlate with nuclear tests and UAP reports",
+    "url": "https://www.nature.com/articles/s41598-025-21620-3",
+    "score": 8,
+    "descendants": 1,
+    "time": 1790324998,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839469",
+    "title": "OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1790302554,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839078",
+    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+    "score": 8,
+    "descendants": 1,
+    "time": 1790299290,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842409",
+    "title": "I wrote a Ray Tracer in Brainfuck",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1790330921,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841103",
+    "title": "The Efficiency-Throughput Gap with GitHub Copilot",
+    "url": "https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/",
+    "score": 7,
+    "descendants": 9,
+    "time": 1790319729,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49843225",
+    "title": "Mdash as a Service",
+    "url": "https://xn--rtj.tsak.dev",
+    "score": 7,
+    "descendants": 2,
+    "time": 1790336616,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841714",
+    "title": "BigQuery FinOps Framework",
+    "url": "https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-framework",
+    "score": 7,
+    "descendants": 1,
+    "time": 1790325059,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840612",
+    "title": "I stopped letting LLMs do arithmetic",
+    "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
+    "score": 7,
+    "descendants": 1,
+    "time": 1790315581,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840568",
+    "title": "Taste Bench",
+    "url": "https://www.omneky.com/tastebench",
+    "score": 7,
+    "descendants": 1,
+    "time": 1790315089,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841703",
+    "title": "SpaceX Pivots Away from Space",
+    "url": "https://www.ft.com/content/0fd15797-ac89-4222-a4bb-03a6a1330f48",
+    "score": 7,
+    "descendants": 0,
+    "time": 1790324970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49841032",
+    "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
+    "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "score": 6,
+    "descendants": 5,
+    "time": 1790319132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840054",
+    "title": "Plan Mode Is Dead",
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "score": 6,
+    "descendants": 4,
+    "time": 1790308751,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839467",
+    "title": "Appliances Should Be Dumb",
+    "url": "https://techrights.org/n/2026/09/24/Appliances_Should_be_Dumb.shtml",
+    "score": 6,
+    "descendants": 4,
+    "time": 1790302528,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840805",
+    "title": "London's schools are running out of children",
+    "url": "https://www.ft.com/content/5b019594-5b20-479a-8549-7b564127eb3f",
+    "score": 6,
+    "descendants": 3,
+    "time": 1790317288,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49840681",
+    "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+    "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+    "score": 6,
+    "descendants": 3,
+    "time": 1790316236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49839230",
+    "title": "Territory claims in Antartica look when Antartica has no ice",
+    "url": "https://blog.willmeye.rs/how-territory-claims-in-antartica-look-when-antartica-has-no-ice/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1790300354,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842808",
+    "title": "The Pentagon wants $30M to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1790334076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842786",
+    "title": "Amazon Illegally 'Bricked' Older Kindle Models, Class Action Suit Claims",
+    "url": "https://www.classaction.org/news/amazon-illegally-bricked-older-kindle-models-class-action-suit-claims",
+    "score": 6,
+    "descendants": 0,
+    "time": 1790333941,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "49842462",
+    "title": "'We didn't need air conditioning': the airport cooled by natural ventilation",
+    "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+    "score": 6,
+    "descendants": 0,
+    "time": 1790331410,
+    "source": "hackernews"
+  }
+]
