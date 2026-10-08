@@ -1,0 +1,463 @@
+[
+  {
+    "hn_id": "50002008",
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "score": 457,
+    "descendants": 440,
+    "time": 1791436454,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003107",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "score": 224,
+    "descendants": 175,
+    "time": 1791446917,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50004790",
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "score": 154,
+    "descendants": 80,
+    "time": 1791460820,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002494",
+    "title": "The people holding up the internet",
+    "url": "https://sheets.works/data-viz/holding-up-the-internet",
+    "score": 144,
+    "descendants": 55,
+    "time": 1791441695,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002426",
+    "title": "Classic PC demoscene productions running natively in the browser",
+    "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+    "score": 127,
+    "descendants": 108,
+    "time": 1791440965,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001580",
+    "title": "A 100x faster* alternative to homebrew",
+    "url": "https://github.com/zerobrewhq/zerobrew",
+    "score": 96,
+    "descendants": 79,
+    "time": 1791429788,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000676",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "score": 94,
+    "descendants": 185,
+    "time": 1791420360,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002650",
+    "title": "OpenAI withdraws three mathematical results",
+    "url": "https://twitter.com/danintheory/status/2108065033070789090",
+    "score": 88,
+    "descendants": 85,
+    "time": 1791443140,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50004777",
+    "title": "Anne Carson wins Nobel Prize in literature 2026",
+    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "score": 74,
+    "descendants": 5,
+    "time": 1791460730,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002665",
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+    "score": 58,
+    "descendants": 18,
+    "time": 1791443254,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005527",
+    "title": "Beauty in DVD Menus",
+    "url": "https://vale.rocks/posts/dvd-menus",
+    "score": 44,
+    "descendants": 18,
+    "time": 1791465721,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005017",
+    "title": "Telnet BBS Guide",
+    "url": "https://www.telnetbbsguide.com/",
+    "score": 42,
+    "descendants": 17,
+    "time": 1791462515,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001608",
+    "title": "Mozilla met with Microsoft to discuss their harmful design practices",
+    "url": "https://www.reddit.com/r/firefox/comments/1wzzk6l/mozilla_met_with_microsoft_to_discuss_their/",
+    "score": 37,
+    "descendants": 7,
+    "time": 1791430124,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002505",
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "url": "https://dat-ecosystem.org/",
+    "score": 32,
+    "descendants": 13,
+    "time": 1791441793,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003677",
+    "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+    "url": "https://www.ahmath.org/statements",
+    "score": 29,
+    "descendants": 31,
+    "time": 1791451788,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50004284",
+    "title": "Open-Source Rust Alternatives to Adobe Apps",
+    "url": "https://getartcraft.com/",
+    "score": 29,
+    "descendants": 28,
+    "time": 1791456910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000431",
+    "title": "100 days later: Microsoft still steers Windows and Copilot users to Edge",
+    "url": "https://blog.mozilla.org/en/mozilla/over-the-edge-2-100-days-later/",
+    "score": 28,
+    "descendants": 6,
+    "time": 1791417987,
+    "source": "hackernews"
+  },
+  {
+    "title": "Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app",
+    "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+    "reddit_id": "1x0qa5k",
+    "score": 23,
+    "num_comments": 1,
+    "date": "2026-10-08T13:00:01",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50004115",
+    "title": "The OLED Burn-In Test: 30-Month Update",
+    "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+    "score": 19,
+    "descendants": 2,
+    "time": 1791455655,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002301",
+    "title": "Will AI kill us all",
+    "url": "https://virev.ai/blog/will-ai-kill-us-all",
+    "score": 17,
+    "descendants": 29,
+    "time": 1791439740,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002249",
+    "title": "Let's Encrypt: 64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "score": 16,
+    "descendants": 0,
+    "time": 1791439281,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000421",
+    "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+    "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
+    "score": 15,
+    "descendants": 14,
+    "time": 1791417883,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002215",
+    "title": "Clojure in the Age of Language Models",
+    "url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+    "score": 13,
+    "descendants": 4,
+    "time": 1791438991,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000600",
+    "title": "Preorder Microsoft Surface RTX Spark Dev Box – Starting at $5,999.99",
+    "url": "https://www.microsoft.com/en-us/store/configure/surface-rtx-spark-dev-box/8wg5vqp0x4gr",
+    "score": 12,
+    "descendants": 10,
+    "time": 1791419547,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000510",
+    "title": "EU drops sponsorship of disinformation conference at Trump officials' request",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
+    "score": 12,
+    "descendants": 0,
+    "time": 1791418753,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003646",
+    "title": "Mumsnet denies using AI for content after prompt appears on message board",
+    "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+    "score": 11,
+    "descendants": 1,
+    "time": 1791451483,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005127",
+    "title": "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude",
+    "url": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
+    "score": 10,
+    "descendants": 7,
+    "time": 1791463166,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001750",
+    "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
+    "url": "https://github.com/dkremsa/claude-pacer",
+    "score": 9,
+    "descendants": 7,
+    "time": 1791432633,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000426",
+    "title": "Bold AI developer takes aim at Adobe with open source clones",
+    "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+    "score": 9,
+    "descendants": 4,
+    "time": 1791417970,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003541",
+    "title": "LSD reconfigs cortex thru faster brain rhythms and increased fractal dimension",
+    "url": "https://www.nature.com/articles/s42003-026-10629-7",
+    "score": 9,
+    "descendants": 3,
+    "time": 1791450615,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002126",
+    "title": "Google no longer accepting product vulnerabilities submitted to the OSS VRP",
+    "url": "https://bughunters.google.com/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules#product-vulnerabilities",
+    "score": 9,
+    "descendants": 2,
+    "time": 1791438058,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005424",
+    "title": "New Linux tech compresses memory in RAM, as RAM, for 452x speedup",
+    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+    "score": 9,
+    "descendants": 1,
+    "time": 1791465101,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001272",
+    "title": "Tensorlake NPM package and repo compromised",
+    "url": "https://github.com/tensorlakeai/tensorlake/issues/1014",
+    "score": 9,
+    "descendants": 1,
+    "time": 1791426232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001627",
+    "title": "The 3dfx Voodoo Turns 30 – interview with cofounder Ross Smith",
+    "url": "https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1791430497,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001002",
+    "title": "SpaceX's recovered Starship after Flight 13 splashdown returns to Texan port",
+    "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/07/spacex-brings-home-first-recovered-starship-to-texas-starbase-flight-13/92137434007/",
+    "score": 8,
+    "descendants": 3,
+    "time": 1791423394,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003045",
+    "title": "Most Recycling Is a Waste",
+    "url": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1",
+    "score": 8,
+    "descendants": 1,
+    "time": 1791446330,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001197",
+    "title": "The mysterious pneumonia in Russia deserves attention, not panic",
+    "url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1791425389,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000414",
+    "title": "Amazon employees hit by fresh job cuts across several teams",
+    "url": "https://www.businessinsider.com/amazon-layoffs-hit-hundreds-of-employees-across-multiple-teams-2026-10",
+    "score": 8,
+    "descendants": 0,
+    "time": 1791417823,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000668",
+    "title": "2/3rds of MiMo v2.6's Coding Tasks Leak the Answer. Is Exploiting It Cheating?",
+    "url": "https://www.vals.ai/blogs/mimo-reward-hacking",
+    "score": 7,
+    "descendants": 2,
+    "time": 1791420270,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50003438",
+    "title": "EU, Canada and Lithuania pull out of disinformation conference after US pressure",
+    "url": "https://www.politico.com/news/2026/10/07/disinformation-conference-europe-us-pressure-01111134",
+    "score": 7,
+    "descendants": 1,
+    "time": 1791449672,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50004061",
+    "title": "\"I think I found a planet nobody knew existed. I used Claude Code to find it\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
+    "score": 6,
+    "descendants": 7,
+    "time": 1791455041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001532",
+    "title": "Paper Mono Typeface",
+    "url": "https://paper.design/mono",
+    "score": 6,
+    "descendants": 6,
+    "time": 1791429224,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001843",
+    "title": "The state of the tech industry in 2026",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+    "score": 6,
+    "descendants": 3,
+    "time": 1791434082,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001667",
+    "title": "The Science That Has Oil Companies Running Scared",
+    "url": "https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html",
+    "score": 6,
+    "descendants": 2,
+    "time": 1791431122,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005079",
+    "title": "It's Probably Time to Start Worrying About the 4G LTE Shutdown Bricking Cars",
+    "url": "https://www.thedrive.com/news/its-probably-time-to-start-worrying-about-the-4g-lte-shutdown-bricking-cars",
+    "score": 6,
+    "descendants": 1,
+    "time": 1791462877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002527",
+    "title": "Disruption to the network of Russian internet and cloud giant Yandex",
+    "url": "https://twitter.com/netblocks/status/2108002325143118018",
+    "score": 6,
+    "descendants": 1,
+    "time": 1791442028,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50002419",
+    "title": "AI Crawler Index",
+    "url": "https://mojodojo.io/ai-crawler-index",
+    "score": 6,
+    "descendants": 1,
+    "time": 1791440763,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50001787",
+    "title": "Rabbit Waves",
+    "url": "https://rabbitwaves.ca/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1791433281,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50000488",
+    "title": "Why Isn't the Industry Freaking Out About DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1791418488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50005719",
+    "title": "Calling a function in C without naming it",
+    "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1791466936,
+    "source": "hackernews"
+  },
+  {
+    "title": "The future of touch input? HydroHaptics uses fluid-filled chambers for natural, adaptive feedback",
+    "url": "https://www.techspot.com/news/109832-future-touch-input-hydrohaptics-uses-fluid-filled-chambers.html",
+    "reddit_id": "1x0ra9i",
+    "score": 3,
+    "num_comments": 0,
+    "date": "2026-10-08T13:43:17",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
