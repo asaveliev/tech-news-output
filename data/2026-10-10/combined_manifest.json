@@ -1,0 +1,444 @@
+[
+  {
+    "hn_id": "50028275",
+    "title": "REA Reverse – Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 507,
+    "descendants": 218,
+    "time": 1791592627,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029123",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "score": 237,
+    "descendants": 123,
+    "time": 1791601367,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031269",
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "score": 211,
+    "descendants": 129,
+    "time": 1791625909,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029630",
+    "title": "Lobbying",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+    "score": 170,
+    "descendants": 67,
+    "time": 1791607236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029982",
+    "title": "Computers Cannot Make Decisions",
+    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+    "score": 137,
+    "descendants": 114,
+    "time": 1791611266,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031653",
+    "title": "Apple/macOS silently removed from official Unix registry",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "score": 77,
+    "descendants": 70,
+    "time": 1791629851,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031614",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "score": 72,
+    "descendants": 29,
+    "time": 1791629529,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50032556",
+    "title": "Lobbying Is Corruption",
+    "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+    "score": 70,
+    "descendants": 21,
+    "time": 1791637558,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029830",
+    "title": "Food processing influences metabolism and brain activity",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "score": 67,
+    "descendants": 60,
+    "time": 1791609750,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029452",
+    "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+    "score": 49,
+    "descendants": 9,
+    "time": 1791605057,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50032064",
+    "title": "LLMs Aren't Inevitable",
+    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+    "score": 32,
+    "descendants": 47,
+    "time": 1791633844,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029330",
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+    "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+    "score": 28,
+    "descendants": 7,
+    "time": 1791603731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029681",
+    "title": "If AI is conscient, then we are making slaves",
+    "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+    "score": 27,
+    "descendants": 75,
+    "time": 1791607886,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028855",
+    "title": "Next.js 16.4",
+    "url": "https://nextjs.org/blog/next-16-4",
+    "score": 25,
+    "descendants": 25,
+    "time": 1791598424,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028982",
+    "title": "Put a price on breakthroughs",
+    "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+    "score": 25,
+    "descendants": 6,
+    "time": 1791599867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029232",
+    "title": "Data centre company's much-hyped Australian stock market listing imploded",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-australian-stock-market-listing-bust-finance",
+    "score": 20,
+    "descendants": 0,
+    "time": 1791602589,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028162",
+    "title": "How Strong Is the Strong Force?",
+    "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+    "score": 16,
+    "descendants": 1,
+    "time": 1791591196,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028121",
+    "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "score": 16,
+    "descendants": 1,
+    "time": 1791590828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029607",
+    "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+    "url": "https://ilia.page/writing/introducing-nagare",
+    "score": 14,
+    "descendants": 14,
+    "time": 1791607033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029609",
+    "title": "Software's centaur age may last decades",
+    "url": "https://www.seangoedecke.com/softwares-centaur-age-may-last-decades/",
+    "score": 14,
+    "descendants": 5,
+    "time": 1791607056,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029487",
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 14,
+    "descendants": 4,
+    "time": 1791605546,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031438",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+    "score": 13,
+    "descendants": 6,
+    "time": 1791627824,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028283",
+    "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
+    "url": "https://yeahnah.lol/",
+    "score": 12,
+    "descendants": 3,
+    "time": 1791592698,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029951",
+    "title": "Ubuntu now has official desktop images for RISC-V",
+    "url": "https://www.omgubuntu.co.uk/2026/10/ubuntu-desktop-riscv-iso",
+    "score": 9,
+    "descendants": 0,
+    "time": 1791610938,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028264",
+    "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+    "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1791592474,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030806",
+    "title": "Helium Terminal – A tiny macOS terminal for coding agents, built on libghostty",
+    "url": "https://helium-terminal.bensarmiento.com/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1791620041,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028239",
+    "title": "Investigating unintended model actions in our evaluations and internal use",
+    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "score": 8,
+    "descendants": 2,
+    "time": 1791592108,
+    "source": "hackernews"
+  },
+  {
+    "title": "Tattoos could be turned on and off with light | New Scientist",
+    "url": "https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/",
+    "reddit_id": "1x2bh26",
+    "score": 8,
+    "num_comments": 0,
+    "date": "2026-10-10T09:59:32",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50029389",
+    "title": "Ethernet switch device driver model (switchdev)",
+    "url": "https://docs.kernel.org/networking/switchdev.html",
+    "score": 7,
+    "descendants": 2,
+    "time": 1791604476,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50032758",
+    "title": "I Would Like the Value of My Home to Rise, While My Property Taxes Fall",
+    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1791638943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031156",
+    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+    "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1791624603,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030988",
+    "title": "Show HN: Save photo, video, and audio from websites in one step",
+    "url": "https://menura.download",
+    "score": 7,
+    "descendants": 0,
+    "time": 1791622441,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028796",
+    "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
+    "url": "https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1791597898,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028441",
+    "title": "1.7B-year-old fossils reveal a crucial clue to the rise of complex life",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+    "score": 7,
+    "descendants": 0,
+    "time": 1791594149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030778",
+    "title": "Anthropic can't reliably control its AI agents, cuts internet access",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1791619640,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030717",
+    "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1791618910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028898",
+    "title": "Teenage Engineering will stop making synths to focus on whatever it feels like",
+    "url": "https://www.engadget.com/2280912/teenage-engineering-will-stop-making-synths-to-focus-on-whatever-else-it-wants-to-do/",
+    "score": 6,
+    "descendants": 3,
+    "time": 1791598855,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50032530",
+    "title": "What's New in MongoDB 9.0? Query Settings, Validation, and Resource Limits",
+    "url": "https://visualeaf.com/blog/mongodb-9-0-whats-new/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1791637348,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50029202",
+    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1791602208,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028928",
+    "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+    "score": 5,
+    "descendants": 4,
+    "time": 1791599173,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028431",
+    "title": "Should I Hire a Dev or Can I Vibecode This?",
+    "url": "https://vibecodeornot.pixlw.com/",
+    "score": 5,
+    "descendants": 3,
+    "time": 1791594091,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50032374",
+    "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+    "url": "https://maplehill.openwants.com/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1791636145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031878",
+    "title": "Elisha Wiesel: The Death of the Nobel Peace Prize",
+    "url": "https://www.thefp.com/p/elie-wiesel-death-nobel-peace-prize-israel",
+    "score": 5,
+    "descendants": 2,
+    "time": 1791632151,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50031926",
+    "title": "Show HN: Pre Python 3.15 PEP 661 compat-sentinel",
+    "url": "https://pypi.org/project/compat-sentinel/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791632617,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030893",
+    "title": "OpenAI's New ChatGPT Watermark Breaks If You Edit One Word in Four",
+    "url": "https://rews.cc/a/openai-s-new-chatgpt-watermark-breaks-if-you-edit-one-word-i-37eb4a",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791621157,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030856",
+    "title": "I earned $100 from premium subscription of this extension in 30 days",
+    "url": "https://chromewebstore.google.com/detail/digital-shield-tab-suspen/pkonihncnkmbejhhjadaognganhinnhc",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791620710,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030849",
+    "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+    "url": "https://opencomponents.dev/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791620645,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50030011",
+    "title": "Vec1: Native vector search (ANN) in SQLite",
+    "url": "https://sqlite.org/vec1/doc/trunk/doc/vec1.md",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791611554,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50028365",
+    "title": "Anthropic Model Submitted a False Homicide Tip to Philadelphia Police",
+    "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1791593569,
+    "source": "hackernews"
+  }
+]
