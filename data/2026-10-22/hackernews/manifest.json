@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "50190363",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "score": 318,
+    "descendants": 97,
+    "time": 1792635521,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190455",
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "score": 232,
+    "descendants": 177,
+    "time": 1792636252,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192900",
+    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "score": 222,
+    "descendants": 61,
+    "time": 1792659091,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192536",
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "score": 198,
+    "descendants": 57,
+    "time": 1792656112,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50191507",
+    "title": "OpenAI CLI",
+    "url": "https://github.com/openai/openai-cli",
+    "score": 165,
+    "descendants": 83,
+    "time": 1792646591,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190168",
+    "title": "Epic Games Inc v Apple Inc",
+    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+    "score": 161,
+    "descendants": 122,
+    "time": 1792633923,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193804",
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "score": 89,
+    "descendants": 19,
+    "time": 1792667557,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193170",
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "score": 87,
+    "descendants": 17,
+    "time": 1792661478,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189801",
+    "title": "Tesla profits drop 43% in Q3",
+    "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+    "score": 74,
+    "descendants": 38,
+    "time": 1792630943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50194009",
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "score": 61,
+    "descendants": 73,
+    "time": 1792669323,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190959",
+    "title": "I can't believe PowerShell is good",
+    "url": "https://www.spacebar.news/powershell-is-actually-good/",
+    "score": 58,
+    "descendants": 70,
+    "time": 1792640857,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192254",
+    "title": "A Markdown File Should Just Open",
+    "url": "https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/",
+    "score": 58,
+    "descendants": 62,
+    "time": 1792653712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190357",
+    "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+    "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "score": 55,
+    "descendants": 7,
+    "time": 1792635478,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50194070",
+    "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+    "score": 47,
+    "descendants": 3,
+    "time": 1792669836,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192868",
+    "title": "Achieving AI-style reasoning without an LLM",
+    "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "score": 43,
+    "descendants": 26,
+    "time": 1792658818,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189666",
+    "title": "The era of speedball capitalism",
+    "url": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+    "score": 31,
+    "descendants": 19,
+    "time": 1792630090,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190334",
+    "title": "LLM agents play Pokemon showdown",
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "score": 29,
+    "descendants": 15,
+    "time": 1792635228,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189978",
+    "title": "Data centers could erase decades of air quality gains",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "score": 27,
+    "descendants": 1,
+    "time": 1792632494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193010",
+    "title": "Cloudflare is rewriting everything in Rust",
+    "url": "https://kerkour.com/rust-at-cloudflare",
+    "score": 17,
+    "descendants": 4,
+    "time": 1792659897,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190525",
+    "title": "Sexy, texts back, and is into your job? You might be dating a spy",
+    "url": "https://sfstandard.com/2026/10/18/dating-a-spy-corporate-espionage/",
+    "score": 16,
+    "descendants": 3,
+    "time": 1792636948,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192098",
+    "title": "\"Ignore the Slop\"",
+    "url": "https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/",
+    "score": 15,
+    "descendants": 3,
+    "time": 1792652414,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193581",
+    "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "score": 13,
+    "descendants": 9,
+    "time": 1792665646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50191944",
+    "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "score": 13,
+    "descendants": 6,
+    "time": 1792650816,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193579",
+    "title": "I own a relatively new (2025) Samsung TV. I kept getting weirdly targeted ads",
+    "url": "https://twitter.com/log4j/status/2113014142600953868",
+    "score": 13,
+    "descendants": 1,
+    "time": 1792665633,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192396",
+    "title": "A Lost Schrödinger Manuscript Reveals a Surprising Twist in Quantum Physics",
+    "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+    "score": 12,
+    "descendants": 3,
+    "time": 1792654889,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192733",
+    "title": "Node.js security advisory: Brotli decoder RCE (CVE-2026-111497)",
+    "url": "https://vercel.com/kb/bulletin/node-js-security-advisory",
+    "score": 11,
+    "descendants": 1,
+    "time": 1792657646,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189802",
+    "title": "LiteLLM Security Update",
+    "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+    "score": 11,
+    "descendants": 1,
+    "time": 1792630947,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192832",
+    "title": "Barclays cutting 5k jobs as it increases reliance on AI",
+    "url": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
+    "score": 10,
+    "descendants": 2,
+    "time": 1792658602,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192899",
+    "title": "Poland says social media firms are 'silent ally' of Russia, threatens fines",
+    "url": "https://www.reuters.com/technology/poland-says-social-media-firms-are-silent-ally-russia-threatens-fines-2026-10-21/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1792659083,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50191177",
+    "title": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+    "url": "https://apnews.com/article/africa-ebola-congo-nigeria-abuja-virus-03b6388f86e305fad711606f22c6577f",
+    "score": 10,
+    "descendants": 1,
+    "time": 1792643264,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190052",
+    "title": "New World screwworm cases confirmed in wildlife in Texas, beef cow in New Mexico",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1792633038,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190198",
+    "title": "Milwaukee Brewers renege on golden tickets sold in 2016",
+    "url": "https://twitter.com/emilymaeheller/status/2112719895519514992",
+    "score": 9,
+    "descendants": 6,
+    "time": 1792634156,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192419",
+    "title": "Node.js: 5 vulnerabilities found, update now",
+    "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "score": 9,
+    "descendants": 2,
+    "time": 1792655102,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50191129",
+    "title": "Meta strikes deal to protect Zuckerberg from California billionaire tax",
+    "url": "https://finance.yahoo.com/media-advertising/articles/meta-hit-record-25bn-penalty-200405974.html",
+    "score": 9,
+    "descendants": 1,
+    "time": 1792642826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50194138",
+    "title": "Trump Asked Google to Rename Atlantic Ocean 'Trump Ocean'",
+    "url": "https://www.newsweek.com/trump-asked-google-rename-atlantic-trump-ocean-12603389",
+    "score": 9,
+    "descendants": 0,
+    "time": 1792670299,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192585",
+    "title": "Show HN: The fastest browser for AI agents to run browser automation",
+    "url": "https://ego-lite.apposters.com",
+    "score": 9,
+    "descendants": 0,
+    "time": 1792656562,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192223",
+    "title": "AI Agent Observability with OpenTelemetry",
+    "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+    "score": 9,
+    "descendants": 0,
+    "time": 1792653426,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193524",
+    "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
+    "url": "https://theedgemalaysia.com/node/822195",
+    "score": 8,
+    "descendants": 4,
+    "time": 1792665133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50192140",
+    "title": "Claude Code install script is down",
+    "url": "https://downloads.claude.ai/claude-code-releases/bootstrap.sh",
+    "score": 7,
+    "descendants": 0,
+    "time": 1792652749,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189696",
+    "title": "The Huawei-DeepSeek Symbiosis",
+    "url": "https://newsletter.semianalysis.com/p/huawei-deepseek",
+    "score": 7,
+    "descendants": 0,
+    "time": 1792630242,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189981",
+    "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+    "url": "https://sourceforge.net/projects/zac-os-9/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1792632507,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50194089",
+    "title": "Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+    "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792669945,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50194066",
+    "title": "\"Flying Tesla is just another Lie\" [TopCars TV] [video]",
+    "url": "https://www.youtube.com/watch?v=SY6OhPs3ltM",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792669800,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50191904",
+    "title": "AI revealed 400 years of seafaring history",
+    "url": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792650494,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190994",
+    "title": "Learn Calculus by Coding in Python – Ed Pratowski (2025)",
+    "url": "https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792641275,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50189936",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+    "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792632179,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50190546",
+    "title": "Iran threatens to cut Hormuz internet cables",
+    "url": "https://www.telegraph.co.uk/world-news/2026/10/20/iran-threatens-cut-hormuz-internet-cables/",
+    "score": 5,
+    "descendants": 4,
+    "time": 1792637206,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50193057",
+    "title": "Show HN: The Internet Is on Fire",
+    "url": "https://kuber.studio/internetonfire/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1792660270,
+    "source": "hackernews"
+  }
+]
