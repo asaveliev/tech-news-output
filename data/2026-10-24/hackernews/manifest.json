@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "50217500",
+    "title": "Twelve years of distributed SQLite",
+    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "score": 228,
+    "descendants": 35,
+    "time": 1792804618,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218633",
+    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "score": 216,
+    "descendants": 60,
+    "time": 1792820997,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218430",
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "score": 195,
+    "descendants": 63,
+    "time": 1792817398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217495",
+    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+    "score": 171,
+    "descendants": 42,
+    "time": 1792804514,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218195",
+    "title": "How close can pure functional programming get to C?",
+    "url": "https://rtfeldman.com/fp-vs-c",
+    "score": 141,
+    "descendants": 23,
+    "time": 1792813434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217683",
+    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "score": 109,
+    "descendants": 23,
+    "time": 1792806790,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219666",
+    "title": "I Don't Understand Quantum Physics (2018)",
+    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+    "score": 91,
+    "descendants": 55,
+    "time": 1792835606,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217903",
+    "title": "Apple Security Research Device",
+    "url": "https://security.apple.com/research-device/",
+    "score": 82,
+    "descendants": 34,
+    "time": 1792809398,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217587",
+    "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+    "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+    "score": 64,
+    "descendants": 79,
+    "time": 1792805749,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217946",
+    "title": "How Block Blast harvests its players for ad money",
+    "url": "https://ayoships.com/breakdowns/block-blast",
+    "score": 59,
+    "descendants": 25,
+    "time": 1792809823,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217600",
+    "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+    "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+    "score": 50,
+    "descendants": 6,
+    "time": 1792805848,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219186",
+    "title": "ThinkRail from JetBrains",
+    "url": "https://thinkrail.ai/",
+    "score": 43,
+    "descendants": 55,
+    "time": 1792829322,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218404",
+    "title": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
+    "url": "https://symby.com/news?_cid=101605177&preferredLanguage=en",
+    "score": 36,
+    "descendants": 14,
+    "time": 1792816930,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219177",
+    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+    "score": 33,
+    "descendants": 16,
+    "time": 1792829199,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218277",
+    "title": "Indian government sites are serving revoked eMudhra certificates",
+    "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+    "score": 31,
+    "descendants": 17,
+    "time": 1792814702,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50220204",
+    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+    "score": 20,
+    "descendants": 0,
+    "time": 1792840734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218013",
+    "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+    "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+    "score": 16,
+    "descendants": 8,
+    "time": 1792810843,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217208",
+    "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+    "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+    "score": 16,
+    "descendants": 0,
+    "time": 1792801937,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218553",
+    "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
+    "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1792819623,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218126",
+    "title": "The Anger Machine (Joan Kirner Social Justice Oration 2026)",
+    "url": "https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026",
+    "score": 9,
+    "descendants": 2,
+    "time": 1792812503,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218141",
+    "title": "CowAgent – Open-Source Super AI Assistant",
+    "url": "https://cowagent.ai/en/",
+    "score": 8,
+    "descendants": 2,
+    "time": 1792812767,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50220145",
+    "title": "Node.js Vulnerability Blog",
+    "url": "https://nodejs.org/en/blog/vulnerability",
+    "score": 8,
+    "descendants": 1,
+    "time": 1792840127,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218693",
+    "title": "The Fall of Scientific American",
+    "url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1792821810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218536",
+    "title": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East",
+    "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/",
+    "score": 8,
+    "descendants": 0,
+    "time": 1792819331,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217011",
+    "title": "SpaceX in Talks to Access 80k Cell Sites for Wireless Network",
+    "url": "https://finance.yahoo.com/technology/articles/spacex-talks-access-80-000-213142634.html",
+    "score": 8,
+    "descendants": 0,
+    "time": 1792800166,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219588",
+    "title": "US-Israeli browser startup valued at $6.4B",
+    "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+    "score": 7,
+    "descendants": 3,
+    "time": 1792834722,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218214",
+    "title": "Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
+    "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+    "score": 7,
+    "descendants": 2,
+    "time": 1792813844,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218743",
+    "title": "That AI Temptation",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+    "score": 6,
+    "descendants": 2,
+    "time": 1792822719,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218285",
+    "title": "Hitler's Eagle's Nest retreat 'completely ablaze'",
+    "url": "https://www.telegraph.co.uk/world-news/2026/10/24/fire-hitler-eagles-nest-germany/",
+    "score": 6,
+    "descendants": 2,
+    "time": 1792814805,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218593",
+    "title": "Unspoken rules of Japanese body language",
+    "url": "https://www.bbc.com/travel/article/20261022-six-gestures-to-learn-before-travelling-to-japan",
+    "score": 6,
+    "descendants": 1,
+    "time": 1792820384,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217865",
+    "title": "Anthropic employee tells students their careers may not exist by graduation",
+    "url": "https://twitter.com/cheaf25master/status/2113261574194659368",
+    "score": 6,
+    "descendants": 1,
+    "time": 1792808867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218456",
+    "title": "Elon Musk Invests $1B in Skydance (New Paramount/Warner Bros Discovery)",
+    "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+    "score": 6,
+    "descendants": 0,
+    "time": 1792817877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217557",
+    "title": "Brotli Decoder Vulnerability",
+    "url": "https://patchtheplanet.org/brotli",
+    "score": 5,
+    "descendants": 2,
+    "time": 1792805327,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50220062",
+    "title": "Telstra ends Australia's long RCS wait",
+    "url": "https://itwire.com/it-industry-news/telecoms-and-nbn/telstra-ends-australias-long-rcs-wait-android-from-16-november-iphone-after-decembers-ios-update",
+    "score": 5,
+    "descendants": 1,
+    "time": 1792839322,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218393",
+    "title": "Who will become the new mathematicians of Math 2.0?",
+    "url": "https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1792816654,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218050",
+    "title": "EU Member States approve \"digital expropriation\" for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "score": 5,
+    "descendants": 1,
+    "time": 1792811411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218869",
+    "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes",
+    "url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1792824867,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218333",
+    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1792815441,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217064",
+    "title": "How nervous are bond markets about France?",
+    "url": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+    "score": 5,
+    "descendants": 0,
+    "time": 1792800687,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219565",
+    "title": "\"I no longer think we're gonna be able to just patch all the bugs\" – Sam Altman",
+    "url": "https://twitter.com/ns123abc/status/2113315758247747884",
+    "score": 4,
+    "descendants": 1,
+    "time": 1792834424,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218950",
+    "title": "Samsung TV on-device AI listening, using soundbar's mic if the TV has none",
+    "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1792826032,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218078",
+    "title": "Black October",
+    "url": "https://mili.dev/writing/black-october/",
+    "score": 4,
+    "descendants": 1,
+    "time": 1792811813,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217603",
+    "title": "A visual introduction to information theory",
+    "url": "https://arxiv.org/abs/2206.07867",
+    "score": 4,
+    "descendants": 1,
+    "time": 1792805881,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50217568",
+    "title": "The anti-AI writing police are everywhere. What are they looking for?",
+    "url": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
+    "score": 4,
+    "descendants": 1,
+    "time": 1792805466,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50220138",
+    "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+    "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+    "score": 4,
+    "descendants": 0,
+    "time": 1792840036,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50219343",
+    "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+    "score": 4,
+    "descendants": 0,
+    "time": 1792831497,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218965",
+    "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+    "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+    "score": 4,
+    "descendants": 0,
+    "time": 1792826202,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50218461",
+    "title": "Volkswagen's best-seller has gone electric, will replace the ID.4 and ID.5",
+    "url": "https://electrek.co/2026/10/09/volkswagens-best-seller-goes-ev-replace-id-4-images/",
+    "score": 4,
+    "descendants": 0,
+    "time": 1792818000,
+    "source": "hackernews"
+  }
+]
