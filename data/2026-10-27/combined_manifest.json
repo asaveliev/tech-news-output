@@ -1,0 +1,418 @@
+[
+  {
+    "hn_id": "50255298",
+    "title": "The Mythical Man-Month in the Age of AI",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "score": 251,
+    "descendants": 169,
+    "time": 1793082337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256985",
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "score": 222,
+    "descendants": 147,
+    "time": 1793096870,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256738",
+    "title": "I will no longer upload to NEW",
+    "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "score": 157,
+    "descendants": 68,
+    "time": 1793095145,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50257548",
+    "title": "Software may be getting worse, but it used to be horrible",
+    "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "score": 112,
+    "descendants": 84,
+    "time": 1793100635,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253529",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "score": 107,
+    "descendants": 27,
+    "time": 1793063704,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50257419",
+    "title": "Python's experimental JIT to be removed",
+    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "score": 94,
+    "descendants": 33,
+    "time": 1793099877,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253939",
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "score": 90,
+    "descendants": 59,
+    "time": 1793067310,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50257325",
+    "title": "AI promised less work. I've never worked more",
+    "url": "https://oioannou.com/blog/ai-promised-less-work/",
+    "score": 86,
+    "descendants": 62,
+    "time": 1793099294,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254836",
+    "title": "There are now 5 inference providers for abliterated DeepSeek",
+    "url": "https://allmodels.io/llm/abliterated",
+    "score": 84,
+    "descendants": 90,
+    "time": 1793076832,
+    "source": "hackernews"
+  },
+  {
+    "title": "Proton is reportedly going to “re-interview” employees and ask about their AI use.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018964/proton-is-reportedly-going-to-re-interview-employees-and-ask-about-their-ai-use",
+    "reddit_id": "1xglvb3",
+    "score": 84,
+    "num_comments": 11,
+    "date": "2026-10-27T07:17:57",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50257326",
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "score": 79,
+    "descendants": 35,
+    "time": 1793099295,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255177",
+    "title": "Writing about pratt parsing so I remember it",
+    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "score": 54,
+    "descendants": 6,
+    "time": 1793080943,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254935",
+    "title": "UK to charge universities $1,200 per international student",
+    "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+    "score": 49,
+    "descendants": 52,
+    "time": 1793077988,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253630",
+    "title": "The 'Buy, Borrow and Die' Wealth Strategy Has Become a $5T Market",
+    "url": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d",
+    "score": 48,
+    "descendants": 13,
+    "time": 1793064608,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256952",
+    "title": "Gforth 1.0",
+    "url": "https://gforth.org/manual/1.0/NEWS.html",
+    "score": 47,
+    "descendants": 3,
+    "time": 1793096601,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256230",
+    "title": "AI is ruining haunted houses",
+    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+    "score": 41,
+    "descendants": 78,
+    "time": 1793091033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253750",
+    "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale'",
+    "url": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
+    "score": 40,
+    "descendants": 10,
+    "time": 1793065775,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255346",
+    "title": "“AI Skills” are worthless in 2026",
+    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+    "score": 37,
+    "descendants": 17,
+    "time": 1793082814,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255406",
+    "title": "A simplified proof of ETH is False [pdf]",
+    "url": "https://shivakintali.github.io/papers/ETH.pdf",
+    "score": 27,
+    "descendants": 9,
+    "time": 1793083530,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254383",
+    "title": "Micron Taiwan increasing salaries for factory workers by 2.7X",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5619258",
+    "score": 23,
+    "descendants": 9,
+    "time": 1793071428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253512",
+    "title": "Initial Support for the Apple M4 and Apple A18 Pro Make It into Linux 7.4",
+    "url": "https://www.phoronix.com/news/Linux-7.4-SoCs",
+    "score": 20,
+    "descendants": 1,
+    "time": 1793063583,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255159",
+    "title": "Anthropic's Disproof of the ETH",
+    "url": "https://hexagonmath.org/2610.00577v1",
+    "score": 16,
+    "descendants": 3,
+    "time": 1793080739,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253320",
+    "title": "In China, the AI bubble has already burst",
+    "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+    "score": 14,
+    "descendants": 0,
+    "time": 1793061863,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256725",
+    "title": "Show HN: Hatamoto batteries-included CMS in Go",
+    "url": "https://hatamoto.dev/",
+    "score": 11,
+    "descendants": 9,
+    "time": 1793095044,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253172",
+    "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
+    "url": "https://www.bbc.com/news/articles/cv0ldjzg9xppo",
+    "score": 11,
+    "descendants": 3,
+    "time": 1793060874,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253664",
+    "title": "Chinese research vessels loiter near undersea cables more than any other nation",
+    "url": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
+    "score": 11,
+    "descendants": 0,
+    "time": 1793064895,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50258521",
+    "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "score": 10,
+    "descendants": 4,
+    "time": 1793106067,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254255",
+    "title": "Pentagon orders bases to plan for 90 days without the grid",
+    "url": "https://fortune.com/2026/10/26/pentagon-fortress-bases-90-days-off-grid-uk-be-ready-stockpile/",
+    "score": 10,
+    "descendants": 4,
+    "time": 1793070149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50257448",
+    "title": "Microsoft offers to buy out a quarter of its workforce",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+    "score": 9,
+    "descendants": 1,
+    "time": 1793100027,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50257619",
+    "title": "Microsoft Office 2021 Perpetual License Disabled After Software Update",
+    "url": "https://learn.microsoft.com/en-us/answers/questions/6048787/microsoft-office-2021-perpetual-license-disabled-a",
+    "score": 7,
+    "descendants": 5,
+    "time": 1793101068,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253759",
+    "title": "AI Science vs. Human Science",
+    "url": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
+    "score": 7,
+    "descendants": 5,
+    "time": 1793065864,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255258",
+    "title": "ICE plan to buy robot dogs spurs protest from Boston Dynamics employees",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1793081982,
+    "source": "hackernews"
+  },
+  {
+    "title": "Apple adds five new languages to Siri AI, but EU users remain left out",
+    "url": "https://www.neowin.net/news/apple-adds-five-new-languages-to-siri-ai-but-eu-users-remain-left-out/",
+    "reddit_id": "1xgo9um",
+    "score": 7,
+    "num_comments": 2,
+    "date": "2026-10-27T09:53:48",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50254670",
+    "title": "AI and the Collapse of Capitalism",
+    "url": "https://jasonpolak.substack.com/p/ai-and-the-collapse-of-capitalism",
+    "score": 6,
+    "descendants": 4,
+    "time": 1793074809,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256169",
+    "title": "Police Pulling People over Because AI Deems Their Driving Patterns Suspicious",
+    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+    "score": 6,
+    "descendants": 2,
+    "time": 1793090561,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254116",
+    "title": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "score": 6,
+    "descendants": 1,
+    "time": 1793068735,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50253325",
+    "title": "Meaning After an AI Eucatastrophe",
+    "url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
+    "score": 6,
+    "descendants": 0,
+    "time": 1793061916,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254386",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "score": 5,
+    "descendants": 3,
+    "time": 1793071432,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256421",
+    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Reviewers found a race",
+    "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+    "score": 5,
+    "descendants": 2,
+    "time": 1793092500,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255057",
+    "title": "Qwen Phoning Home",
+    "url": "https://venturebeat.com/data/coheres-test-caught-an-open-source-qwen3-8-model-trying-to-phone-home-to-china-what-enterprises-should-know",
+    "score": 5,
+    "descendants": 2,
+    "time": 1793079393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50255285",
+    "title": "ChatGPT leaked users' data, and nobody hacked it",
+    "url": "https://trustboundarystudio.com/posts/chatgpt-redis-leak-2023/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1793082216,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254941",
+    "title": "Walter Koenig, actor who played Chekov on original \"Star Trek\" series, dies",
+    "url": "https://www.cbsnews.com/news/walter-koenig-dies-age-90-chekov-star-trek/",
+    "score": 5,
+    "descendants": 1,
+    "time": 1793078007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50256605",
+    "title": "Alibaba's Qwen3.8-Flash-Next model tried to upload a file to Beijing in a test",
+    "url": "https://www.notebookcheck.net/Alibaba-s-Qwen3-8-model-tried-to-upload-a-file-to-Beijing-in-a-test.1435026.0.html",
+    "score": 5,
+    "descendants": 0,
+    "time": 1793093992,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254899",
+    "title": "1984: The Canadian Edition",
+    "url": "https://btxx.org/posts/1984/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1793077570,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254796",
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "score": 5,
+    "descendants": 0,
+    "time": 1793076326,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50254205",
+    "title": "Tesla's $10B solar factory could get 35 years of tax breaks in Texas",
+    "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
+    "score": 5,
+    "descendants": 0,
+    "time": 1793069688,
+    "source": "hackernews"
+  }
+]
