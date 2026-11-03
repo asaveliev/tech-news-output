@@ -1,0 +1,443 @@
+[
+  {
+    "hn_id": "50351111",
+    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+    "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "score": 428,
+    "descendants": 85,
+    "time": 1793708477,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346981",
+    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+    "url": "https://hackertimes.ca/",
+    "score": 388,
+    "descendants": 123,
+    "time": 1793670814,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346849",
+    "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "score": 303,
+    "descendants": 65,
+    "time": 1793669623,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346153",
+    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+    "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+    "score": 219,
+    "descendants": 194,
+    "time": 1793664533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348962",
+    "title": "Nvidia – open-source auto-ontology",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "score": 209,
+    "descendants": 73,
+    "time": 1793689490,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347683",
+    "title": "Net worth for people aged 30–33 in the U.S.",
+    "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
+    "score": 191,
+    "descendants": 103,
+    "time": 1793676506,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349276",
+    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "score": 186,
+    "descendants": 96,
+    "time": 1793692581,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350004",
+    "title": "Revolut moves to self-hosted GLM",
+    "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+    "score": 166,
+    "descendants": 134,
+    "time": 1793699639,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349155",
+    "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+    "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+    "score": 119,
+    "descendants": 36,
+    "time": 1793691407,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347784",
+    "title": "Too Expensive to Exist",
+    "url": "https://mapwriting.substack.com/p/too-expensive-to-exist",
+    "score": 72,
+    "descendants": 15,
+    "time": 1793677430,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348260",
+    "title": "Cloudflare experiencing multiple active incidents",
+    "url": "https://www.cloudflarestatus.com/",
+    "score": 69,
+    "descendants": 6,
+    "time": 1793681847,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50352257",
+    "title": "Just a little AI resistance, as a treat",
+    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+    "score": 68,
+    "descendants": 35,
+    "time": 1793715252,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349784",
+    "title": "No Vehicles in the Park",
+    "url": "https://novehiclesinthepark.com/",
+    "score": 63,
+    "descendants": 88,
+    "time": 1793697674,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350560",
+    "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+    "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+    "score": 63,
+    "descendants": 72,
+    "time": 1793704567,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347552",
+    "title": "Show HN: I built a little browser game to practice Vim commands",
+    "url": "https://hjkl.duy.run",
+    "score": 60,
+    "descendants": 45,
+    "time": 1793675404,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347464",
+    "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+    "url": "https://arxiv.org/abs/2608.25820",
+    "score": 50,
+    "descendants": 5,
+    "time": 1793674724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351319",
+    "title": "Charles Tandy, the mastermind behind Radio Shack",
+    "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+    "score": 44,
+    "descendants": 20,
+    "time": 1793709750,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350693",
+    "title": "Sam Altman's Case Against Your RAM Is Efficient. That's the Problem",
+    "url": "https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/",
+    "score": 27,
+    "descendants": 70,
+    "time": 1793705563,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347524",
+    "title": "Show HN: Rustable is an open source database client built in Rust",
+    "url": "https://rustable.app",
+    "score": 25,
+    "descendants": 20,
+    "time": 1793675213,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346229",
+    "title": "Police Dept. Quits After Finding Out What It Feels Like to Be Tracked",
+    "url": "https://www.gadgetreview.com/tables-turned-entire-police-department-quits-after-finding-out-what-it-feels-like-to-be-tracked",
+    "score": 25,
+    "descendants": 8,
+    "time": 1793665077,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351712",
+    "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+    "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+    "score": 21,
+    "descendants": 36,
+    "time": 1793712403,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348740",
+    "title": "Show HN: ReBirth 338 in Browser",
+    "url": "https://margeux.com/rb338.html",
+    "score": 21,
+    "descendants": 10,
+    "time": 1793687090,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349222",
+    "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+    "score": 20,
+    "descendants": 4,
+    "time": 1793691996,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348194",
+    "title": "NASA's Swift space telescope predicted to crash back to Earth tomorrow",
+    "url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
+    "score": 20,
+    "descendants": 4,
+    "time": 1793681236,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348591",
+    "title": "How AI is creating a lopsided US economy",
+    "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+    "score": 20,
+    "descendants": 0,
+    "time": 1793685507,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346314",
+    "title": "What Are the US Midterms",
+    "url": "https://www.bbc.com/news/articles/c6wyz223j19po",
+    "score": 20,
+    "descendants": 0,
+    "time": 1793665690,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351833",
+    "title": "Microsoft's Canada timezone troubles leave admins fixing calendars",
+    "url": "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
+    "score": 19,
+    "descendants": 14,
+    "time": 1793713047,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347766",
+    "title": "Mass attempted replication of old findings of LLMs with new models",
+    "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+    "score": 19,
+    "descendants": 2,
+    "time": 1793677289,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348361",
+    "title": "Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server",
+    "url": "https://github.com/p10node/office-engine",
+    "score": 17,
+    "descendants": 2,
+    "time": 1793682810,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350530",
+    "title": "New York Times sues maker of Brave web browser over copyrights",
+    "url": "https://www.reuters.com/legal/litigation/new-york-times-sues-maker-brave-web-browser-over-copyrights-2026-11-02/",
+    "score": 16,
+    "descendants": 2,
+    "time": 1793704364,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346512",
+    "title": "U.S. Strikes Iran's Qeshm Island as Trump Talks Down War Risks",
+    "url": "https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d",
+    "score": 15,
+    "descendants": 2,
+    "time": 1793667103,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350302",
+    "title": "AI agents hallucinate prices: LLM grounding with live data",
+    "url": "https://blog.apify.com/llm-grounding-with-live-data/",
+    "score": 15,
+    "descendants": 0,
+    "time": 1793702488,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350730",
+    "title": "Itch.io adding Generative AI disclosure filtering to few more places on the site",
+    "url": "https://bsky.app/profile/itch.io/post/3mzezjvqexs2h",
+    "score": 14,
+    "descendants": 8,
+    "time": 1793705862,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351404",
+    "title": "Show HN: Bema: Work messaging built for humans",
+    "url": "https://getbema.app/",
+    "score": 13,
+    "descendants": 16,
+    "time": 1793710271,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348535",
+    "title": "The Nordic Token Tax",
+    "url": "https://research.klang.ai/papers/the-nordic-token-tax",
+    "score": 13,
+    "descendants": 4,
+    "time": 1793684828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346468",
+    "title": "Quitting jobs: The two-week notice is dying. Maybe it should",
+    "url": "https://slate.com/life/2026/11/jobs-job-work-quit-two-weeks-notice.html",
+    "score": 12,
+    "descendants": 8,
+    "time": 1793666822,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346350",
+    "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+    "score": 12,
+    "descendants": 2,
+    "time": 1793665952,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351315",
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1793709731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50346910",
+    "title": "Musk is throttling Grok because its cost is 'unsustainably high'",
+    "url": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html",
+    "score": 10,
+    "descendants": 3,
+    "time": 1793670149,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347003",
+    "title": "Tell HN: You now have to pay for your IPv4 address at OVHCloud",
+    "url": "https://blog.ovhcloud.com/en/posts/public-cloud-pricing-update-october-2026/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1793670990,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50350673",
+    "title": "Ten harness patterns that you can apply to a real repo",
+    "url": "https://deepsense.ai/blog/harness-engineering-for-coding-agents-9-patterns-for-more-reliable-ai-assisted-development/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1793705471,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351830",
+    "title": "Show HN: Remene – Understand your MRI and prepare questions for your doctor",
+    "url": "https://remene.si",
+    "score": 10,
+    "descendants": 0,
+    "time": 1793713007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348937",
+    "title": "Railway employee tries to hack a competitors infrastructure",
+    "url": "https://twitter.com/joshmanders/status/2117458724407415295",
+    "score": 9,
+    "descendants": 2,
+    "time": 1793689231,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349249",
+    "title": "Google patched a zero day I found and has not paid me",
+    "url": "https://github.com/jegly/jegly",
+    "score": 9,
+    "descendants": 1,
+    "time": 1793692314,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351427",
+    "title": "Show HN: Kvittas, an Expense Splitting App",
+    "url": "https://kvittas.app",
+    "score": 8,
+    "descendants": 7,
+    "time": 1793710428,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50349357",
+    "title": "CVE-2026-58115 – CVSS-B 10 CRITICAL – Siemens SIMATIC IoT2050 devices Node-RED",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-58115",
+    "score": 8,
+    "descendants": 1,
+    "time": 1793693472,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50348456",
+    "title": "Show HN: Bitcoin-rs – An independent Bitcoin full node in Rust",
+    "url": "https://github.com/gosuda/bitcoin-rs",
+    "score": 8,
+    "descendants": 0,
+    "time": 1793683881,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50347352",
+    "title": "Paper straws worse for the environment than plastic ones",
+    "url": "https://nypost.com/2026/10/26/lifestyle/paper-straws-worse-for-the-environment-than-plastic-ones-says-study/",
+    "score": 7,
+    "descendants": 5,
+    "time": 1793673913,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50351632",
+    "title": "The cryptography behind e-voting (and why paper ballots are still essential)",
+    "url": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1793711970,
+    "source": "hackernews"
+  }
+]
