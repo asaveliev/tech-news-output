@@ -1,0 +1,465 @@
+[
+  {
+    "hn_id": "50364336",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "score": 412,
+    "descendants": 291,
+    "time": 1793793137,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360164",
+    "title": "C++26 Disapproved",
+    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "score": 377,
+    "descendants": 282,
+    "time": 1793752402,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361268",
+    "title": "Jelly Sheet",
+    "url": "https://mrdoob.github.io/codevember-2026/01/",
+    "score": 349,
+    "descendants": 91,
+    "time": 1793763650,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362905",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "score": 332,
+    "descendants": 169,
+    "time": 1793781989,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362980",
+    "title": "Kitty 0.50",
+    "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+    "score": 267,
+    "descendants": 166,
+    "time": 1793782630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363554",
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "score": 230,
+    "descendants": 189,
+    "time": 1793787814,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361247",
+    "title": "Democrats win control of the House of Representatives",
+    "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397",
+    "score": 194,
+    "descendants": 95,
+    "time": 1793763383,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363378",
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "score": 175,
+    "descendants": 83,
+    "time": 1793786406,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50365982",
+    "title": "US voters roundly reject data centers in ballot measures",
+    "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+    "score": 147,
+    "descendants": 191,
+    "time": 1793802422,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363019",
+    "title": "Verification Is Not Knowledge: Science needs more than answers",
+    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "score": 141,
+    "descendants": 83,
+    "time": 1793782918,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360573",
+    "title": "Giant canyon on Mars is still tectonically active",
+    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+    "score": 123,
+    "descendants": 26,
+    "time": 1793756442,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361936",
+    "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "score": 111,
+    "descendants": 40,
+    "time": 1793772030,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362466",
+    "title": "The lost malloc()",
+    "url": "https://napcakes.nekoweb.org/posts/malloc/",
+    "score": 104,
+    "descendants": 40,
+    "time": 1793777850,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50365755",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "score": 103,
+    "descendants": 60,
+    "time": 1793801395,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361154",
+    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+    "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+    "score": 101,
+    "descendants": 41,
+    "time": 1793762413,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363968",
+    "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+    "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+    "score": 86,
+    "descendants": 30,
+    "time": 1793790852,
+    "source": "hackernews"
+  },
+  {
+    "title": "Six humanoid robots worked a 24-hour shift at a convenience store, but two weren't good enough to keep their jobs",
+    "url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+    "reddit_id": "1xnp3l0",
+    "score": 75,
+    "num_comments": 7,
+    "date": "2026-11-04T14:07:35",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50364478",
+    "title": "Hackers hit French national blood bank",
+    "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
+    "score": 71,
+    "descendants": 76,
+    "time": 1793794115,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362993",
+    "title": "Milkman – The Better Alternative to Postman",
+    "url": "https://milkman.dev/",
+    "score": 70,
+    "descendants": 76,
+    "time": 1793782683,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361107",
+    "title": "Arrows to arrows, categories to queries (2025)",
+    "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+    "score": 69,
+    "descendants": 6,
+    "time": 1793761887,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50364814",
+    "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+    "score": 66,
+    "descendants": 58,
+    "time": 1793796418,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50364561",
+    "title": "A map of 5000+ midterm ads",
+    "url": "https://admap.org/",
+    "score": 62,
+    "descendants": 22,
+    "time": 1793794715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362418",
+    "title": "Democrats Rout GOP",
+    "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+    "score": 58,
+    "descendants": 36,
+    "time": 1793777235,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362274",
+    "title": "AI stocks slide as Texas governor result raises data center risks",
+    "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "score": 51,
+    "descendants": 71,
+    "time": 1793775620,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363717",
+    "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+    "url": "https://github.com/openai/codex/issues/59060",
+    "score": 42,
+    "descendants": 31,
+    "time": 1793789031,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363861",
+    "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+    "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+    "score": 38,
+    "descendants": 62,
+    "time": 1793790143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362245",
+    "title": "Affinity for Linux is in active development",
+    "url": "https://twitter.com/Affinity/status/2117276850795790442",
+    "score": 31,
+    "descendants": 9,
+    "time": 1793775332,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360067",
+    "title": "Tesla allegedly misled South Korean customers about automated-driving tech",
+    "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
+    "score": 28,
+    "descendants": 4,
+    "time": 1793751590,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361106",
+    "title": "NetBSD 11.1",
+    "url": "https://netbsd.org/releases/formal-11/NetBSD-11.1.html",
+    "score": 28,
+    "descendants": 3,
+    "time": 1793761875,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362285",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+    "score": 27,
+    "descendants": 9,
+    "time": 1793775829,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361889",
+    "title": "Democrats take control of US Congress as voters reject Trump's Republicans",
+    "url": "https://www.bbc.com/news/live/cj1dw0ydn595t",
+    "score": 23,
+    "descendants": 10,
+    "time": 1793771475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50366575",
+    "title": "Debian apt security update (man-in-the-middle)",
+    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+    "score": 23,
+    "descendants": 2,
+    "time": 1793804654,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50363193",
+    "title": "Osewa – An open-source alternative to SSH and Mosh",
+    "url": "https://osewa.dev/",
+    "score": 22,
+    "descendants": 17,
+    "time": 1793784884,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362109",
+    "title": "Where Residential Proxy IPs Come From – AMA with Massive's CEO",
+    "url": "https://scrapeops.io/blog/where-residential-proxies-really-come-from/",
+    "score": 22,
+    "descendants": 0,
+    "time": 1793773910,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362437",
+    "title": "It is pathetic that there is no news about the midterms on the front page",
+    "url": "https://news.ycombinator.com/submit",
+    "score": 21,
+    "descendants": 19,
+    "time": 1793777471,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362091",
+    "title": "US midterms 2026 election results",
+    "url": "https://www.reuters.com/live/us-midterm-elections-2026-live-american-voters-cast-verdict-trump-congress-2026-11-03/",
+    "score": 20,
+    "descendants": 4,
+    "time": 1793773715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50364511",
+    "title": "Albert Einstein and Hannah Arendt's 1948 open letter on Israel",
+    "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_and_others_letter.jpg",
+    "score": 20,
+    "descendants": 2,
+    "time": 1793794351,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361739",
+    "title": "An 80-Cent Plastic Pouch Is Saving Women from Dying in Childbirth",
+    "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+    "score": 20,
+    "descendants": 1,
+    "time": 1793769490,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50365760",
+    "title": "Jaron Lanier on parallels between AI and social media",
+    "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+    "score": 20,
+    "descendants": 0,
+    "time": 1793801414,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360122",
+    "title": "French blood storage facilities targeted in cyberattack",
+    "url": "https://twitter.com/etnshow/status/2117728420477936043",
+    "score": 17,
+    "descendants": 0,
+    "time": 1793752029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50361562",
+    "title": "Google will cut off search access for students at schools that reject AI",
+    "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+    "score": 15,
+    "descendants": 3,
+    "time": 1793767206,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50364680",
+    "title": "How reliable are confidence scores from language models?",
+    "url": "https://www.davidhartel.com/blog/language-model-confidence",
+    "score": 15,
+    "descendants": 0,
+    "time": 1793795410,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360720",
+    "title": "Running 17 Claude Code bots in a real company for $100/month",
+    "url": "https://botsinproduction.com/blog/what-10-claude-code-bots-cost-per-month/",
+    "score": 13,
+    "descendants": 5,
+    "time": 1793757732,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360170",
+    "title": "Not Getting Paid.",
+    "url": "https://tomaszdziurko1.substack.com/p/not-getting-paid",
+    "score": 13,
+    "descendants": 0,
+    "time": 1793752487,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360153",
+    "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
+    "score": 12,
+    "descendants": 0,
+    "time": 1793752293,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50365009",
+    "title": "Disaster is still better than AI",
+    "url": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
+    "score": 11,
+    "descendants": 6,
+    "time": 1793797526,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50362184",
+    "title": "Democrats Capture Congress Majority",
+    "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+    "score": 11,
+    "descendants": 5,
+    "time": 1793774722,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50360659",
+    "title": "OpenAI is quietly renaming data centers 'compute campuses'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "score": 11,
+    "descendants": 3,
+    "time": 1793757157,
+    "source": "hackernews"
+  },
+  {
+    "title": "Injectable glucose sensor component matches pricier alternative at one-tenth the cost",
+    "url": "https://medicalxpress.com/news/2026-11-glucose-sensor-component-pricier-alternative.html#goog_rewarded",
+    "reddit_id": "1xnflvy",
+    "score": 6,
+    "num_comments": 1,
+    "date": "2026-11-04T05:05:18",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "For the first time, AI guides surgeons through a brain tumor operation",
+    "url": "https://www.techspot.com/news/113637-first-time-ai-guides-surgeons-through-brain-tumor.html",
+    "reddit_id": "1xnnq34",
+    "score": 5,
+    "num_comments": 2,
+    "date": "2026-11-04T13:06:02",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "reddit_id": "1xnj5ee",
+    "score": 0,
+    "num_comments": 1,
+    "date": "2026-11-04T08:38:03",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
