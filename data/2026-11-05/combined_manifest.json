@@ -1,0 +1,472 @@
+[
+  {
+    "hn_id": "50378228",
+    "title": "Sshole",
+    "url": "https://sshhole.com",
+    "score": 882,
+    "descendants": 241,
+    "time": 1793881142,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375354",
+    "title": "Lemmings CSS Animation",
+    "url": "https://markblah.github.io/lemmings/",
+    "score": 303,
+    "descendants": 63,
+    "time": 1793854450,
+    "source": "hackernews"
+  },
+  {
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google's AI policy",
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "reddit_id": "1xoazsf",
+    "score": 254,
+    "num_comments": 11,
+    "date": "2026-11-05T05:50:47",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50373308",
+    "title": "Starfall – Affordable, routine access to microgravity",
+    "url": "https://www.spacex.com/starfall",
+    "score": 235,
+    "descendants": 176,
+    "time": 1793837898,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377821",
+    "title": "Awesome repositories are no longer awesome",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "score": 156,
+    "descendants": 80,
+    "time": 1793877411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377221",
+    "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+    "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+    "score": 144,
+    "descendants": 60,
+    "time": 1793871977,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378625",
+    "title": "Discord is ditching Electron and its new app uses less RAM",
+    "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+    "score": 137,
+    "descendants": 99,
+    "time": 1793883928,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377078",
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "score": 121,
+    "descendants": 70,
+    "time": 1793870952,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377976",
+    "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "score": 108,
+    "descendants": 4,
+    "time": 1793878830,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50376313",
+    "title": "GPT-6 Astra covertly underperforms on safety research",
+    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "score": 95,
+    "descendants": 35,
+    "time": 1793864670,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375691",
+    "title": "Being a kid making games in the early 2000s",
+    "url": "https://jaytholen.net/teengamedev/",
+    "score": 80,
+    "descendants": 33,
+    "time": 1793858033,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379249",
+    "title": "MCP Explained",
+    "url": "https://mcp-explained.com/",
+    "score": 75,
+    "descendants": 28,
+    "time": 1793887715,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375728",
+    "title": "Want to Rent an Internet Address at the White House?",
+    "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+    "score": 66,
+    "descendants": 12,
+    "time": 1793858353,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50373505",
+    "title": "American Voters Overwhelmingly Reject AI Data Centers",
+    "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "score": 58,
+    "descendants": 2,
+    "time": 1793839393,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50373149",
+    "title": "You'll need nerves of steel to work with AI agents",
+    "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+    "score": 53,
+    "descendants": 74,
+    "time": 1793836890,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375653",
+    "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "url": "https://www.altera.com/newsroom/agilex-2x",
+    "score": 48,
+    "descendants": 16,
+    "time": 1793857634,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379704",
+    "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "score": 47,
+    "descendants": 1,
+    "time": 1793889860,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378942",
+    "title": "I wish tech companies knew more about me",
+    "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "score": 42,
+    "descendants": 24,
+    "time": 1793886052,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378571",
+    "title": "Download your favourite YouTube videos",
+    "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+    "score": 39,
+    "descendants": 20,
+    "time": 1793883611,
+    "source": "hackernews"
+  },
+  {
+    "title": "Nintendo ROM chip supplier Macronix quits to focus on chips for AI data centers, reports indicate — Game-Key cards may increase as large game storage chips become more expensive",
+    "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-rom-chip-supplier-macronix-quits-to-focus-on-chips-for-ai-data-centers-game-key-cards-may-be-more-available-as-large-game-storage-chips-become-more-expensive",
+    "reddit_id": "1xo9ly7",
+    "score": 36,
+    "num_comments": 0,
+    "date": "2026-11-05T04:31:28",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50379773",
+    "title": "Image of Our Satellite-Choked Night Skies",
+    "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+    "score": 30,
+    "descendants": 20,
+    "time": 1793890147,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378508",
+    "title": "Obscure audio codec is a perfect fit for the N64",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "score": 29,
+    "descendants": 0,
+    "time": 1793883108,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378398",
+    "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+    "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+    "score": 28,
+    "descendants": 26,
+    "time": 1793882352,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50373416",
+    "title": "Canva Layoffs",
+    "url": "https://www.canva.com/newsroom/news/canva-team-update/",
+    "score": 23,
+    "descendants": 0,
+    "time": 1793838794,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379373",
+    "title": "'There Is One Fight': American Voters Reject Tech Oligarchy",
+    "url": "https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/",
+    "score": 21,
+    "descendants": 2,
+    "time": 1793888348,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377125",
+    "title": "Palestine Action Supreme Court Hearing Day 1",
+    "url": "https://www.craigmurray.org.uk/archives/2026/11/palestine-action-supreme-court-hearing-day-1/",
+    "score": 20,
+    "descendants": 3,
+    "time": 1793871264,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378085",
+    "title": "All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+    "score": 19,
+    "descendants": 9,
+    "time": 1793879690,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375712",
+    "title": "Vibrating mattress helps clear Alzheimer's protein from the brain",
+    "url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
+    "score": 19,
+    "descendants": 1,
+    "time": 1793858226,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377680",
+    "title": "Italian chef fired after refusing to put pineapple on pizza",
+    "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo",
+    "score": 17,
+    "descendants": 22,
+    "time": 1793876112,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50374791",
+    "title": "Why Isn't Retatrutide Approved Yet?",
+    "url": "https://lettersfrombethlehem.substack.com/p/why-isnt-retatrutide-approved-yet",
+    "score": 16,
+    "descendants": 1,
+    "time": 1793849461,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379853",
+    "title": "US Democrats Win Enough Seats Nationwide to End Presidential Electoral College",
+    "url": "https://newrepublic.com/post/217594/democrats-seats-nationwide-end-electoral-college",
+    "score": 15,
+    "descendants": 3,
+    "time": 1793890559,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377497",
+    "title": "Simon Glass removed from U-Boot community",
+    "url": "https://lore.kernel.org/u-boot/CALeDE9Pu2rzu_zaWr=XAux88nV-LJ9_AYfLB8D6EECgm-BbeCg@mail.gmail.com/",
+    "score": 14,
+    "descendants": 2,
+    "time": 1793874603,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375066",
+    "title": "Smiling can make you happier – unless someone forces you to do it",
+    "url": "https://news.ufl.edu/2026/11/smiling-happiness/",
+    "score": 14,
+    "descendants": 2,
+    "time": 1793851859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379576",
+    "title": "September in Servo: <progress>, rounded rectangles, and more",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "score": 13,
+    "descendants": 1,
+    "time": 1793889258,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377946",
+    "title": "Overlooked Linux Mv Option Replaces Three Commands with One",
+    "url": "https://itsfoss.com/mv-exchange/",
+    "score": 13,
+    "descendants": 1,
+    "time": 1793878602,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50376212",
+    "title": "NASA's 22-year-old Swift satellite telescope falls from orbit",
+    "url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+    "score": 13,
+    "descendants": 0,
+    "time": 1793863768,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377784",
+    "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+    "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+    "score": 12,
+    "descendants": 3,
+    "time": 1793877083,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50373510",
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "score": 12,
+    "descendants": 1,
+    "time": 1793839435,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50378538",
+    "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+    "score": 11,
+    "descendants": 9,
+    "time": 1793883333,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379425",
+    "title": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+    "url": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over",
+    "score": 11,
+    "descendants": 1,
+    "time": 1793888621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377681",
+    "title": "Palantir CEO says it's pioneering an antiwar movement–while accepting defense $s",
+    "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
+    "score": 11,
+    "descendants": 0,
+    "time": 1793876152,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50376800",
+    "title": "Learning Almost Anything",
+    "url": "https://litemind-0kq.pages.dev/learning-almost-anything/",
+    "score": 10,
+    "descendants": 0,
+    "time": 1793868555,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50374741",
+    "title": "Flims and TV shows created using AI have now reached a high level of quality",
+    "url": "https://crateh.com/en",
+    "score": 9,
+    "descendants": 6,
+    "time": 1793848859,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379273",
+    "title": "Are Drone Ports the Next Annoying Neighbor? Flying delivery bots prompt concern",
+    "url": "https://spectrum.ieee.org/drone-delivery-noise",
+    "score": 9,
+    "descendants": 0,
+    "time": 1793887856,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50376246",
+    "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+    "score": 8,
+    "descendants": 4,
+    "time": 1793864114,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379950",
+    "title": "Pull the Plug on Technofascism Before It Reboots",
+    "url": "https://www.techpolicy.press/pull-the-plug-on-technofascism-before-it-reboots/",
+    "score": 8,
+    "descendants": 1,
+    "time": 1793890899,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377804",
+    "title": "Multiple planes diverted as bomb threats to commercial flights reported",
+    "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+    "score": 8,
+    "descendants": 1,
+    "time": 1793877221,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377638",
+    "title": "KVGuard: Catching the KV cache bug behind Cloudflare's GLM leak",
+    "url": "https://compsec.snu.ac.kr/blog/kvguard",
+    "score": 8,
+    "descendants": 0,
+    "time": 1793875734,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50375682",
+    "title": "Omarchy 4.5 floats, speaks 50 languages, and runs on your Mac",
+    "url": "https://omarchy.org/news/2026/11/omarchy-4-5/",
+    "score": 7,
+    "descendants": 2,
+    "time": 1793857919,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377443",
+    "title": "Show HN: Grasmere: Markdown for Writers and Researchers",
+    "url": "https://grasmere.app/",
+    "score": 7,
+    "descendants": 1,
+    "time": 1793874010,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50379398",
+    "title": "Dropbox to Acquire Tigris",
+    "url": "https://thenewstack.io/dropbox-acquires-tigris-s3-alternative/",
+    "score": 7,
+    "descendants": 0,
+    "time": 1793888469,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50377469",
+    "title": "Show HN: Distill anyone's writing style into a skill",
+    "url": "https://github.com/xatuke/mimic",
+    "score": 7,
+    "descendants": 0,
+    "time": 1793874278,
+    "source": "hackernews"
+  }
+]
