@@ -1,0 +1,434 @@
+[
+  {
+    "hn_id": "50452455",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "score": 442,
+    "descendants": 159,
+    "time": 1794398722,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449748",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "score": 308,
+    "descendants": 111,
+    "time": 1794371337,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448921",
+    "title": "A great old-timey game-programming hack (2013)",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "score": 222,
+    "descendants": 46,
+    "time": 1794362191,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449275",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "score": 139,
+    "descendants": 120,
+    "time": 1794365828,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451903",
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "score": 104,
+    "descendants": 43,
+    "time": 1794394120,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450007",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "score": 100,
+    "descendants": 61,
+    "time": 1794374754,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452655",
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "score": 98,
+    "descendants": 15,
+    "time": 1794400217,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449891",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "score": 85,
+    "descendants": 38,
+    "time": 1794373007,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448340",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "url": "https://tis-100.wincon.dev/",
+    "score": 84,
+    "descendants": 18,
+    "time": 1794357425,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453474",
+    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "score": 71,
+    "descendants": 26,
+    "time": 1794405365,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452742",
+    "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+    "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+    "score": 59,
+    "descendants": 6,
+    "time": 1794401046,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451102",
+    "title": "OSS projects banning AI-generated contributions",
+    "url": "https://osssaysno.com",
+    "score": 56,
+    "descendants": 94,
+    "time": 1794387105,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448174",
+    "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "score": 55,
+    "descendants": 67,
+    "time": 1794356133,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449440",
+    "title": "The Apple Support Community will permanently close on November 20, 2026",
+    "url": "https://discussions.apple.com/welcome",
+    "score": 52,
+    "descendants": 31,
+    "time": 1794367611,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452074",
+    "title": "The Zig project is going nowhere",
+    "url": "https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere",
+    "score": 51,
+    "descendants": 71,
+    "time": 1794395826,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450955",
+    "title": "Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions",
+    "url": "https://policy-wire.com/ukraine-pivots-to-israeli-italian-satellite-tech-to-bypass-starlink-restrictions/",
+    "score": 46,
+    "descendants": 13,
+    "time": 1794385600,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449130",
+    "title": "Qwen4-Max is now in Preview",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2120335993643684315",
+    "score": 45,
+    "descendants": 3,
+    "time": 1794364405,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451985",
+    "title": "The Housing Market Is Nuts",
+    "url": "https://nuts.logical.li/",
+    "score": 44,
+    "descendants": 65,
+    "time": 1794394966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452652",
+    "title": "We need more goat sacrifices",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "score": 41,
+    "descendants": 23,
+    "time": 1794400188,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449080",
+    "title": "Hooked on Tuna",
+    "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+    "score": 40,
+    "descendants": 16,
+    "time": 1794363805,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453555",
+    "title": "Apple is killing its Support Community forum next week",
+    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "score": 39,
+    "descendants": 20,
+    "time": 1794405731,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452496",
+    "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "score": 32,
+    "descendants": 4,
+    "time": 1794398989,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452224",
+    "title": "Physically Controllable Relighting of Photographs",
+    "url": "https://yaksoy.github.io/PhysicalRelighting/",
+    "score": 29,
+    "descendants": 4,
+    "time": 1794397123,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450488",
+    "title": "In Memoriam: Tim Peters 1952–2026",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "score": 26,
+    "descendants": 7,
+    "time": 1794380597,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453763",
+    "title": "Pharo in the Browser with WebAssembly",
+    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "score": 26,
+    "descendants": 5,
+    "time": 1794406887,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450539",
+    "title": "Firefox 160.0 Release Notes",
+    "url": "https://www.firefox.com/en-US/firefox/160.0/releasenotes/",
+    "score": 19,
+    "descendants": 5,
+    "time": 1794381076,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450268",
+    "title": "Subagents Conwidered Harmful",
+    "url": "https://nikvdp.com/notes/subagents-considered-harmful/",
+    "score": 18,
+    "descendants": 5,
+    "time": 1794378096,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453637",
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "score": 17,
+    "descendants": 10,
+    "time": 1794406246,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449668",
+    "title": "Alice Huang: The Spy Narrative Misses Her Real Business",
+    "url": "https://desmondshum.substack.com/p/alice-huang-the-spy-narrative-misses",
+    "score": 16,
+    "descendants": 2,
+    "time": 1794370286,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448126",
+    "title": "iCloud Down",
+    "url": "https://www.apple.com/support/systemstatus/",
+    "score": 15,
+    "descendants": 4,
+    "time": 1794355875,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453229",
+    "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+    "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "score": 15,
+    "descendants": 1,
+    "time": 1794404064,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451192",
+    "title": "Qwen 4 Max Preview",
+    "url": "https://www.qwencloud.com/benefits/tokenplan",
+    "score": 14,
+    "descendants": 5,
+    "time": 1794388136,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448222",
+    "title": "1,500 fake job ads led us to a global multi-level marketing scheme [video]",
+    "url": "https://www.youtube.com/watch?v=RioE6ClJbaM",
+    "score": 14,
+    "descendants": 2,
+    "time": 1794356410,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451860",
+    "title": "'Apple Support Community' Permanently Closing on November 20",
+    "url": "https://forums.macrumors.com/threads/apple-support-community-permanently-closing-on-november-20.2494142/",
+    "score": 13,
+    "descendants": 2,
+    "time": 1794393697,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450321",
+    "title": "Monads in Lean",
+    "url": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+    "score": 12,
+    "descendants": 0,
+    "time": 1794378673,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449945",
+    "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
+    "url": "https://pietromiotti.com/latest/maya-site/",
+    "score": 11,
+    "descendants": 2,
+    "time": 1794373750,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449232",
+    "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+    "url": "https://taipeiledger.com/gpu/",
+    "score": 11,
+    "descendants": 2,
+    "time": 1794365401,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448092",
+    "title": "Smart meters to cost UK billions: 2G switch-off means replacing 12-13M",
+    "url": "https://www.theregister.com/networks/2026/11/10/smart-meters-to-cost-the-uk-billions-2g-switch-off-means-replacing-12-13-million/5308728",
+    "score": 11,
+    "descendants": 1,
+    "time": 1794355654,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452407",
+    "title": "In Defense of Giving a Shit",
+    "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+    "score": 11,
+    "descendants": 0,
+    "time": 1794398445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448271",
+    "title": "Australia considers criminal charges for AI companies that fail to prevent harm",
+    "url": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676",
+    "score": 10,
+    "descendants": 6,
+    "time": 1794356847,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448054",
+    "title": "Credit card debt climbs to a record $1.29T, New York Fed research finds",
+    "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+    "score": 10,
+    "descendants": 2,
+    "time": 1794355350,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50452464",
+    "title": "Nvidia Vera CPU Review: 2TB/S Memory Bandwidth, a Real x86 Rival",
+    "url": "https://www.storagereview.com/review/nvidia-vera-cpu-review",
+    "score": 10,
+    "descendants": 1,
+    "time": 1794398782,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451512",
+    "title": "Reddit's app download popup is blocking desktop browsing",
+    "url": "https://www.reddit.com/r/bugs/comments/1xtdlv7/windowsweb_it_seems_like_the_ios_get_the_app/",
+    "score": 10,
+    "descendants": 1,
+    "time": 1794390655,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50451334",
+    "title": "How to Scrape Apple App Store Reviews and App Data",
+    "url": "https://scrapfly.io/blog/posts/how-to-scrape-app-store",
+    "score": 10,
+    "descendants": 0,
+    "time": 1794389445,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50450729",
+    "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+    "url": "https://github.com/NeuraCryption/SPECTRA",
+    "score": 10,
+    "descendants": 0,
+    "time": 1794382752,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50448896",
+    "title": "Reddit Reviews",
+    "url": "https://redditinc.com/news/introducing-reddit-reviews",
+    "score": 9,
+    "descendants": 10,
+    "time": 1794361932,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50453480",
+    "title": "Not self-hosting is irresponsible",
+    "url": "https://www.windmill.dev/blog/not-self-hosting-is-irresponsible",
+    "score": 9,
+    "descendants": 3,
+    "time": 1794405385,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50449539",
+    "title": "Tim peters has passed away",
+    "url": "https://www.reddit.com/r/Python/s/2Cm5dBcvQw",
+    "score": 9,
+    "descendants": 3,
+    "time": 1794368740,
+    "source": "hackernews"
+  }
+]
