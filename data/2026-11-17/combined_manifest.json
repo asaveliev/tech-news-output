@@ -1,0 +1,493 @@
+[
+  {
+    "hn_id": "50530163",
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "score": 721,
+    "descendants": 369,
+    "time": 1794915951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532086",
+    "title": "We don't need more apps. We need better open source",
+    "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+    "score": 244,
+    "descendants": 149,
+    "time": 1794926736,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50525575",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "score": 242,
+    "descendants": 88,
+    "time": 1794874584,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526560",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "url": "https://support.apple.com/en-us/149699",
+    "score": 200,
+    "descendants": 106,
+    "time": 1794881824,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50531751",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "score": 143,
+    "descendants": 174,
+    "time": 1794925199,
+    "source": "hackernews"
+  },
+  {
+    "title": "School Campuses Emerge as the Latest Battleground for Flock Safety Cameras - CNET",
+    "url": "https://www.cnet.com/news/privacy/school-campuses-flock-safety-cameras/",
+    "reddit_id": "1xycpul",
+    "score": 143,
+    "num_comments": 12,
+    "date": "2026-11-17T05:59:16",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50531761",
+    "title": "Loopholes Are for Assholes",
+    "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+    "score": 140,
+    "descendants": 131,
+    "time": 1794925232,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50529612",
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "score": 138,
+    "descendants": 135,
+    "time": 1794910840,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50525658",
+    "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+    "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+    "score": 138,
+    "descendants": 54,
+    "time": 1794875001,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532849",
+    "title": "Highly classified US national security communications network goes down",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "score": 133,
+    "descendants": 100,
+    "time": 1794929908,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50530450",
+    "title": "Regulatory Capture by Anthropic Through METR",
+    "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+    "score": 133,
+    "descendants": 71,
+    "time": 1794918117,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526152",
+    "title": "Running coding agents without handing them my credentials",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "score": 124,
+    "descendants": 105,
+    "time": 1794878336,
+    "source": "hackernews"
+  },
+  {
+    "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+    "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+    "reddit_id": "1xyj739",
+    "score": 104,
+    "num_comments": 6,
+    "date": "2026-11-17T12:28:56",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50530114",
+    "title": "My Empire of Dirt",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+    "score": 101,
+    "descendants": 117,
+    "time": 1794915560,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532315",
+    "title": "Pentagon fails 9th financial audit in a row",
+    "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+    "score": 97,
+    "descendants": 55,
+    "time": 1794927773,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532191",
+    "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "score": 93,
+    "descendants": 33,
+    "time": 1794927223,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526537",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "score": 74,
+    "descendants": 116,
+    "time": 1794881621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532322",
+    "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+    "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+    "score": 61,
+    "descendants": 30,
+    "time": 1794927805,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532385",
+    "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+    "url": "https://alloyhtml.com/example.html",
+    "score": 55,
+    "descendants": 11,
+    "time": 1794928029,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50531484",
+    "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+    "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+    "score": 53,
+    "descendants": 67,
+    "time": 1794924047,
+    "source": "hackernews"
+  },
+  {
+    "title": "YouTube now shows co-views in big shake-up to view counts",
+    "url": "https://www.dexerto.com/entertainment/youtube-now-shows-co-views-in-big-shake-up-to-view-counts-3428863/",
+    "reddit_id": "1xykf4z",
+    "score": 53,
+    "num_comments": 10,
+    "date": "2026-11-17T13:27:26",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50526264",
+    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "score": 50,
+    "descendants": 19,
+    "time": 1794879316,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50527905",
+    "title": "Tech leaders are convinced that Jensen Huang's exit was a plot against him",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "score": 40,
+    "descendants": 31,
+    "time": 1794894641,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50533089",
+    "title": "NSA Internal Network Down",
+    "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+    "score": 40,
+    "descendants": 19,
+    "time": 1794930648,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526584",
+    "title": "Tokendoctor – See what your Claude Code use overpays",
+    "url": "https://github.com/localixai/tokendoctor",
+    "score": 30,
+    "descendants": 16,
+    "time": 1794881990,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50532786",
+    "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+    "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+    "score": 25,
+    "descendants": 21,
+    "time": 1794929628,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526156",
+    "title": "Nvidia rules out Jensen Huang comeback as campaign for his return grows",
+    "url": "https://www.reuters.com/legal/transactional/silicon-valley-leaders-back-call-jensen-huangs-return-nvidia-2026-11-16/",
+    "score": 22,
+    "descendants": 1,
+    "time": 1794878356,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526019",
+    "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
+    "url": "https://www.reuters.com/legal/litigation/meta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16/",
+    "score": 22,
+    "descendants": 1,
+    "time": 1794877368,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526380",
+    "title": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
+    "url": "https://wine-assembly.berrry.app/",
+    "score": 21,
+    "descendants": 5,
+    "time": 1794880254,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50525713",
+    "title": "Actual Curl Rewrites in Rust",
+    "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+    "score": 21,
+    "descendants": 5,
+    "time": 1794875271,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50529128",
+    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+    "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+    "score": 21,
+    "descendants": 4,
+    "time": 1794906143,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50529494",
+    "title": "Opus 5.5 covertly sabotaged a game developers deployment environments",
+    "url": "https://twitter.com/xw33bttv/status/2122471165616955473",
+    "score": 19,
+    "descendants": 10,
+    "time": 1794909724,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526967",
+    "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+    "url": "https://github.com/yocontra/pulsar",
+    "score": 19,
+    "descendants": 3,
+    "time": 1794885533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526621",
+    "title": "The most expensive bargaining chip in history",
+    "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/",
+    "score": 17,
+    "descendants": 18,
+    "time": 1794882214,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526199",
+    "title": "The Weather at Home",
+    "url": "https://alexhowells.com/writing/the-weather-at-home/",
+    "score": 17,
+    "descendants": 15,
+    "time": 1794878671,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50528614",
+    "title": "Joint Statement from Department of Commerce and DOJ on Megaspeed Investigation",
+    "url": "https://www.commerce.gov/news/press-releases/2026/11/joint-statement-department-commerce-and-department-justice-megaspeed",
+    "score": 17,
+    "descendants": 3,
+    "time": 1794901699,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50528073",
+    "title": "Elderly people are buying Teslas for the 'full self-driving.' This is a problem",
+    "url": "https://www.fastcompany.com/91641371/elderly-people-are-buying-tesla-for-full-self-driving-this-is-a-problem",
+    "score": 17,
+    "descendants": 2,
+    "time": 1794896411,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50527311",
+    "title": "Unkernel: Linux kernel in WASM",
+    "url": "https://unkernel.dev",
+    "score": 16,
+    "descendants": 8,
+    "time": 1794888527,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50529644",
+    "title": "Who Is Anthropic Kidding?",
+    "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/",
+    "score": 16,
+    "descendants": 7,
+    "time": 1794911111,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50533082",
+    "title": "Kennedy let measles run wild in America",
+    "url": "https://www.reuters.com/investigations/how-kennedy-let-measles-run-wild-america-2026-11-17/",
+    "score": 16,
+    "descendants": 0,
+    "time": 1794930629,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50533571",
+    "title": "Mistral offers three months of Vibe Pro free in Europe",
+    "url": "https://x.com/MistralAI/status/2122713540666806397",
+    "score": 15,
+    "descendants": 13,
+    "time": 1794932144,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50531644",
+    "title": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens",
+    "url": "https://github.com/prapaa-ai/agav",
+    "score": 15,
+    "descendants": 7,
+    "time": 1794924790,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526361",
+    "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes",
+    "url": "https://www.cbc.ca/lite/story/9.7424473",
+    "score": 15,
+    "descendants": 7,
+    "time": 1794880132,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50528263",
+    "title": "OVH releases first model with EU public funding and supercomputer access",
+    "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
+    "score": 15,
+    "descendants": 0,
+    "time": 1794898229,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50534044",
+    "title": "Jensen Huang says he’s open to returning in first statement since resignation",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+    "score": 13,
+    "descendants": 5,
+    "time": 1794933638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526244",
+    "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+    "url": "https://cwtractors.com",
+    "score": 13,
+    "descendants": 0,
+    "time": 1794879095,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50531129",
+    "title": "How long have we got before the agent output is enshittified?",
+    "url": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit",
+    "score": 12,
+    "descendants": 16,
+    "time": 1794922434,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526527",
+    "title": "Show HN: A free interactive course on AI agent governance",
+    "url": "https://studio.sinapsdata.com.br",
+    "score": 12,
+    "descendants": 8,
+    "time": 1794881533,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50528785",
+    "title": "Run your FreeBSD services from one console",
+    "url": "https://jailops.net/",
+    "score": 12,
+    "descendants": 2,
+    "time": 1794903218,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50525646",
+    "title": "Doom on the Nikon Z 6II camera",
+    "url": "https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/",
+    "score": 12,
+    "descendants": 2,
+    "time": 1794874906,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50526149",
+    "title": "Friselle: The ingenious Italian bread that can last for a year",
+    "url": "https://www.msn.com/en-ca/food-and-drink/recipes/friselle-the-ingenious-italian-bread-that-can-last-for-a-year/ar-AA2hxzwR",
+    "score": 11,
+    "descendants": 4,
+    "time": 1794878320,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50531481",
+    "title": "Show HN: An open virtual office to cowork with humans while your agents work",
+    "url": "https://flat.social/virtual-office-platform",
+    "score": 11,
+    "descendants": 3,
+    "time": 1794924032,
+    "source": "hackernews"
+  },
+  {
+    "title": "Octopus-inspired hydrogel reveals hidden image when exposed to temperature changes or solvents",
+    "url": "https://www.techspot.com/news/111266-octopus-inspired-hydrogel-reveals-hidden-image-when-exposed.html",
+    "reddit_id": "1xykqd8",
+    "score": 8,
+    "num_comments": 0,
+    "date": "2026-11-17T13:41:21",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Inside the Race to Stop Hackers From Taking Over Your Car",
+    "url": "https://spectrum.ieee.org/connected-cars-security",
+    "reddit_id": "1xyo9j5",
+    "score": 1,
+    "num_comments": 0,
+    "date": "2026-11-17T16:03:07",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
