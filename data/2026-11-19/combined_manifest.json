@@ -1,0 +1,483 @@
+[
+  {
+    "hn_id": "50558533",
+    "title": "How the European Commission rolled out Matrix to more than 40k staff",
+    "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+    "score": 476,
+    "descendants": 244,
+    "time": 1795085909,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50556287",
+    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+    "url": "https://verialabs.com/ruby2shell/",
+    "score": 292,
+    "descendants": 120,
+    "time": 1795064951,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50556533",
+    "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+    "url": "https://kapteko.com/15-million-webservers/",
+    "score": 285,
+    "descendants": 32,
+    "time": 1795067796,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554374",
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "score": 245,
+    "descendants": 76,
+    "time": 1795048185,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557716",
+    "title": "SSD prices will start going down the second half of next year",
+    "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+    "score": 222,
+    "descendants": 184,
+    "time": 1795079134,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557870",
+    "title": "What's New in PHP 8.6",
+    "url": "https://www.php.net/releases/8.6/en.php",
+    "score": 192,
+    "descendants": 98,
+    "time": 1795080435,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554935",
+    "title": "Unreal Tournament 2004 in the Browser",
+    "url": "https://ut2004.dev/",
+    "score": 177,
+    "descendants": 87,
+    "time": 1795051769,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557537",
+    "title": "Distributed, high-performance blob storage on SQLite",
+    "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+    "score": 174,
+    "descendants": 45,
+    "time": 1795077585,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558906",
+    "title": "Someone reported java4shell bug in September 2026",
+    "url": "https://github.com/openjdk/jdk/pull/32781",
+    "score": 126,
+    "descendants": 38,
+    "time": 1795088823,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554641",
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+    "score": 107,
+    "descendants": 80,
+    "time": 1795049840,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50555093",
+    "title": "AI will not make you rich (2025)",
+    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+    "score": 104,
+    "descendants": 66,
+    "time": 1795053088,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50559719",
+    "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+    "score": 102,
+    "descendants": 27,
+    "time": 1795094291,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557885",
+    "title": "DeepMind Employees Are Unionising",
+    "url": "https://www.gdmunion.co.uk",
+    "score": 100,
+    "descendants": 73,
+    "time": 1795080536,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560822",
+    "title": "Everything you need to survive and rebuild society",
+    "url": "https://lastbook.org/",
+    "score": 98,
+    "descendants": 53,
+    "time": 1795099638,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557661",
+    "title": "Do not buy RAM, compress",
+    "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+    "score": 96,
+    "descendants": 91,
+    "time": 1795078607,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50559140",
+    "title": "The AI Superintelligence Debate Has Serious Flaws",
+    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+    "score": 94,
+    "descendants": 146,
+    "time": 1795090630,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558559",
+    "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+    "url": "https://contralabs.com/frontierdesign",
+    "score": 89,
+    "descendants": 32,
+    "time": 1795086200,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50559749",
+    "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+    "url": "https://foolscap.works/",
+    "score": 84,
+    "descendants": 49,
+    "time": 1795094480,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560795",
+    "title": "Germany and Austria Call for European Control of TikTok",
+    "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+    "score": 75,
+    "descendants": 54,
+    "time": 1795099490,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554269",
+    "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+    "url": "https://claudia.gallery/fable/",
+    "score": 61,
+    "descendants": 61,
+    "time": 1795047498,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560334",
+    "title": "PHP 8.5.13",
+    "url": "https://www.php.net/ChangeLog-8.php",
+    "score": 56,
+    "descendants": 21,
+    "time": 1795097390,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560461",
+    "title": "OpenAI still has a WebRTC Problem",
+    "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+    "score": 52,
+    "descendants": 17,
+    "time": 1795098008,
+    "source": "hackernews"
+  },
+  {
+    "title": "Some Microsoft Windows 11 laptop users report losing webcam zoom, pan and tilt",
+    "url": "https://www.neowin.net/news/some-microsoft-windows-11-laptop-users-report-losing-webcam-zoom-pan-and-tilt/",
+    "reddit_id": "1y0854w",
+    "score": 50,
+    "num_comments": 3,
+    "date": "2026-11-19T12:27:39",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50559179",
+    "title": "Unblockable communication with gravity – Science Advances",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+    "score": 48,
+    "descendants": 18,
+    "time": 1795090920,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554908",
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "url": "https://arxiv.org/abs/2607.29378",
+    "score": 46,
+    "descendants": 9,
+    "time": 1795051622,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560955",
+    "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+    "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+    "score": 38,
+    "descendants": 24,
+    "time": 1795100234,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50561508",
+    "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "score": 38,
+    "descendants": 18,
+    "time": 1795102692,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560357",
+    "title": "PostgreSQL 19 Released",
+    "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+    "score": 34,
+    "descendants": 3,
+    "time": 1795097497,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558191",
+    "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+    "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+    "score": 32,
+    "descendants": 12,
+    "time": 1795083020,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50557420",
+    "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+    "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
+    "score": 31,
+    "descendants": 0,
+    "time": 1795076621,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554941",
+    "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+    "url": "https://github.com/Ri4dH/failtrace",
+    "score": 28,
+    "descendants": 6,
+    "time": 1795051843,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558494",
+    "title": "AI Overworks People",
+    "url": "https://twitter.com/catalinmpit/status/2123061832781090948",
+    "score": 25,
+    "descendants": 12,
+    "time": 1795085549,
+    "source": "hackernews"
+  },
+  {
+    "title": "NASA's Voyager 1 reaches a distance of one light-day from Earth",
+    "url": "https://www.techspot.com/news/114614-nasa-voyager-1-reaches-distance-one-light-day.html",
+    "reddit_id": "1y09vgv",
+    "score": 25,
+    "num_comments": 0,
+    "date": "2026-11-19T13:53:14",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "hn_id": "50554973",
+    "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+    "url": "https://adeindex.com",
+    "score": 23,
+    "descendants": 4,
+    "time": 1795052032,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554107",
+    "title": "Hackers Hijack Websites of CNN, BBC and Major Banks",
+    "url": "https://www.thedailybeast.com/hackers-hijack-websites-of-cnn-bbc-and-major-banks",
+    "score": 22,
+    "descendants": 3,
+    "time": 1795046475,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558942",
+    "title": "Carbon Emissions of US Data Centers Rival Countries",
+    "url": "https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html",
+    "score": 19,
+    "descendants": 9,
+    "time": 1795089061,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50561515",
+    "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+    "url": "https://cornholenews.news",
+    "score": 18,
+    "descendants": 17,
+    "time": 1795102712,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50555064",
+    "title": "Microsoft kills To Do. It paid up 200M for Wunderlist, later killed it",
+    "url": "https://www.windowslatest.com/2026/11/19/microsoft-is-killing-to-do-and-telling-you-to-choose-another-app-after-it-reportedly-paid-up-to-200-million-for-wunderlist-and-killed-it-for-to-do/",
+    "score": 18,
+    "descendants": 6,
+    "time": 1795052858,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554179",
+    "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
+    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "score": 17,
+    "descendants": 24,
+    "time": 1795046915,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50561170",
+    "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+    "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+    "score": 17,
+    "descendants": 2,
+    "time": 1795101203,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50556534",
+    "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+    "url": "https://github.com/rxolve/zpup",
+    "score": 15,
+    "descendants": 0,
+    "time": 1795067801,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50555712",
+    "title": "Elon Musk - I'm Not MAGA",
+    "url": "https://www.cnbc.com/video/2026/11/18/elon-musk-im-not-maga.html",
+    "score": 14,
+    "descendants": 5,
+    "time": 1795058907,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50554759",
+    "title": "Recurrent Interface Networks",
+    "url": "https://arxiv.org/abs/2212.11972",
+    "score": 14,
+    "descendants": 0,
+    "time": 1795050796,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560900",
+    "title": "Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+    "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+    "score": 13,
+    "descendants": 1,
+    "time": 1795099966,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50555247",
+    "title": "I banned Roku from my internet to try to save my Roku Express",
+    "url": "https://manualdousuario.net/en/roku-block-ads/",
+    "score": 12,
+    "descendants": 6,
+    "time": 1795054695,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50556303",
+    "title": "Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+    "score": 12,
+    "descendants": 3,
+    "time": 1795065096,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50560789",
+    "title": "Show HN: Volcano, a self-healing agent cloud",
+    "url": "https://volcano.dev/blog/introducing-volcano-agent-cloud",
+    "score": 12,
+    "descendants": 0,
+    "time": 1795099464,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558903",
+    "title": "Cyberattack Hits the European Commission",
+    "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/",
+    "score": 11,
+    "descendants": 1,
+    "time": 1795088819,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50562101",
+    "title": "Google Chrome dev team declares bug report bankruptcy",
+    "url": "https://blog.plover.com/tech/bug-reports.html",
+    "score": 10,
+    "descendants": 2,
+    "time": 1795105212,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50556339",
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "score": 10,
+    "descendants": 2,
+    "time": 1795065456,
+    "source": "hackernews"
+  },
+  {
+    "hn_id": "50558488",
+    "title": "GitHub Deletes Camoufox Repo",
+    "url": "https://twitter.com/d4ijro/status/2123332988276531566",
+    "score": 10,
+    "descendants": 0,
+    "time": 1795085521,
+    "source": "hackernews"
+  },
+  {
+    "title": "How Smarter Radio Links Could Pack More Trains Onto the Same Tracks",
+    "url": "https://spectrum.ieee.org/wireless-network-5g-for-trains",
+    "reddit_id": "1y0cg6y",
+    "score": 3,
+    "num_comments": 0,
+    "date": "2026-11-19T15:39:59",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  },
+  {
+    "title": "Vivaldi's latest iOS snapshot improves iPhone Duo support and adds Kagi search",
+    "url": "https://www.neowin.net/news/vivaldis-latest-ios-snapshot-improves-iphone-duo-support-and-adds-kagi-search/",
+    "reddit_id": "1y0axzp",
+    "score": 0,
+    "num_comments": 0,
+    "date": "2026-11-19T14:38:33",
+    "subreddit": "technews",
+    "source": "reddit-technews"
+  }
+]
